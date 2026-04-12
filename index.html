@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plex Library</title>
+  <script src="data.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #1a1a1a;
+      --surface:   #242424;
+      --surface2:  #2a2a2a;
+      --surface3:  #313131;
+      --border:    #3a3a3a;
+      --text:      #e0e0e0;
+      --text-muted:#888;
+      --accent:    #e5a00d;
+      --accent-dim:#c4880b;
+      --link:      #6ba3d6;
+      --row-hover: #323232;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--accent);
+      padding: 18px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.04em;
+    }
+    header h1 span { color: var(--text); font-weight: 300; }
+    #last-updated { color: var(--text-muted); font-size: 0.8rem; }
+
+    /* ── Tabs ── */
+    nav.tabs {
+      background: var(--surface);
+      padding: 0 28px;
+      display: flex;
+      gap: 4px;
+      border-bottom: 1px solid var(--border);
+    }
+    nav.tabs button {
+      background: none;
+      border: none;
+      border-bottom: 3px solid transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 500;
+      padding: 14px 20px 11px;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav.tabs button:hover { color: var(--text); }
+    nav.tabs button.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main content ── */
+    main { padding: 24px 28px; max-width: 1600px; margin: 0 auto; }
+
+    .panel { display: none; }
+    .panel.active { display: block; }
+
+    /* ── Controls bar ── */
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 200px;
+      max-width: 480px;
+    }
+    .search-wrap svg {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      opacity: 0.45;
+      pointer-events: none;
+    }
+    .controls input[type="search"] {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+      padding: 8px 12px 8px 34px;
+      transition: border-color 0.15s;
+    }
+    .controls input[type="search"]:focus { border-color: var(--accent); }
+    .controls input[type="search"]::placeholder { color: var(--text-muted); }
+
+    .controls-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-left: auto;
+    }
+    .count-badge {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      white-space: nowrap;
+    }
+    label.pagesize-label {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+    }
+    select {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text);
+      font-size: 0.85rem;
+      padding: 4px 8px;
+      cursor: pointer;
+    }
+    select:focus { outline: 1px solid var(--accent); }
+
+    /* ── Table ── */
+    .table-wrap { overflow-x: auto; border-radius: 8px; border: 1px solid var(--border); }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      min-width: 700px;
+    }
+    thead { background: var(--surface3); position: sticky; top: 0; z-index: 1; }
+    th {
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      padding: 11px 14px;
+      text-align: left;
+      text-transform: uppercase;
+      user-select: none;
+      white-space: nowrap;
+      border-bottom: 1px solid var(--border);
+    }
+    th.sortable { cursor: pointer; }
+    th.sortable:hover { color: var(--text); }
+    th.sort-active { color: var(--accent); }
+    th .sort-icon { display: inline-block; margin-left: 4px; font-size: 0.7rem; opacity: 0.5; }
+    th.sort-active .sort-icon { opacity: 1; }
+
+    tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:nth-child(even) { background: var(--surface2); }
+    tbody tr:nth-child(odd)  { background: var(--surface); }
+    tbody tr:hover { background: var(--row-hover); }
+
+    td {
+      padding: 10px 14px;
+      vertical-align: middle;
+      line-height: 1.4;
+    }
+    td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    td.title { font-weight: 500; color: #fff; min-width: 180px; }
+    td.genres, td.actors { color: var(--text-muted); font-size: 0.82rem; max-width: 220px; }
+    td.langs  { font-size: 0.82rem; }
+    td.subs-yes { color: #6abf69; font-weight: 600; }
+    td.subs-no  { color: var(--text-muted); }
+
+    a.imdb-link {
+      background: #f5c518;
+      border-radius: 3px;
+      color: #000;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 2px 5px;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    a.imdb-link:hover { background: #e0b015; }
+
+    /* ── Empty / error ── */
+    .empty-row td {
+      text-align: center;
+      color: var(--text-muted);
+      padding: 40px;
+      font-style: italic;
+    }
+    #error-banner {
+      display: none;
+      background: #5a1a1a;
+      border: 1px solid #a03030;
+      border-radius: 6px;
+      color: #f08080;
+      margin-bottom: 20px;
+      padding: 14px 18px;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+    .pagination button {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.85rem;
+      padding: 5px 11px;
+      transition: background 0.12s, border-color 0.12s;
+    }
+    .pagination button:hover:not(:disabled) { background: var(--surface3); border-color: var(--accent); }
+    .pagination button:disabled { color: var(--text-muted); cursor: default; }
+    .pagination button.current {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #000;
+      font-weight: 700;
+      cursor: default;
+    }
+    .page-info { color: var(--text-muted); font-size: 0.82rem; padding: 0 4px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Plex <span>Library</span></h1>
+  <span id="last-updated"></span>
+</header>
+
+<nav class="tabs">
+  <button id="tab-movies" class="active" onclick="switchTab('movies')">🎬 Movies</button>
+  <button id="tab-shows"  onclick="switchTab('shows')">📺 TV Shows</button>
+</nav>
+
+<main>
+  <div id="error-banner"></div>
+
+  <!-- Movies panel -->
+  <div id="panel-movies" class="panel active">
+    <div class="controls">
+      <div class="search-wrap">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="search" id="search-movies" placeholder="Search movies…" autocomplete="off" />
+      </div>
+      <div class="controls-right">
+        <span class="count-badge" id="count-movies"></span>
+        <label class="pagesize-label">
+          Per page:
+          <select id="pagesize-movies">
+            <option value="25" selected>25</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table id="table-movies">
+        <thead>
+          <tr>
+            <th class="sortable" data-col="title" data-type="string">Name <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="year"  data-type="number">Year <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="genres" data-type="string">Genre(s) <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="actors" data-type="string">Actors <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="has_subtitles" data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
+            <th>IMDb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-movies"></tbody>
+      </table>
+    </div>
+    <div class="pagination" id="pagination-movies"></div>
+  </div>
+
+  <!-- Shows panel -->
+  <div id="panel-shows" class="panel">
+    <div class="controls">
+      <div class="search-wrap">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="search" id="search-shows" placeholder="Search TV shows…" autocomplete="off" />
+      </div>
+      <div class="controls-right">
+        <span class="count-badge" id="count-shows"></span>
+        <label class="pagesize-label">
+          Per page:
+          <select id="pagesize-shows">
+            <option value="25" selected>25</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table id="table-shows">
+        <thead>
+          <tr>
+            <th class="sortable" data-col="title"   data-type="string">Name <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="year"    data-type="number">Year <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="seasons" data-type="number">Seasons <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="episodes" data-type="number">Episodes <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="genres"  data-type="string">Genre(s) <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="actors"  data-type="string">Actors <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="has_subtitles"   data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
+            <th>IMDb</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-shows"></tbody>
+      </table>
+    </div>
+    <div class="pagination" id="pagination-shows"></div>
+  </div>
+</main>
+
+<script>
+  // ── State ────────────────────────────────────────────────────────────────
+  const state = {
+    movies: { data: [], filtered: [], sortCol: null, sortDir: 'asc', page: 1, pageSize: 25 },
+    shows:  { data: [], filtered: [], sortCol: null, sortDir: 'asc', page: 1, pageSize: 25 },
+  };
+
+  // ── Helpers ───────────────────────────────────────────────────────────────
+  function formatSize(bytes) {
+    if (!bytes) return '—';
+    if (bytes >= 1e12) return (bytes / 1e12).toFixed(1) + ' TB';
+    if (bytes >= 1e9)  return (bytes / 1e9).toFixed(1) + ' GB';
+    if (bytes >= 1e6)  return (bytes / 1e6).toFixed(1) + ' MB';
+    return (bytes / 1e3).toFixed(1) + ' KB';
+  }
+
+  function formatLangs(arr) {
+    if (!arr || arr.length === 0) return '<span style="color:var(--text-muted)">—</span>';
+    return arr.join(', ');
+  }
+
+  function formatImdb(id) {
+    if (!id) return '<span style="color:var(--text-muted)">—</span>';
+    return `<a class="imdb-link" href="https://www.imdb.com/title/${id}/" target="_blank" rel="noopener">IMDb</a>`;
+  }
+
+  function escHtml(str) {
+    return String(str ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // Convert any field value to a searchable string
+  function fieldToString(val) {
+    if (val === null || val === undefined) return '';
+    if (Array.isArray(val)) return val.join(' ');
+    if (typeof val === 'boolean') return val ? 'yes' : 'no';
+    return String(val);
+  }
+
+  // Sortable value for a field
+  function sortValue(item, col, type) {
+    const val = item[col];
+    if (type === 'number') return val ?? -Infinity;
+    if (type === 'bool')   return val ? 1 : 0;
+    if (Array.isArray(val)) return val.join(' ').toLowerCase();
+    return String(val ?? '').toLowerCase();
+  }
+
+  function debounce(fn, delay) {
+    let t;
+    return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), delay); };
+  }
+
+  // ── Tab switching ─────────────────────────────────────────────────────────
+  function switchTab(tab) {
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
+    document.getElementById(`panel-${tab}`).classList.add('active');
+    document.getElementById(`tab-${tab}`).classList.add('active');
+  }
+
+  // ── Core render ───────────────────────────────────────────────────────────
+  function render(tab) {
+    const s = state[tab];
+    const query = document.getElementById(`search-${tab}`).value.trim().toLowerCase();
+
+    // 1. Filter
+    if (query) {
+      s.filtered = s.data.filter(item =>
+        Object.values(item).some(v => fieldToString(v).toLowerCase().includes(query))
+      );
+    } else {
+      s.filtered = s.data;
+    }
+
+    // 2. Sort
+    if (s.sortCol) {
+      const col  = s.sortCol;
+      const type = s.sortType;
+      const dir  = s.sortDir === 'asc' ? 1 : -1;
+      s.filtered = [...s.filtered].sort((a, b) => {
+        const av = sortValue(a, col, type);
+        const bv = sortValue(b, col, type);
+        if (type === 'string') return dir * av.localeCompare(bv, undefined, { numeric: true });
+        return dir * (av < bv ? -1 : av > bv ? 1 : 0);
+      });
+    }
+
+    // 3. Clamp page
+    const totalPages = Math.max(1, Math.ceil(s.filtered.length / s.pageSize));
+    if (s.page > totalPages) s.page = totalPages;
+
+    // 4. Slice
+    const start = (s.page - 1) * s.pageSize;
+    const rows  = s.filtered.slice(start, start + s.pageSize);
+
+    // 5. Count badge
+    const total = s.data.length;
+    const shown = s.filtered.length;
+    document.getElementById(`count-${tab}`).textContent =
+      query ? `${shown} of ${total} results` : `${total} total`;
+
+    // 6. Render rows
+    const tbody = document.getElementById(`tbody-${tab}`);
+    if (rows.length === 0) {
+      tbody.innerHTML = `<tr class="empty-row"><td colspan="20">No results found.</td></tr>`;
+    } else {
+      tbody.innerHTML = tab === 'movies' ? rows.map(rowMovie).join('') : rows.map(rowShow).join('');
+    }
+
+    // 7. Pagination
+    renderPagination(tab, totalPages);
+  }
+
+  function rowMovie(m) {
+    const subs = m.has_subtitles
+      ? '<span class="subs-yes">Yes</span>'
+      : '<span class="subs-no">No</span>';
+    return `<tr>
+      <td class="title">${escHtml(m.title)}</td>
+      <td class="num">${m.year ?? '—'}</td>
+      <td class="genres">${escHtml((m.genres || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
+      <td class="actors">${escHtml((m.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
+      <td class="langs">${formatLangs(m.audio_languages)}</td>
+      <td>${subs}</td>
+      <td class="num">${formatSize(m.size_bytes)}</td>
+      <td>${formatImdb(m.imdb_id)}</td>
+    </tr>`;
+  }
+
+  function rowShow(s) {
+    const subs = s.has_subtitles
+      ? '<span class="subs-yes">Yes</span>'
+      : '<span class="subs-no">No</span>';
+    return `<tr>
+      <td class="title">${escHtml(s.title)}</td>
+      <td class="num">${s.year ?? '—'}</td>
+      <td class="num">${s.seasons ?? '—'}</td>
+      <td class="num">${s.episodes ?? '—'}</td>
+      <td class="genres">${escHtml((s.genres || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
+      <td class="actors">${escHtml((s.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
+      <td class="langs">${formatLangs(s.audio_languages)}</td>
+      <td>${subs}</td>
+      <td class="num">${formatSize(s.size_bytes)}</td>
+      <td>${formatImdb(s.imdb_id)}</td>
+    </tr>`;
+  }
+
+  // ── Pagination ────────────────────────────────────────────────────────────
+  function renderPagination(tab, totalPages) {
+    const s   = state[tab];
+    const el  = document.getElementById(`pagination-${tab}`);
+    if (totalPages <= 1) { el.innerHTML = ''; return; }
+
+    const btns = [];
+
+    // Prev
+    btns.push(`<button ${s.page === 1 ? 'disabled' : ''} onclick="goPage('${tab}',${s.page - 1})">&#8249; Prev</button>`);
+
+    // Page numbers — show window around current page
+    const window = 2;
+    let lo = Math.max(1, s.page - window);
+    let hi = Math.min(totalPages, s.page + window);
+    if (lo > 1)          btns.push(`<button onclick="goPage('${tab}',1)">1</button>${lo > 2 ? '<span class="page-info">…</span>' : ''}`);
+    for (let i = lo; i <= hi; i++) {
+      btns.push(`<button class="${i === s.page ? 'current' : ''}" onclick="goPage('${tab}',${i})">${i}</button>`);
+    }
+    if (hi < totalPages) btns.push(`${hi < totalPages - 1 ? '<span class="page-info">…</span>' : ''}<button onclick="goPage('${tab}',${totalPages})">${totalPages}</button>`);
+
+    // Next
+    btns.push(`<button ${s.page === totalPages ? 'disabled' : ''} onclick="goPage('${tab}',${s.page + 1})">Next &#8250;</button>`);
+
+    el.innerHTML = btns.join('');
+  }
+
+  function goPage(tab, page) {
+    state[tab].page = page;
+    render(tab);
+    document.getElementById(`panel-${tab}`).scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // ── Sort ──────────────────────────────────────────────────────────────────
+  function setupSort(tab) {
+    const table = document.getElementById(`table-${tab}`);
+    table.querySelectorAll('th.sortable').forEach(th => {
+      th.addEventListener('click', () => {
+        const col  = th.dataset.col;
+        const type = th.dataset.type;
+        const s    = state[tab];
+        if (s.sortCol === col) {
+          s.sortDir = s.sortDir === 'asc' ? 'desc' : 'asc';
+        } else {
+          s.sortCol  = col;
+          s.sortType = type;
+          s.sortDir  = 'asc';
+        }
+        // Update header indicators
+        table.querySelectorAll('th.sortable').forEach(h => {
+          h.classList.remove('sort-active');
+          h.querySelector('.sort-icon').textContent = '⇅';
+        });
+        th.classList.add('sort-active');
+        th.querySelector('.sort-icon').textContent = s.sortDir === 'asc' ? '▲' : '▼';
+
+        s.page = 1;
+        render(tab);
+      });
+    });
+  }
+
+  // ── Init ──────────────────────────────────────────────────────────────────
+  function showError(msg) {
+    const el = document.getElementById('error-banner');
+    el.style.display = 'block';
+    el.textContent = `Failed to load data.js: ${msg}. Run fetch_plex_data.py to generate it.`;
+  }
+
+  function init(data) {
+    // Last updated
+    if (data.generated_at) {
+      const d = new Date(data.generated_at);
+      document.getElementById('last-updated').textContent =
+        'Last updated: ' + d.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+    }
+
+    // Populate state
+    state.movies.data     = data.movies || [];
+    state.movies.filtered = state.movies.data;
+    state.shows.data      = data.shows  || [];
+    state.shows.filtered  = state.shows.data;
+
+    // Wire up search
+    ['movies', 'shows'].forEach(tab => {
+      document.getElementById(`search-${tab}`).addEventListener(
+        'input', debounce(() => { state[tab].page = 1; render(tab); }, 300)
+      );
+      document.getElementById(`pagesize-${tab}`).addEventListener('change', e => {
+        state[tab].pageSize = parseInt(e.target.value, 10);
+        state[tab].page = 1;
+        render(tab);
+      });
+      setupSort(tab);
+      render(tab);
+    });
+  }
+
+  // ── Bootstrap ─────────────────────────────────────────────────────────────
+  // data.js is loaded via <script src> in <head>, setting window.PLEX_DATA.
+  // This works with file://, local HTTP servers, and GitHub Pages alike.
+  if (window.PLEX_DATA) {
+    init(window.PLEX_DATA);
+  } else {
+    showError('data.js not found or empty');
+  }
+</script>
+</body>
+</html>
