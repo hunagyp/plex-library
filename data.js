@@ -1,5 +1,5 @@
 window.PLEX_DATA = {
-  "generated_at": "2026-04-12T23:27:49Z",
+  "generated_at": "2026-04-13T00:40:06Z",
   "movies": [
     {
       "title": "10 Cloverfield Lane",
@@ -14,6 +14,8 @@ window.PLEX_DATA = {
         "John Gallagher Jr."
       ],
       "imdb_id": "tt1179933",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5727717994,
       "audio_languages": [
         "en",
@@ -34,6 +36,8 @@ window.PLEX_DATA = {
         "Joseph Gordon-Levitt"
       ],
       "imdb_id": "tt0147800",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 9021999227,
       "audio_languages": [
         "en",
@@ -54,6 +58,8 @@ window.PLEX_DATA = {
         "Brad Pitt"
       ],
       "imdb_id": "tt0114746",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 5246503168,
       "audio_languages": [
         "en",
@@ -74,6 +80,8 @@ window.PLEX_DATA = {
         "Lupita Nyong'o"
       ],
       "imdb_id": "tt2024544",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 8721628826,
       "audio_languages": [
         "en",
@@ -94,6 +102,8 @@ window.PLEX_DATA = {
         "Judy Greer"
       ],
       "imdb_id": "tt0337563",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8044340293,
       "audio_languages": [
         "en",
@@ -114,6 +124,8 @@ window.PLEX_DATA = {
         "Mary McCormack"
       ],
       "imdb_id": "tt0450385",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8352390153,
       "audio_languages": [
         "en",
@@ -134,6 +146,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0103594",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 30044019380,
       "audio_languages": [
         "en",
@@ -154,6 +168,8 @@ window.PLEX_DATA = {
         "Thomas Lennon"
       ],
       "imdb_id": "tt0974661",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4445182732,
       "audio_languages": [
         "en",
@@ -174,6 +190,8 @@ window.PLEX_DATA = {
         "Mark Strong"
       ],
       "imdb_id": "tt8579674",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 7820748811,
       "audio_languages": [
         "en",
@@ -194,6 +212,8 @@ window.PLEX_DATA = {
         "Suzanna Hamilton"
       ],
       "imdb_id": "tt0087803",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5437205266,
       "audio_languages": [
         "en",
@@ -214,6 +234,8 @@ window.PLEX_DATA = {
         "Eva Mendes"
       ],
       "imdb_id": "tt0322259",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 30651732010,
       "audio_languages": [
         "en",
@@ -234,6 +256,8 @@ window.PLEX_DATA = {
         "Paula Patton"
       ],
       "imdb_id": "tt1272878",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 10297317758,
       "audio_languages": [
         "en",
@@ -254,6 +278,8 @@ window.PLEX_DATA = {
         "Helen Mirren"
       ],
       "imdb_id": "tt0086837",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7198361133,
       "audio_languages": [
         "en",
@@ -274,6 +300,8 @@ window.PLEX_DATA = {
         "Chiwetel Ejiofor"
       ],
       "imdb_id": "tt1190080",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 14168579866,
       "audio_languages": [
         "en",
@@ -294,6 +322,8 @@ window.PLEX_DATA = {
         "Kate Bosworth"
       ],
       "imdb_id": "tt0478087",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7964555958,
       "audio_languages": [
         "en",
@@ -314,6 +344,8 @@ window.PLEX_DATA = {
         "Brie Larson"
       ],
       "imdb_id": "tt1232829",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4664773882,
       "audio_languages": [
         "en",
@@ -334,6 +366,8 @@ window.PLEX_DATA = {
         "Peter Stormare"
       ],
       "imdb_id": "tt2294449",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6828409407,
       "audio_languages": [
         "en",
@@ -354,6 +388,8 @@ window.PLEX_DATA = {
         "Dominic West"
       ],
       "imdb_id": "tt0191754",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 11294483157,
       "audio_languages": [
         "en",
@@ -374,6 +410,8 @@ window.PLEX_DATA = {
         "Brendan Gleeson"
       ],
       "imdb_id": "tt0289043",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4583029063,
       "audio_languages": [
         "en",
@@ -394,6 +432,8 @@ window.PLEX_DATA = {
         "Jeremy Renner"
       ],
       "imdb_id": "tt0463854",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8234648973,
       "audio_languages": [
         "en",
@@ -414,6 +454,8 @@ window.PLEX_DATA = {
         "Alfie Williams"
       ],
       "imdb_id": "tt10548174",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 11406778941,
       "audio_languages": [
         "en",
@@ -434,6 +476,8 @@ window.PLEX_DATA = {
         "Alfie Williams"
       ],
       "imdb_id": "tt32141377",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 12153648358,
       "audio_languages": [
         "en",
@@ -454,6 +498,8 @@ window.PLEX_DATA = {
         "Hailee Steinfeld"
       ],
       "imdb_id": "tt2172934",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8775864726,
       "audio_languages": [
         "en",
@@ -474,6 +520,8 @@ window.PLEX_DATA = {
         "Courteney Cox"
       ],
       "imdb_id": "tt0233142",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4515389956,
       "audio_languages": [
         "en",
@@ -494,6 +542,8 @@ window.PLEX_DATA = {
         "Peter Fonda"
       ],
       "imdb_id": "tt0381849",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7435134288,
       "audio_languages": [
         "en",
@@ -514,6 +564,8 @@ window.PLEX_DATA = {
         "Paulo Costanzo"
       ],
       "imdb_id": "tt0243736",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 9333044506,
       "audio_languages": [
         "en",
@@ -534,6 +586,8 @@ window.PLEX_DATA = {
         "Ko Shibasaki"
       ],
       "imdb_id": "tt1335975",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 9529862381,
       "audio_languages": [
         "en",
@@ -554,6 +608,8 @@ window.PLEX_DATA = {
         "Annette O'Toole"
       ],
       "imdb_id": "tt0083511",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7179465557,
       "audio_languages": [
         "en",
@@ -574,6 +630,8 @@ window.PLEX_DATA = {
         "Rob Schneider"
       ],
       "imdb_id": "tt0343660",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4680823637,
       "audio_languages": [
         "en",
@@ -594,6 +652,8 @@ window.PLEX_DATA = {
         "Manuel Garcia-Rulfo"
       ],
       "imdb_id": "tt8106534",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 9596617987,
       "audio_languages": [
         "en",
@@ -614,6 +674,8 @@ window.PLEX_DATA = {
         "Chloe Coleman"
       ],
       "imdb_id": "tt12261776",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6278220470,
       "audio_languages": [
         "en",
@@ -634,6 +696,8 @@ window.PLEX_DATA = {
         "Martin Landau"
       ],
       "imdb_id": "tt0472033",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 3224052986,
       "audio_languages": [
         "en",
@@ -653,6 +717,8 @@ window.PLEX_DATA = {
         "Kathryn Hahn"
       ],
       "imdb_id": "tt6359956",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5179526472,
       "audio_languages": [
         "en",
@@ -673,6 +739,8 @@ window.PLEX_DATA = {
         "Ed Harris"
       ],
       "imdb_id": "tt0268978",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 8820750383,
       "audio_languages": [
         "en",
@@ -693,6 +761,8 @@ window.PLEX_DATA = {
         "Keir O'Donnell"
       ],
       "imdb_id": "tt1817081",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4235211768,
       "audio_languages": [
         "en",
@@ -713,6 +783,8 @@ window.PLEX_DATA = {
         "Michael Fassbender"
       ],
       "imdb_id": "tt1571222",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4620287974,
       "audio_languages": [
         "en",
@@ -733,6 +805,8 @@ window.PLEX_DATA = {
         "Demi Moore"
       ],
       "imdb_id": "tt0104257",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8418863383,
       "audio_languages": [
         "en",
@@ -753,6 +827,8 @@ window.PLEX_DATA = {
         "Kevin Kline"
       ],
       "imdb_id": "tt0095159",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8660407384,
       "audio_languages": [
         "en",
@@ -773,6 +849,8 @@ window.PLEX_DATA = {
         "Gian Maria Volonté"
       ],
       "imdb_id": "tt0058461",
+      "imdb_score": 7.9,
+      "resolution": 1080,
       "size_bytes": 17544333303,
       "audio_languages": [
         "en",
@@ -794,6 +872,8 @@ window.PLEX_DATA = {
         "Robert Charlebois"
       ],
       "imdb_id": "tt0073036",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6558895725,
       "audio_languages": [
         "en",
@@ -814,6 +894,8 @@ window.PLEX_DATA = {
         "Sebastian Koch"
       ],
       "imdb_id": "tt1606378",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 9594244614,
       "audio_languages": [
         "en",
@@ -834,6 +916,8 @@ window.PLEX_DATA = {
         "Marion Cotillard"
       ],
       "imdb_id": "tt0401445",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7403199956,
       "audio_languages": [
         "en",
@@ -854,6 +938,8 @@ window.PLEX_DATA = {
         "Camille Cottin"
       ],
       "imdb_id": "tt22687790",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4115986674,
       "audio_languages": [
         "en",
@@ -874,6 +960,8 @@ window.PLEX_DATA = {
         "Romany Malco"
       ],
       "imdb_id": "tt1440161",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5048513140,
       "audio_languages": [
         "en",
@@ -894,6 +982,8 @@ window.PLEX_DATA = {
         "Alan Rickman"
       ],
       "imdb_id": "tt6376748",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 6649598805,
       "audio_languages": [
         "en",
@@ -914,6 +1004,8 @@ window.PLEX_DATA = {
         "Kathryn Hahn"
       ],
       "imdb_id": "tt0391304",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4935615156,
       "audio_languages": [
         "en",
@@ -934,6 +1026,8 @@ window.PLEX_DATA = {
         "Timothy Olyphant"
       ],
       "imdb_id": "tt0266465",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5061990092,
       "audio_languages": [
         "en",
@@ -954,6 +1048,8 @@ window.PLEX_DATA = {
         "Cameron Britton"
       ],
       "imdb_id": "tt7405458",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8754116841,
       "audio_languages": [
         "en",
@@ -974,6 +1070,8 @@ window.PLEX_DATA = {
         "Viggo Mortensen"
       ],
       "imdb_id": "tt0120787",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7729165896,
       "audio_languages": [
         "en",
@@ -994,6 +1092,8 @@ window.PLEX_DATA = {
         "Laura Dern"
       ],
       "imdb_id": "tt0107808",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 9342392227,
       "audio_languages": [
         "en",
@@ -1014,6 +1114,8 @@ window.PLEX_DATA = {
         "Millicent Simmonds"
       ],
       "imdb_id": "tt6644200",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 5733342591,
       "audio_languages": [
         "en",
@@ -1034,6 +1136,8 @@ window.PLEX_DATA = {
         "Millicent Simmonds"
       ],
       "imdb_id": "tt8332922",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6474427370,
       "audio_languages": [
         "en",
@@ -1054,6 +1158,8 @@ window.PLEX_DATA = {
         "Tom Skerritt"
       ],
       "imdb_id": "tt0105265",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8712481380,
       "audio_languages": [
         "en",
@@ -1074,6 +1180,8 @@ window.PLEX_DATA = {
         "Maggie Smith"
       ],
       "imdb_id": "tt0091867",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5679129322,
       "audio_languages": [
         "en",
@@ -1094,6 +1202,8 @@ window.PLEX_DATA = {
         "Mikkel Boe Følsgaard"
       ],
       "imdb_id": "tt1276419",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8243488283,
       "audio_languages": [
         "da",
@@ -1114,6 +1224,8 @@ window.PLEX_DATA = {
         "Lucy DeVito"
       ],
       "imdb_id": "tt32352172",
+      "imdb_score": 5.1,
+      "resolution": 1080,
       "size_bytes": 6714933101,
       "audio_languages": [
         "en"
@@ -1133,6 +1245,8 @@ window.PLEX_DATA = {
         "Cliff Curtis"
       ],
       "imdb_id": "tt0763831",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4521127425,
       "audio_languages": [
         "en",
@@ -1153,6 +1267,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt0117913",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8531605999,
       "audio_languages": [
         "en",
@@ -1173,6 +1289,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0090264",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7540427989,
       "audio_languages": [
         "hu"
@@ -1192,6 +1310,8 @@ window.PLEX_DATA = {
         "David Harbour"
       ],
       "imdb_id": "tt0365907",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7300450333,
       "audio_languages": [
         "en",
@@ -1212,6 +1332,8 @@ window.PLEX_DATA = {
         "Anthony Quinn"
       ],
       "imdb_id": "tt0114887",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7822011967,
       "audio_languages": [
         "en",
@@ -1232,6 +1354,8 @@ window.PLEX_DATA = {
         "Frances O'Connor"
       ],
       "imdb_id": "tt0212720",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 11481281994,
       "audio_languages": [
         "en",
@@ -1252,6 +1376,8 @@ window.PLEX_DATA = {
         "Maruša Majer"
       ],
       "imdb_id": "tt5215088",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 4186711848,
       "audio_languages": [
         "en"
@@ -1271,6 +1397,8 @@ window.PLEX_DATA = {
         "Toni Collette"
       ],
       "imdb_id": "tt0276751",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5370855802,
       "audio_languages": [
         "en",
@@ -1291,6 +1419,8 @@ window.PLEX_DATA = {
         "Robin Williams"
       ],
       "imdb_id": "tt1727770",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 3612140220,
       "audio_languages": [
         "en",
@@ -1311,6 +1441,8 @@ window.PLEX_DATA = {
         "Yolonda Ross"
       ],
       "imdb_id": "tt8337290",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 5775504013,
       "audio_languages": [
         "en",
@@ -1330,6 +1462,8 @@ window.PLEX_DATA = {
         "Blake Lively"
       ],
       "imdb_id": "tt0384793",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5510489377,
       "audio_languages": [
         "en",
@@ -1350,6 +1484,8 @@ window.PLEX_DATA = {
         "Bud Spencer"
       ],
       "imdb_id": "tt0064860",
+      "imdb_score": 6.5,
+      "resolution": null,
       "size_bytes": 1743684328,
       "audio_languages": [
         "hu"
@@ -1369,6 +1505,8 @@ window.PLEX_DATA = {
         "Liv Tyler"
       ],
       "imdb_id": "tt2935510",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8735622235,
       "audio_languages": [
         "en",
@@ -1389,6 +1527,8 @@ window.PLEX_DATA = {
         "Paprika Steen"
       ],
       "imdb_id": "tt0418455",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6416053706,
       "audio_languages": [
         "da",
@@ -1409,6 +1549,8 @@ window.PLEX_DATA = {
         "Kelly Preston"
       ],
       "imdb_id": "tt0118556",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 3641108141,
       "audio_languages": [
         "en",
@@ -1429,6 +1571,8 @@ window.PLEX_DATA = {
         "Ben Levin"
       ],
       "imdb_id": "tt1814621",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8801641403,
       "audio_languages": [
         "en",
@@ -1449,6 +1593,8 @@ window.PLEX_DATA = {
         "Jonny Lee Miller"
       ],
       "imdb_id": "tt0402022",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6121325148,
       "audio_languages": [
         "en",
@@ -1469,6 +1615,8 @@ window.PLEX_DATA = {
         "Keith Carradine"
       ],
       "imdb_id": "tt24577462",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 5647593360,
       "audio_languages": [
         "en",
@@ -1489,6 +1637,8 @@ window.PLEX_DATA = {
         "Sophie Okonedo"
       ],
       "imdb_id": "tt1815862",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 5915029886,
       "audio_languages": [
         "en",
@@ -1509,6 +1659,8 @@ window.PLEX_DATA = {
         "Verna Bloom"
       ],
       "imdb_id": "tt0088680",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 6126848516,
       "audio_languages": [
         "en",
@@ -1529,6 +1681,8 @@ window.PLEX_DATA = {
         "Justin Long"
       ],
       "imdb_id": "tt0838247",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4789114068,
       "audio_languages": [
         "en",
@@ -1549,6 +1703,8 @@ window.PLEX_DATA = {
         "Maggie Grace"
       ],
       "imdb_id": "tt4581576",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5008647938,
       "audio_languages": [
         "en",
@@ -1568,6 +1724,8 @@ window.PLEX_DATA = {
         "Brooklyn Toulson"
       ],
       "imdb_id": "tt19770238",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8415536018,
       "audio_languages": [
         "en",
@@ -1588,6 +1746,8 @@ window.PLEX_DATA = {
         "Delphine Chuillot"
       ],
       "imdb_id": "tt2054790",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 12133233525,
       "audio_languages": [
         "fr",
@@ -1608,6 +1768,8 @@ window.PLEX_DATA = {
         "Oscar Isaac"
       ],
       "imdb_id": "tt1186830",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6291382703,
       "audio_languages": [
         "en",
@@ -1628,6 +1790,8 @@ window.PLEX_DATA = {
         "Glenn Close"
       ],
       "imdb_id": "tt0118571",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7051371744,
       "audio_languages": [],
       "has_subtitles": true
@@ -1645,6 +1809,8 @@ window.PLEX_DATA = {
         "Tony Adams"
       ],
       "imdb_id": "tt0090601",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 5551468171,
       "audio_languages": [
         "en",
@@ -1665,6 +1831,8 @@ window.PLEX_DATA = {
         "Linda Larkin"
       ],
       "imdb_id": "tt0103639",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 5193591264,
       "audio_languages": [
         "en",
@@ -1685,6 +1853,8 @@ window.PLEX_DATA = {
         "Naomi Scott"
       ],
       "imdb_id": "tt6139732",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6962190704,
       "audio_languages": [
         "en",
@@ -1705,6 +1875,8 @@ window.PLEX_DATA = {
         "Robin Williams"
       ],
       "imdb_id": "tt0115491",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3618182412,
       "audio_languages": [
         "en",
@@ -1725,6 +1897,8 @@ window.PLEX_DATA = {
         "Anne Hathaway"
       ],
       "imdb_id": "tt1014759",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6428562645,
       "audio_languages": [
         "en",
@@ -1745,6 +1919,8 @@ window.PLEX_DATA = {
         "Anne Hathaway"
       ],
       "imdb_id": "tt2567026",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8496475834,
       "audio_languages": [
         "en",
@@ -1765,6 +1941,8 @@ window.PLEX_DATA = {
         "Veronica Cartwright"
       ],
       "imdb_id": "tt0078748",
+      "imdb_score": 8.5,
+      "resolution": 1080,
       "size_bytes": 26173288631,
       "audio_languages": [
         "en",
@@ -1785,6 +1963,8 @@ window.PLEX_DATA = {
         "Billy Crudup"
       ],
       "imdb_id": "tt2316204",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 28174932774,
       "audio_languages": [
         "en",
@@ -1805,6 +1985,8 @@ window.PLEX_DATA = {
         "Dominique Pinon"
       ],
       "imdb_id": "tt0118583",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 23063582505,
       "audio_languages": [
         "en",
@@ -1825,6 +2007,8 @@ window.PLEX_DATA = {
         "Archie Renaux"
       ],
       "imdb_id": "tt18412256",
+      "imdb_score": 7.1,
+      "resolution": 576,
       "size_bytes": 3927181714,
       "audio_languages": [
         "en",
@@ -1845,6 +2029,8 @@ window.PLEX_DATA = {
         "Michael Biehn"
       ],
       "imdb_id": "tt0090605",
+      "imdb_score": 8.4,
+      "resolution": 1080,
       "size_bytes": 17320712564,
       "audio_languages": [
         "en",
@@ -1865,6 +2051,8 @@ window.PLEX_DATA = {
         "Charles Dance"
       ],
       "imdb_id": "tt0103644",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 20775085492,
       "audio_languages": [
         "en",
@@ -1885,6 +2073,8 @@ window.PLEX_DATA = {
         "Jennifer Connelly"
       ],
       "imdb_id": "tt0437086",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6705024670,
       "audio_languages": [
         "en",
@@ -1905,6 +2095,8 @@ window.PLEX_DATA = {
         "Thomas Haden Church"
       ],
       "imdb_id": "tt0881891",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 7841025448,
       "audio_languages": [
         "en",
@@ -1925,6 +2117,8 @@ window.PLEX_DATA = {
         "Aaron Hilmer"
       ],
       "imdb_id": "tt1016150",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 3931655834,
       "audio_languages": [
         "de",
@@ -1945,6 +2139,8 @@ window.PLEX_DATA = {
         "Anthony Hopkins"
       ],
       "imdb_id": "tt0405676",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6603894679,
       "audio_languages": [
         "en",
@@ -1965,6 +2161,8 @@ window.PLEX_DATA = {
         "Reinhard Kolldehoff"
       ],
       "imdb_id": "tt0069095",
+      "imdb_score": 6.6,
+      "resolution": null,
       "size_bytes": 1582515173,
       "audio_languages": [
         "hu"
@@ -1984,6 +2182,8 @@ window.PLEX_DATA = {
         "James Earl Jones"
       ],
       "imdb_id": "tt0092534",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 10798941582,
       "audio_languages": [
         "en",
@@ -2004,6 +2204,8 @@ window.PLEX_DATA = {
         "Christopher Meloni"
       ],
       "imdb_id": "tt4955566",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4656283294,
       "audio_languages": [
         "en",
@@ -2023,6 +2225,8 @@ window.PLEX_DATA = {
         "Mélanie Laurent"
       ],
       "imdb_id": "tt2494384",
+      "imdb_score": 5.3,
+      "resolution": null,
       "size_bytes": 521545614,
       "audio_languages": [
         "en"
@@ -2042,6 +2246,8 @@ window.PLEX_DATA = {
         "Rachel McAdams"
       ],
       "imdb_id": "tt1243974",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7908206684,
       "audio_languages": [
         "en",
@@ -2062,6 +2268,8 @@ window.PLEX_DATA = {
         "Michael Wincott"
       ],
       "imdb_id": "tt0164334",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8322313293,
       "audio_languages": [
         "en",
@@ -2082,6 +2290,8 @@ window.PLEX_DATA = {
         "Philip Seymour Hoffman"
       ],
       "imdb_id": "tt0343135",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6732096947,
       "audio_languages": [
         "en",
@@ -2102,6 +2312,8 @@ window.PLEX_DATA = {
         "Elizaveta Bugulova"
       ],
       "imdb_id": "tt32123395",
+      "imdb_score": 3.6,
+      "resolution": 1080,
       "size_bytes": 12151447659,
       "audio_languages": [
         "en"
@@ -2121,6 +2333,8 @@ window.PLEX_DATA = {
         "Benedict Cumberbatch"
       ],
       "imdb_id": "tt0454776",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 5089860123,
       "audio_languages": [
         "hu"
@@ -2140,6 +2354,8 @@ window.PLEX_DATA = {
         "Catherine Zeta-Jones"
       ],
       "imdb_id": "tt0265029",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 3865332781,
       "audio_languages": [
         "hu"
@@ -2158,6 +2374,8 @@ window.PLEX_DATA = {
         "Thora Birch"
       ],
       "imdb_id": "tt0169547",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 7815327036,
       "audio_languages": [
         "en",
@@ -2178,6 +2396,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt0765429",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8533832779,
       "audio_languages": [
         "en"
@@ -2197,6 +2417,8 @@ window.PLEX_DATA = {
         "Sarah Wright"
       ],
       "imdb_id": "tt3532216",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8506291012,
       "audio_languages": [
         "en",
@@ -2217,6 +2439,8 @@ window.PLEX_DATA = {
         "Thomas Ian Nicholas"
       ],
       "imdb_id": "tt0163651",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 17297585018,
       "audio_languages": [
         "en"
@@ -2236,6 +2460,8 @@ window.PLEX_DATA = {
         "Chris Klein"
       ],
       "imdb_id": "tt0252866",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 14799336228,
       "audio_languages": [
         "en",
@@ -2256,6 +2482,8 @@ window.PLEX_DATA = {
         "Josh Lucas"
       ],
       "imdb_id": "tt0144084",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4538447868,
       "audio_languages": [
         "en",
@@ -2276,6 +2504,8 @@ window.PLEX_DATA = {
         "William Shatner"
       ],
       "imdb_id": "tt0283877",
+      "imdb_score": 3.7,
+      "resolution": 720,
       "size_bytes": 4817402733,
       "audio_languages": [
         "en",
@@ -2295,6 +2525,8 @@ window.PLEX_DATA = {
         "Seann William Scott"
       ],
       "imdb_id": "tt1605630",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 15689899886,
       "audio_languages": [
         "en",
@@ -2315,6 +2547,8 @@ window.PLEX_DATA = {
         "Alyson Hannigan"
       ],
       "imdb_id": "tt0328828",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 11153748244,
       "audio_languages": [
         "en",
@@ -2335,6 +2569,8 @@ window.PLEX_DATA = {
         "Laiana do Socorro"
       ],
       "imdb_id": null,
+      "imdb_score": null,
+      "resolution": 1080,
       "size_bytes": 8362527652,
       "audio_languages": [
         "en"
@@ -2354,6 +2590,8 @@ window.PLEX_DATA = {
         "Anthony Hopkins"
       ],
       "imdb_id": "tt0118607",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9010389523,
       "audio_languages": [
         "en",
@@ -2374,6 +2612,8 @@ window.PLEX_DATA = {
         "Gemma Jones"
       ],
       "imdb_id": "tt7983894",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3963752891,
       "audio_languages": [
         "en",
@@ -2394,6 +2634,8 @@ window.PLEX_DATA = {
         "Michael Lerner"
       ],
       "imdb_id": "tt0106266",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 3530881517,
       "audio_languages": [
         "en",
@@ -2414,6 +2656,8 @@ window.PLEX_DATA = {
         "Rupert Everett"
       ],
       "imdb_id": "tt0122541",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6786085172,
       "audio_languages": [
         "en",
@@ -2434,6 +2678,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0350261",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4873482654,
       "audio_languages": [
         "en",
@@ -2454,6 +2700,8 @@ window.PLEX_DATA = {
         "Milo Machado-Graner"
       ],
       "imdb_id": "tt17009710",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 10808844752,
       "audio_languages": [
         "fr",
@@ -2474,6 +2722,8 @@ window.PLEX_DATA = {
         "Jada Pinkett Smith"
       ],
       "imdb_id": "tt6189022",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 13281443916,
       "audio_languages": [
         "hu"
@@ -2493,6 +2743,8 @@ window.PLEX_DATA = {
         "Ayelet Zurer"
       ],
       "imdb_id": "tt0808151",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 39287188560,
       "audio_languages": [
         "en",
@@ -2512,6 +2764,8 @@ window.PLEX_DATA = {
         "Marisa Tomei"
       ],
       "imdb_id": "tt0305224",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4696531257,
       "audio_languages": [],
       "has_subtitles": true
@@ -2529,6 +2783,8 @@ window.PLEX_DATA = {
         "Luke Evans"
       ],
       "imdb_id": "tt7456310",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7835707580,
       "audio_languages": [
         "en",
@@ -2549,6 +2805,8 @@ window.PLEX_DATA = {
         "Aaron Taylor-Johnson"
       ],
       "imdb_id": "tt1781769",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8679846944,
       "audio_languages": [
         "en",
@@ -2569,6 +2827,8 @@ window.PLEX_DATA = {
         "Tony Amendola"
       ],
       "imdb_id": "tt3322940",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4835056646,
       "audio_languages": [
         "en",
@@ -2589,6 +2849,8 @@ window.PLEX_DATA = {
         "Katie Sarife"
       ],
       "imdb_id": "tt8350360",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6349079367,
       "audio_languages": [
         "en",
@@ -2609,6 +2871,8 @@ window.PLEX_DATA = {
         "Lulu Wilson"
       ],
       "imdb_id": "tt5140878",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5637183951,
       "audio_languages": [
         "en",
@@ -2629,6 +2893,8 @@ window.PLEX_DATA = {
         "Gina Rodriguez"
       ],
       "imdb_id": "tt2798920",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5260482372,
       "audio_languages": [
         "en",
@@ -2649,6 +2915,8 @@ window.PLEX_DATA = {
         "David Thewlis"
       ],
       "imdb_id": "tt1521197",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4691708616,
       "audio_languages": [
         "hu"
@@ -2668,6 +2936,8 @@ window.PLEX_DATA = {
         "Brion James"
       ],
       "imdb_id": "tt0099044",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5441409704,
       "audio_languages": [
         "en",
@@ -2688,6 +2958,8 @@ window.PLEX_DATA = {
         "Matthew-Lee Erlbach"
       ],
       "imdb_id": "tt1549572",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4938364496,
       "audio_languages": [
         "en",
@@ -2708,6 +2980,8 @@ window.PLEX_DATA = {
         "Magnus Millang"
       ],
       "imdb_id": "tt10288566",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7935039703,
       "audio_languages": [
         "da",
@@ -2728,6 +3002,8 @@ window.PLEX_DATA = {
         "Evangeline Lilly"
       ],
       "imdb_id": "tt0478970",
+      "imdb_score": 7.2,
+      "resolution": 2160,
       "size_bytes": 19833447390,
       "audio_languages": [
         "en",
@@ -2748,6 +3024,8 @@ window.PLEX_DATA = {
         "Michael Douglas"
       ],
       "imdb_id": "tt5095030",
+      "imdb_score": 7.0,
+      "resolution": 2160,
       "size_bytes": 22430795870,
       "audio_languages": [
         "en",
@@ -2768,6 +3046,8 @@ window.PLEX_DATA = {
         "Michael Douglas"
       ],
       "imdb_id": "tt10954600",
+      "imdb_score": 6.0,
+      "resolution": 2160,
       "size_bytes": 22928847013,
       "audio_languages": [
         "en",
@@ -2788,6 +3068,8 @@ window.PLEX_DATA = {
         "Charlotte Le Bon"
       ],
       "imdb_id": "tt4190530",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 9045296772,
       "audio_languages": [
         "en",
@@ -2808,6 +3090,8 @@ window.PLEX_DATA = {
         "Mia Artemis"
       ],
       "imdb_id": "tt26047818",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6980447787,
       "audio_languages": [
         "en",
@@ -2828,6 +3112,8 @@ window.PLEX_DATA = {
         "Woody Allen"
       ],
       "imdb_id": "tt0313792",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3509451459,
       "audio_languages": [
         "en",
@@ -2848,6 +3134,8 @@ window.PLEX_DATA = {
         "Hart Bochner"
       ],
       "imdb_id": "tt0149691",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 6159440803,
       "audio_languages": [
         "en",
@@ -2868,6 +3156,8 @@ window.PLEX_DATA = {
         "Mario Adorf"
       ],
       "imdb_id": "tt0057687",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5347788430,
       "audio_languages": [
         "de",
@@ -2888,6 +3178,8 @@ window.PLEX_DATA = {
         "Gerardo Taracena"
       ],
       "imdb_id": "tt0472043",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 19819033213,
       "audio_languages": [
         "en"
@@ -2907,6 +3199,8 @@ window.PLEX_DATA = {
         "Kevin Bacon"
       ],
       "imdb_id": "tt0112384",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8637459296,
       "audio_languages": [
         "en",
@@ -2927,6 +3221,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt1477834",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 22496759485,
       "audio_languages": [
         "en",
@@ -2947,6 +3243,8 @@ window.PLEX_DATA = {
         "Yahya Abdul-Mateen II"
       ],
       "imdb_id": "tt9663764",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 18552328069,
       "audio_languages": [
         "en",
@@ -2967,6 +3265,8 @@ window.PLEX_DATA = {
         "Maxwell Jenkins"
       ],
       "imdb_id": "tt22939186",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4532778244,
       "audio_languages": [
         "en",
@@ -2987,6 +3287,8 @@ window.PLEX_DATA = {
         "Tintrinai Thikhasuk"
       ],
       "imdb_id": "tt6820256",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4846649504,
       "audio_languages": [
         "en",
@@ -3007,6 +3309,8 @@ window.PLEX_DATA = {
         "Ben Affleck"
       ],
       "imdb_id": "tt0120591",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 35433786848,
       "audio_languages": [
         "en",
@@ -3026,6 +3330,8 @@ window.PLEX_DATA = {
         "Jeremy Strong"
       ],
       "imdb_id": "tt10343028",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 17192172281,
       "audio_languages": [
         "en",
@@ -3046,6 +3352,8 @@ window.PLEX_DATA = {
         "Cécile de France"
       ],
       "imdb_id": "tt0327437",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5097934788,
       "audio_languages": [
         "en",
@@ -3066,6 +3374,8 @@ window.PLEX_DATA = {
         "Forest Whitaker"
       ],
       "imdb_id": "tt2543164",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 4621737517,
       "audio_languages": [
         "en",
@@ -3086,6 +3396,8 @@ window.PLEX_DATA = {
         "Greg Kinnear"
       ],
       "imdb_id": "tt0119822",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 10261795917,
       "audio_languages": [
         "en",
@@ -3106,6 +3418,8 @@ window.PLEX_DATA = {
         "Jeremy Irons"
       ],
       "imdb_id": "tt2094766",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5808353332,
       "audio_languages": [
         "en",
@@ -3126,6 +3440,8 @@ window.PLEX_DATA = {
         "Julianne Moore"
       ],
       "imdb_id": "tt0112401",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 13206237542,
       "audio_languages": [
         "en",
@@ -3146,6 +3462,8 @@ window.PLEX_DATA = {
         "Sterling K. Brown"
       ],
       "imdb_id": "tt14856980",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 2634778801,
       "audio_languages": [
         "en",
@@ -3166,6 +3484,8 @@ window.PLEX_DATA = {
         "Saoirse Ronan"
       ],
       "imdb_id": "tt0783233",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 7360591075,
       "audio_languages": [
         "en",
@@ -3186,6 +3506,8 @@ window.PLEX_DATA = {
         "Seth Green"
       ],
       "imdb_id": "tt0295178",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5013194814,
       "audio_languages": [
         "en",
@@ -3206,6 +3528,8 @@ window.PLEX_DATA = {
         "Michael York"
       ],
       "imdb_id": "tt0118655",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4825102278,
       "audio_languages": [
         "en",
@@ -3226,6 +3550,8 @@ window.PLEX_DATA = {
         "Verne Troyer"
       ],
       "imdb_id": "tt0145660",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4696379723,
       "audio_languages": [
         "en",
@@ -3246,6 +3572,8 @@ window.PLEX_DATA = {
         "Birgitte Hjort Sørensen"
       ],
       "imdb_id": "tt1971325",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7330136632,
       "audio_languages": [
         "en",
@@ -3266,6 +3594,8 @@ window.PLEX_DATA = {
         "Common"
       ],
       "imdb_id": "tt8784956",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4384654015,
       "audio_languages": [
         "en",
@@ -3286,6 +3616,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0499549",
+      "imdb_score": 7.9,
+      "resolution": 2160,
       "size_bytes": 38402169882,
       "audio_languages": [
         "en",
@@ -3306,6 +3638,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt1757678",
+      "imdb_score": 7.3,
+      "resolution": 2160,
       "size_bytes": 23042743899,
       "audio_languages": [
         "en"
@@ -3325,6 +3659,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt1630029",
+      "imdb_score": 7.5,
+      "resolution": 2160,
       "size_bytes": 37694816061,
       "audio_languages": [
         "en",
@@ -3345,6 +3681,8 @@ window.PLEX_DATA = {
         "Mark Ruffalo"
       ],
       "imdb_id": "tt2395427",
+      "imdb_score": 7.3,
+      "resolution": 2160,
       "size_bytes": 27007102696,
       "audio_languages": [
         "en",
@@ -3365,6 +3703,8 @@ window.PLEX_DATA = {
         "Mark Ruffalo"
       ],
       "imdb_id": "tt4154796",
+      "imdb_score": 8.4,
+      "resolution": 2160,
       "size_bytes": 19604797060,
       "audio_languages": [
         "en",
@@ -3385,6 +3725,8 @@ window.PLEX_DATA = {
         "Chris Hemsworth"
       ],
       "imdb_id": "tt4154756",
+      "imdb_score": 8.4,
+      "resolution": 2160,
       "size_bytes": 29792479672,
       "audio_languages": [
         "en",
@@ -3405,6 +3747,8 @@ window.PLEX_DATA = {
         "John Heard"
       ],
       "imdb_id": "tt0099077",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 7966087758,
       "audio_languages": [
         "en",
@@ -3425,6 +3769,8 @@ window.PLEX_DATA = {
         "Greg Kinnear"
       ],
       "imdb_id": "tt0871426",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4986367830,
       "audio_languages": [
         "en",
@@ -3445,6 +3791,8 @@ window.PLEX_DATA = {
         "Jeff Conaway"
       ],
       "imdb_id": "tt0146455",
+      "imdb_score": 7.1,
+      "resolution": 480,
       "size_bytes": 1242123247,
       "audio_languages": [],
       "has_subtitles": true
@@ -3462,6 +3810,8 @@ window.PLEX_DATA = {
         "Richard Biggs"
       ],
       "imdb_id": "tt0120711",
+      "imdb_score": 7.7,
+      "resolution": 576,
       "size_bytes": 1698837847,
       "audio_languages": [],
       "has_subtitles": true
@@ -3472,6 +3822,8 @@ window.PLEX_DATA = {
       "genres": [],
       "actors": [],
       "imdb_id": "tt18347066",
+      "imdb_score": 7.0,
+      "resolution": 480,
       "size_bytes": 1362958996,
       "audio_languages": [
         "en",
@@ -3492,6 +3844,8 @@ window.PLEX_DATA = {
         "Alex Zahara"
       ],
       "imdb_id": "tt0280453",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 2295532289,
       "audio_languages": [
         "en",
@@ -3512,6 +3866,8 @@ window.PLEX_DATA = {
         "Alan Scarfe"
       ],
       "imdb_id": "tt0871427",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 2549699061,
       "audio_languages": [
         "en",
@@ -3532,6 +3888,8 @@ window.PLEX_DATA = {
         "Jeff Conaway"
       ],
       "imdb_id": "tt0146247",
+      "imdb_score": 6.5,
+      "resolution": 576,
       "size_bytes": 1477192697,
       "audio_languages": [],
       "has_subtitles": true
@@ -3549,6 +3907,8 @@ window.PLEX_DATA = {
         "Peter Jurasik"
       ],
       "imdb_id": "tt27712788",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3066961094,
       "audio_languages": [
         "en"
@@ -3568,6 +3928,8 @@ window.PLEX_DATA = {
         "Mira Furlan"
       ],
       "imdb_id": "tt0121804",
+      "imdb_score": 6.8,
+      "resolution": 576,
       "size_bytes": 1878932922,
       "audio_languages": [],
       "has_subtitles": true
@@ -3585,6 +3947,8 @@ window.PLEX_DATA = {
         "Lambert Wilson"
       ],
       "imdb_id": "tt0364970",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 8186078343,
       "audio_languages": [
         "en",
@@ -3604,6 +3968,8 @@ window.PLEX_DATA = {
         "Adrian Zmed"
       ],
       "imdb_id": "tt0086927",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 10990995108,
       "audio_languages": [
         "en",
@@ -3623,6 +3989,8 @@ window.PLEX_DATA = {
         "Warren Christie"
       ],
       "imdb_id": "tt0954541",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 3326666650,
       "audio_languages": [
         "en",
@@ -3643,6 +4011,8 @@ window.PLEX_DATA = {
         "McKenna Roberts"
       ],
       "imdb_id": "tt21191806",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 2502995108,
       "audio_languages": [
         "en",
@@ -3663,6 +4033,8 @@ window.PLEX_DATA = {
         "Burt Young"
       ],
       "imdb_id": "tt0090685",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8254654506,
       "audio_languages": [
         "en",
@@ -3683,6 +4055,8 @@ window.PLEX_DATA = {
         "Crispin Glover"
       ],
       "imdb_id": "tt0088763",
+      "imdb_score": 8.5,
+      "resolution": 1080,
       "size_bytes": 26161542863,
       "audio_languages": [
         "en",
@@ -3703,6 +4077,8 @@ window.PLEX_DATA = {
         "Lea Thompson"
       ],
       "imdb_id": "tt0096874",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 23718240887,
       "audio_languages": [
         "en",
@@ -3723,6 +4099,8 @@ window.PLEX_DATA = {
         "Mary Steenburgen"
       ],
       "imdb_id": "tt0099088",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 24435133650,
       "audio_languages": [
         "en",
@@ -3743,6 +4121,8 @@ window.PLEX_DATA = {
         "Téa Leoni"
       ],
       "imdb_id": "tt0112442",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 22957323567,
       "audio_languages": [
         "en",
@@ -3763,6 +4143,8 @@ window.PLEX_DATA = {
         "Vanessa Hudgens"
       ],
       "imdb_id": "tt1502397",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 16857556094,
       "audio_languages": [
         "en",
@@ -3783,6 +4165,8 @@ window.PLEX_DATA = {
         "Jordi Mollà"
       ],
       "imdb_id": "tt0172156",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 24992425739,
       "audio_languages": [
         "en",
@@ -3803,6 +4187,8 @@ window.PLEX_DATA = {
         "Vanessa Hudgens"
       ],
       "imdb_id": "tt4919268",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 12099062945,
       "audio_languages": [
         "en",
@@ -3823,6 +4209,8 @@ window.PLEX_DATA = {
         "Lisa Zane"
       ],
       "imdb_id": "tt0099091",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8085743192,
       "audio_languages": [
         "en",
@@ -3842,6 +4230,8 @@ window.PLEX_DATA = {
         "Kathryn Hahn"
       ],
       "imdb_id": "tt4651520",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4958483917,
       "audio_languages": [
         "en",
@@ -3862,6 +4252,8 @@ window.PLEX_DATA = {
         "Lauren Graham"
       ],
       "imdb_id": "tt0307987",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5029274167,
       "audio_languages": [
         "en",
@@ -3882,6 +4274,8 @@ window.PLEX_DATA = {
         "Tony Cox"
       ],
       "imdb_id": "tt1798603",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5485865985,
       "audio_languages": [
         "en",
@@ -3902,6 +4296,8 @@ window.PLEX_DATA = {
         "Jason Segel"
       ],
       "imdb_id": "tt1284575",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7156791310,
       "audio_languages": [
         "en",
@@ -3922,6 +4318,8 @@ window.PLEX_DATA = {
         "Ian McShane"
       ],
       "imdb_id": "tt7181546",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 17250016967,
       "audio_languages": [
         "en",
@@ -3942,6 +4340,8 @@ window.PLEX_DATA = {
         "Mario Scarpetta"
       ],
       "imdb_id": "tt0082045",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8483378413,
       "audio_languages": [
         "en",
@@ -3963,6 +4363,8 @@ window.PLEX_DATA = {
         "George Dzundza"
       ],
       "imdb_id": "tt0103772",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 11833040522,
       "audio_languages": [
         "en",
@@ -3983,6 +4385,8 @@ window.PLEX_DATA = {
         "Charlotte Rampling"
       ],
       "imdb_id": "tt0430912",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 7776820612,
       "audio_languages": [
         "en",
@@ -4003,6 +4407,8 @@ window.PLEX_DATA = {
         "Kim Basinger"
       ],
       "imdb_id": "tt0096895",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 19593550057,
       "audio_languages": [
         "en",
@@ -4023,6 +4429,8 @@ window.PLEX_DATA = {
         "Arnold Schwarzenegger"
       ],
       "imdb_id": "tt0118688",
+      "imdb_score": 3.8,
+      "resolution": 1080,
       "size_bytes": 20282930881,
       "audio_languages": [
         "en",
@@ -4043,6 +4451,8 @@ window.PLEX_DATA = {
         "Liam Neeson"
       ],
       "imdb_id": "tt0372784",
+      "imdb_score": 8.2,
+      "resolution": 1080,
       "size_bytes": 24321118181,
       "audio_languages": [
         "en",
@@ -4063,6 +4473,8 @@ window.PLEX_DATA = {
         "Jim Carrey"
       ],
       "imdb_id": "tt0112462",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 18242144504,
       "audio_languages": [
         "en",
@@ -4083,6 +4495,8 @@ window.PLEX_DATA = {
         "Michelle Pfeiffer"
       ],
       "imdb_id": "tt0103776",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 20615513281,
       "audio_languages": [
         "en",
@@ -4103,6 +4517,8 @@ window.PLEX_DATA = {
         "Jesse Eisenberg"
       ],
       "imdb_id": "tt2975590",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 26095377735,
       "audio_languages": [
         "en",
@@ -4123,6 +4539,8 @@ window.PLEX_DATA = {
         "Robert Ryan"
       ],
       "imdb_id": "tt0058947",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 11984211693,
       "audio_languages": [
         "en",
@@ -4143,6 +4561,8 @@ window.PLEX_DATA = {
         "Andrea Riseborough"
       ],
       "imdb_id": "tt4622512",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8443466973,
       "audio_languages": [
         "en",
@@ -4163,6 +4583,8 @@ window.PLEX_DATA = {
         "Rihanna"
       ],
       "imdb_id": "tt1440129",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 24703714168,
       "audio_languages": [
         "en",
@@ -4183,6 +4605,8 @@ window.PLEX_DATA = {
         "Lili Bordán"
       ],
       "imdb_id": "tt1704292",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 7031058519,
       "audio_languages": [
         "en"
@@ -4202,6 +4626,8 @@ window.PLEX_DATA = {
         "Graham Beckel"
       ],
       "imdb_id": "tt0991178",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 22691286518,
       "audio_languages": [
         "en",
@@ -4222,6 +4648,8 @@ window.PLEX_DATA = {
         "Michael Trucco"
       ],
       "imdb_id": "tt1286130",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 30996739521,
       "audio_languages": [
         "en",
@@ -4242,6 +4670,8 @@ window.PLEX_DATA = {
         "Priyanka Chopra Jonas"
       ],
       "imdb_id": "tt1469304",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 7128078101,
       "audio_languages": [
         "en",
@@ -4262,6 +4692,8 @@ window.PLEX_DATA = {
         "Vince Vaughn"
       ],
       "imdb_id": "tt0377471",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7207733408,
       "audio_languages": [],
       "has_subtitles": true
@@ -4279,6 +4711,8 @@ window.PLEX_DATA = {
         "Amy Ryan"
       ],
       "imdb_id": "tt13521006",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7567264844,
       "audio_languages": [
         "en"
@@ -4298,6 +4732,8 @@ window.PLEX_DATA = {
         "Noah Emmerich"
       ],
       "imdb_id": "tt0115639",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5811877927,
       "audio_languages": [
         "en",
@@ -4318,6 +4754,8 @@ window.PLEX_DATA = {
         "Richard White"
       ],
       "imdb_id": "tt0101414",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 4696564288,
       "audio_languages": [
         "hu"
@@ -4337,6 +4775,8 @@ window.PLEX_DATA = {
         "Luke Evans"
       ],
       "imdb_id": "tt2771200",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8086901786,
       "audio_languages": [
         "en",
@@ -4357,6 +4797,8 @@ window.PLEX_DATA = {
         "Jerry Orbach"
       ],
       "imdb_id": "tt0118692",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 3037082364,
       "audio_languages": [
         "en",
@@ -4377,6 +4819,8 @@ window.PLEX_DATA = {
         "Gabriel Macht"
       ],
       "imdb_id": "tt0490084",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4988235963,
       "audio_languages": [
         "en",
@@ -4397,6 +4841,8 @@ window.PLEX_DATA = {
         "Julie Walters"
       ],
       "imdb_id": "tt0416508",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7446211719,
       "audio_languages": [
         "en",
@@ -4417,6 +4863,8 @@ window.PLEX_DATA = {
         "Frances O'Connor"
       ],
       "imdb_id": "tt0230030",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4762375678,
       "audio_languages": [
         "en",
@@ -4437,6 +4885,8 @@ window.PLEX_DATA = {
         "Seamus Davey-Fitzpatrick"
       ],
       "imdb_id": "tt2209418",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 5685057560,
       "audio_languages": [
         "en",
@@ -4457,6 +4907,8 @@ window.PLEX_DATA = {
         "Andrea Eckert"
       ],
       "imdb_id": "tt0112471",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 4376982093,
       "audio_languages": [
         "en",
@@ -4477,6 +4929,8 @@ window.PLEX_DATA = {
         "Vernon Dobtcheff"
       ],
       "imdb_id": "tt0381681",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 4695617816,
       "audio_languages": [
         "hu"
@@ -4496,6 +4950,8 @@ window.PLEX_DATA = {
         "Emma Fitzpatrick"
       ],
       "imdb_id": "tt0443465",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5538377262,
       "audio_languages": [
         "en",
@@ -4516,6 +4972,8 @@ window.PLEX_DATA = {
         "David Ogden Stiers"
       ],
       "imdb_id": "tt0167038",
+      "imdb_score": 4.8,
+      "resolution": null,
       "size_bytes": 735152128,
       "audio_languages": [],
       "has_subtitles": true
@@ -4533,6 +4991,8 @@ window.PLEX_DATA = {
         "Jonathan Rhys Meyers"
       ],
       "imdb_id": "tt0286499",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7048185772,
       "audio_languages": [
         "en",
@@ -4553,6 +5013,8 @@ window.PLEX_DATA = {
         "Anthony Hopkins"
       ],
       "imdb_id": "tt0442933",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 11509215330,
       "audio_languages": [
         "en",
@@ -4572,6 +5034,8 @@ window.PLEX_DATA = {
         "Christopher Guest"
       ],
       "imdb_id": "tt0218839",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4476313848,
       "audio_languages": [
         "und"
@@ -4591,6 +5055,8 @@ window.PLEX_DATA = {
         "Addison Timlin"
       ],
       "imdb_id": "tt1885300",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4490419053,
       "audio_languages": [
         "en",
@@ -4611,6 +5077,8 @@ window.PLEX_DATA = {
         "John Ashton"
       ],
       "imdb_id": "tt0086960",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 20239968070,
       "audio_languages": [
         "en",
@@ -4631,6 +5099,8 @@ window.PLEX_DATA = {
         "John Ashton"
       ],
       "imdb_id": "tt0092644",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8843179490,
       "audio_languages": [
         "en",
@@ -4651,6 +5121,8 @@ window.PLEX_DATA = {
         "Héctor Elizondo"
       ],
       "imdb_id": "tt0109254",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 6648068543,
       "audio_languages": [
         "en",
@@ -4671,6 +5143,8 @@ window.PLEX_DATA = {
         "Taylour Paige"
       ],
       "imdb_id": "tt3083016",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3105499561,
       "audio_languages": [
         "en",
@@ -4691,6 +5165,8 @@ window.PLEX_DATA = {
         "Elsa Pataky"
       ],
       "imdb_id": "tt0222812",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 9702818368,
       "audio_languages": [
         "en",
@@ -4711,6 +5187,8 @@ window.PLEX_DATA = {
         "Sam Neill"
       ],
       "imdb_id": "tt0182789",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4388194926,
       "audio_languages": [
         "en",
@@ -4731,6 +5209,8 @@ window.PLEX_DATA = {
         "Robert Loggia"
       ],
       "imdb_id": "tt0094737",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 10039718997,
       "audio_languages": [
         "en",
@@ -4751,6 +5231,8 @@ window.PLEX_DATA = {
         "Dylan Sprouse"
       ],
       "imdb_id": "tt0142342",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4664371978,
       "audio_languages": [
         "en",
@@ -4771,6 +5253,8 @@ window.PLEX_DATA = {
         "Jennifer Morrison"
       ],
       "imdb_id": "tt0490086",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5039721202,
       "audio_languages": [
         "en",
@@ -4791,6 +5275,8 @@ window.PLEX_DATA = {
         "Jon Cryer"
       ],
       "imdb_id": "tt3824648",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 6051545403,
       "audio_languages": [
         "en",
@@ -4810,6 +5296,8 @@ window.PLEX_DATA = {
         "Josh Mostel"
       ],
       "imdb_id": "tt0112508",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4807277823,
       "audio_languages": [
         "en",
@@ -4830,6 +5318,8 @@ window.PLEX_DATA = {
         "John Malkovich"
       ],
       "imdb_id": "tt2737304",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3172553974,
       "audio_languages": [
         "en"
@@ -4849,6 +5339,8 @@ window.PLEX_DATA = {
         "Diego Calva"
       ],
       "imdb_id": "tt14400246",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 2399502009,
       "audio_languages": [
         "es",
@@ -4869,6 +5361,8 @@ window.PLEX_DATA = {
         "David Carradine"
       ],
       "imdb_id": "tt0099141",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 9008260757,
       "audio_languages": [
         "en",
@@ -4889,6 +5383,8 @@ window.PLEX_DATA = {
         "Mary Elizabeth Winstead"
       ],
       "imdb_id": "tt7713068",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 11950601222,
       "audio_languages": [
         "en",
@@ -4909,6 +5405,8 @@ window.PLEX_DATA = {
         "Noah Centineo"
       ],
       "imdb_id": "tt6443346",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 14447654048,
       "audio_languages": [
         "en",
@@ -4929,6 +5427,8 @@ window.PLEX_DATA = {
         "Sarah Gadon"
       ],
       "imdb_id": "tt9601220",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3222591294,
       "audio_languages": [
         "en"
@@ -4948,6 +5448,8 @@ window.PLEX_DATA = {
         "Ewan McGregor"
       ],
       "imdb_id": "tt0265086",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 12221192748,
       "audio_languages": [
         "en",
@@ -4968,6 +5470,8 @@ window.PLEX_DATA = {
         "Lupita Nyong'o"
       ],
       "imdb_id": "tt1825683",
+      "imdb_score": 7.3,
+      "resolution": 2160,
       "size_bytes": 33377415979,
       "audio_languages": [
         "en",
@@ -4988,6 +5492,8 @@ window.PLEX_DATA = {
         "Lupita Nyong'o"
       ],
       "imdb_id": "tt9114286",
+      "imdb_score": 6.6,
+      "resolution": 2160,
       "size_bytes": 30011391900,
       "audio_languages": [
         "en",
@@ -5008,6 +5514,8 @@ window.PLEX_DATA = {
         "Vincent Cassel"
       ],
       "imdb_id": "tt0947798",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 11847682539,
       "audio_languages": [
         "en",
@@ -5028,6 +5536,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt3480822",
+      "imdb_score": 6.6,
+      "resolution": 2160,
       "size_bytes": 19811905037,
       "audio_languages": [
         "en",
@@ -5048,6 +5558,8 @@ window.PLEX_DATA = {
         "Kris Kristofferson"
       ],
       "imdb_id": "tt0120611",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 31499421121,
       "audio_languages": [
         "en",
@@ -5068,6 +5580,8 @@ window.PLEX_DATA = {
         "Ron Perlman"
       ],
       "imdb_id": "tt0187738",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 22266794787,
       "audio_languages": [
         "en",
@@ -5088,6 +5602,8 @@ window.PLEX_DATA = {
         "Teresa Ting"
       ],
       "imdb_id": "tt12610794",
+      "imdb_score": 4.7,
+      "resolution": 1080,
       "size_bytes": 15978705011,
       "audio_languages": [
         "en"
@@ -5107,6 +5623,8 @@ window.PLEX_DATA = {
         "Sean Young"
       ],
       "imdb_id": "tt0083658",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 18839846263,
       "audio_languages": [
         "en",
@@ -5127,6 +5645,8 @@ window.PLEX_DATA = {
         "Ana de Armas"
       ],
       "imdb_id": "tt1856101",
+      "imdb_score": 8.0,
+      "resolution": 1080,
       "size_bytes": 31776280442,
       "audio_languages": [
         "en",
@@ -5147,6 +5667,8 @@ window.PLEX_DATA = {
         "Ryan Reynolds"
       ],
       "imdb_id": "tt0359013",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 16095659053,
       "audio_languages": [
         "en",
@@ -5167,6 +5689,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0124298",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6812712722,
       "audio_languages": [
         "en",
@@ -5187,6 +5711,8 @@ window.PLEX_DATA = {
         "Kevin Nealon"
       ],
       "imdb_id": "tt1086772",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5762870318,
       "audio_languages": [
         "en",
@@ -5205,6 +5731,8 @@ window.PLEX_DATA = {
         "Rie Ogura"
       ],
       "imdb_id": "tt8628482",
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 5128610866,
       "audio_languages": [
         "en",
@@ -5225,6 +5753,8 @@ window.PLEX_DATA = {
         "Ike Barinholtz"
       ],
       "imdb_id": "tt2531344",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5586740396,
       "audio_languages": [
         "en",
@@ -5245,6 +5775,8 @@ window.PLEX_DATA = {
         "Jennifer Connelly"
       ],
       "imdb_id": "tt0450259",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 9141716831,
       "audio_languages": [
         "en",
@@ -5265,6 +5797,8 @@ window.PLEX_DATA = {
         "Sam Heughan"
       ],
       "imdb_id": "tt1634106",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7607767458,
       "audio_languages": [
         "en",
@@ -5285,6 +5819,8 @@ window.PLEX_DATA = {
         "Susan Sarandon"
       ],
       "imdb_id": "tt9362930",
+      "imdb_score": 5.9,
+      "resolution": 2160,
       "size_bytes": 34141048499,
       "audio_languages": [
         "en",
@@ -5305,6 +5841,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt2334873",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8923629211,
       "audio_languages": [
         "en",
@@ -5325,6 +5863,8 @@ window.PLEX_DATA = {
         "Denise Richards"
       ],
       "imdb_id": "tt2287663",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 3247366249,
       "audio_languages": [
         "en",
@@ -5345,6 +5885,8 @@ window.PLEX_DATA = {
         "Dennis Hopper"
       ],
       "imdb_id": "tt0090756",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6541268495,
       "audio_languages": [
         "en"
@@ -5364,6 +5906,8 @@ window.PLEX_DATA = {
         "Gregg Henry"
       ],
       "imdb_id": "tt0086984",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5079475715,
       "audio_languages": [
         "en",
@@ -5384,6 +5928,8 @@ window.PLEX_DATA = {
         "Richard Crenna"
       ],
       "imdb_id": "tt0082089",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 9677935012,
       "audio_languages": [
         "en",
@@ -5404,6 +5950,8 @@ window.PLEX_DATA = {
         "Susie Essman"
       ],
       "imdb_id": "tt0397892",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5133317694,
       "audio_languages": [
         "en",
@@ -5424,6 +5972,8 @@ window.PLEX_DATA = {
         "Stefano Mingardo"
       ],
       "imdb_id": "tt0083675",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 1579483485,
       "audio_languages": [
         "hu"
@@ -5443,6 +5993,8 @@ window.PLEX_DATA = {
         "Nicole Kidman"
       ],
       "imdb_id": "tt6394270",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 13879776205,
       "audio_languages": [
         "en",
@@ -5463,6 +6015,8 @@ window.PLEX_DATA = {
         "Halle Berry"
       ],
       "imdb_id": "tt0103859",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 11712250513,
       "audio_languages": [
         "en",
@@ -5483,6 +6037,8 @@ window.PLEX_DATA = {
         "Woody Strode"
       ],
       "imdb_id": "tt0064175",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 7074634773,
       "audio_languages": [
         "en",
@@ -5504,6 +6060,8 @@ window.PLEX_DATA = {
         "Vivica A. Fox"
       ],
       "imdb_id": "tt0118750",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4015032985,
       "audio_languages": [
         "en",
@@ -5524,6 +6082,8 @@ window.PLEX_DATA = {
         "Chris Cooper"
       ],
       "imdb_id": "tt2560078",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5968677621,
       "audio_languages": [
         "en",
@@ -5543,6 +6103,8 @@ window.PLEX_DATA = {
         "Ruby Cruz"
       ],
       "imdb_id": "tt17527468",
+      "imdb_score": 6.7,
+      "resolution": 576,
       "size_bytes": 3040228283,
       "audio_languages": [
         "en",
@@ -5563,6 +6125,8 @@ window.PLEX_DATA = {
         "Joe Pantoliano"
       ],
       "imdb_id": "tt0115736",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7862892863,
       "audio_languages": [
         "en",
@@ -5583,6 +6147,8 @@ window.PLEX_DATA = {
         "Jenna Fischer"
       ],
       "imdb_id": "tt5884230",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6561884075,
       "audio_languages": [
         "en",
@@ -5603,6 +6169,8 @@ window.PLEX_DATA = {
         "Elizabeth Moody"
       ],
       "imdb_id": "tt0103873",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 3985894429,
       "audio_languages": [
         "en",
@@ -5623,6 +6191,8 @@ window.PLEX_DATA = {
         "Anthony Hopkins"
       ],
       "imdb_id": "tt0103874",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 4694880247,
       "audio_languages": [
         "hu"
@@ -5642,6 +6212,8 @@ window.PLEX_DATA = {
         "Billy Connolly"
       ],
       "imdb_id": "tt1217209",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 3937071396,
       "audio_languages": [
         "en",
@@ -5662,6 +6234,8 @@ window.PLEX_DATA = {
         "Sophie Marceau"
       ],
       "imdb_id": "tt0112573",
+      "imdb_score": 8.3,
+      "resolution": 1080,
       "size_bytes": 45395897397,
       "audio_languages": [
         "en",
@@ -5682,6 +6256,8 @@ window.PLEX_DATA = {
         "Katherine Helmond"
       ],
       "imdb_id": "tt0088846",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8349073426,
       "audio_languages": [
         "en",
@@ -5702,6 +6278,8 @@ window.PLEX_DATA = {
         "Vera Farmiga"
       ],
       "imdb_id": "tt0443456",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5843316596,
       "audio_languages": [
         "en",
@@ -5721,6 +6299,8 @@ window.PLEX_DATA = {
         "Lonette McKee"
       ],
       "imdb_id": "tt0088850",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 9626409736,
       "audio_languages": [
         "en",
@@ -5741,6 +6321,8 @@ window.PLEX_DATA = {
         "Katherine Heigl"
       ],
       "imdb_id": "tt0144120",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 3925201972,
       "audio_languages": [
         "en",
@@ -5761,6 +6343,8 @@ window.PLEX_DATA = {
         "Claude Earl Jones"
       ],
       "imdb_id": "tt0099180",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 7176794155,
       "audio_languages": [
         "en",
@@ -5781,6 +6365,8 @@ window.PLEX_DATA = {
         "Bryan Greenberg"
       ],
       "imdb_id": "tt0901476",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 7650361556,
       "audio_languages": [
         "en",
@@ -5801,6 +6387,8 @@ window.PLEX_DATA = {
         "Rose Byrne"
       ],
       "imdb_id": "tt1478338",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8422863731,
       "audio_languages": [
         "en",
@@ -5821,6 +6409,8 @@ window.PLEX_DATA = {
         "Patrick Dempsey"
       ],
       "imdb_id": "tt1473832",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6277572876,
       "audio_languages": [
         "en",
@@ -5841,6 +6431,8 @@ window.PLEX_DATA = {
         "Hugh Grant"
       ],
       "imdb_id": "tt0243155",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4617379766,
       "audio_languages": [
         "en",
@@ -5861,6 +6453,8 @@ window.PLEX_DATA = {
         "Leo Woodall"
       ],
       "imdb_id": "tt32063050",
+      "imdb_score": 6.5,
+      "resolution": 576,
       "size_bytes": 5433121277,
       "audio_languages": [
         "en",
@@ -5881,6 +6475,8 @@ window.PLEX_DATA = {
         "Hugh Grant"
       ],
       "imdb_id": "tt0317198",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6545645732,
       "audio_languages": [
         "en",
@@ -5901,6 +6497,8 @@ window.PLEX_DATA = {
         "Michelle Williams"
       ],
       "imdb_id": "tt0388795",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7588363824,
       "audio_languages": [
         "en",
@@ -5921,6 +6519,8 @@ window.PLEX_DATA = {
         "Bill Pullman"
       ],
       "imdb_id": "tt0120620",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3436166536,
       "audio_languages": [
         "en",
@@ -5941,6 +6541,8 @@ window.PLEX_DATA = {
         "Catherine Zeta-Jones"
       ],
       "imdb_id": "tt1235522",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4523369792,
       "audio_languages": [
         "en",
@@ -5961,6 +6563,8 @@ window.PLEX_DATA = {
         "Jennifer Aniston"
       ],
       "imdb_id": "tt0315327",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4969985565,
       "audio_languages": [
         "en",
@@ -5981,6 +6585,8 @@ window.PLEX_DATA = {
         "Piero Trombetta"
       ],
       "imdb_id": "tt0082835",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5088976975,
       "audio_languages": [
         "hu",
@@ -6001,6 +6607,8 @@ window.PLEX_DATA = {
         "Aaron Taylor-Johnson"
       ],
       "imdb_id": "tt12593682",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7913759007,
       "audio_languages": [
         "en",
@@ -6021,6 +6629,8 @@ window.PLEX_DATA = {
         "John Cena"
       ],
       "imdb_id": "tt4701182",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 28138045799,
       "audio_languages": [
         "en",
@@ -6041,6 +6651,8 @@ window.PLEX_DATA = {
         "Ryan Reynolds"
       ],
       "imdb_id": "tt0218864",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4463963061,
       "audio_languages": [
         "en",
@@ -6061,6 +6673,8 @@ window.PLEX_DATA = {
         "Sam Riley"
       ],
       "imdb_id": "tt1531901",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6535448951,
       "audio_languages": [
         "en",
@@ -6081,6 +6695,8 @@ window.PLEX_DATA = {
         "Charlie Korsmo"
       ],
       "imdb_id": "tt0127723",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4837603875,
       "audio_languages": [
         "en",
@@ -6101,6 +6717,8 @@ window.PLEX_DATA = {
         "Saffron Burrows"
       ],
       "imdb_id": "tt20048582",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5409662038,
       "audio_languages": [
         "en",
@@ -6121,6 +6739,8 @@ window.PLEX_DATA = {
         "Xander Berkeley"
       ],
       "imdb_id": "tt0103919",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7407002999,
       "audio_languages": [
         "en",
@@ -6141,6 +6761,8 @@ window.PLEX_DATA = {
         "Colman Domingo"
       ],
       "imdb_id": "tt9347730",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4397332756,
       "audio_languages": [
         "en",
@@ -6161,6 +6783,8 @@ window.PLEX_DATA = {
         "Alexia Robinson"
       ],
       "imdb_id": "tt0165662",
+      "imdb_score": 3.9,
+      "resolution": 720,
       "size_bytes": 2961314486,
       "audio_languages": [
         "en",
@@ -6181,6 +6805,8 @@ window.PLEX_DATA = {
         "William O'Leary"
       ],
       "imdb_id": "tt0112625",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 7353114621,
       "audio_languages": [
         "en",
@@ -6201,6 +6827,8 @@ window.PLEX_DATA = {
         "Jessica Lange"
       ],
       "imdb_id": "tt0101540",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8229109530,
       "audio_languages": [
         "en",
@@ -6221,6 +6849,8 @@ window.PLEX_DATA = {
         "Danny Ramirez"
       ],
       "imdb_id": "tt14513804",
+      "imdb_score": 5.6,
+      "resolution": 2160,
       "size_bytes": 18338804196,
       "audio_languages": [
         "en",
@@ -6241,6 +6871,8 @@ window.PLEX_DATA = {
         "Scarlett Johansson"
       ],
       "imdb_id": "tt3498820",
+      "imdb_score": 7.8,
+      "resolution": 2160,
       "size_bytes": 31103410038,
       "audio_languages": [
         "en",
@@ -6261,6 +6893,8 @@ window.PLEX_DATA = {
         "Sebastian Stan"
       ],
       "imdb_id": "tt0458339",
+      "imdb_score": 6.9,
+      "resolution": 2160,
       "size_bytes": 39023888562,
       "audio_languages": [
         "en",
@@ -6281,6 +6915,8 @@ window.PLEX_DATA = {
         "Scarlett Johansson"
       ],
       "imdb_id": "tt1843866",
+      "imdb_score": 7.7,
+      "resolution": 2160,
       "size_bytes": 27056749419,
       "audio_languages": [
         "en",
@@ -6301,6 +6937,8 @@ window.PLEX_DATA = {
         "Ben Mendelsohn"
       ],
       "imdb_id": "tt4154664",
+      "imdb_score": 6.7,
+      "resolution": 2160,
       "size_bytes": 22046499537,
       "audio_languages": [
         "en",
@@ -6321,6 +6959,8 @@ window.PLEX_DATA = {
         "Dermot Mulroney"
       ],
       "imdb_id": "tt0101545",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6061660480,
       "audio_languages": [
         "en",
@@ -6341,6 +6981,8 @@ window.PLEX_DATA = {
         "Penelope Ann Miller"
       ],
       "imdb_id": "tt0106519",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 9022023315,
       "audio_languages": [
         "en",
@@ -6361,6 +7003,8 @@ window.PLEX_DATA = {
         "Christoph Waltz"
       ],
       "imdb_id": "tt1692486",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 3602210830,
       "audio_languages": [
         "en",
@@ -6381,6 +7025,8 @@ window.PLEX_DATA = {
         "Amy Irving"
       ],
       "imdb_id": "tt0074285",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 15053370575,
       "audio_languages": [
         "en",
@@ -6402,6 +7048,8 @@ window.PLEX_DATA = {
         "Piper Perabo"
       ],
       "imdb_id": "tt0806203",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4819618984,
       "audio_languages": [
         "en",
@@ -6422,6 +7070,8 @@ window.PLEX_DATA = {
         "Bonnie Hunt"
       ],
       "imdb_id": "tt0317219",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4696921971,
       "audio_languages": [
         "en",
@@ -6442,6 +7092,8 @@ window.PLEX_DATA = {
         "Michael Caine"
       ],
       "imdb_id": "tt1216475",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4722363747,
       "audio_languages": [
         "en",
@@ -6462,6 +7114,8 @@ window.PLEX_DATA = {
         "Chris Cooper"
       ],
       "imdb_id": "tt3606752",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4827664906,
       "audio_languages": [
         "en",
@@ -6482,6 +7136,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt0112641",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 13073106229,
       "audio_languages": [
         "en",
@@ -6502,6 +7158,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt0381061",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 7332848634,
       "audio_languages": [
         "hu"
@@ -6521,6 +7179,8 @@ window.PLEX_DATA = {
         "Chris Noth"
       ],
       "imdb_id": "tt0162222",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8509876941,
       "audio_languages": [
         "en",
@@ -6541,6 +7201,8 @@ window.PLEX_DATA = {
         "John Heard"
       ],
       "imdb_id": "tt0083722",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4391348195,
       "audio_languages": [
         "en",
@@ -6561,6 +7223,8 @@ window.PLEX_DATA = {
         "Alan King"
       ],
       "imdb_id": "tt0088889",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6747906971,
       "audio_languages": [
         "en",
@@ -6581,6 +7245,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0264464",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 22166623205,
       "audio_languages": [
         "en",
@@ -6601,6 +7267,8 @@ window.PLEX_DATA = {
         "Sharon Stone"
       ],
       "imdb_id": "tt0327554",
+      "imdb_score": 3.5,
+      "resolution": 1080,
       "size_bytes": 8479984152,
       "audio_languages": [
         "en",
@@ -6621,6 +7289,8 @@ window.PLEX_DATA = {
         "Amy Ryan"
       ],
       "imdb_id": "tt1489889",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 14363068910,
       "audio_languages": [
         "en",
@@ -6641,6 +7311,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt0115857",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7091309737,
       "audio_languages": [
         "en",
@@ -6661,6 +7333,8 @@ window.PLEX_DATA = {
         "Toni Collette"
       ],
       "imdb_id": "tt0264472",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5030061394,
       "audio_languages": [
         "en",
@@ -6681,6 +7355,8 @@ window.PLEX_DATA = {
         "Stuart Townsend"
       ],
       "imdb_id": "tt0460745",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3631935461,
       "audio_languages": [
         "en",
@@ -6701,6 +7377,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt2076822",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5911205399,
       "audio_languages": [
         "en",
@@ -6721,6 +7399,8 @@ window.PLEX_DATA = {
         "David Kelly"
       ],
       "imdb_id": "tt0367594",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5929049426,
       "audio_languages": [
         "en",
@@ -6741,6 +7421,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt1196948",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7209425325,
       "audio_languages": [
         "en",
@@ -6761,6 +7443,8 @@ window.PLEX_DATA = {
         "Lucy Liu"
       ],
       "imdb_id": "tt0160127",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 6396303790,
       "audio_languages": [
         "hu"
@@ -6780,6 +7464,8 @@ window.PLEX_DATA = {
         "Ella Balinska"
       ],
       "imdb_id": "tt5033998",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 7093809501,
       "audio_languages": [
         "en",
@@ -6800,6 +7486,8 @@ window.PLEX_DATA = {
         "Lucy Liu"
       ],
       "imdb_id": "tt0305357",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 5198793000,
       "audio_languages": [
         "en",
@@ -6820,6 +7508,8 @@ window.PLEX_DATA = {
         "Jason Lee"
       ],
       "imdb_id": "tt0118842",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8696115320,
       "audio_languages": [
         "en",
@@ -6840,6 +7530,8 @@ window.PLEX_DATA = {
         "Catherine Hicks"
       ],
       "imdb_id": "tt0094862",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4015652835,
       "audio_languages": [
         "en",
@@ -6860,6 +7552,8 @@ window.PLEX_DATA = {
         "Gabriel Bateman"
       ],
       "imdb_id": "tt8663516",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4782586305,
       "audio_languages": [
         "en",
@@ -6880,6 +7574,8 @@ window.PLEX_DATA = {
         "Christine Elise"
       ],
       "imdb_id": "tt0099253",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 3936530097,
       "audio_languages": [
         "hu"
@@ -6899,6 +7595,8 @@ window.PLEX_DATA = {
         "Perrey Reeves"
       ],
       "imdb_id": "tt0103956",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 4859601771,
       "audio_languages": [
         "en",
@@ -6919,6 +7617,8 @@ window.PLEX_DATA = {
         "Chiwetel Ejiofor"
       ],
       "imdb_id": "tt0206634",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 7288314809,
       "audio_languages": [
         "en",
@@ -6938,6 +7638,8 @@ window.PLEX_DATA = {
         "Scott Welsh"
       ],
       "imdb_id": "tt2023432",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5015095319,
       "audio_languages": [
         "en",
@@ -6958,6 +7660,8 @@ window.PLEX_DATA = {
         "Rupert Friend"
       ],
       "imdb_id": "tt1179258",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4978838163,
       "audio_languages": [
         "en",
@@ -6978,6 +7682,8 @@ window.PLEX_DATA = {
         "Andre Braugher"
       ],
       "imdb_id": "tt0120632",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9096461215,
       "audio_languages": [
         "en",
@@ -6998,6 +7704,8 @@ window.PLEX_DATA = {
         "Bill Murray"
       ],
       "imdb_id": "tt0970411",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4458916112,
       "audio_languages": [
         "en",
@@ -7018,6 +7726,8 @@ window.PLEX_DATA = {
         "Phellipe Haagensen"
       ],
       "imdb_id": "tt0317248",
+      "imdb_score": 8.6,
+      "resolution": 720,
       "size_bytes": 7419795101,
       "audio_languages": [
         "en",
@@ -7038,6 +7748,8 @@ window.PLEX_DATA = {
         "Bruno Kirby"
       ],
       "imdb_id": "tt0101587",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7770882765,
       "audio_languages": [
         "en",
@@ -7058,6 +7770,8 @@ window.PLEX_DATA = {
         "Jon Lovitz"
       ],
       "imdb_id": "tt0109439",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7976938992,
       "audio_languages": [
         "en",
@@ -7078,6 +7792,8 @@ window.PLEX_DATA = {
         "Cailee Spaeny"
       ],
       "imdb_id": "tt17279496",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6862251243,
       "audio_languages": [
         "en",
@@ -7098,6 +7814,8 @@ window.PLEX_DATA = {
         "Burgess Meredith"
       ],
       "imdb_id": "tt0082186",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 11910483461,
       "audio_languages": [
         "en",
@@ -7118,6 +7836,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt0800320",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6690672755,
       "audio_languages": [
         "en",
@@ -7138,6 +7858,8 @@ window.PLEX_DATA = {
         "Eva Mendes"
       ],
       "imdb_id": "tt0896798",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4822652283,
       "audio_languages": [
         "en",
@@ -7158,6 +7880,8 @@ window.PLEX_DATA = {
         "Joaquim de Almeida"
       ],
       "imdb_id": "tt0109444",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7266096933,
       "audio_languages": [
         "en",
@@ -7178,6 +7902,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0389860",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8716941953,
       "audio_languages": [
         "en",
@@ -7198,6 +7924,8 @@ window.PLEX_DATA = {
         "Michael Rooker"
       ],
       "imdb_id": "tt0106582",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6764370926,
       "audio_languages": [
         "en",
@@ -7218,6 +7946,8 @@ window.PLEX_DATA = {
         "Julia Roberts"
       ],
       "imdb_id": "tt0376541",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8053903615,
       "audio_languages": [
         "en",
@@ -7238,6 +7968,8 @@ window.PLEX_DATA = {
         "Jim Broadbent"
       ],
       "imdb_id": "tt1371111",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 14492263024,
       "audio_languages": [
         "en",
@@ -7258,6 +7990,8 @@ window.PLEX_DATA = {
         "James Caan"
       ],
       "imdb_id": "tt0844471",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4955373784,
       "audio_languages": [
         "en",
@@ -7278,6 +8012,8 @@ window.PLEX_DATA = {
         "James Caan"
       ],
       "imdb_id": "tt1985966",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4986892313,
       "audio_languages": [
         "en",
@@ -7298,6 +8034,8 @@ window.PLEX_DATA = {
         "T.J. Miller"
       ],
       "imdb_id": "tt1060277",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 12329461887,
       "audio_languages": [
         "en",
@@ -7318,6 +8056,8 @@ window.PLEX_DATA = {
         "Brittany Murphy"
       ],
       "imdb_id": "tt0112697",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6489925556,
       "audio_languages": [
         "en",
@@ -7338,6 +8078,8 @@ window.PLEX_DATA = {
         "Reni Santoni"
       ],
       "imdb_id": "tt0090859",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6849431769,
       "audio_languages": [
         "en",
@@ -7358,6 +8100,8 @@ window.PLEX_DATA = {
         "Benjamin Bratt"
       ],
       "imdb_id": "tt2380307",
+      "imdb_score": 8.4,
+      "resolution": 720,
       "size_bytes": 4684433459,
       "audio_languages": [
         "en",
@@ -7378,6 +8122,8 @@ window.PLEX_DATA = {
         "Brian Dennehy"
       ],
       "imdb_id": "tt0088933",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7103845668,
       "audio_languages": [
         "en",
@@ -7398,6 +8144,8 @@ window.PLEX_DATA = {
         "Courteney Cox"
       ],
       "imdb_id": "tt0094890",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 4944187439,
       "audio_languages": [
         "en",
@@ -7418,6 +8166,8 @@ window.PLEX_DATA = {
         "Renée Zellweger"
       ],
       "imdb_id": "tt0159365",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 12190166164,
       "audio_languages": [
         "en",
@@ -7438,6 +8188,8 @@ window.PLEX_DATA = {
         "Denise Gough"
       ],
       "imdb_id": "tt5437928",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6335994048,
       "audio_languages": [
         "en",
@@ -7458,6 +8210,8 @@ window.PLEX_DATA = {
         "Jada Pinkett Smith"
       ],
       "imdb_id": "tt0369339",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7434542330,
       "audio_languages": [
         "en",
@@ -7478,6 +8232,8 @@ window.PLEX_DATA = {
         "Kate Winslet"
       ],
       "imdb_id": "tt4682786",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5259074947,
       "audio_languages": [
         "en",
@@ -7498,6 +8254,8 @@ window.PLEX_DATA = {
         "Callum Blue"
       ],
       "imdb_id": "tt1657507",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7390490049,
       "audio_languages": [
         "en",
@@ -7518,6 +8276,8 @@ window.PLEX_DATA = {
         "Austin Stowell"
       ],
       "imdb_id": "tt4680182",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 10756063741,
       "audio_languages": [
         "en",
@@ -7538,6 +8298,8 @@ window.PLEX_DATA = {
         "Jermaine Fowler"
       ],
       "imdb_id": "tt6802400",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 4113997312,
       "audio_languages": [
         "en",
@@ -7558,6 +8320,8 @@ window.PLEX_DATA = {
         "Shari Headley"
       ],
       "imdb_id": "tt0094898",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 11740938170,
       "audio_languages": [
         "en",
@@ -7578,6 +8342,8 @@ window.PLEX_DATA = {
         "Dan Hedaya"
       ],
       "imdb_id": "tt0088944",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5447300865,
       "audio_languages": [
         "en",
@@ -7598,6 +8364,8 @@ window.PLEX_DATA = {
         "John Malkovich"
       ],
       "imdb_id": "tt0118880",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6969865826,
       "audio_languages": [
         "en",
@@ -7618,6 +8386,8 @@ window.PLEX_DATA = {
         "John Lithgow"
       ],
       "imdb_id": "tt20215234",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6305707517,
       "audio_languages": [
         "en",
@@ -7638,6 +8408,8 @@ window.PLEX_DATA = {
         "Albert Brooks"
       ],
       "imdb_id": "tt3322364",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5428610082,
       "audio_languages": [
         "en",
@@ -7658,6 +8430,8 @@ window.PLEX_DATA = {
         "Ernie Hudson"
       ],
       "imdb_id": "tt0112715",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 6252113500,
       "audio_languages": [
         "en",
@@ -7678,6 +8452,8 @@ window.PLEX_DATA = {
         "Patrick Stewart"
       ],
       "imdb_id": "tt0118883",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9922069633,
       "audio_languages": [
         "en",
@@ -7698,6 +8474,8 @@ window.PLEX_DATA = {
         "Shia LaBeouf"
       ],
       "imdb_id": "tt0360486",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 15944408918,
       "audio_languages": [
         "en",
@@ -7718,6 +8496,8 @@ window.PLEX_DATA = {
         "Laurence Fishburne"
       ],
       "imdb_id": "tt1598778",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5201300798,
       "audio_languages": [
         "en",
@@ -7738,6 +8518,8 @@ window.PLEX_DATA = {
         "Ben Foster"
       ],
       "imdb_id": "tt1524137",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 9321636429,
       "audio_languages": [
         "en",
@@ -7758,6 +8540,8 @@ window.PLEX_DATA = {
         "Dermot Mulroney"
       ],
       "imdb_id": "tt0112722",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7229735598,
       "audio_languages": [
         "en",
@@ -7778,6 +8562,8 @@ window.PLEX_DATA = {
         "Jon Favreau"
       ],
       "imdb_id": "tt1078940",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 8992320265,
       "audio_languages": [
         "en",
@@ -7798,6 +8584,8 @@ window.PLEX_DATA = {
         "Jose Pablo Cantillo"
       ],
       "imdb_id": "tt0479884",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6196477228,
       "audio_languages": [
         "hu"
@@ -7817,6 +8605,8 @@ window.PLEX_DATA = {
         "Dwight Yoakam"
       ],
       "imdb_id": "tt1121931",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8165286631,
       "audio_languages": [
         "en",
@@ -7837,6 +8627,8 @@ window.PLEX_DATA = {
         "Julianne Moore"
       ],
       "imdb_id": "tt1570728",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 8990555855,
       "audio_languages": [
         "en",
@@ -7857,6 +8649,8 @@ window.PLEX_DATA = {
         "Martha West"
       ],
       "imdb_id": "tt0974014",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4841495223,
       "audio_languages": [
         "en",
@@ -7877,6 +8671,8 @@ window.PLEX_DATA = {
         "Halle Berry"
       ],
       "imdb_id": "tt32430579",
+      "imdb_score": 6.9,
+      "resolution": 576,
       "size_bytes": 4763253050,
       "audio_languages": [
         "en",
@@ -7897,6 +8693,8 @@ window.PLEX_DATA = {
         "David Huddleston"
       ],
       "imdb_id": "tt0074442",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8717823167,
       "audio_languages": [
         "en",
@@ -7918,6 +8716,8 @@ window.PLEX_DATA = {
         "Scott Speedman"
       ],
       "imdb_id": "tt14549466",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5710339245,
       "audio_languages": [
         "en",
@@ -7938,6 +8738,8 @@ window.PLEX_DATA = {
         "Tommy Lee Jones"
       ],
       "imdb_id": "tt3014866",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6724304476,
       "audio_languages": [
         "en",
@@ -7958,6 +8760,8 @@ window.PLEX_DATA = {
         "Matt Craven"
       ],
       "imdb_id": "tt0112740",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6734341086,
       "audio_languages": [
         "en",
@@ -7978,6 +8782,8 @@ window.PLEX_DATA = {
         "Reese Witherspoon"
       ],
       "imdb_id": "tt0139134",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4739583072,
       "audio_languages": [
         "en",
@@ -7998,6 +8804,8 @@ window.PLEX_DATA = {
         "Keri Lynn Pratt"
       ],
       "imdb_id": "tt0196267",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 2627628267,
       "audio_languages": [
         "hu"
@@ -8016,6 +8824,8 @@ window.PLEX_DATA = {
         "Nathan Wetherington"
       ],
       "imdb_id": "tt0391891",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 3263489036,
       "audio_languages": [
         "en",
@@ -8036,6 +8846,8 @@ window.PLEX_DATA = {
         "Joel Fry"
       ],
       "imdb_id": "tt3228774",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7825661444,
       "audio_languages": [
         "en",
@@ -8056,6 +8868,8 @@ window.PLEX_DATA = {
         "Karen Allen"
       ],
       "imdb_id": "tt0080569",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 9828910370,
       "audio_languages": [
         "en",
@@ -8076,6 +8890,8 @@ window.PLEX_DATA = {
         "Alex Vincent"
       ],
       "imdb_id": "tt3280262",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 6318187762,
       "audio_languages": [
         "en",
@@ -8096,6 +8912,8 @@ window.PLEX_DATA = {
         "Danielle Bisutti"
       ],
       "imdb_id": "tt2230358",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4970226893,
       "audio_languages": [
         "en",
@@ -8116,6 +8934,8 @@ window.PLEX_DATA = {
         "Haruka Abe"
       ],
       "imdb_id": "tt4135218",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 2297559944,
       "audio_languages": [
         "en",
@@ -8136,6 +8956,8 @@ window.PLEX_DATA = {
         "Linda Cardellini"
       ],
       "imdb_id": "tt1528854",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4923002264,
       "audio_languages": [
         "en",
@@ -8155,6 +8977,8 @@ window.PLEX_DATA = {
         "Mel Gibson"
       ],
       "imdb_id": "tt5657846",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6374086828,
       "audio_languages": [
         "en",
@@ -8175,6 +8999,8 @@ window.PLEX_DATA = {
         "Jonathan Scott-Taylor"
       ],
       "imdb_id": "tt0077394",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4847983292,
       "audio_languages": [
         "en",
@@ -8195,6 +9021,8 @@ window.PLEX_DATA = {
         "Nick Robinson"
       ],
       "imdb_id": "tt13452446",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 2606023333,
       "audio_languages": [
         "en",
@@ -8215,6 +9043,8 @@ window.PLEX_DATA = {
         "Graham Greene"
       ],
       "imdb_id": "tt0099348",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 9979125489,
       "audio_languages": [
         "en",
@@ -8235,6 +9065,8 @@ window.PLEX_DATA = {
         "Oliver Platt"
       ],
       "imdb_id": "tt0118892",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 8415184028,
       "audio_languages": [
         "en",
@@ -8255,6 +9087,8 @@ window.PLEX_DATA = {
         "Michelle Pfeiffer"
       ],
       "imdb_id": "tt0094947",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 10426619277,
       "audio_languages": [
         "en",
@@ -8275,6 +9109,8 @@ window.PLEX_DATA = {
         "Courtney B. Vance"
       ],
       "imdb_id": "tt0112792",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4839300851,
       "audio_languages": [
         "en",
@@ -8295,6 +9131,8 @@ window.PLEX_DATA = {
         "Arabella Field"
       ],
       "imdb_id": "tt0118928",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4374585471,
       "audio_languages": [
         "en",
@@ -8315,6 +9153,8 @@ window.PLEX_DATA = {
         "Colin Farrell"
       ],
       "imdb_id": "tt0287978",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 7006666622,
       "audio_languages": [
         "en",
@@ -8335,6 +9175,8 @@ window.PLEX_DATA = {
         "Kiefer Sutherland"
       ],
       "imdb_id": "tt0118929",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4694124602,
       "audio_languages": [
         "en"
@@ -8354,6 +9196,8 @@ window.PLEX_DATA = {
         "Eva Green"
       ],
       "imdb_id": "tt1077368",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6678968513,
       "audio_languages": [
         "en",
@@ -8374,6 +9218,8 @@ window.PLEX_DATA = {
         "Colin Friels"
       ],
       "imdb_id": "tt0099365",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4822411065,
       "audio_languages": [
         "en",
@@ -8394,6 +9240,8 @@ window.PLEX_DATA = {
         "Kim Delaney"
       ],
       "imdb_id": "tt0109552",
+      "imdb_score": 5.1,
+      "resolution": null,
       "size_bytes": 990034723,
       "audio_languages": [],
       "has_subtitles": true
@@ -8411,6 +9259,8 @@ window.PLEX_DATA = {
         "Darlanne Fluegel"
       ],
       "imdb_id": "tt0116033",
+      "imdb_score": 4.8,
+      "resolution": null,
       "size_bytes": 874934905,
       "audio_languages": [],
       "has_subtitles": true
@@ -8428,6 +9278,8 @@ window.PLEX_DATA = {
         "Mark Wahlberg"
       ],
       "imdb_id": "tt1279935",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4637902572,
       "audio_languages": [
         "en",
@@ -8448,6 +9300,8 @@ window.PLEX_DATA = {
         "Frank Langella"
       ],
       "imdb_id": "tt0106673",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 8900045458,
       "audio_languages": [
         "de",
@@ -8469,6 +9323,8 @@ window.PLEX_DATA = {
         "Scott H. Reiniger"
       ],
       "imdb_id": "tt0077402",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 13143701171,
       "audio_languages": [
         "en",
@@ -8489,6 +9345,8 @@ window.PLEX_DATA = {
         "Jake Weber"
       ],
       "imdb_id": "tt0363547",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8511930918,
       "audio_languages": [
         "en",
@@ -8509,6 +9367,8 @@ window.PLEX_DATA = {
         "Joseph Pilato"
       ],
       "imdb_id": "tt0088993",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5992880602,
       "audio_languages": [
         "en",
@@ -8529,6 +9389,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt0433362",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6872553080,
       "audio_languages": [
         "en",
@@ -8549,6 +9411,8 @@ window.PLEX_DATA = {
         "Nicole Kidman"
       ],
       "imdb_id": "tt0099371",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 17719764373,
       "audio_languages": [
         "en",
@@ -8569,6 +9433,8 @@ window.PLEX_DATA = {
         "Ed Skrein"
       ],
       "imdb_id": "tt1431045",
+      "imdb_score": 8.0,
+      "resolution": 2160,
       "size_bytes": 27290728460,
       "audio_languages": [
         "en",
@@ -8589,6 +9455,8 @@ window.PLEX_DATA = {
         "Emma Corrin"
       ],
       "imdb_id": "tt6263850",
+      "imdb_score": 7.5,
+      "resolution": 2160,
       "size_bytes": 37097770907,
       "audio_languages": [
         "en",
@@ -8609,6 +9477,8 @@ window.PLEX_DATA = {
         "Morena Baccarin"
       ],
       "imdb_id": "tt5463162",
+      "imdb_score": 7.6,
+      "resolution": 2160,
       "size_bytes": 28433828015,
       "audio_languages": [
         "en",
@@ -8629,6 +9499,8 @@ window.PLEX_DATA = {
         "Richard Jenkins"
       ],
       "imdb_id": "tt0989757",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5057959562,
       "audio_languages": [
         "en",
@@ -8649,6 +9521,8 @@ window.PLEX_DATA = {
         "Ewen Bremner"
       ],
       "imdb_id": "tt0795368",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 5814332671,
       "audio_languages": [
         "en",
@@ -8669,6 +9543,8 @@ window.PLEX_DATA = {
         "Zoe Saldaña"
       ],
       "imdb_id": "tt1321509",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5134776177,
       "audio_languages": [
         "en",
@@ -8689,6 +9565,8 @@ window.PLEX_DATA = {
         "Bruce Willis"
       ],
       "imdb_id": "tt0104070",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9685373334,
       "audio_languages": [
         "en",
@@ -8709,6 +9587,8 @@ window.PLEX_DATA = {
         "Timothy Spall"
       ],
       "imdb_id": "tt0472071",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4834107590,
       "audio_languages": [
         "en",
@@ -8729,6 +9609,8 @@ window.PLEX_DATA = {
         "Will Poulter"
       ],
       "imdb_id": "tt28443655",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 8701167472,
       "audio_languages": [
         "en",
@@ -8749,6 +9631,8 @@ window.PLEX_DATA = {
         "Annette Bening"
       ],
       "imdb_id": "tt7657566",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8717348755,
       "audio_languages": [
         "en",
@@ -8769,6 +9653,8 @@ window.PLEX_DATA = {
         "Ian McShane"
       ],
       "imdb_id": "tt0452608",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4697044709,
       "audio_languages": [
         "hu"
@@ -8788,6 +9674,8 @@ window.PLEX_DATA = {
         "Sean Bean"
       ],
       "imdb_id": "tt1500491",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7279075495,
       "audio_languages": [
         "en",
@@ -8808,6 +9696,8 @@ window.PLEX_DATA = {
         "Danny Trejo"
       ],
       "imdb_id": "tt1988591",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 9167329758,
       "audio_languages": [
         "en",
@@ -8828,6 +9718,8 @@ window.PLEX_DATA = {
         "Danny Glover"
       ],
       "imdb_id": "tt3807900",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 7297602935,
       "audio_languages": [
         "en",
@@ -8848,6 +9740,8 @@ window.PLEX_DATA = {
         "Dean Norris"
       ],
       "imdb_id": "tt1137450",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7020098616,
       "audio_languages": [
         "en",
@@ -8868,6 +9762,8 @@ window.PLEX_DATA = {
         "Kristin Davis"
       ],
       "imdb_id": "tt0790604",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 6175105341,
       "audio_languages": [
         "en",
@@ -8888,6 +9784,8 @@ window.PLEX_DATA = {
         "LL Cool J"
       ],
       "imdb_id": "tt0149261",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4945911889,
       "audio_languages": [
         "en",
@@ -8908,6 +9806,8 @@ window.PLEX_DATA = {
         "Michael Beach"
       ],
       "imdb_id": "tt7086706",
+      "imdb_score": 3.5,
+      "resolution": null,
       "size_bytes": 1030119233,
       "audio_languages": [
         "en"
@@ -8927,6 +9827,8 @@ window.PLEX_DATA = {
         "Emerson Brooks"
       ],
       "imdb_id": "tt11946300",
+      "imdb_score": 4.7,
+      "resolution": null,
       "size_bytes": 977032744,
       "audio_languages": [
         "en"
@@ -8946,6 +9848,8 @@ window.PLEX_DATA = {
         "Victoria Dillard"
       ],
       "imdb_id": "tt0104073",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 14340297769,
       "audio_languages": [
         "en",
@@ -8966,6 +9870,8 @@ window.PLEX_DATA = {
         "Elijah Wood"
       ],
       "imdb_id": "tt0120647",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7196625301,
       "audio_languages": [
         "en",
@@ -8986,6 +9892,8 @@ window.PLEX_DATA = {
         "Anthony Heald"
       ],
       "imdb_id": "tt0118956",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7470322183,
       "audio_languages": [
         "en",
@@ -9006,6 +9914,8 @@ window.PLEX_DATA = {
         "Tracy Letts"
       ],
       "imdb_id": "tt2180339",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 3742138039,
       "audio_languages": [
         "en",
@@ -9026,6 +9936,8 @@ window.PLEX_DATA = {
         "John Malkovich"
       ],
       "imdb_id": "tt1860357",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8004076406,
       "audio_languages": [
         "en",
@@ -9046,6 +9958,8 @@ window.PLEX_DATA = {
         "Elizabeth Banks"
       ],
       "imdb_id": "tt0832266",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5012237544,
       "audio_languages": [
         "en",
@@ -9066,6 +9980,8 @@ window.PLEX_DATA = {
         "Val Kilmer"
       ],
       "imdb_id": "tt0453467",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 17571074397,
       "audio_languages": [
         "en",
@@ -9086,6 +10002,8 @@ window.PLEX_DATA = {
         "Sandra Bullock"
       ],
       "imdb_id": "tt0106697",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 17773665346,
       "audio_languages": [
         "en",
@@ -9106,6 +10024,8 @@ window.PLEX_DATA = {
         "O'Shea Jackson Jr."
       ],
       "imdb_id": "tt1259528",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7947354080,
       "audio_languages": [
         "en",
@@ -9126,6 +10046,8 @@ window.PLEX_DATA = {
         "Evin Ahmad"
       ],
       "imdb_id": "tt8008948",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6412054911,
       "audio_languages": [
         "en",
@@ -9146,6 +10068,8 @@ window.PLEX_DATA = {
         "Miranda Cosgrove"
       ],
       "imdb_id": "tt1323594",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4651692444,
       "audio_languages": [
         "en",
@@ -9166,6 +10090,8 @@ window.PLEX_DATA = {
         "Benjamin Bratt"
       ],
       "imdb_id": "tt1690953",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6665385195,
       "audio_languages": [
         "en",
@@ -9186,6 +10112,8 @@ window.PLEX_DATA = {
         "Trey Parker"
       ],
       "imdb_id": "tt3469046",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5112173260,
       "audio_languages": [
         "en",
@@ -9206,6 +10134,8 @@ window.PLEX_DATA = {
         "Will Ferrell"
       ],
       "imdb_id": "tt7510222",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6186402019,
       "audio_languages": [
         "en",
@@ -9226,6 +10156,8 @@ window.PLEX_DATA = {
         "DJ Dallenbach"
       ],
       "imdb_id": "tt6987770",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4497445471,
       "audio_languages": [
         "en",
@@ -9246,6 +10178,8 @@ window.PLEX_DATA = {
         "Charles Gray"
       ],
       "imdb_id": "tt0066995",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4420896333,
       "audio_languages": [
         "hu"
@@ -9265,6 +10199,8 @@ window.PLEX_DATA = {
         "Dan Hedaya"
       ],
       "imdb_id": "tt0144168",
+      "imdb_score": 6.2,
+      "resolution": null,
       "size_bytes": 1172578108,
       "audio_languages": [
         "hu"
@@ -9284,6 +10220,8 @@ window.PLEX_DATA = {
         "Toby Stephens"
       ],
       "imdb_id": "tt0246460",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8502938017,
       "audio_languages": [
         "en",
@@ -9304,6 +10242,8 @@ window.PLEX_DATA = {
         "Alexander Godunov"
       ],
       "imdb_id": "tt0095016",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 7051189102,
       "audio_languages": [
         "hu"
@@ -9323,6 +10263,8 @@ window.PLEX_DATA = {
         "William Sadler"
       ],
       "imdb_id": "tt0099423",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8051862620,
       "audio_languages": [
         "en",
@@ -9343,6 +10285,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt0112864",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7966924752,
       "audio_languages": [
         "en",
@@ -9362,6 +10306,8 @@ window.PLEX_DATA = {
         "Stephanie Szostak"
       ],
       "imdb_id": "tt0427152",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6490048704,
       "audio_languages": [
         "en",
@@ -9381,6 +10327,8 @@ window.PLEX_DATA = {
         "Aubrey Plaza"
       ],
       "imdb_id": "tt1860213",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5141480455,
       "audio_languages": [
         "en",
@@ -9401,6 +10349,8 @@ window.PLEX_DATA = {
         "Donald Sutherland"
       ],
       "imdb_id": "tt0109635",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7754646693,
       "audio_languages": [
         "en",
@@ -9421,6 +10371,8 @@ window.PLEX_DATA = {
         "James Marsden"
       ],
       "imdb_id": "tt1596342",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4042708982,
       "audio_languages": [
         "en",
@@ -9441,6 +10393,8 @@ window.PLEX_DATA = {
         "Alessandro Nivola"
       ],
       "imdb_id": "tt6108178",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6209838413,
       "audio_languages": [
         "en",
@@ -9461,6 +10415,8 @@ window.PLEX_DATA = {
         "Nathalie Boltt"
       ],
       "imdb_id": "tt1136608",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 6545875524,
       "audio_languages": [
         "en",
@@ -9481,6 +10437,8 @@ window.PLEX_DATA = {
         "Zoë Kravitz"
       ],
       "imdb_id": "tt1840309",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8482984980,
       "audio_languages": [
         "en",
@@ -9501,6 +10459,8 @@ window.PLEX_DATA = {
         "Fionnula Flanagan"
       ],
       "imdb_id": "tt0279778",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 4600723863,
       "audio_languages": [
         "en",
@@ -9521,6 +10481,8 @@ window.PLEX_DATA = {
         "George Eastman"
       ],
       "imdb_id": "tt0062151",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4591916454,
       "audio_languages": [
         "en",
@@ -9541,6 +10503,8 @@ window.PLEX_DATA = {
         "Barnard Hughes"
       ],
       "imdb_id": "tt0101745",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4692461883,
       "audio_languages": [
         "en",
@@ -9561,6 +10525,8 @@ window.PLEX_DATA = {
         "Kyliegh Curran"
       ],
       "imdb_id": "tt5606664",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7076880087,
       "audio_languages": [
         "en",
@@ -9581,6 +10547,8 @@ window.PLEX_DATA = {
         "Rachel McAdams"
       ],
       "imdb_id": "tt1211837",
+      "imdb_score": 7.5,
+      "resolution": 2160,
       "size_bytes": 22633603750,
       "audio_languages": [
         "en",
@@ -9601,6 +10569,8 @@ window.PLEX_DATA = {
         "Elizabeth Olsen"
       ],
       "imdb_id": "tt9419884",
+      "imdb_score": 6.9,
+      "resolution": 2160,
       "size_bytes": 27497238398,
       "audio_languages": [
         "en",
@@ -9621,6 +10591,8 @@ window.PLEX_DATA = {
         "Linda Fiorentino"
       ],
       "imdb_id": "tt0120655",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4692844354,
       "audio_languages": [
         "en",
@@ -9641,6 +10613,8 @@ window.PLEX_DATA = {
         "Clara Bellar"
       ],
       "imdb_id": "tt0449086",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 6247680741,
       "audio_languages": [
         "en",
@@ -9661,6 +10635,8 @@ window.PLEX_DATA = {
         "Edgar Ramírez"
       ],
       "imdb_id": "tt0421054",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 8701328125,
       "audio_languages": [
         "en",
@@ -9681,6 +10657,8 @@ window.PLEX_DATA = {
         "Julianne Moore"
       ],
       "imdb_id": "tt2229499",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6603259850,
       "audio_languages": [
         "en",
@@ -9701,6 +10679,8 @@ window.PLEX_DATA = {
         "John Getz"
       ],
       "imdb_id": "tt0101757",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4847127986,
       "audio_languages": [
         "en",
@@ -9721,6 +10701,8 @@ window.PLEX_DATA = {
         "Michael Madsen"
       ],
       "imdb_id": "tt0119008",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8441758132,
       "audio_languages": [
         "en",
@@ -9741,6 +10723,8 @@ window.PLEX_DATA = {
         "Adrian Lester"
       ],
       "imdb_id": "tt0483607",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 7836330609,
       "audio_languages": [
         "en",
@@ -9761,6 +10745,8 @@ window.PLEX_DATA = {
         "Madeleine Madden"
       ],
       "imdb_id": "tt7547410",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6780782321,
       "audio_languages": [
         "en",
@@ -9781,6 +10767,8 @@ window.PLEX_DATA = {
         "Mariana Garzón Toro"
       ],
       "imdb_id": "tt32621553",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 7916610915,
       "audio_languages": [
         "en"
@@ -9800,6 +10788,8 @@ window.PLEX_DATA = {
         "Bruce Greenwood"
       ],
       "imdb_id": "tt0150377",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7271836234,
       "audio_languages": [
         "en",
@@ -9820,6 +10810,8 @@ window.PLEX_DATA = {
         "April Clough"
       ],
       "imdb_id": "tt0087481",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8303987927,
       "audio_languages": [
         "en",
@@ -9840,6 +10832,8 @@ window.PLEX_DATA = {
         "Joseph Wiseman"
       ],
       "imdb_id": "tt0055928",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7383188891,
       "audio_languages": [
         "en",
@@ -9860,6 +10854,8 @@ window.PLEX_DATA = {
         "Farrah Fawcett"
       ],
       "imdb_id": "tt0205271",
+      "imdb_score": 4.7,
+      "resolution": 1080,
       "size_bytes": 14143526556,
       "audio_languages": [
         "en",
@@ -9880,6 +10876,8 @@ window.PLEX_DATA = {
         "Dominic Cooper"
       ],
       "imdb_id": "tt0829150",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6404577009,
       "audio_languages": [
         "en",
@@ -9900,6 +10898,8 @@ window.PLEX_DATA = {
         "Lorna Raver"
       ],
       "imdb_id": "tt1127180",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6195828357,
       "audio_languages": [
         "en",
@@ -9920,6 +10920,8 @@ window.PLEX_DATA = {
         "Adrien Brody"
       ],
       "imdb_id": "tt3672840",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6306862088,
       "audio_languages": [
         "en",
@@ -9940,6 +10942,8 @@ window.PLEX_DATA = {
         "Ron Rifkin"
       ],
       "imdb_id": "tt0259288",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5782777549,
       "audio_languages": [
         "en",
@@ -9960,6 +10964,8 @@ window.PLEX_DATA = {
         "David Thewlis"
       ],
       "imdb_id": "tt0116136",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4459442694,
       "audio_languages": [
         "en",
@@ -9980,6 +10986,8 @@ window.PLEX_DATA = {
         "Ben Kingsley"
       ],
       "imdb_id": "tt3829170",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 6429613324,
       "audio_languages": [
         "en",
@@ -10000,6 +11008,8 @@ window.PLEX_DATA = {
         "Arturo Muselli"
       ],
       "imdb_id": "tt9711106",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6064545445,
       "audio_languages": [
         "en",
@@ -10020,6 +11030,8 @@ window.PLEX_DATA = {
         "Rona Figueroa"
       ],
       "imdb_id": "tt0214641",
+      "imdb_score": 4.5,
+      "resolution": 1080,
       "size_bytes": 9041970736,
       "audio_languages": [
         "en",
@@ -10040,6 +11052,8 @@ window.PLEX_DATA = {
         "Tom Rhys Harries"
       ],
       "imdb_id": "tt5610626",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 10424018250,
       "audio_languages": [
         "en",
@@ -10060,6 +11074,8 @@ window.PLEX_DATA = {
         "Michael Cera"
       ],
       "imdb_id": "tt21942866",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8014699277,
       "audio_languages": [
         "en",
@@ -10080,6 +11096,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0285531",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 10520384450,
       "audio_languages": [
         "en",
@@ -10100,6 +11118,8 @@ window.PLEX_DATA = {
         "Angie Dickinson"
       ],
       "imdb_id": "tt0080661",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4841009974,
       "audio_languages": [
         "en",
@@ -10120,6 +11140,8 @@ window.PLEX_DATA = {
         "Bryan Cranston"
       ],
       "imdb_id": "tt0780504",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 4692058833,
       "audio_languages": [
         "en",
@@ -10140,6 +11162,8 @@ window.PLEX_DATA = {
         "William Fichtner"
       ],
       "imdb_id": "tt1502404",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6675663866,
       "audio_languages": [
         "en",
@@ -10160,6 +11184,8 @@ window.PLEX_DATA = {
         "Denise Richards"
       ],
       "imdb_id": "tt0157503",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7483740944,
       "audio_languages": [
         "en",
@@ -10180,6 +11206,8 @@ window.PLEX_DATA = {
         "Neve Campbell"
       ],
       "imdb_id": "tt0186045",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 7733627528,
       "audio_languages": [
         "en",
@@ -10199,6 +11227,8 @@ window.PLEX_DATA = {
         "Joe Manganiello"
       ],
       "imdb_id": "tt5037840",
+      "imdb_score": 4.0,
+      "resolution": 720,
       "size_bytes": 5507069565,
       "audio_languages": [
         "en",
@@ -10219,6 +11249,8 @@ window.PLEX_DATA = {
         "Hwang Jang-Lee"
       ],
       "imdb_id": "tt0080179",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 12862012699,
       "audio_languages": [
         "en",
@@ -10240,6 +11272,8 @@ window.PLEX_DATA = {
         "Jennifer Garner"
       ],
       "imdb_id": "tt0242423",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4693918604,
       "audio_languages": [
         "en",
@@ -10260,6 +11294,8 @@ window.PLEX_DATA = {
         "Michelle Monaghan"
       ],
       "imdb_id": "tt1231583",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5737012286,
       "audio_languages": [
         "en",
@@ -10280,6 +11316,8 @@ window.PLEX_DATA = {
         "Patrick Stewart"
       ],
       "imdb_id": "tt0087182",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8442911296,
       "audio_languages": [
         "en",
@@ -10300,6 +11338,8 @@ window.PLEX_DATA = {
         "Oscar Isaac"
       ],
       "imdb_id": "tt1160419",
+      "imdb_score": 8.0,
+      "resolution": 1080,
       "size_bytes": 31002614469,
       "audio_languages": [
         "en",
@@ -10320,6 +11360,8 @@ window.PLEX_DATA = {
         "Rebecca Ferguson"
       ],
       "imdb_id": "tt15239678",
+      "imdb_score": 8.4,
+      "resolution": 1080,
       "size_bytes": 31858530643,
       "audio_languages": [
         "en",
@@ -10340,6 +11382,8 @@ window.PLEX_DATA = {
         "Justice Smith"
       ],
       "imdb_id": "tt2906216",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 32185872957,
       "audio_languages": [
         "en",
@@ -10360,6 +11404,8 @@ window.PLEX_DATA = {
         "Mark Rylance"
       ],
       "imdb_id": "tt5013056",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 16599437550,
       "audio_languages": [
         "en",
@@ -10379,6 +11425,8 @@ window.PLEX_DATA = {
         "Eileen Essell"
       ],
       "imdb_id": "tt0266489",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5121427399,
       "audio_languages": [
         "en",
@@ -10399,6 +11447,8 @@ window.PLEX_DATA = {
         "Tom Wilkinson"
       ],
       "imdb_id": "tt1135487",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7727413591,
       "audio_languages": [
         "en",
@@ -10419,6 +11469,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt23172090",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3212921833,
       "audio_languages": [
         "en",
@@ -10439,6 +11491,8 @@ window.PLEX_DATA = {
         "Rosario Dawson"
       ],
       "imdb_id": "tt1059786",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 10015795836,
       "audio_languages": [
         "en",
@@ -10459,6 +11513,8 @@ window.PLEX_DATA = {
         "Amanda Bynes"
       ],
       "imdb_id": "tt1282140",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5977005712,
       "audio_languages": [
         "en",
@@ -10478,6 +11534,8 @@ window.PLEX_DATA = {
         "Bianca Sanchez"
       ],
       "imdb_id": null,
+      "imdb_score": 10.0,
+      "resolution": 1080,
       "size_bytes": 9642726844,
       "audio_languages": [
         "en"
@@ -10497,6 +11555,8 @@ window.PLEX_DATA = {
         "Brendan Gleeson"
       ],
       "imdb_id": "tt1631867",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 6512676477,
       "audio_languages": [
         "en",
@@ -10517,6 +11577,8 @@ window.PLEX_DATA = {
         "Shea Whigham"
       ],
       "imdb_id": "tt5198890",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 14912238640,
       "audio_languages": [
         "en",
@@ -10537,6 +11599,8 @@ window.PLEX_DATA = {
         "Charles Baker"
       ],
       "imdb_id": "tt9243946",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 5647145637,
       "audio_languages": [
         "en"
@@ -10556,6 +11620,8 @@ window.PLEX_DATA = {
         "Chris Klein"
       ],
       "imdb_id": "tt0126886",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4842940080,
       "audio_languages": [
         "en",
@@ -10576,6 +11642,8 @@ window.PLEX_DATA = {
         "Will Yun Lee"
       ],
       "imdb_id": "tt0357277",
+      "imdb_score": 4.7,
+      "resolution": 1080,
       "size_bytes": 14244797194,
       "audio_languages": [
         "en",
@@ -10596,6 +11664,8 @@ window.PLEX_DATA = {
         "Maddie Hasson"
       ],
       "imdb_id": "tt23558280",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 11167876585,
       "audio_languages": [
         "en",
@@ -10616,6 +11686,8 @@ window.PLEX_DATA = {
         "Geoffrey Rush"
       ],
       "imdb_id": "tt0127536",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 9677524056,
       "audio_languages": [
         "en",
@@ -10636,6 +11708,8 @@ window.PLEX_DATA = {
         "Clive Owen"
       ],
       "imdb_id": "tt0414055",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 10235364608,
       "audio_languages": [
         "en",
@@ -10656,6 +11730,8 @@ window.PLEX_DATA = {
         "Susan Sarandon"
       ],
       "imdb_id": "tt0368709",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3790312875,
       "audio_languages": [
         "en",
@@ -10676,6 +11752,8 @@ window.PLEX_DATA = {
         "Cary Elwes"
       ],
       "imdb_id": "tt0327679",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5591322202,
       "audio_languages": [
         "en",
@@ -10696,6 +11774,8 @@ window.PLEX_DATA = {
         "Richard O'Brien"
       ],
       "imdb_id": "tt0265171",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5929966650,
       "audio_languages": [
         "en",
@@ -10716,6 +11796,8 @@ window.PLEX_DATA = {
         "Daniel Greene"
       ],
       "imdb_id": "tt0095088",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7314760291,
       "audio_languages": [
         "en",
@@ -10736,6 +11818,8 @@ window.PLEX_DATA = {
         "Sharlto Copley"
       ],
       "imdb_id": "tt1535108",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7715773755,
       "audio_languages": [
         "en",
@@ -10756,6 +11840,8 @@ window.PLEX_DATA = {
         "Charmaine Bingwa"
       ],
       "imdb_id": "tt12530246",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3496678038,
       "audio_languages": [
         "en"
@@ -10775,6 +11861,8 @@ window.PLEX_DATA = {
         "Megalyn Echikunwoke"
       ],
       "imdb_id": "tt15255876",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6758362309,
       "audio_languages": [
         "en",
@@ -10795,6 +11883,8 @@ window.PLEX_DATA = {
         "Toni Collette"
       ],
       "imdb_id": "tt0116191",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7928477483,
       "audio_languages": [
         "en",
@@ -10815,6 +11905,8 @@ window.PLEX_DATA = {
         "John Leguizamo"
       ],
       "imdb_id": "tt2953050",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5774078259,
       "audio_languages": [
         "en",
@@ -10835,6 +11927,8 @@ window.PLEX_DATA = {
         "James Marsden"
       ],
       "imdb_id": "tt0461770",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8511116543,
       "audio_languages": [
         "en",
@@ -10855,6 +11949,8 @@ window.PLEX_DATA = {
         "Robin Tunney"
       ],
       "imdb_id": "tt0146675",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6800741923,
       "audio_languages": [
         "en",
@@ -10875,6 +11971,8 @@ window.PLEX_DATA = {
         "Harrison Ford"
       ],
       "imdb_id": "tt1731141",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8755518452,
       "audio_languages": [
         "en",
@@ -10895,6 +11993,8 @@ window.PLEX_DATA = {
         "Brion James"
       ],
       "imdb_id": "tt0089092",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6433565757,
       "audio_languages": [
         "en",
@@ -10915,6 +12015,8 @@ window.PLEX_DATA = {
         "Jon Voight"
       ],
       "imdb_id": "tt0120660",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6802999472,
       "audio_languages": [
         "en",
@@ -10935,6 +12037,8 @@ window.PLEX_DATA = {
         "Saffron Burrows"
       ],
       "imdb_id": "tt0157583",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7833908426,
       "audio_languages": [
         "en",
@@ -10955,6 +12059,8 @@ window.PLEX_DATA = {
         "Jim Kelly"
       ],
       "imdb_id": "tt0070034",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 5536591051,
       "audio_languages": [
         "en",
@@ -10975,6 +12081,8 @@ window.PLEX_DATA = {
         "Will Patton"
       ],
       "imdb_id": "tt0137494",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7636815028,
       "audio_languages": [
         "en",
@@ -10995,6 +12103,8 @@ window.PLEX_DATA = {
         "Angus Macfadyen"
       ],
       "imdb_id": "tt0238380",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8237939447,
       "audio_languages": [
         "en",
@@ -11015,6 +12125,8 @@ window.PLEX_DATA = {
         "Sienna Guillory"
       ],
       "imdb_id": "tt0449010",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 8624632644,
       "audio_languages": [
         "en",
@@ -11035,6 +12147,8 @@ window.PLEX_DATA = {
         "James Caan"
       ],
       "imdb_id": "tt0116213",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4467366752,
       "audio_languages": [],
       "has_subtitles": true
@@ -11052,6 +12166,8 @@ window.PLEX_DATA = {
         "McKinley Belcher III"
       ],
       "imdb_id": "tt15422240",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 4885541484,
       "audio_languages": [
         "en",
@@ -11072,6 +12188,8 @@ window.PLEX_DATA = {
         "Steve Buscemi"
       ],
       "imdb_id": "tt0116225",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4647200799,
       "audio_languages": [
         "en",
@@ -11092,6 +12210,8 @@ window.PLEX_DATA = {
         "Ernest Borgnine"
       ],
       "imdb_id": "tt0082340",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6534030319,
       "audio_languages": [
         "en",
@@ -11112,6 +12232,8 @@ window.PLEX_DATA = {
         "Donald Pleasence"
       ],
       "imdb_id": "tt0072951",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6807858855,
       "audio_languages": [
         "en",
@@ -11132,6 +12254,8 @@ window.PLEX_DATA = {
         "Kirsten Dunst"
       ],
       "imdb_id": "tt0338013",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 7938418398,
       "audio_languages": [
         "en",
@@ -11152,6 +12276,8 @@ window.PLEX_DATA = {
         "Angelina Jolie"
       ],
       "imdb_id": "tt9032400",
+      "imdb_score": 6.2,
+      "resolution": 2160,
       "size_bytes": 29313103037,
       "audio_languages": [
         "en",
@@ -11172,6 +12298,8 @@ window.PLEX_DATA = {
         "Joan Allen"
       ],
       "imdb_id": "tt0106833",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3234585989,
       "audio_languages": [
         "en",
@@ -11192,6 +12320,8 @@ window.PLEX_DATA = {
         "Lauren Graham"
       ],
       "imdb_id": "tt0413099",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 4961869768,
       "audio_languages": [
         "en",
@@ -11212,6 +12342,8 @@ window.PLEX_DATA = {
         "Robert Middleton"
       ],
       "imdb_id": "tt0069713",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4661313295,
       "audio_languages": [
         "de",
@@ -11233,6 +12365,8 @@ window.PLEX_DATA = {
         "Kathleen Quinlan"
       ],
       "imdb_id": "tt0119081",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7742252534,
       "audio_languages": [
         "en",
@@ -11253,6 +12387,8 @@ window.PLEX_DATA = {
         "Dougray Scott"
       ],
       "imdb_id": "tt0120631",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9172117441,
       "audio_languages": [
         "en",
@@ -11273,6 +12409,8 @@ window.PLEX_DATA = {
         "Jake Gyllenhaal"
       ],
       "imdb_id": "tt2719848",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5953317095,
       "audio_languages": [
         "en",
@@ -11293,6 +12431,8 @@ window.PLEX_DATA = {
         "Kate Beckinsale"
       ],
       "imdb_id": "tt0780511",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 4960452081,
       "audio_languages": [
         "en",
@@ -11313,6 +12453,8 @@ window.PLEX_DATA = {
         "Orlando Jones"
       ],
       "imdb_id": "tt0251075",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7990880855,
       "audio_languages": [
         "en",
@@ -11333,6 +12475,8 @@ window.PLEX_DATA = {
         "Oscar Isaac"
       ],
       "imdb_id": "tt0470752",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6444974794,
       "audio_languages": [
         "en",
@@ -11353,6 +12497,8 @@ window.PLEX_DATA = {
         "Ian Holm"
       ],
       "imdb_id": "tt0120907",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6440521288,
       "audio_languages": [
         "en",
@@ -11373,6 +12519,8 @@ window.PLEX_DATA = {
         "Samuel Fröler"
       ],
       "imdb_id": "tt0482957",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5603812308,
       "audio_languages": [
         "hu",
@@ -11392,6 +12540,8 @@ window.PLEX_DATA = {
         "Louise Fletcher"
       ],
       "imdb_id": "tt0076009",
+      "imdb_score": 3.8,
+      "resolution": 720,
       "size_bytes": 4853632984,
       "audio_languages": [
         "en",
@@ -11412,6 +12562,8 @@ window.PLEX_DATA = {
         "James D'Arcy"
       ],
       "imdb_id": "tt0204313",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 6239451812,
       "audio_languages": [
         "en",
@@ -11432,6 +12584,8 @@ window.PLEX_DATA = {
         "Megan Fox"
       ],
       "imdb_id": "tt3291150",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 7773828257,
       "audio_languages": [
         "en",
@@ -11452,6 +12606,8 @@ window.PLEX_DATA = {
         "Jason Presson"
       ],
       "imdb_id": "tt0089114",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7816151354,
       "audio_languages": [
         "en",
@@ -11472,6 +12628,8 @@ window.PLEX_DATA = {
         "Israel Broussard"
       ],
       "imdb_id": "tt3201640",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 2584420785,
       "audio_languages": [
         "en"
@@ -11491,6 +12649,8 @@ window.PLEX_DATA = {
         "Randeep Hooda"
       ],
       "imdb_id": "tt8936646",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 3621202704,
       "audio_languages": [
         "en",
@@ -11511,6 +12671,8 @@ window.PLEX_DATA = {
         "Adam Bessa"
       ],
       "imdb_id": "tt12263384",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6730477281,
       "audio_languages": [
         "en",
@@ -11531,6 +12693,8 @@ window.PLEX_DATA = {
         "Thomas Horn"
       ],
       "imdb_id": "tt0477302",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4719702475,
       "audio_languages": [
         "en",
@@ -11551,6 +12715,8 @@ window.PLEX_DATA = {
         "Tyrese Gibson"
       ],
       "imdb_id": "tt5433138",
+      "imdb_score": 5.2,
+      "resolution": 2160,
       "size_bytes": 36972594302,
       "audio_languages": [
         "en",
@@ -11571,6 +12737,8 @@ window.PLEX_DATA = {
         "Joan Allen"
       ],
       "imdb_id": "tt0119094",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7137325336,
       "audio_languages": [
         "en",
@@ -11591,6 +12759,8 @@ window.PLEX_DATA = {
         "Sofia Boutella"
       ],
       "imdb_id": "tt0360556",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 4228818698,
       "audio_languages": [
         "en",
@@ -11611,6 +12781,8 @@ window.PLEX_DATA = {
         "Donald Sutherland"
       ],
       "imdb_id": "tt0119099",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7756957269,
       "audio_languages": [
         "en",
@@ -11631,6 +12803,8 @@ window.PLEX_DATA = {
         "Barbara Hershey"
       ],
       "imdb_id": "tt0106856",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4625978710,
       "audio_languages": [
         "en",
@@ -11651,6 +12825,8 @@ window.PLEX_DATA = {
         "Matthew Broderick"
       ],
       "imdb_id": "tt0097328",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 3752445295,
       "audio_languages": [
         "en",
@@ -11671,6 +12847,8 @@ window.PLEX_DATA = {
         "Sam Robards"
       ],
       "imdb_id": "tt0089126",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 2910884162,
       "audio_languages": [
         "en",
@@ -11691,6 +12869,8 @@ window.PLEX_DATA = {
         "Dan Fogler"
       ],
       "imdb_id": "tt3183660",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 26193463841,
       "audio_languages": [
         "en",
@@ -11711,6 +12891,8 @@ window.PLEX_DATA = {
         "Dan Fogler"
       ],
       "imdb_id": "tt4123430",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 26484217875,
       "audio_languages": [
         "en",
@@ -11731,6 +12913,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt4123432",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 29521828694,
       "audio_languages": [
         "en",
@@ -11751,6 +12935,8 @@ window.PLEX_DATA = {
         "Chris Evans"
       ],
       "imdb_id": "tt0120667",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 12051182611,
       "audio_languages": [
         "en",
@@ -11771,6 +12957,8 @@ window.PLEX_DATA = {
         "Kate Mara"
       ],
       "imdb_id": "tt1502712",
+      "imdb_score": 4.3,
+      "resolution": 1080,
       "size_bytes": 15490513242,
       "audio_languages": [
         "en",
@@ -11791,6 +12979,8 @@ window.PLEX_DATA = {
         "Chris Evans"
       ],
       "imdb_id": "tt0486576",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 9621618765,
       "audio_languages": [
         "en",
@@ -11811,6 +13001,8 @@ window.PLEX_DATA = {
         "Thomas Gibson"
       ],
       "imdb_id": "tt0104231",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7709687174,
       "audio_languages": [
         "en",
@@ -11831,6 +13023,8 @@ window.PLEX_DATA = {
         "Michelle Rodriguez"
       ],
       "imdb_id": "tt1013752",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 25813409835,
       "audio_languages": [
         "en",
@@ -11851,6 +13045,8 @@ window.PLEX_DATA = {
         "Dwayne Johnson"
       ],
       "imdb_id": "tt1905041",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 25438511266,
       "audio_languages": [
         "en",
@@ -11871,6 +13067,8 @@ window.PLEX_DATA = {
         "Idris Elba"
       ],
       "imdb_id": "tt6806448",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 33947673580,
       "audio_languages": [
         "en",
@@ -11891,6 +13089,8 @@ window.PLEX_DATA = {
         "James Caan"
       ],
       "imdb_id": "tt6722400",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 20149563868,
       "audio_languages": [
         "en",
@@ -11911,6 +13111,8 @@ window.PLEX_DATA = {
         "Jordana Brewster"
       ],
       "imdb_id": "tt1596343",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 25639508775,
       "audio_languages": [
         "en",
@@ -11931,6 +13133,8 @@ window.PLEX_DATA = {
         "Tyrese Gibson"
       ],
       "imdb_id": "tt5433140",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 29644245055,
       "audio_languages": [
         "en",
@@ -11951,6 +13155,8 @@ window.PLEX_DATA = {
         "Marco Messeri"
       ],
       "imdb_id": "tt0328230",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 5783959123,
       "audio_languages": [
         "hu",
@@ -11971,6 +13177,8 @@ window.PLEX_DATA = {
         "Kimberly Williams-Paisley"
       ],
       "imdb_id": "tt0101862",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 9572842711,
       "audio_languages": [
         "en",
@@ -11991,6 +13199,8 @@ window.PLEX_DATA = {
         "Adria Arjona"
       ],
       "imdb_id": "tt13249596",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 7479889380,
       "audio_languages": [
         "en",
@@ -12011,6 +13221,8 @@ window.PLEX_DATA = {
         "Martin Short"
       ],
       "imdb_id": "tt0113041",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8970309998,
       "audio_languages": [
         "en",
@@ -12031,6 +13243,8 @@ window.PLEX_DATA = {
         "James Urbaniak"
       ],
       "imdb_id": "tt0444628",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5179293499,
       "audio_languages": [
         "en",
@@ -12051,6 +13265,8 @@ window.PLEX_DATA = {
         "William Petersen"
       ],
       "imdb_id": "tt0116287",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4608025815,
       "audio_languages": [
         "en",
@@ -12071,6 +13287,8 @@ window.PLEX_DATA = {
         "Tobey Maguire"
       ],
       "imdb_id": "tt0120669",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 4871788369,
       "audio_languages": [
         "en",
@@ -12091,6 +13309,8 @@ window.PLEX_DATA = {
         "Radha Mitchell"
       ],
       "imdb_id": "tt0800027",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5037348378,
       "audio_languages": [
         "en",
@@ -12111,6 +13331,8 @@ window.PLEX_DATA = {
         "Vincent D'Onofrio"
       ],
       "imdb_id": "tt0116289",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 3646227560,
       "audio_languages": [
         "en",
@@ -12130,6 +13352,8 @@ window.PLEX_DATA = {
         "Stephen McKinley Henderson"
       ],
       "imdb_id": "tt2671706",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5716807438,
       "audio_languages": [
         "en",
@@ -12149,6 +13373,8 @@ window.PLEX_DATA = {
         "Mia Sara"
       ],
       "imdb_id": "tt0091042",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 9740709140,
       "audio_languages": [
         "en",
@@ -12169,6 +13395,8 @@ window.PLEX_DATA = {
         "Gaby Hoffmann"
       ],
       "imdb_id": "tt0097351",
+      "imdb_score": 7.5,
+      "resolution": null,
       "size_bytes": 1211202975,
       "audio_languages": [
         "hu"
@@ -12188,6 +13416,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt0173840",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5203662286,
       "audio_languages": [
         "en",
@@ -12208,6 +13438,8 @@ window.PLEX_DATA = {
         "Oscar Avila"
       ],
       "imdb_id": "tt3420504",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 3105576574,
       "audio_languages": [
         "en"
@@ -12227,6 +13459,8 @@ window.PLEX_DATA = {
         "Ed O'Neill"
       ],
       "imdb_id": "tt2277860",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6132292602,
       "audio_languages": [
         "en",
@@ -12247,6 +13481,8 @@ window.PLEX_DATA = {
         "Alexander Gould"
       ],
       "imdb_id": "tt0266543",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 6489990140,
       "audio_languages": [
         "en",
@@ -12267,6 +13503,8 @@ window.PLEX_DATA = {
         "Julie Christie"
       ],
       "imdb_id": "tt0308644",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 5025675341,
       "audio_languages": [
         "en",
@@ -12287,6 +13525,8 @@ window.PLEX_DATA = {
         "David Huffman"
       ],
       "imdb_id": "tt0083943",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 8416843642,
       "audio_languages": [
         "en",
@@ -12307,6 +13547,8 @@ window.PLEX_DATA = {
         "Freddie Jones"
       ],
       "imdb_id": "tt0087262",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6072099939,
       "audio_languages": [
         "en",
@@ -12327,6 +13569,8 @@ window.PLEX_DATA = {
         "Julia Ormond"
       ],
       "imdb_id": "tt0113071",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6803261105,
       "audio_languages": [
         "en",
@@ -12347,6 +13591,8 @@ window.PLEX_DATA = {
         "Jason Clarke"
       ],
       "imdb_id": "tt1213641",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 10529475646,
       "audio_languages": [
         "en",
@@ -12367,6 +13613,8 @@ window.PLEX_DATA = {
         "Maria Yi"
       ],
       "imdb_id": "tt0068767",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6928494071,
       "audio_languages": [
         "en",
@@ -12388,6 +13636,8 @@ window.PLEX_DATA = {
         "Adam Beach"
       ],
       "imdb_id": "tt0418689",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6453969126,
       "audio_languages": [
         "en",
@@ -12408,6 +13658,8 @@ window.PLEX_DATA = {
         "Larry Pennell"
       ],
       "imdb_id": "tt0059538",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 11283121878,
       "audio_languages": [
         "de",
@@ -12429,6 +13681,8 @@ window.PLEX_DATA = {
         "Werner Pochath"
       ],
       "imdb_id": "tt0076544",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6052561419,
       "audio_languages": [
         "de",
@@ -12449,6 +13703,8 @@ window.PLEX_DATA = {
         "Angelo Infanti"
       ],
       "imdb_id": "tt0079718",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8123889146,
       "audio_languages": [
         "hu",
@@ -12469,6 +13725,8 @@ window.PLEX_DATA = {
         "Enzo Cannavale"
       ],
       "imdb_id": "tt0073541",
+      "imdb_score": 6.4,
+      "resolution": null,
       "size_bytes": 1597031918,
       "audio_languages": [
         "en"
@@ -12488,6 +13746,8 @@ window.PLEX_DATA = {
         "Kevin Bacon"
       ],
       "imdb_id": "tt0099582",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5397744680,
       "audio_languages": [
         "en",
@@ -12508,6 +13768,8 @@ window.PLEX_DATA = {
         "Lambert Wilson"
       ],
       "imdb_id": "tt0780516",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5051702229,
       "audio_languages": [
         "en",
@@ -12527,6 +13789,8 @@ window.PLEX_DATA = {
         "Téa Leoni"
       ],
       "imdb_id": "tt0116324",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6111236661,
       "audio_languages": [
         "en",
@@ -12547,6 +13811,8 @@ window.PLEX_DATA = {
         "Adrian Martinez"
       ],
       "imdb_id": "tt2381941",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6441678391,
       "audio_languages": [
         "en",
@@ -12567,6 +13833,8 @@ window.PLEX_DATA = {
         "Donald Sutherland"
       ],
       "imdb_id": "tt0770752",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4480264097,
       "audio_languages": [
         "hu"
@@ -12586,6 +13854,8 @@ window.PLEX_DATA = {
         "Joris Jarsky"
       ],
       "imdb_id": "tt0356614",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 6913779227,
       "audio_languages": [
         "en",
@@ -12606,6 +13876,8 @@ window.PLEX_DATA = {
         "Jon Tenney"
       ],
       "imdb_id": "tt0119141",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4036626512,
       "audio_languages": [
         "en",
@@ -12626,6 +13898,8 @@ window.PLEX_DATA = {
         "Gian Maria Volonté"
       ],
       "imdb_id": "tt0059578",
+      "imdb_score": 8.2,
+      "resolution": 1080,
       "size_bytes": 29352168941,
       "audio_languages": [
         "en",
@@ -12647,6 +13921,8 @@ window.PLEX_DATA = {
         "Anthony Higgins"
       ],
       "imdb_id": "tt0106941",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7542073319,
       "audio_languages": [
         "en",
@@ -12667,6 +13943,8 @@ window.PLEX_DATA = {
         "Chaim Topol"
       ],
       "imdb_id": "tt0082398",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7441910232,
       "audio_languages": [
         "en",
@@ -12687,6 +13965,8 @@ window.PLEX_DATA = {
         "Maura Tierney"
       ],
       "imdb_id": "tt0141098",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 10827195085,
       "audio_languages": [
         "en",
@@ -12707,6 +13987,8 @@ window.PLEX_DATA = {
         "Elijah Wood"
       ],
       "imdb_id": "tt0104291",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4840103852,
       "audio_languages": [
         "en",
@@ -12727,6 +14009,8 @@ window.PLEX_DATA = {
         "Mila Kunis"
       ],
       "imdb_id": "tt0800039",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7352794638,
       "audio_languages": [
         "en",
@@ -12747,6 +14031,8 @@ window.PLEX_DATA = {
         "Gary Sinise"
       ],
       "imdb_id": "tt0109830",
+      "imdb_score": 8.8,
+      "resolution": 720,
       "size_bytes": 8806386820,
       "audio_languages": [
         "en",
@@ -12767,6 +14053,8 @@ window.PLEX_DATA = {
         "Eiza González"
       ],
       "imdb_id": "tt27075958",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 3355536245,
       "audio_languages": [
         "en"
@@ -12786,6 +14074,8 @@ window.PLEX_DATA = {
         "Robert Duvall"
       ],
       "imdb_id": "tt0369436",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5829710375,
       "audio_languages": [
         "en",
@@ -12806,6 +14096,8 @@ window.PLEX_DATA = {
         "David Proval"
       ],
       "imdb_id": "tt0113101",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7877784967,
       "audio_languages": [
         "en",
@@ -12826,6 +14118,8 @@ window.PLEX_DATA = {
         "Kristin Scott Thomas"
       ],
       "imdb_id": "tt0109831",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7894867060,
       "audio_languages": [
         "en",
@@ -12846,6 +14140,8 @@ window.PLEX_DATA = {
         "David Strathairn"
       ],
       "imdb_id": "tt0488120",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7426332689,
       "audio_languages": [
         "en",
@@ -12866,6 +14162,8 @@ window.PLEX_DATA = {
         "Powers Boothe"
       ],
       "imdb_id": "tt0264616",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6914978710,
       "audio_languages": [
         "en",
@@ -12886,6 +14184,8 @@ window.PLEX_DATA = {
         "Héctor Elizondo"
       ],
       "imdb_id": "tt0101912",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 12072354727,
       "audio_languages": [
         "en",
@@ -12906,6 +14206,8 @@ window.PLEX_DATA = {
         "Armie Hammer"
       ],
       "imdb_id": "tt4158096",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6253281759,
       "audio_languages": [
         "en",
@@ -12926,6 +14228,8 @@ window.PLEX_DATA = {
         "Lil Rel Howery"
       ],
       "imdb_id": "tt6264654",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9635179547,
       "audio_languages": [
         "en",
@@ -12946,6 +14250,8 @@ window.PLEX_DATA = {
         "Jenna Elfman"
       ],
       "imdb_id": "tt1632708",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 11202616592,
       "audio_languages": [
         "en",
@@ -12966,6 +14272,8 @@ window.PLEX_DATA = {
         "Catherine Keener"
       ],
       "imdb_id": "tt0436331",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4988216795,
       "audio_languages": [
         "en",
@@ -12986,6 +14294,8 @@ window.PLEX_DATA = {
         "Amanda Bearse"
       ],
       "imdb_id": "tt0089175",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4580492221,
       "audio_languages": [
         "en",
@@ -13006,6 +14316,8 @@ window.PLEX_DATA = {
         "Traci Lind"
       ],
       "imdb_id": "tt0097390",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6699062257,
       "audio_languages": [
         "en",
@@ -13026,6 +14338,8 @@ window.PLEX_DATA = {
         "Harvey Keitel"
       ],
       "imdb_id": "tt0116367",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 11212354516,
       "audio_languages": [
         "en",
@@ -13046,6 +14360,8 @@ window.PLEX_DATA = {
         "Duane Whitaker"
       ],
       "imdb_id": "tt0120860",
+      "imdb_score": 4.2,
+      "resolution": 720,
       "size_bytes": 5001549983,
       "audio_languages": [
         "en",
@@ -13066,6 +14382,8 @@ window.PLEX_DATA = {
         "Rebecca Gayheart"
       ],
       "imdb_id": "tt0120695",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 3621319805,
       "audio_languages": [
         "en",
@@ -13086,6 +14404,8 @@ window.PLEX_DATA = {
         "Pedro Armendáriz"
       ],
       "imdb_id": "tt0057076",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7168605905,
       "audio_languages": [
         "hu"
@@ -13105,6 +14425,8 @@ window.PLEX_DATA = {
         "Elke Sommer"
       ],
       "imdb_id": "tt0058709",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 8651228133,
       "audio_languages": [
         "de",
@@ -13126,6 +14448,8 @@ window.PLEX_DATA = {
         "Jonathan Groff"
       ],
       "imdb_id": "tt2294629",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6058939852,
       "audio_languages": [
         "en",
@@ -13146,6 +14470,8 @@ window.PLEX_DATA = {
         "Josh Gad"
       ],
       "imdb_id": "tt4520988",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5440317263,
       "audio_languages": [
         "en",
@@ -13166,6 +14492,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt0369441",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4666635264,
       "audio_languages": [
         "en",
@@ -13186,6 +14514,8 @@ window.PLEX_DATA = {
         "Leslie Mann"
       ],
       "imdb_id": "tt1201167",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7259133588,
       "audio_languages": [
         "en",
@@ -13206,6 +14536,8 @@ window.PLEX_DATA = {
         "Tom Burke"
       ],
       "imdb_id": "tt12037194",
+      "imdb_score": 7.5,
+      "resolution": 2160,
       "size_bytes": 36849975083,
       "audio_languages": [
         "en",
@@ -13226,6 +14558,8 @@ window.PLEX_DATA = {
         "Dwayne Johnson"
       ],
       "imdb_id": "tt2820852",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 27585899411,
       "audio_languages": [
         "en",
@@ -13246,6 +14580,8 @@ window.PLEX_DATA = {
         "Logan Lerman"
       ],
       "imdb_id": "tt2713180",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 9383160909,
       "audio_languages": [
         "en",
@@ -13266,6 +14602,8 @@ window.PLEX_DATA = {
         "Morris Chestnut"
       ],
       "imdb_id": "tt0119173",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4693128989,
       "audio_languages": [
         "en",
@@ -13286,6 +14624,8 @@ window.PLEX_DATA = {
         "Jonathan Pryce"
       ],
       "imdb_id": "tt1583421",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 9284224761,
       "audio_languages": [
         "en",
@@ -13306,6 +14646,8 @@ window.PLEX_DATA = {
         "Lee Byung-hun"
       ],
       "imdb_id": "tt1046173",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4697195169,
       "audio_languages": [
         "hu"
@@ -13325,6 +14667,8 @@ window.PLEX_DATA = {
         "Alan Rickman"
       ],
       "imdb_id": "tt0404978",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5425790783,
       "audio_languages": [
         "en",
@@ -13345,6 +14689,8 @@ window.PLEX_DATA = {
         "Michael C. Hall"
       ],
       "imdb_id": "tt1034032",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 6121941411,
       "audio_languages": [
         "en",
@@ -13365,6 +14711,8 @@ window.PLEX_DATA = {
         "Sean Penn"
       ],
       "imdb_id": "tt1321870",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5829758234,
       "audio_languages": [
         "en",
@@ -13385,6 +14733,8 @@ window.PLEX_DATA = {
         "Jude Law"
       ],
       "imdb_id": "tt0119177",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 4679606640,
       "audio_languages": [
         "en",
@@ -13405,6 +14755,8 @@ window.PLEX_DATA = {
         "Clive Owen"
       ],
       "imdb_id": "tt1025100",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7438714723,
       "audio_languages": [
         "en",
@@ -13425,6 +14777,8 @@ window.PLEX_DATA = {
         "Denée Benton"
       ],
       "imdb_id": "tt24429218",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 3534681954,
       "audio_languages": [
         "en",
@@ -13445,6 +14799,8 @@ window.PLEX_DATA = {
         "Thomas Haden Church"
       ],
       "imdb_id": "tt0119190",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 3460491658,
       "audio_languages": [
         "en",
@@ -13465,6 +14821,8 @@ window.PLEX_DATA = {
         "Angus T. Jones"
       ],
       "imdb_id": "tt0322389",
+      "imdb_score": 3.4,
+      "resolution": 720,
       "size_bytes": 3094917424,
       "audio_languages": [
         "en",
@@ -13485,6 +14843,8 @@ window.PLEX_DATA = {
         "Melissa Sagemiller"
       ],
       "imdb_id": "tt0192071",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 6623024731,
       "audio_languages": [
         "en",
@@ -13505,6 +14865,8 @@ window.PLEX_DATA = {
         "Rene Russo"
       ],
       "imdb_id": "tt0113161",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 8324981977,
       "audio_languages": [
         "en",
@@ -13525,6 +14887,8 @@ window.PLEX_DATA = {
         "Dwayne Johnson"
       ],
       "imdb_id": "tt0425061",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5148067871,
       "audio_languages": [
         "en",
@@ -13545,6 +14909,8 @@ window.PLEX_DATA = {
         "Pilou Asbæk"
       ],
       "imdb_id": "tt1219827",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7752534533,
       "audio_languages": [
         "en",
@@ -13565,6 +14931,8 @@ window.PLEX_DATA = {
         "Sam Elliott"
       ],
       "imdb_id": "tt0259324",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 14364529273,
       "audio_languages": [
         "en",
@@ -13585,6 +14953,8 @@ window.PLEX_DATA = {
         "Violante Placido"
       ],
       "imdb_id": "tt1071875",
+      "imdb_score": 4.4,
+      "resolution": 1080,
       "size_bytes": 10889139286,
       "audio_languages": [
         "en",
@@ -13605,6 +14975,8 @@ window.PLEX_DATA = {
         "Téa Leoni"
       ],
       "imdb_id": "tt0995039",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5164922181,
       "audio_languages": [
         "en",
@@ -13625,6 +14997,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0087332",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8805360255,
       "audio_languages": [
         "en",
@@ -13645,6 +15019,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0097428",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7339346141,
       "audio_languages": [
         "en",
@@ -13665,6 +15041,8 @@ window.PLEX_DATA = {
         "Carrie Coon"
       ],
       "imdb_id": "tt4513678",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6465241380,
       "audio_languages": [
         "en",
@@ -13685,6 +15063,8 @@ window.PLEX_DATA = {
         "Carrie Coon"
       ],
       "imdb_id": "tt21235248",
+      "imdb_score": 6.1,
+      "resolution": 576,
       "size_bytes": 3412761958,
       "audio_languages": [
         "en",
@@ -13705,6 +15085,8 @@ window.PLEX_DATA = {
         "Adrien Brody"
       ],
       "imdb_id": "tt15326988",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 3114894476,
       "audio_languages": [
         "en"
@@ -13724,6 +15106,8 @@ window.PLEX_DATA = {
         "Michael Douglas"
       ],
       "imdb_id": "tt0821640",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5675207198,
       "audio_languages": [
         "en",
@@ -13744,6 +15128,8 @@ window.PLEX_DATA = {
         "James Woods"
       ],
       "imdb_id": "tt0116410",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4154632456,
       "audio_languages": [
         "en",
@@ -13764,6 +15150,8 @@ window.PLEX_DATA = {
         "Eric Michael Cole"
       ],
       "imdb_id": "tt0123865",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7223484428,
       "audio_languages": [
         "en",
@@ -13784,6 +15172,8 @@ window.PLEX_DATA = {
         "Lindsay Duncan"
       ],
       "imdb_id": "tt4481414",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 5861071234,
       "audio_languages": [
         "en",
@@ -13804,6 +15194,8 @@ window.PLEX_DATA = {
         "Tom Wilkinson"
       ],
       "imdb_id": "tt0335119",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7046957284,
       "audio_languages": [
         "en",
@@ -13824,6 +15216,8 @@ window.PLEX_DATA = {
         "Clea DuVall"
       ],
       "imdb_id": "tt0172493",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9271541216,
       "audio_languages": [
         "en",
@@ -13844,6 +15238,8 @@ window.PLEX_DATA = {
         "Jada Pinkett Smith"
       ],
       "imdb_id": "tt3564472",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6035871576,
       "audio_languages": [
         "en",
@@ -13864,6 +15260,8 @@ window.PLEX_DATA = {
         "Connie Nielsen"
       ],
       "imdb_id": "tt0172495",
+      "imdb_score": 8.5,
+      "resolution": 1080,
       "size_bytes": 21527019400,
       "audio_languages": [
         "en",
@@ -13884,6 +15282,8 @@ window.PLEX_DATA = {
         "Pedro Pascal"
       ],
       "imdb_id": "tt9218128",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 18572226306,
       "audio_languages": [
         "en",
@@ -13904,6 +15304,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt6823368",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 17132094589,
       "audio_languages": [
         "en",
@@ -13923,6 +15325,8 @@ window.PLEX_DATA = {
         "Sándor Gáspár"
       ],
       "imdb_id": "tt0257290",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 4152380519,
       "audio_languages": [
         "hu"
@@ -13941,6 +15345,8 @@ window.PLEX_DATA = {
         "Gábor Reviczky"
       ],
       "imdb_id": "tt0476508",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 8225625823,
       "audio_languages": [
         "hu"
@@ -13959,6 +15365,8 @@ window.PLEX_DATA = {
         "Sándor Gáspár"
       ],
       "imdb_id": "tt1683040",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6929463823,
       "audio_languages": [
         "hu"
@@ -13978,6 +15386,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt0104348",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4884107454,
       "audio_languages": [
         "en",
@@ -13998,6 +15408,8 @@ window.PLEX_DATA = {
         "Buffy Dee"
       ],
       "imdb_id": "tt0085601",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6052326539,
       "audio_languages": [
         "de",
@@ -14018,6 +15430,8 @@ window.PLEX_DATA = {
         "Frank Wolff"
       ],
       "imdb_id": "tt0061576",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 1965256299,
       "audio_languages": [],
       "has_subtitles": true
@@ -14035,6 +15449,8 @@ window.PLEX_DATA = {
         "Gerard Butler"
       ],
       "imdb_id": "tt2404233",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7939419990,
       "audio_languages": [
         "en",
@@ -14055,6 +15471,8 @@ window.PLEX_DATA = {
         "Maria Pitillo"
       ],
       "imdb_id": "tt0120685",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 12899888129,
       "audio_languages": [
         "en",
@@ -14075,6 +15493,8 @@ window.PLEX_DATA = {
         "Juliette Binoche"
       ],
       "imdb_id": "tt0831387",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 14092074234,
       "audio_languages": [
         "en",
@@ -14095,6 +15515,8 @@ window.PLEX_DATA = {
         "Kaylee Hottle"
       ],
       "imdb_id": "tt5034838",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 13711992373,
       "audio_languages": [
         "en",
@@ -14115,6 +15537,8 @@ window.PLEX_DATA = {
         "Dan Stevens"
       ],
       "imdb_id": "tt14539740",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 27869144644,
       "audio_languages": [
         "en",
@@ -14135,6 +15559,8 @@ window.PLEX_DATA = {
         "Millie Bobby Brown"
       ],
       "imdb_id": "tt3741700",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 19433838489,
       "audio_languages": [
         "en",
@@ -14155,6 +15581,8 @@ window.PLEX_DATA = {
         "Alan Arkin"
       ],
       "imdb_id": "tt2568862",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5451016031,
       "audio_languages": [
         "en",
@@ -14175,6 +15603,8 @@ window.PLEX_DATA = {
         "Charlie Day"
       ],
       "imdb_id": "tt1322312",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4982375053,
       "audio_languages": [
         "en",
@@ -14195,6 +15625,8 @@ window.PLEX_DATA = {
         "Izabella Scorupco"
       ],
       "imdb_id": "tt0113189",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8930789529,
       "audio_languages": [
         "en",
@@ -14215,6 +15647,8 @@ window.PLEX_DATA = {
         "Honor Blackman"
       ],
       "imdb_id": "tt0058150",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6287455637,
       "audio_languages": [
         "en",
@@ -14235,6 +15669,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0452623",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8226302962,
       "audio_languages": [
         "en",
@@ -14255,6 +15691,8 @@ window.PLEX_DATA = {
         "Giovanni Ribisi"
       ],
       "imdb_id": "tt0187078",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4692680686,
       "audio_languages": [
         "hu"
@@ -14274,6 +15712,8 @@ window.PLEX_DATA = {
         "Dan Fogler"
       ],
       "imdb_id": "tt0452625",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 8814070188,
       "audio_languages": [
         "en",
@@ -14294,6 +15734,8 @@ window.PLEX_DATA = {
         "Ben Affleck"
       ],
       "imdb_id": "tt0119217",
+      "imdb_score": 8.4,
+      "resolution": 720,
       "size_bytes": 11414987097,
       "audio_languages": [
         "en",
@@ -14314,6 +15756,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt0099685",
+      "imdb_score": 8.7,
+      "resolution": 720,
       "size_bytes": 12917383372,
       "audio_languages": [
         "en",
@@ -14334,6 +15778,8 @@ window.PLEX_DATA = {
         "Charles S. Dutton"
       ],
       "imdb_id": "tt0348836",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6221159730,
       "audio_languages": [
         "en",
@@ -14354,6 +15800,8 @@ window.PLEX_DATA = {
         "Shedrack Anderson III"
       ],
       "imdb_id": "tt0395565",
+      "imdb_score": 7.4,
+      "resolution": 480,
       "size_bytes": 991942656,
       "audio_languages": [],
       "has_subtitles": true
@@ -14370,6 +15818,8 @@ window.PLEX_DATA = {
         "Bee Vang"
       ],
       "imdb_id": "tt1205489",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 9092553886,
       "audio_languages": [
         "en",
@@ -14390,6 +15840,8 @@ window.PLEX_DATA = {
         "Emilia Crow"
       ],
       "imdb_id": "tt0104362",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4553459339,
       "audio_languages": [
         "en",
@@ -14410,6 +15862,8 @@ window.PLEX_DATA = {
         "Peter Sarsgaard"
       ],
       "imdb_id": "tt1133985",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 13568726927,
       "audio_languages": [
         "en",
@@ -14430,6 +15884,8 @@ window.PLEX_DATA = {
         "David Denman"
       ],
       "imdb_id": "tt7737786",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 9193725876,
       "audio_languages": [
         "en",
@@ -14450,6 +15906,8 @@ window.PLEX_DATA = {
         "Roman Griffin Davis"
       ],
       "imdb_id": "tt14850054",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 6001693765,
       "audio_languages": [
         "en"
@@ -14469,6 +15927,8 @@ window.PLEX_DATA = {
         "Hoyt Axton"
       ],
       "imdb_id": "tt0087363",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7762556230,
       "audio_languages": [
         "en",
@@ -14489,6 +15949,8 @@ window.PLEX_DATA = {
         "John Glover"
       ],
       "imdb_id": "tt0099700",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7025962828,
       "audio_languages": [
         "en",
@@ -14509,6 +15971,8 @@ window.PLEX_DATA = {
         "Delyth Jones"
       ],
       "imdb_id": "tt2304659",
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 13231999244,
       "audio_languages": [
         "en",
@@ -14529,6 +15993,8 @@ window.PLEX_DATA = {
         "Dan Aykroyd"
       ],
       "imdb_id": "tt0119229",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6234852844,
       "audio_languages": [
         "en",
@@ -14548,6 +16014,8 @@ window.PLEX_DATA = {
         "Chris Rock"
       ],
       "imdb_id": "tt1375670",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 9978343115,
       "audio_languages": [
         "en",
@@ -14567,6 +16035,8 @@ window.PLEX_DATA = {
         "Chris Rock"
       ],
       "imdb_id": "tt2191701",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 12236163047,
       "audio_languages": [
         "en",
@@ -14587,6 +16057,8 @@ window.PLEX_DATA = {
         "Ann-Margret"
       ],
       "imdb_id": "tt0113228",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6170494393,
       "audio_languages": [
         "en",
@@ -14607,6 +16079,8 @@ window.PLEX_DATA = {
         "Ann-Margret"
       ],
       "imdb_id": "tt0107050",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4846641342,
       "audio_languages": [
         "en",
@@ -14627,6 +16101,8 @@ window.PLEX_DATA = {
         "Dave Bautista"
       ],
       "imdb_id": "tt2015381",
+      "imdb_score": 8.0,
+      "resolution": 2160,
       "size_bytes": 16331837667,
       "audio_languages": [
         "en",
@@ -14647,6 +16123,8 @@ window.PLEX_DATA = {
         "Dave Bautista"
       ],
       "imdb_id": "tt3896198",
+      "imdb_score": 7.6,
+      "resolution": 2160,
       "size_bytes": 31328166660,
       "audio_languages": [
         "en",
@@ -14667,6 +16145,8 @@ window.PLEX_DATA = {
         "Dave Bautista"
       ],
       "imdb_id": "tt6791350",
+      "imdb_score": 7.9,
+      "resolution": 2160,
       "size_bytes": 25203251927,
       "audio_languages": [
         "en",
@@ -14687,6 +16167,8 @@ window.PLEX_DATA = {
         "Zoe Saldaña"
       ],
       "imdb_id": "tt0372237",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 3661647722,
       "audio_languages": [
         "en",
@@ -14707,6 +16189,8 @@ window.PLEX_DATA = {
         "Matthew Lillard"
       ],
       "imdb_id": "tt0113243",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5646473276,
       "audio_languages": [
         "en",
@@ -14727,6 +16211,8 @@ window.PLEX_DATA = {
         "Vince Vaughn"
       ],
       "imdb_id": "tt2119532",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 8189265308,
       "audio_languages": [
         "en",
@@ -14747,6 +16233,8 @@ window.PLEX_DATA = {
         "Jenna Fischer"
       ],
       "imdb_id": "tt0480687",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4854612818,
       "audio_languages": [
         "en",
@@ -14767,6 +16255,8 @@ window.PLEX_DATA = {
         "Alexander Bhat"
       ],
       "imdb_id": null,
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4682752783,
       "audio_languages": [
         "en",
@@ -14787,6 +16277,8 @@ window.PLEX_DATA = {
         "Jason Bateman"
       ],
       "imdb_id": "tt0448157",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4409909347,
       "audio_languages": [
         "en",
@@ -14807,6 +16299,8 @@ window.PLEX_DATA = {
         "Gary Oldman"
       ],
       "imdb_id": "tt0212985",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 33950876089,
       "audio_languages": [
         "en",
@@ -14827,6 +16321,8 @@ window.PLEX_DATA = {
         "Gong Li"
       ],
       "imdb_id": "tt0367959",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 12213719345,
       "audio_languages": [
         "en",
@@ -14847,6 +16343,8 @@ window.PLEX_DATA = {
         "Famke Janssen"
       ],
       "imdb_id": "tt1428538",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 7696529344,
       "audio_languages": [
         "en",
@@ -14867,6 +16365,8 @@ window.PLEX_DATA = {
         "Mary Steenburgen"
       ],
       "imdb_id": "tt8522006",
+      "imdb_score": 6.6,
+      "resolution": 576,
       "size_bytes": 2783609098,
       "audio_languages": [
         "en",
@@ -14887,6 +16387,8 @@ window.PLEX_DATA = {
         "Dylan Baker"
       ],
       "imdb_id": "tt0147612",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 15086229884,
       "audio_languages": [
         "en",
@@ -14907,6 +16409,8 @@ window.PLEX_DATA = {
         "Julie Bowen"
       ],
       "imdb_id": "tt0116483",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5777156984,
       "audio_languages": [
         "en",
@@ -14927,6 +16431,8 @@ window.PLEX_DATA = {
         "Christopher McDonald"
       ],
       "imdb_id": "tt31868189",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 3359190198,
       "audio_languages": [
         "en",
@@ -14947,6 +16453,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0295297",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 18207638681,
       "audio_languages": [
         "en",
@@ -14967,6 +16475,8 @@ window.PLEX_DATA = {
         "Rupert Grint"
       ],
       "imdb_id": "tt0926084",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 17147596585,
       "audio_languages": [
         "en",
@@ -14987,6 +16497,8 @@ window.PLEX_DATA = {
         "Rupert Grint"
       ],
       "imdb_id": "tt1201607",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 13021715703,
       "audio_languages": [
         "en",
@@ -15007,6 +16519,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0330373",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 17743236499,
       "audio_languages": [
         "en",
@@ -15027,6 +16541,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0417741",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 23049993751,
       "audio_languages": [
         "en",
@@ -15047,6 +16563,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0373889",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 14899393814,
       "audio_languages": [
         "en",
@@ -15067,6 +16585,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0304141",
+      "imdb_score": 7.9,
+      "resolution": 1080,
       "size_bytes": 18284180990,
       "audio_languages": [
         "en",
@@ -15087,6 +16607,8 @@ window.PLEX_DATA = {
         "Emma Watson"
       ],
       "imdb_id": "tt0241527",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 20586942308,
       "audio_languages": [
         "en",
@@ -15107,6 +16629,8 @@ window.PLEX_DATA = {
         "Anthony Andrews"
       ],
       "imdb_id": "tt0113269",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6528242770,
       "audio_languages": [
         "en",
@@ -15127,6 +16651,8 @@ window.PLEX_DATA = {
         "LaKeith Stanfield"
       ],
       "imdb_id": "tt1695843",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4732056565,
       "audio_languages": [
         "en",
@@ -15147,6 +16673,8 @@ window.PLEX_DATA = {
         "Timothy Olyphant"
       ],
       "imdb_id": "tt14123284",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 3034485692,
       "audio_languages": [
         "en",
@@ -15167,6 +16695,8 @@ window.PLEX_DATA = {
         "Tom Ward"
       ],
       "imdb_id": "tt0395571",
+      "imdb_score": 7.4,
+      "resolution": null,
       "size_bytes": 739287040,
       "audio_languages": [],
       "has_subtitles": true
@@ -15184,6 +16714,8 @@ window.PLEX_DATA = {
         "Jennifer Aniston"
       ],
       "imdb_id": "tt1001508",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6150434498,
       "audio_languages": [
         "en",
@@ -15204,6 +16736,8 @@ window.PLEX_DATA = {
         "Billy Zane"
       ],
       "imdb_id": "tt0116502",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5588303078,
       "audio_languages": [
         "en",
@@ -15224,6 +16758,8 @@ window.PLEX_DATA = {
         "Jason Lee"
       ],
       "imdb_id": "tt0125022",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 9108744057,
       "audio_languages": [
         "en",
@@ -15244,6 +16780,8 @@ window.PLEX_DATA = {
         "Val Kilmer"
       ],
       "imdb_id": "tt0113277",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 8832878117,
       "audio_languages": [
         "hu"
@@ -15263,6 +16801,8 @@ window.PLEX_DATA = {
         "John Hurt"
       ],
       "imdb_id": "tt0080855",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7232023213,
       "audio_languages": [
         "hu"
@@ -15282,6 +16822,8 @@ window.PLEX_DATA = {
         "Eric Roberts"
       ],
       "imdb_id": "tt0116508",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5981537724,
       "audio_languages": [
         "hu"
@@ -15301,6 +16843,8 @@ window.PLEX_DATA = {
         "Sarah Peirse"
       ],
       "imdb_id": "tt0110005",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5011158988,
       "audio_languages": [
         "en",
@@ -15321,6 +16865,8 @@ window.PLEX_DATA = {
         "Ben Foster"
       ],
       "imdb_id": "tt2582782",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7370647090,
       "audio_languages": [
         "en",
@@ -15341,6 +16887,8 @@ window.PLEX_DATA = {
         "Doug Jones"
       ],
       "imdb_id": "tt0167190",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 29387960815,
       "audio_languages": [
         "en",
@@ -15361,6 +16909,8 @@ window.PLEX_DATA = {
         "Ian McShane"
       ],
       "imdb_id": "tt2274648",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 12876583560,
       "audio_languages": [
         "en",
@@ -15381,6 +16931,8 @@ window.PLEX_DATA = {
         "Doug Jones"
       ],
       "imdb_id": "tt0411477",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 25418963314,
       "audio_languages": [
         "en",
@@ -15401,6 +16953,8 @@ window.PLEX_DATA = {
         "Parker Posey"
       ],
       "imdb_id": "tt0122529",
+      "imdb_score": 7.1,
+      "resolution": 480,
       "size_bytes": 1376793460,
       "audio_languages": [],
       "has_subtitles": true
@@ -15418,6 +16972,8 @@ window.PLEX_DATA = {
         "Chloe East"
       ],
       "imdb_id": "tt28015403",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7269181066,
       "audio_languages": [
         "en",
@@ -15438,6 +16994,8 @@ window.PLEX_DATA = {
         "Eddie Redmayne"
       ],
       "imdb_id": "tt1205558",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5653867378,
       "audio_languages": [
         "en",
@@ -15458,6 +17016,8 @@ window.PLEX_DATA = {
         "Janelle Monáe"
       ],
       "imdb_id": "tt4846340",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 7053044207,
       "audio_languages": [
         "en",
@@ -15478,6 +17038,8 @@ window.PLEX_DATA = {
         "Jim Caviezel"
       ],
       "imdb_id": "tt0257756",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6998687696,
       "audio_languages": [
         "en",
@@ -15498,6 +17060,8 @@ window.PLEX_DATA = {
         "Todd Louiso"
       ],
       "imdb_id": "tt0146882",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 8098954171,
       "audio_languages": [
         "en",
@@ -15518,6 +17082,8 @@ window.PLEX_DATA = {
         "Clancy Brown"
       ],
       "imdb_id": "tt0091203",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8553996834,
       "audio_languages": [
         "en",
@@ -15538,6 +17104,8 @@ window.PLEX_DATA = {
         "Virginia Madsen"
       ],
       "imdb_id": "tt0102034",
+      "imdb_score": 4.2,
+      "resolution": 720,
       "size_bytes": 5566180469,
       "audio_languages": [
         "en",
@@ -15558,6 +17126,8 @@ window.PLEX_DATA = {
         "Bruce Payne"
       ],
       "imdb_id": "tt0144964",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 6240769468,
       "audio_languages": [
         "en",
@@ -15578,6 +17148,8 @@ window.PLEX_DATA = {
         "Deborah Kara Unger"
       ],
       "imdb_id": "tt0110027",
+      "imdb_score": 4.5,
+      "resolution": 720,
       "size_bytes": 4178215576,
       "audio_languages": [
         "en",
@@ -15598,6 +17170,8 @@ window.PLEX_DATA = {
         "Cristian Solimeno"
       ],
       "imdb_id": "tt0299981",
+      "imdb_score": 3.0,
+      "resolution": 576,
       "size_bytes": 1200224709,
       "audio_languages": [
         "hu"
@@ -15617,6 +17191,8 @@ window.PLEX_DATA = {
         "Kevin James"
       ],
       "imdb_id": "tt0386588",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8506696643,
       "audio_languages": [
         "en",
@@ -15637,6 +17213,8 @@ window.PLEX_DATA = {
         "Salma Hayek Pinault"
       ],
       "imdb_id": "tt8385148",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5948139514,
       "audio_languages": [
         "en",
@@ -15657,6 +17235,8 @@ window.PLEX_DATA = {
         "Kristin Chenoweth"
       ],
       "imdb_id": "tt9866072",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 5461397403,
       "audio_languages": [
         "en",
@@ -15677,6 +17257,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt0164052",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4689580594,
       "audio_languages": [
         "hu"
@@ -15696,6 +17278,8 @@ window.PLEX_DATA = {
         "Julie Hamilton"
       ],
       "imdb_id": "tt0144715",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4378415685,
       "audio_languages": [
         "en",
@@ -15716,6 +17300,8 @@ window.PLEX_DATA = {
         "Daniel Stern"
       ],
       "imdb_id": "tt0099785",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8260996790,
       "audio_languages": [
         "en",
@@ -15736,6 +17322,8 @@ window.PLEX_DATA = {
         "Daniel Stern"
       ],
       "imdb_id": "tt0104431",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 11942650087,
       "audio_languages": [
         "en",
@@ -15756,6 +17344,8 @@ window.PLEX_DATA = {
         "Izabela Vidovic"
       ],
       "imdb_id": "tt2312718",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6286422651,
       "audio_languages": [
         "en",
@@ -15776,6 +17366,8 @@ window.PLEX_DATA = {
         "Jai Courtney"
       ],
       "imdb_id": "tt1838556",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4969253480,
       "audio_languages": [
         "en",
@@ -15796,6 +17388,8 @@ window.PLEX_DATA = {
         "Vanessa Williams"
       ],
       "imdb_id": "tt0119311",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7923054229,
       "audio_languages": [
         "en",
@@ -15816,6 +17410,8 @@ window.PLEX_DATA = {
         "Julia Roberts"
       ],
       "imdb_id": "tt0102057",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8541514761,
       "audio_languages": [
         "en",
@@ -15836,6 +17432,8 @@ window.PLEX_DATA = {
         "Gena Rowlands"
       ],
       "imdb_id": "tt0119313",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7153959290,
       "audio_languages": [
         "en",
@@ -15856,6 +17454,8 @@ window.PLEX_DATA = {
         "Sam Worthington"
       ],
       "imdb_id": "tt17505010",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 13753253426,
       "audio_languages": [
         "en",
@@ -15876,6 +17476,8 @@ window.PLEX_DATA = {
         "Jason Sudeikis"
       ],
       "imdb_id": "tt1499658",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7040294526,
       "audio_languages": [
         "en",
@@ -15896,6 +17498,8 @@ window.PLEX_DATA = {
         "Charlie Day"
       ],
       "imdb_id": "tt2170439",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6307474567,
       "audio_languages": [
         "en",
@@ -15916,6 +17520,8 @@ window.PLEX_DATA = {
         "Sofia Boutella"
       ],
       "imdb_id": "tt5834262",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5571413781,
       "audio_languages": [
         "en",
@@ -15936,6 +17542,8 @@ window.PLEX_DATA = {
         "Christopher Matthew Cook"
       ],
       "imdb_id": "tt2094018",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 11416455059,
       "audio_languages": [
         "en",
@@ -15955,6 +17563,8 @@ window.PLEX_DATA = {
         "Katey Sagal"
       ],
       "imdb_id": "tt1054631",
+      "imdb_score": 4.6,
+      "resolution": null,
       "size_bytes": 1539372359,
       "audio_languages": [
         "hu"
@@ -15974,6 +17584,8 @@ window.PLEX_DATA = {
         "Leslie Mann"
       ],
       "imdb_id": "tt1292566",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7707708727,
       "audio_languages": [
         "en",
@@ -15994,6 +17606,8 @@ window.PLEX_DATA = {
         "Kathryn Hahn"
       ],
       "imdb_id": "tt0251127",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7350203321,
       "audio_languages": [
         "en",
@@ -16014,6 +17628,8 @@ window.PLEX_DATA = {
         "Danny Huston"
       ],
       "imdb_id": "tt0455538",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4879291948,
       "audio_languages": [
         "en",
@@ -16034,6 +17650,8 @@ window.PLEX_DATA = {
         "Craig Ferguson"
       ],
       "imdb_id": "tt0892769",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 3190331752,
       "audio_languages": [
         "en",
@@ -16054,6 +17672,8 @@ window.PLEX_DATA = {
         "Gerard Butler"
       ],
       "imdb_id": "tt26743210",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7996360832,
       "audio_languages": [
         "en",
@@ -16074,6 +17694,8 @@ window.PLEX_DATA = {
         "Gerard Butler"
       ],
       "imdb_id": "tt1646971",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 6381816067,
       "audio_languages": [
         "en",
@@ -16094,6 +17716,8 @@ window.PLEX_DATA = {
         "F. Murray Abraham"
       ],
       "imdb_id": "tt2386490",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 5431979219,
       "audio_languages": [
         "en",
@@ -16114,6 +17738,8 @@ window.PLEX_DATA = {
         "Tim Robbins"
       ],
       "imdb_id": "tt0091225",
+      "imdb_score": 4.8,
+      "resolution": 1080,
       "size_bytes": 18628990604,
       "audio_languages": [
         "en",
@@ -16134,6 +17760,8 @@ window.PLEX_DATA = {
         "Chloë Grace Moretz"
       ],
       "imdb_id": "tt0970179",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8204893468,
       "audio_languages": [
         "en",
@@ -16154,6 +17782,8 @@ window.PLEX_DATA = {
         "Sam Elliott"
       ],
       "imdb_id": "tt0286716",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 24949145580,
       "audio_languages": [
         "en",
@@ -16174,6 +17804,8 @@ window.PLEX_DATA = {
         "Jordi Mollà"
       ],
       "imdb_id": "tt32537226",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 3610120076,
       "audio_languages": [
         "en",
@@ -16194,6 +17826,8 @@ window.PLEX_DATA = {
         "William Fichtner"
       ],
       "imdb_id": "tt8080204",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4120362966,
       "audio_languages": [
         "en",
@@ -16214,6 +17848,8 @@ window.PLEX_DATA = {
         "Charlie Tahan"
       ],
       "imdb_id": "tt0480249",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7045675706,
       "audio_languages": [
         "en",
@@ -16234,6 +17870,8 @@ window.PLEX_DATA = {
         "Hilary Swank"
       ],
       "imdb_id": "tt6292852",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 3082910146,
       "audio_languages": [
         "en"
@@ -16252,6 +17890,8 @@ window.PLEX_DATA = {
         "Dianne Wiest"
       ],
       "imdb_id": "tt0277027",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8916826799,
       "audio_languages": [
         "en",
@@ -16272,6 +17912,8 @@ window.PLEX_DATA = {
         "Kim Hawthorne"
       ],
       "imdb_id": "tt9053916",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 1840235366,
       "audio_languages": [
         "en",
@@ -16292,6 +17934,8 @@ window.PLEX_DATA = {
         "Saoirse Ronan"
       ],
       "imdb_id": "tt0466839",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4518045988,
       "audio_languages": [
         "en",
@@ -16312,6 +17956,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt0356721",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3824133658,
       "audio_languages": [
         "en",
@@ -16332,6 +17978,8 @@ window.PLEX_DATA = {
         "Sarah Michelle Gellar"
       ],
       "imdb_id": "tt0119345",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6348833877,
       "audio_languages": [
         "en",
@@ -16352,6 +18000,8 @@ window.PLEX_DATA = {
         "Sarah Pidgeon"
       ],
       "imdb_id": "tt4045450",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 4248469010,
       "audio_languages": [
         "en",
@@ -16372,6 +18022,8 @@ window.PLEX_DATA = {
         "Saul Rubinek"
       ],
       "imdb_id": "tt0110093",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7222608527,
       "audio_languages": [
         "en",
@@ -16392,6 +18044,8 @@ window.PLEX_DATA = {
         "Rashida Jones"
       ],
       "imdb_id": "tt1155056",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6885687028,
       "audio_languages": [
         "en",
@@ -16412,6 +18066,8 @@ window.PLEX_DATA = {
         "Jessica Biel"
       ],
       "imdb_id": "tt0762107",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6913921588,
       "audio_languages": [
         "en",
@@ -16432,6 +18088,8 @@ window.PLEX_DATA = {
         "Richard Pace"
       ],
       "imdb_id": "tt0077713",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 6783838851,
       "audio_languages": [
         "en"
@@ -16451,6 +18109,8 @@ window.PLEX_DATA = {
         "Tracey Walter"
       ],
       "imdb_id": "tt1242432",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5554340029,
       "audio_languages": [
         "en",
@@ -16471,6 +18131,8 @@ window.PLEX_DATA = {
         "Aleksandar Aleksiev"
       ],
       "imdb_id": "tt2537176",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4677247613,
       "audio_languages": [
         "en"
@@ -16490,6 +18152,8 @@ window.PLEX_DATA = {
         "Jeff Branson"
       ],
       "imdb_id": "tt4530884",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 4696987736,
       "audio_languages": [
         "en"
@@ -16509,6 +18173,8 @@ window.PLEX_DATA = {
         "Matthew Settle"
       ],
       "imdb_id": "tt0130018",
+      "imdb_score": 4.8,
+      "resolution": 1080,
       "size_bytes": 8823085611,
       "audio_languages": [
         "en",
@@ -16529,6 +18195,8 @@ window.PLEX_DATA = {
         "Dermot Mulroney"
       ],
       "imdb_id": "tt2160105",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4053026392,
       "audio_languages": [
         "en",
@@ -16549,6 +18217,8 @@ window.PLEX_DATA = {
         "Torrey DeVitto"
       ],
       "imdb_id": "tt0469111",
+      "imdb_score": 3.3,
+      "resolution": 1080,
       "size_bytes": 10379465351,
       "audio_languages": [
         "en",
@@ -16569,6 +18239,8 @@ window.PLEX_DATA = {
         "Joe Bugner"
       ],
       "imdb_id": "tt0079351",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3758048109,
       "audio_languages": [
         "hu"
@@ -16588,6 +18260,8 @@ window.PLEX_DATA = {
         "Alan Tudyk"
       ],
       "imdb_id": "tt0343818",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7416610066,
       "audio_languages": [
         "en",
@@ -16608,6 +18282,8 @@ window.PLEX_DATA = {
         "Walter Matthau"
       ],
       "imdb_id": "tt0110099",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4826793423,
       "audio_languages": [
         "en",
@@ -16628,6 +18304,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt0268380",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4682275812,
       "audio_languages": [
         "en",
@@ -16648,6 +18326,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt3416828",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5459632804,
       "audio_languages": [
         "en",
@@ -16668,6 +18348,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt1667889",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4443644915,
       "audio_languages": [
         "en",
@@ -16688,6 +18370,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt1080016",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4567827900,
       "audio_languages": [
         "en",
@@ -16708,6 +18392,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt0438097",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4680017099,
       "audio_languages": [
         "en",
@@ -16728,6 +18414,8 @@ window.PLEX_DATA = {
         "Marcus Thomas"
       ],
       "imdb_id": "tt27621210",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 4162277671,
       "audio_languages": [
         "en",
@@ -16748,6 +18436,8 @@ window.PLEX_DATA = {
         "Jon Favreau"
       ],
       "imdb_id": "tt2024432",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5680666934,
       "audio_languages": [
         "en",
@@ -16768,6 +18458,8 @@ window.PLEX_DATA = {
         "Dax Shepard"
       ],
       "imdb_id": "tt0387808",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4811393518,
       "audio_languages": [
         "en",
@@ -16788,6 +18480,8 @@ window.PLEX_DATA = {
         "Matthew Goode"
       ],
       "imdb_id": "tt0421994",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 8568878922,
       "audio_languages": [
         "en",
@@ -16808,6 +18502,8 @@ window.PLEX_DATA = {
         "Stephen Dorff"
       ],
       "imdb_id": "tt1253864",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7127975742,
       "audio_languages": [
         "en",
@@ -16828,6 +18524,8 @@ window.PLEX_DATA = {
         "Shirley MacLaine"
       ],
       "imdb_id": "tt0388125",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7524359435,
       "audio_languages": [
         "en",
@@ -16848,6 +18546,8 @@ window.PLEX_DATA = {
         "Daveed Diggs"
       ],
       "imdb_id": "tt6341826",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 3590024721,
       "audio_languages": [
         "en"
@@ -16867,6 +18567,8 @@ window.PLEX_DATA = {
         "Cillian Murphy"
       ],
       "imdb_id": "tt1390411",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7453960243,
       "audio_languages": [
         "en",
@@ -16887,6 +18589,8 @@ window.PLEX_DATA = {
         "Arly Jover"
       ],
       "imdb_id": "tt4419684",
+      "imdb_score": 4.7,
+      "resolution": 720,
       "size_bytes": 4422373954,
       "audio_languages": [
         "en",
@@ -16907,6 +18611,8 @@ window.PLEX_DATA = {
         "Cillian Murphy"
       ],
       "imdb_id": "tt1637688",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5052084274,
       "audio_languages": [
         "en",
@@ -16927,6 +18633,8 @@ window.PLEX_DATA = {
         "Ken Watanabe"
       ],
       "imdb_id": "tt1375666",
+      "imdb_score": 8.8,
+      "resolution": 1080,
       "size_bytes": 19343028472,
       "audio_languages": [
         "en",
@@ -16947,6 +18655,8 @@ window.PLEX_DATA = {
         "Nicky Whelan"
       ],
       "imdb_id": "tt3481634",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 6406482726,
       "audio_languages": [
         "en",
@@ -16967,6 +18677,8 @@ window.PLEX_DATA = {
         "Sarah Vowell"
       ],
       "imdb_id": "tt3606756",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6208682425,
       "audio_languages": [
         "en",
@@ -16987,6 +18699,8 @@ window.PLEX_DATA = {
         "Jeff Goldblum"
       ],
       "imdb_id": "tt0116629",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 9609532374,
       "audio_languages": [
         "en",
@@ -17007,6 +18721,8 @@ window.PLEX_DATA = {
         "Jessie T. Usher"
       ],
       "imdb_id": "tt1628841",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 7048620063,
       "audio_languages": [
         "en",
@@ -17027,6 +18743,8 @@ window.PLEX_DATA = {
         "Mads Mikkelsen"
       ],
       "imdb_id": "tt1462764",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6507354681,
       "audio_languages": [
         "en"
@@ -17046,6 +18764,8 @@ window.PLEX_DATA = {
         "Karen Allen"
       ],
       "imdb_id": "tt0367882",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6245114165,
       "audio_languages": [],
       "has_subtitles": true
@@ -17063,6 +18783,8 @@ window.PLEX_DATA = {
         "Denholm Elliott"
       ],
       "imdb_id": "tt0097576",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 8794354901,
       "audio_languages": [
         "en",
@@ -17083,6 +18805,8 @@ window.PLEX_DATA = {
         "Ke Huy Quan"
       ],
       "imdb_id": "tt0087469",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8586983509,
       "audio_languages": [
         "en",
@@ -17103,6 +18827,8 @@ window.PLEX_DATA = {
         "Daniel Craig"
       ],
       "imdb_id": "tt0420609",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5824364366,
       "audio_languages": [
         "en",
@@ -17123,6 +18849,8 @@ window.PLEX_DATA = {
         "Omar Sy"
       ],
       "imdb_id": "tt3062096",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 26215081994,
       "audio_languages": [
         "en",
@@ -17143,6 +18871,8 @@ window.PLEX_DATA = {
         "Sophie Cookson"
       ],
       "imdb_id": "tt6654210",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5678095733,
       "audio_languages": [
         "en",
@@ -17163,6 +18893,8 @@ window.PLEX_DATA = {
         "Christoph Waltz"
       ],
       "imdb_id": "tt0361748",
+      "imdb_score": 8.4,
+      "resolution": 1080,
       "size_bytes": 13226096851,
       "audio_languages": [
         "en",
@@ -17183,6 +18915,8 @@ window.PLEX_DATA = {
         "O'Shea Jackson Jr."
       ],
       "imdb_id": "tt5962210",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5330804026,
       "audio_languages": [
         "en",
@@ -17203,6 +18937,8 @@ window.PLEX_DATA = {
         "Andy Serkis"
       ],
       "imdb_id": "tt0494238",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4599380710,
       "audio_languages": [
         "en",
@@ -17223,6 +18959,8 @@ window.PLEX_DATA = {
         "Justin Theroux"
       ],
       "imdb_id": "tt0460829",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8241800827,
       "audio_languages": [
         "en",
@@ -17243,6 +18981,8 @@ window.PLEX_DATA = {
         "Jonathan Alpert"
       ],
       "imdb_id": "tt1645089",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 5261301295,
       "audio_languages": [
         "en",
@@ -17263,6 +19003,8 @@ window.PLEX_DATA = {
         "Jodie Foster"
       ],
       "imdb_id": "tt0454848",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8123821308,
       "audio_languages": [
         "en",
@@ -17283,6 +19025,8 @@ window.PLEX_DATA = {
         "Roxanne McKee"
       ],
       "imdb_id": "tt7832848",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5866434432,
       "audio_languages": [
         "en"
@@ -17302,6 +19046,8 @@ window.PLEX_DATA = {
         "Richard Kind"
       ],
       "imdb_id": "tt2096673",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 5512482407,
       "audio_languages": [
         "en",
@@ -17322,6 +19068,8 @@ window.PLEX_DATA = {
         "Kensington Tallman"
       ],
       "imdb_id": "tt22022452",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 2846045234,
       "audio_languages": [
         "en",
@@ -17342,6 +19090,8 @@ window.PLEX_DATA = {
         "Lin Shaye"
       ],
       "imdb_id": "tt1591095",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4775663698,
       "audio_languages": [
         "en",
@@ -17362,6 +19112,8 @@ window.PLEX_DATA = {
         "Lin Shaye"
       ],
       "imdb_id": "tt2226417",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7549857886,
       "audio_languages": [
         "en",
@@ -17382,6 +19134,8 @@ window.PLEX_DATA = {
         "Dermot Mulroney"
       ],
       "imdb_id": "tt3195644",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5204847235,
       "audio_languages": [
         "en",
@@ -17402,6 +19156,8 @@ window.PLEX_DATA = {
         "Angus Sampson"
       ],
       "imdb_id": "tt5726086",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5801672905,
       "audio_languages": [
         "en",
@@ -17422,6 +19178,8 @@ window.PLEX_DATA = {
         "Patrick Wilson"
       ],
       "imdb_id": "tt13405778",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4109305692,
       "audio_languages": [
         "en",
@@ -17442,6 +19200,8 @@ window.PLEX_DATA = {
         "Hilary Swank"
       ],
       "imdb_id": "tt0278504",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4685491107,
       "audio_languages": [
         "en",
@@ -17462,6 +19222,8 @@ window.PLEX_DATA = {
         "Allyn Rachel"
       ],
       "imdb_id": "tt7401588",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6421397039,
       "audio_languages": [
         "en",
@@ -17482,6 +19244,8 @@ window.PLEX_DATA = {
         "Amy Smart"
       ],
       "imdb_id": "tt0165832",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4928414584,
       "audio_languages": [
         "en",
@@ -17502,6 +19266,8 @@ window.PLEX_DATA = {
         "Michael Caine"
       ],
       "imdb_id": "tt0816692",
+      "imdb_score": 8.7,
+      "resolution": 1080,
       "size_bytes": 28101612502,
       "audio_languages": [
         "en",
@@ -17522,6 +19288,8 @@ window.PLEX_DATA = {
         "Susannah Harker"
       ],
       "imdb_id": "tt0256103",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 11749986744,
       "audio_languages": [
         "en",
@@ -17542,6 +19310,8 @@ window.PLEX_DATA = {
         "Dan Aykroyd"
       ],
       "imdb_id": "tt0089346",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7035128350,
       "audio_languages": [
         "en",
@@ -17562,6 +19332,8 @@ window.PLEX_DATA = {
         "Geoffrey Rush"
       ],
       "imdb_id": "tt0138524",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6886184217,
       "audio_languages": [
         "en",
@@ -17582,6 +19354,8 @@ window.PLEX_DATA = {
         "Jennifer Connelly"
       ],
       "imdb_id": "tt0119381",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 9307449479,
       "audio_languages": [
         "en",
@@ -17602,6 +19376,8 @@ window.PLEX_DATA = {
         "Elizabeth Banks"
       ],
       "imdb_id": "tt0445990",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4938112646,
       "audio_languages": [],
       "has_subtitles": true
@@ -17619,6 +19395,8 @@ window.PLEX_DATA = {
         "Jeff Bridges"
       ],
       "imdb_id": "tt0371746",
+      "imdb_score": 7.9,
+      "resolution": 2160,
       "size_bytes": 21411920372,
       "audio_languages": [
         "en",
@@ -17639,6 +19417,8 @@ window.PLEX_DATA = {
         "Don Cheadle"
       ],
       "imdb_id": "tt1228705",
+      "imdb_score": 6.9,
+      "resolution": 2160,
       "size_bytes": 22718092046,
       "audio_languages": [
         "en",
@@ -17659,6 +19439,8 @@ window.PLEX_DATA = {
         "Don Cheadle"
       ],
       "imdb_id": "tt1300854",
+      "imdb_score": 7.1,
+      "resolution": 2160,
       "size_bytes": 30182505401,
       "audio_languages": [
         "en",
@@ -17679,6 +19461,8 @@ window.PLEX_DATA = {
         "Anna Churina"
       ],
       "imdb_id": "tt6218010",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 6519428646,
       "audio_languages": [
         "en",
@@ -17699,6 +19483,8 @@ window.PLEX_DATA = {
         "Jamie Blackley"
       ],
       "imdb_id": "tt3715320",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7085972855,
       "audio_languages": [
         "en",
@@ -17719,6 +19505,8 @@ window.PLEX_DATA = {
         "Rosie Perez"
       ],
       "imdb_id": "tt0110167",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8274236608,
       "audio_languages": [
         "en",
@@ -17739,6 +19527,8 @@ window.PLEX_DATA = {
         "Steve Martin"
       ],
       "imdb_id": "tt1230414",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 9775760120,
       "audio_languages": [
         "en",
@@ -17759,6 +19549,8 @@ window.PLEX_DATA = {
         "Katie Holmes"
       ],
       "imdb_id": "tt0810913",
+      "imdb_score": 3.3,
+      "resolution": 720,
       "size_bytes": 4634894625,
       "audio_languages": [
         "en",
@@ -17779,6 +19571,8 @@ window.PLEX_DATA = {
         "Richard Jenkins"
       ],
       "imdb_id": "tt0790724",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 16647826530,
       "audio_languages": [
         "en",
@@ -17799,6 +19593,8 @@ window.PLEX_DATA = {
         "Danika Yarosh"
       ],
       "imdb_id": "tt3393786",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 12415788200,
       "audio_languages": [
         "en",
@@ -17819,6 +19615,8 @@ window.PLEX_DATA = {
         "Kevin Costner"
       ],
       "imdb_id": "tt1205537",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7574344483,
       "audio_languages": [
         "en",
@@ -17839,6 +19637,8 @@ window.PLEX_DATA = {
         "Ewan McGregor"
       ],
       "imdb_id": "tt1351685",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6991059719,
       "audio_languages": [
         "en",
@@ -17859,6 +19659,8 @@ window.PLEX_DATA = {
         "Robert De Niro"
       ],
       "imdb_id": "tt0119396",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8533863776,
       "audio_languages": [
         "hu"
@@ -17878,6 +19680,8 @@ window.PLEX_DATA = {
         "Alicia Vikander"
       ],
       "imdb_id": "tt4196776",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 9766418236,
       "audio_languages": [
         "en",
@@ -17898,6 +19702,8 @@ window.PLEX_DATA = {
         "Richard Dreyfuss"
       ],
       "imdb_id": "tt0073195",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 9172903690,
       "audio_languages": [
         "en",
@@ -17918,6 +19724,8 @@ window.PLEX_DATA = {
         "Murray Hamilton"
       ],
       "imdb_id": "tt0077766",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 8599418856,
       "audio_languages": [
         "en",
@@ -17938,6 +19746,8 @@ window.PLEX_DATA = {
         "Liv Tyler"
       ],
       "imdb_id": "tt0300051",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 8821371231,
       "audio_languages": [
         "en",
@@ -17958,6 +19768,8 @@ window.PLEX_DATA = {
         "Gary Oldman"
       ],
       "imdb_id": "tt0102138",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8827119682,
       "audio_languages": [
         "en",
@@ -17978,6 +19790,8 @@ window.PLEX_DATA = {
         "Lukas Haas"
       ],
       "imdb_id": "tt2357129",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4821754585,
       "audio_languages": [
         "en",
@@ -17998,6 +19812,8 @@ window.PLEX_DATA = {
         "Alfie Allen"
       ],
       "imdb_id": "tt2911666",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 11332486782,
       "audio_languages": [
         "en",
@@ -18018,6 +19834,8 @@ window.PLEX_DATA = {
         "Laurence Fishburne"
       ],
       "imdb_id": "tt4425200",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 19752213130,
       "audio_languages": [
         "en",
@@ -18038,6 +19856,8 @@ window.PLEX_DATA = {
         "Ian McShane"
       ],
       "imdb_id": "tt6146586",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 31532166456,
       "audio_languages": [
         "en",
@@ -18058,6 +19878,8 @@ window.PLEX_DATA = {
         "Bill Skarsgård"
       ],
       "imdb_id": "tt10366206",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 36243885127,
       "audio_languages": [
         "en",
@@ -18078,6 +19900,8 @@ window.PLEX_DATA = {
         "Takeshi Kitano"
       ],
       "imdb_id": "tt0113481",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6980219781,
       "audio_languages": [
         "en",
@@ -18098,6 +19922,8 @@ window.PLEX_DATA = {
         "Zazie Beetz"
       ],
       "imdb_id": "tt7286456",
+      "imdb_score": 8.3,
+      "resolution": 1080,
       "size_bytes": 18549456658,
       "audio_languages": [
         "en",
@@ -18118,6 +19944,8 @@ window.PLEX_DATA = {
         "Brendan Gleeson"
       ],
       "imdb_id": "tt11315808",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 12081406363,
       "audio_languages": [
         "en",
@@ -18138,6 +19966,8 @@ window.PLEX_DATA = {
         "Dominique Sanda"
       ],
       "imdb_id": null,
+      "imdb_score": 8.5,
+      "resolution": 720,
       "size_bytes": 10248635306,
       "audio_languages": [
         "en",
@@ -18158,6 +19988,8 @@ window.PLEX_DATA = {
         "Vanessa Hudgens"
       ],
       "imdb_id": "tt1397514",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 6008710948,
       "audio_languages": [
         "en",
@@ -18178,6 +20010,8 @@ window.PLEX_DATA = {
         "Anita Briem"
       ],
       "imdb_id": "tt0373051",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4706417350,
       "audio_languages": [
         "en",
@@ -18198,6 +20032,8 @@ window.PLEX_DATA = {
         "Liam Cunningham"
       ],
       "imdb_id": "tt0116722",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 12432749625,
       "audio_languages": [
         "en",
@@ -18218,6 +20054,8 @@ window.PLEX_DATA = {
         "Armand Assante"
       ],
       "imdb_id": "tt0113492",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4832443136,
       "audio_languages": [
         "en",
@@ -18238,6 +20076,8 @@ window.PLEX_DATA = {
         "Jane Curtin"
       ],
       "imdb_id": "tt15428940",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 2111727800,
       "audio_languages": [
         "en"
@@ -18257,6 +20097,8 @@ window.PLEX_DATA = {
         "Bradley Pierce"
       ],
       "imdb_id": "tt0113497",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8628223345,
       "audio_languages": [
         "en",
@@ -18277,6 +20119,8 @@ window.PLEX_DATA = {
         "Jack Black"
       ],
       "imdb_id": "tt7975244",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7195958314,
       "audio_languages": [
         "en",
@@ -18297,6 +20141,8 @@ window.PLEX_DATA = {
         "Jack Black"
       ],
       "imdb_id": "tt2283362",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7039857892,
       "audio_languages": [
         "en",
@@ -18317,6 +20163,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt0489099",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7978139785,
       "audio_languages": [
         "en",
@@ -18337,6 +20185,8 @@ window.PLEX_DATA = {
         "Thomas Kretschmann"
       ],
       "imdb_id": "tt3758172",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 16771676070,
       "audio_languages": [
         "en",
@@ -18357,6 +20207,8 @@ window.PLEX_DATA = {
         "Edgar Ramírez"
       ],
       "imdb_id": "tt0870154",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8393909751,
       "audio_languages": [
         "en",
@@ -18377,6 +20229,8 @@ window.PLEX_DATA = {
         "Emma Thompson"
       ],
       "imdb_id": "tt0110216",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 7393713082,
       "audio_languages": [
         "en",
@@ -18397,6 +20251,8 @@ window.PLEX_DATA = {
         "Sean Bean"
       ],
       "imdb_id": "tt1617661",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 9842738989,
       "audio_languages": [
         "en",
@@ -18417,6 +20273,8 @@ window.PLEX_DATA = {
         "Jeff Goldblum"
       ],
       "imdb_id": "tt0107290",
+      "imdb_score": 8.2,
+      "resolution": 1080,
       "size_bytes": 30257858348,
       "audio_languages": [
         "en",
@@ -18437,6 +20295,8 @@ window.PLEX_DATA = {
         "Téa Leoni"
       ],
       "imdb_id": "tt0163025",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 25694187105,
       "audio_languages": [
         "en",
@@ -18457,6 +20317,8 @@ window.PLEX_DATA = {
         "Irrfan Khan"
       ],
       "imdb_id": "tt0369610",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 28906726624,
       "audio_languages": [
         "en",
@@ -18477,6 +20339,8 @@ window.PLEX_DATA = {
         "Laura Dern"
       ],
       "imdb_id": "tt8041270",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 32719577937,
       "audio_languages": [
         "en",
@@ -18497,6 +20361,8 @@ window.PLEX_DATA = {
         "Rafe Spall"
       ],
       "imdb_id": "tt4881806",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 29053469673,
       "audio_languages": [
         "en",
@@ -18517,6 +20383,8 @@ window.PLEX_DATA = {
         "Jonathan Bailey"
       ],
       "imdb_id": "tt31036941",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 33949997101,
       "audio_languages": [
         "en",
@@ -18537,6 +20405,8 @@ window.PLEX_DATA = {
         "Blair Underwood"
       ],
       "imdb_id": "tt0113501",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4604097507,
       "audio_languages": [
         "en",
@@ -18557,6 +20427,8 @@ window.PLEX_DATA = {
         "Anna Faris"
       ],
       "imdb_id": "tt0433400",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 8844420413,
       "audio_languages": [
         "hu"
@@ -18576,6 +20448,8 @@ window.PLEX_DATA = {
         "Rene Russo"
       ],
       "imdb_id": "tt5721088",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 5223549066,
       "audio_languages": [
         "en",
@@ -18596,6 +20470,8 @@ window.PLEX_DATA = {
         "Brooklyn Decker"
       ],
       "imdb_id": "tt1564367",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 9220217627,
       "audio_languages": [
         "en",
@@ -18616,6 +20492,8 @@ window.PLEX_DATA = {
         "Donal Logue"
       ],
       "imdb_id": "tt0425123",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4683238385,
       "audio_languages": [
         "en",
@@ -18636,6 +20514,8 @@ window.PLEX_DATA = {
         "Christian Kane"
       ],
       "imdb_id": "tt0305711",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4827015397,
       "audio_languages": [
         "en",
@@ -18656,6 +20536,8 @@ window.PLEX_DATA = {
         "Amy Adams"
       ],
       "imdb_id": "tt0974015",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 18745886662,
       "audio_languages": [
         "en",
@@ -18676,6 +20558,8 @@ window.PLEX_DATA = {
         "Peter Sarsgaard"
       ],
       "imdb_id": "tt0267626",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7555602382,
       "audio_languages": [
         "en",
@@ -18696,6 +20580,8 @@ window.PLEX_DATA = {
         "Mary McCormack"
       ],
       "imdb_id": "tt0272152",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7422248329,
       "audio_languages": [
         "en",
@@ -18716,6 +20602,8 @@ window.PLEX_DATA = {
         "Juliette Lewis"
       ],
       "imdb_id": "tt0107302",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7928349910,
       "audio_languages": [
         "en",
@@ -18736,6 +20624,8 @@ window.PLEX_DATA = {
         "Travis Fimmel"
       ],
       "imdb_id": "tt5761544",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7383800604,
       "audio_languages": [
         "en",
@@ -18756,6 +20646,8 @@ window.PLEX_DATA = {
         "Joshua Jackson"
       ],
       "imdb_id": "tt1674782",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3443364924,
       "audio_languages": [
         "en",
@@ -18776,6 +20668,8 @@ window.PLEX_DATA = {
         "Liev Schreiber"
       ],
       "imdb_id": "tt0035423",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8826350282,
       "audio_languages": [
         "en",
@@ -18796,6 +20690,8 @@ window.PLEX_DATA = {
         "Jenna Elfman"
       ],
       "imdb_id": "tt0171433",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 10553326672,
       "audio_languages": [
         "en",
@@ -18816,6 +20712,8 @@ window.PLEX_DATA = {
         "Nicolas Cage"
       ],
       "imdb_id": "tt1250777",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8127424602,
       "audio_languages": [
         "en",
@@ -18836,6 +20734,8 @@ window.PLEX_DATA = {
         "Christopher Mintz-Plasse"
       ],
       "imdb_id": "tt1650554",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7491019312,
       "audio_languages": [
         "en",
@@ -18856,6 +20756,8 @@ window.PLEX_DATA = {
         "David Ajala"
       ],
       "imdb_id": "tt2667380",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5368938078,
       "audio_languages": [
         "en",
@@ -18876,6 +20778,8 @@ window.PLEX_DATA = {
         "Tom Selleck"
       ],
       "imdb_id": "tt1103153",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4696891106,
       "audio_languages": [
         "en",
@@ -18896,6 +20800,8 @@ window.PLEX_DATA = {
         "Lily Gladstone"
       ],
       "imdb_id": "tt5537002",
+      "imdb_score": 7.5,
+      "resolution": 576,
       "size_bytes": 6887642774,
       "audio_languages": [
         "en",
@@ -18916,6 +20822,8 @@ window.PLEX_DATA = {
         "Christian Tramitz"
       ],
       "imdb_id": "tt1135940",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4876372251,
       "audio_languages": [
         "de",
@@ -18936,6 +20844,8 @@ window.PLEX_DATA = {
         "Milo Ventimiglia"
       ],
       "imdb_id": "tt1480295",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5714094873,
       "audio_languages": [
         "hu"
@@ -18955,6 +20865,8 @@ window.PLEX_DATA = {
         "Keira Knightley"
       ],
       "imdb_id": "tt0349683",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7461377828,
       "audio_languages": [
         "en",
@@ -18975,6 +20887,8 @@ window.PLEX_DATA = {
         "Àstrid Bergès-Frisbey"
       ],
       "imdb_id": "tt1972591",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8074993278,
       "audio_languages": [
         "en",
@@ -18995,6 +20909,8 @@ window.PLEX_DATA = {
         "Charles Grodin"
       ],
       "imdb_id": "tt0074751",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 10110763468,
       "audio_languages": [
         "en",
@@ -19015,6 +20931,8 @@ window.PLEX_DATA = {
         "Jack Black"
       ],
       "imdb_id": "tt0360717",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 19473296456,
       "audio_languages": [
         "en",
@@ -19035,6 +20953,8 @@ window.PLEX_DATA = {
         "Peter Elliott"
       ],
       "imdb_id": "tt0091344",
+      "imdb_score": 4.0,
+      "resolution": 1080,
       "size_bytes": 7656692590,
       "audio_languages": [
         "en",
@@ -19055,6 +20975,8 @@ window.PLEX_DATA = {
         "Laurence Fishburne"
       ],
       "imdb_id": "tt0099939",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4822654984,
       "audio_languages": [
         "en",
@@ -19075,6 +20997,8 @@ window.PLEX_DATA = {
         "Herbert Lom"
       ],
       "imdb_id": "tt0089421",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 10459232655,
       "audio_languages": [
         "en",
@@ -19095,6 +21019,8 @@ window.PLEX_DATA = {
         "Jeremy Irons"
       ],
       "imdb_id": "tt0320661",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 12902595921,
       "audio_languages": [
         "en",
@@ -19115,6 +21041,8 @@ window.PLEX_DATA = {
         "Julianne Moore"
       ],
       "imdb_id": "tt4649466",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6776158117,
       "audio_languages": [
         "en",
@@ -19135,6 +21063,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt2802144",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7330525072,
       "audio_languages": [
         "en",
@@ -19155,6 +21085,8 @@ window.PLEX_DATA = {
         "Cary Elwes"
       ],
       "imdb_id": "tt0119468",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4636570874,
       "audio_languages": [
         "en",
@@ -19175,6 +21107,8 @@ window.PLEX_DATA = {
         "Peter Sarsgaard"
       ],
       "imdb_id": "tt1013743",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7368531303,
       "audio_languages": [
         "en",
@@ -19195,6 +21129,8 @@ window.PLEX_DATA = {
         "Juhee Yun"
       ],
       "imdb_id": "tt6042744",
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 5468228181,
       "audio_languages": [
         "en",
@@ -19215,6 +21151,8 @@ window.PLEX_DATA = {
         "Paul Rudd"
       ],
       "imdb_id": "tt0478311",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 15665307281,
       "audio_languages": [
         "en",
@@ -19235,6 +21173,8 @@ window.PLEX_DATA = {
         "John Goodman"
       ],
       "imdb_id": "tt3731562",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 14735011696,
       "audio_languages": [
         "en",
@@ -19255,6 +21195,8 @@ window.PLEX_DATA = {
         "Fred Hechinger"
       ],
       "imdb_id": "tt8790086",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 12708477377,
       "audio_languages": [
         "en",
@@ -19275,6 +21217,8 @@ window.PLEX_DATA = {
         "Freddie Jones"
       ],
       "imdb_id": "tt0085811",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7385536995,
       "audio_languages": [
         "en",
@@ -19295,6 +21239,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt0441773",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 3938280766,
       "audio_languages": [
         "en",
@@ -19315,6 +21261,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt1302011",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4591817390,
       "audio_languages": [
         "en",
@@ -19335,6 +21283,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt2267968",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 8837537314,
       "audio_languages": [
         "en",
@@ -19355,6 +21305,8 @@ window.PLEX_DATA = {
         "Viola Davis"
       ],
       "imdb_id": "tt21692408",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 5394338968,
       "audio_languages": [
         "en",
@@ -19375,6 +21327,8 @@ window.PLEX_DATA = {
         "Guy Pearce"
       ],
       "imdb_id": "tt0119488",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 7499695781,
       "audio_languages": [
         "en",
@@ -19395,6 +21349,8 @@ window.PLEX_DATA = {
         "John Legend"
       ],
       "imdb_id": "tt3783958",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8420624888,
       "audio_languages": [
         "en",
@@ -19415,6 +21371,8 @@ window.PLEX_DATA = {
         "Gattlin Griffith"
       ],
       "imdb_id": "tt1967545",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6282967038,
       "audio_languages": [
         "en",
@@ -19435,6 +21393,8 @@ window.PLEX_DATA = {
         "Toby Froud"
       ],
       "imdb_id": "tt0091369",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8057356043,
       "audio_languages": [
         "en",
@@ -19455,6 +21415,8 @@ window.PLEX_DATA = {
         "John Wood"
       ],
       "imdb_id": "tt0091374",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 5814243141,
       "audio_languages": [
         "en",
@@ -19475,6 +21437,8 @@ window.PLEX_DATA = {
         "Sam Rockwell"
       ],
       "imdb_id": "tt2034031",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5854094102,
       "audio_languages": [
         "en",
@@ -19495,6 +21459,8 @@ window.PLEX_DATA = {
         "Kerry Washington"
       ],
       "imdb_id": "tt0947802",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5200468813,
       "audio_languages": [
         "en",
@@ -19515,6 +21481,8 @@ window.PLEX_DATA = {
         "Dennis Hopper"
       ],
       "imdb_id": "tt0418819",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4954148151,
       "audio_languages": [
         "en",
@@ -19535,6 +21503,8 @@ window.PLEX_DATA = {
         "Daniel Craig"
       ],
       "imdb_id": "tt0146316",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 28070798017,
       "audio_languages": [
         "en",
@@ -19555,6 +21525,8 @@ window.PLEX_DATA = {
         "Ciarán Hinds"
       ],
       "imdb_id": "tt0325703",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 33519790949,
       "audio_languages": [
         "en",
@@ -19575,6 +21547,8 @@ window.PLEX_DATA = {
         "Bridgette Wilson-Sampras"
       ],
       "imdb_id": "tt0107362",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7859684734,
       "audio_languages": [
         "en",
@@ -19595,6 +21569,8 @@ window.PLEX_DATA = {
         "Eileen Atkins"
       ],
       "imdb_id": "tt1046947",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3416900903,
       "audio_languages": [
         "en",
@@ -19615,6 +21591,8 @@ window.PLEX_DATA = {
         "Aksel Hennie"
       ],
       "imdb_id": "tt2493486",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5574845182,
       "audio_languages": [
         "en",
@@ -19635,6 +21613,8 @@ window.PLEX_DATA = {
         "Morena Baccarin"
       ],
       "imdb_id": "tt9244554",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 15606341607,
       "audio_languages": [
         "en",
@@ -19655,6 +21635,8 @@ window.PLEX_DATA = {
         "Eva Mendes"
       ],
       "imdb_id": "tt1294688",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5606349416,
       "audio_languages": [
         "en",
@@ -19675,6 +21657,8 @@ window.PLEX_DATA = {
         "Anthony Steel"
       ],
       "imdb_id": "tt0058751",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5368049939,
       "audio_languages": [
         "de",
@@ -19694,6 +21678,8 @@ window.PLEX_DATA = {
         "Michael Douglas"
       ],
       "imdb_id": "tt1204975",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7271409201,
       "audio_languages": [
         "en",
@@ -19714,6 +21700,8 @@ window.PLEX_DATA = {
         "Michael Sheen"
       ],
       "imdb_id": "tt0323033",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4269982261,
       "audio_languages": [
         "en",
@@ -19734,6 +21722,8 @@ window.PLEX_DATA = {
         "Robert Guillaume"
       ],
       "imdb_id": "tt0097722",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 11917762515,
       "audio_languages": [
         "en",
@@ -19754,6 +21744,8 @@ window.PLEX_DATA = {
         "Adam Scott"
       ],
       "imdb_id": "tt1216492",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6224278199,
       "audio_languages": [
         "en",
@@ -19774,6 +21766,8 @@ window.PLEX_DATA = {
         "Julian Sands"
       ],
       "imdb_id": "tt0113627",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7203343097,
       "audio_languages": [
         "en",
@@ -19794,6 +21788,8 @@ window.PLEX_DATA = {
         "Selma Blair"
       ],
       "imdb_id": "tt0250494",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7924633117,
       "audio_languages": [
         "en",
@@ -19814,6 +21810,8 @@ window.PLEX_DATA = {
         "Regina King"
       ],
       "imdb_id": "tt0333780",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 4999875017,
       "audio_languages": [
         "en",
@@ -19834,6 +21832,8 @@ window.PLEX_DATA = {
         "Tim Curry"
       ],
       "imdb_id": "tt0089469",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7469803230,
       "audio_languages": [
         "en",
@@ -19854,6 +21854,8 @@ window.PLEX_DATA = {
         "Aidan Quinn"
       ],
       "imdb_id": "tt0110322",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 5202298444,
       "audio_languages": [
         "en",
@@ -19874,6 +21876,8 @@ window.PLEX_DATA = {
         "Lucas Black"
       ],
       "imdb_id": "tt1038686",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 6868971896,
       "audio_languages": [
         "en",
@@ -19894,6 +21898,8 @@ window.PLEX_DATA = {
         "Tia Carrere"
       ],
       "imdb_id": "tt0486761",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 2841783300,
       "audio_languages": [
         "en"
@@ -19913,6 +21919,8 @@ window.PLEX_DATA = {
         "Amanda Seyfried"
       ],
       "imdb_id": "tt1707386",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7042975532,
       "audio_languages": [
         "en"
@@ -19932,6 +21940,8 @@ window.PLEX_DATA = {
         "Kayli Carter"
       ],
       "imdb_id": "tt9340860",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6306518383,
       "audio_languages": [
         "en",
@@ -19952,6 +21962,8 @@ window.PLEX_DATA = {
         "Gary Busey"
       ],
       "imdb_id": "tt0093409",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7273520985,
       "audio_languages": [
         "en",
@@ -19972,6 +21984,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt0097733",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6347241364,
       "audio_languages": [
         "en",
@@ -19992,6 +22006,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt0104714",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6429312834,
       "audio_languages": [
         "en",
@@ -20012,6 +22028,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt0122151",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6297865812,
       "audio_languages": [
         "en",
@@ -20032,6 +22050,8 @@ window.PLEX_DATA = {
         "Tsuyoshi Ihara"
       ],
       "imdb_id": "tt0498380",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 8535142387,
       "audio_languages": [
         "ja"
@@ -20051,6 +22071,8 @@ window.PLEX_DATA = {
         "Peter Outerbridge"
       ],
       "imdb_id": "tt4006302",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 8532224349,
       "audio_languages": [
         "en"
@@ -20070,6 +22092,8 @@ window.PLEX_DATA = {
         "Justin Cooper"
       ],
       "imdb_id": "tt0119528",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4784487257,
       "audio_languages": [
         "en",
@@ -20090,6 +22114,8 @@ window.PLEX_DATA = {
         "Robert Davi"
       ],
       "imdb_id": "tt0097742",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7457906723,
       "audio_languages": [
         "en",
@@ -20110,6 +22136,8 @@ window.PLEX_DATA = {
         "Obba Babatundé"
       ],
       "imdb_id": "tt0123964",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5040845232,
       "audio_languages": [
         "en",
@@ -20130,6 +22158,8 @@ window.PLEX_DATA = {
         "Rebecca Ferguson"
       ],
       "imdb_id": "tt5442430",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6635694957,
       "audio_languages": [
         "en",
@@ -20150,6 +22180,8 @@ window.PLEX_DATA = {
         "John C. Reilly"
       ],
       "imdb_id": "tt2581244",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5542621707,
       "audio_languages": [
         "en",
@@ -20170,6 +22202,8 @@ window.PLEX_DATA = {
         "Josh Lucas"
       ],
       "imdb_id": "tt1055292",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6986493861,
       "audio_languages": [
         "en",
@@ -20190,6 +22224,8 @@ window.PLEX_DATA = {
         "Nathan Lane"
       ],
       "imdb_id": "tt0107413",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4228798264,
       "audio_languages": [
         "en",
@@ -20210,6 +22246,8 @@ window.PLEX_DATA = {
         "Frank Finlay"
       ],
       "imdb_id": "tt0089489",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8287669439,
       "audio_languages": [
         "en",
@@ -20230,6 +22268,8 @@ window.PLEX_DATA = {
         "Sam Worthington"
       ],
       "imdb_id": "tt14371878",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 2623446332,
       "audio_languages": [
         "en",
@@ -20250,6 +22290,8 @@ window.PLEX_DATA = {
         "Tia Carrere"
       ],
       "imdb_id": "tt0275847",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 2417322024,
       "audio_languages": [
         "en",
@@ -20270,6 +22312,8 @@ window.PLEX_DATA = {
         "Tia Carrere"
       ],
       "imdb_id": "tt0457993",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 2186869177,
       "audio_languages": [
         "en",
@@ -20290,6 +22334,8 @@ window.PLEX_DATA = {
         "Abbie Cornish"
       ],
       "imdb_id": "tt1219289",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7018998176,
       "audio_languages": [
         "en",
@@ -20310,6 +22356,8 @@ window.PLEX_DATA = {
         "David Strathairn"
       ],
       "imdb_id": "tt0443272",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8291567807,
       "audio_languages": [
         "en",
@@ -20330,6 +22378,8 @@ window.PLEX_DATA = {
         "Robert Redford"
       ],
       "imdb_id": "tt0891527",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4876054020,
       "audio_languages": [
         "en",
@@ -20350,6 +22400,8 @@ window.PLEX_DATA = {
         "Jennifer Connelly"
       ],
       "imdb_id": "tt0404203",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 9182371019,
       "audio_languages": [
         "en",
@@ -20370,6 +22422,8 @@ window.PLEX_DATA = {
         "Owen Wilson"
       ],
       "imdb_id": "tt0970866",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4695187686,
       "audio_languages": [
         "en",
@@ -20390,6 +22444,8 @@ window.PLEX_DATA = {
         "Samantha Mathis"
       ],
       "imdb_id": "tt0110367",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9117385129,
       "audio_languages": [
         "en",
@@ -20410,6 +22466,8 @@ window.PLEX_DATA = {
         "Jane Seymour"
       ],
       "imdb_id": "tt0070328",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 13148080117,
       "audio_languages": [
         "en",
@@ -20430,6 +22488,8 @@ window.PLEX_DATA = {
         "Justin Long"
       ],
       "imdb_id": "tt0337978",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 15457574134,
       "audio_languages": [
         "en",
@@ -20450,6 +22510,8 @@ window.PLEX_DATA = {
         "Queen Latifah"
       ],
       "imdb_id": "tt0120722",
+      "imdb_score": 6.5,
+      "resolution": null,
       "size_bytes": 1275918548,
       "audio_languages": [
         "hu"
@@ -20469,6 +22531,8 @@ window.PLEX_DATA = {
         "Jon Lovitz"
       ],
       "imdb_id": "tt0107659",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 3055829207,
       "audio_languages": [
         "en",
@@ -20489,6 +22553,8 @@ window.PLEX_DATA = {
         "Stephen Merchant"
       ],
       "imdb_id": "tt13061914",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 7772932509,
       "audio_languages": [
         "en",
@@ -20509,6 +22575,8 @@ window.PLEX_DATA = {
         "Patrick Stewart"
       ],
       "imdb_id": "tt3315342",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 30008195187,
       "audio_languages": [
         "en",
@@ -20529,6 +22597,8 @@ window.PLEX_DATA = {
         "Ben Kavanagh"
       ],
       "imdb_id": "tt30841049",
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 3850156932,
       "audio_languages": [
         "en",
@@ -20549,6 +22619,8 @@ window.PLEX_DATA = {
         "Melanie Griffith"
       ],
       "imdb_id": "tt0119558",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 9683160406,
       "audio_languages": [
         "en",
@@ -20569,6 +22641,8 @@ window.PLEX_DATA = {
         "David Thewlis"
       ],
       "imdb_id": "tt1213648",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7037967630,
       "audio_languages": [
         "en",
@@ -20589,6 +22663,8 @@ window.PLEX_DATA = {
         "Angela Bassett"
       ],
       "imdb_id": "tt3300542",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 12180337852,
       "audio_languages": [
         "en",
@@ -20609,6 +22685,8 @@ window.PLEX_DATA = {
         "Kristofer Hivju"
       ],
       "imdb_id": "tt9883398",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 3593498559,
       "audio_languages": [
         "en"
@@ -20628,6 +22706,8 @@ window.PLEX_DATA = {
         "Mira Sorvino"
       ],
       "imdb_id": "tt5834760",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4693444212,
       "audio_languages": [
         "en"
@@ -20647,6 +22727,8 @@ window.PLEX_DATA = {
         "Olympia Dukakis"
       ],
       "imdb_id": "tt0097778",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 3354555236,
       "audio_languages": [
         "en",
@@ -20667,6 +22749,8 @@ window.PLEX_DATA = {
         "Olympia Dukakis"
       ],
       "imdb_id": "tt0107438",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 3026187233,
       "audio_languages": [
         "en",
@@ -20687,6 +22771,8 @@ window.PLEX_DATA = {
         "Olympia Dukakis"
       ],
       "imdb_id": "tt0100050",
+      "imdb_score": 4.7,
+      "resolution": 720,
       "size_bytes": 2633048396,
       "audio_languages": [
         "en",
@@ -20707,6 +22793,8 @@ window.PLEX_DATA = {
         "Jared Leto"
       ],
       "imdb_id": "tt0399295",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7842355912,
       "audio_languages": [
         "en",
@@ -20727,6 +22815,8 @@ window.PLEX_DATA = {
         "Mimi Rogers"
       ],
       "imdb_id": "tt0120738",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 8149117107,
       "audio_languages": [
         "en",
@@ -20747,6 +22837,8 @@ window.PLEX_DATA = {
         "Morfydd Clark"
       ],
       "imdb_id": "tt3068194",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4302224057,
       "audio_languages": [
         "en",
@@ -20767,6 +22859,8 @@ window.PLEX_DATA = {
         "Oliver Platt"
       ],
       "imdb_id": "tt0758752",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6991878337,
       "audio_languages": [
         "en",
@@ -20787,6 +22881,8 @@ window.PLEX_DATA = {
         "Emma Thompson"
       ],
       "imdb_id": "tt0314331",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 12688188167,
       "audio_languages": [
         "en",
@@ -20807,6 +22903,8 @@ window.PLEX_DATA = {
         "Kenan Thompson"
       ],
       "imdb_id": "tt0337592",
+      "imdb_score": 5.3,
+      "resolution": null,
       "size_bytes": 1071109781,
       "audio_languages": [
         "hu"
@@ -20826,6 +22924,8 @@ window.PLEX_DATA = {
         "Dan Fogler"
       ],
       "imdb_id": "tt0899106",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7209201126,
       "audio_languages": [
         "en",
@@ -20846,6 +22946,8 @@ window.PLEX_DATA = {
         "Emma Berman"
       ],
       "imdb_id": "tt12801262",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6260311227,
       "audio_languages": [
         "en",
@@ -20866,6 +22968,8 @@ window.PLEX_DATA = {
         "Finn Wittrock"
       ],
       "imdb_id": "tt4595186",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3761659949,
       "audio_languages": [
         "en",
@@ -20886,6 +22990,8 @@ window.PLEX_DATA = {
         "Ben Kingsley"
       ],
       "imdb_id": "tt0425210",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 4957405273,
       "audio_languages": [
         "en",
@@ -20906,6 +23012,8 @@ window.PLEX_DATA = {
         "Choi Min-sik"
       ],
       "imdb_id": "tt2872732",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5694732014,
       "audio_languages": [
         "en",
@@ -20926,6 +23034,8 @@ window.PLEX_DATA = {
         "Claire Cox"
       ],
       "imdb_id": "tt0309820",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6037660284,
       "audio_languages": [
         "en",
@@ -20946,6 +23056,8 @@ window.PLEX_DATA = {
         "Sophie Ward"
       ],
       "imdb_id": "tt0110419",
+      "imdb_score": 6.3,
+      "resolution": 480,
       "size_bytes": 857051714,
       "audio_languages": [
         "hu"
@@ -20965,6 +23077,8 @@ window.PLEX_DATA = {
         "Peter Egan"
       ],
       "imdb_id": "tt0110420",
+      "imdb_score": 6.1,
+      "resolution": 480,
       "size_bytes": 1520926720,
       "audio_languages": [],
       "has_subtitles": true
@@ -20982,6 +23096,8 @@ window.PLEX_DATA = {
         "Hugh Keays-Byrne"
       ],
       "imdb_id": "tt0079501",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 17811717878,
       "audio_languages": [
         "en",
@@ -21002,6 +23118,8 @@ window.PLEX_DATA = {
         "Helen Buday"
       ],
       "imdb_id": "tt0089530",
+      "imdb_score": 6.2,
+      "resolution": 2160,
       "size_bytes": 32739812743,
       "audio_languages": [
         "en",
@@ -21022,6 +23140,8 @@ window.PLEX_DATA = {
         "Nicholas Hoult"
       ],
       "imdb_id": "tt1392190",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 28073293260,
       "audio_languages": [
         "en",
@@ -21042,6 +23162,8 @@ window.PLEX_DATA = {
         "David Schwimmer"
       ],
       "imdb_id": "tt0351283",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4201205971,
       "audio_languages": [
         "en",
@@ -21062,6 +23184,8 @@ window.PLEX_DATA = {
         "David Schwimmer"
       ],
       "imdb_id": "tt1277953",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4153463318,
       "audio_languages": [
         "en",
@@ -21082,6 +23206,8 @@ window.PLEX_DATA = {
         "David Schwimmer"
       ],
       "imdb_id": "tt0479952",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 7934886133,
       "audio_languages": [
         "en",
@@ -21102,6 +23228,8 @@ window.PLEX_DATA = {
         "Isabela Merced"
       ],
       "imdb_id": "tt11057302",
+      "imdb_score": 4.1,
+      "resolution": 1080,
       "size_bytes": 24559178722,
       "audio_languages": [
         "en",
@@ -21122,6 +23250,8 @@ window.PLEX_DATA = {
         "Kevin McKidd"
       ],
       "imdb_id": "tt0866439",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4691691923,
       "audio_languages": [
         "hu"
@@ -21141,6 +23271,8 @@ window.PLEX_DATA = {
         "Joely Richardson"
       ],
       "imdb_id": "tt1881002",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 12487964097,
       "audio_languages": [
         "en",
@@ -21161,6 +23293,8 @@ window.PLEX_DATA = {
         "Hamish Linklater"
       ],
       "imdb_id": "tt2870756",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5068272540,
       "audio_languages": [
         "en",
@@ -21180,6 +23314,8 @@ window.PLEX_DATA = {
         "Philip Seymour Hoffman"
       ],
       "imdb_id": "tt0175880",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8115995478,
       "audio_languages": [
         "en",
@@ -21200,6 +23336,8 @@ window.PLEX_DATA = {
         "Albert Hall"
       ],
       "imdb_id": "tt0104797",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 14211079431,
       "audio_languages": [
         "en",
@@ -21220,6 +23358,8 @@ window.PLEX_DATA = {
         "Imelda Staunton"
       ],
       "imdb_id": "tt1587310",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6202794061,
       "audio_languages": [
         "en",
@@ -21240,6 +23380,8 @@ window.PLEX_DATA = {
         "Harris Dickinson"
       ],
       "imdb_id": "tt4777008",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7418366709,
       "audio_languages": [
         "en",
@@ -21260,6 +23402,8 @@ window.PLEX_DATA = {
         "Bill Pullman"
       ],
       "imdb_id": "tt0107497",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4868985267,
       "audio_languages": [
         "en",
@@ -21280,6 +23424,8 @@ window.PLEX_DATA = {
         "Russell Crowe"
       ],
       "imdb_id": "tt0770828",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 25553278317,
       "audio_languages": [
         "en",
@@ -21300,6 +23446,8 @@ window.PLEX_DATA = {
         "Karen Mok Man-Wai"
       ],
       "imdb_id": "tt2016940",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6803718820,
       "audio_languages": [
         "en",
@@ -21320,6 +23468,8 @@ window.PLEX_DATA = {
         "Yanti Somer"
       ],
       "imdb_id": "tt0068524",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 10307617570,
       "audio_languages": [
         "en",
@@ -21341,6 +23491,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0328107",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 17045309171,
       "audio_languages": [
         "en",
@@ -21361,6 +23513,8 @@ window.PLEX_DATA = {
         "Linus Roache"
       ],
       "imdb_id": "tt6998518",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6486682448,
       "audio_languages": [
         "en",
@@ -21381,6 +23535,8 @@ window.PLEX_DATA = {
         "Paul Bettany"
       ],
       "imdb_id": "tt1615147",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5758118708,
       "audio_languages": [
         "en",
@@ -21401,6 +23557,8 @@ window.PLEX_DATA = {
         "Catherine Bégin"
       ],
       "imdb_id": "tt1029234",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5029848757,
       "audio_languages": [
         "fr",
@@ -21421,6 +23579,8 @@ window.PLEX_DATA = {
         "Jack Lowden"
       ],
       "imdb_id": "tt2328900",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8758053671,
       "audio_languages": [
         "en",
@@ -21441,6 +23601,8 @@ window.PLEX_DATA = {
         "James D'Arcy"
       ],
       "imdb_id": "tt0311113",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8516828292,
       "audio_languages": [
         "en",
@@ -21461,6 +23623,8 @@ window.PLEX_DATA = {
         "Alison Lohman"
       ],
       "imdb_id": "tt0325805",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6427523806,
       "audio_languages": [
         "en",
@@ -21481,6 +23645,8 @@ window.PLEX_DATA = {
         "Rhea Perlman"
       ],
       "imdb_id": "tt0117008",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6019892310,
       "audio_languages": [
         "en",
@@ -21501,6 +23667,8 @@ window.PLEX_DATA = {
         "James Garner"
       ],
       "imdb_id": "tt0110478",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6632140664,
       "audio_languages": [
         "en",
@@ -21521,6 +23689,8 @@ window.PLEX_DATA = {
         "Beau Bridges"
       ],
       "imdb_id": "tt0467197",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 4392863409,
       "audio_languages": [
         "en",
@@ -21541,6 +23711,8 @@ window.PLEX_DATA = {
         "Moses Sumney"
       ],
       "imdb_id": "tt22048412",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7927216116,
       "audio_languages": [
         "en",
@@ -21561,6 +23733,8 @@ window.PLEX_DATA = {
         "Charles Melton"
       ],
       "imdb_id": "tt13651794",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7602622350,
       "audio_languages": [
         "en",
@@ -21581,6 +23755,8 @@ window.PLEX_DATA = {
         "Thomas Brodie-Sangster"
       ],
       "imdb_id": "tt4500922",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8015544896,
       "audio_languages": [
         "en",
@@ -21601,6 +23777,8 @@ window.PLEX_DATA = {
         "Thomas Brodie-Sangster"
       ],
       "imdb_id": "tt4046784",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4640717423,
       "audio_languages": [
         "en",
@@ -21621,6 +23799,8 @@ window.PLEX_DATA = {
         "René Auberjonois"
       ],
       "imdb_id": "tt0067411",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8819551752,
       "audio_languages": [
         "en",
@@ -21641,6 +23821,8 @@ window.PLEX_DATA = {
         "Elsie Fisher"
       ],
       "imdb_id": "tt2097298",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7106969151,
       "audio_languages": [
         "en",
@@ -21661,6 +23843,8 @@ window.PLEX_DATA = {
         "Janet McTeer"
       ],
       "imdb_id": "tt2674426",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6254270973,
       "audio_languages": [
         "en",
@@ -21680,6 +23864,8 @@ window.PLEX_DATA = {
         "Anthony Anderson"
       ],
       "imdb_id": "tt0183505",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4689028478,
       "audio_languages": [
         "hu"
@@ -21699,6 +23885,8 @@ window.PLEX_DATA = {
         "Lizzy Caplan"
       ],
       "imdb_id": "tt0377092",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7842194351,
       "audio_languages": [
         "en",
@@ -21719,6 +23907,8 @@ window.PLEX_DATA = {
         "Maiara Walsh"
       ],
       "imdb_id": "tt1679235",
+      "imdb_score": 4.1,
+      "resolution": 720,
       "size_bytes": 3287252080,
       "audio_languages": [
         "en",
@@ -21739,6 +23929,8 @@ window.PLEX_DATA = {
         "Tommy Lee Jones"
       ],
       "imdb_id": "tt3522806",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 12722785379,
       "audio_languages": [
         "en",
@@ -21759,6 +23951,8 @@ window.PLEX_DATA = {
         "José Wilker"
       ],
       "imdb_id": "tt0104839",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 10236704752,
       "audio_languages": [
         "en",
@@ -21779,6 +23973,8 @@ window.PLEX_DATA = {
         "Claire Forlani"
       ],
       "imdb_id": "tt0119643",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 9596987892,
       "audio_languages": [
         "en",
@@ -21799,6 +23995,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt0290002",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7347609329,
       "audio_languages": [
         "en",
@@ -21819,6 +24017,8 @@ window.PLEX_DATA = {
         "Teri Polo"
       ],
       "imdb_id": "tt0212338",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6688104124,
       "audio_languages": [
         "en",
@@ -21839,6 +24039,8 @@ window.PLEX_DATA = {
         "Shuya Sophia Cai"
       ],
       "imdb_id": "tt9224104",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 4597373291,
       "audio_languages": [
         "en",
@@ -21859,6 +24061,8 @@ window.PLEX_DATA = {
         "Michelle Yeoh"
       ],
       "imdb_id": "tt0397535",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9517423822,
       "audio_languages": [
         "en",
@@ -21879,6 +24083,8 @@ window.PLEX_DATA = {
         "Taj Atwal"
       ],
       "imdb_id": "tt11827628",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6059055258,
       "audio_languages": [
         "en",
@@ -21899,6 +24105,8 @@ window.PLEX_DATA = {
         "Linda Fiorentino"
       ],
       "imdb_id": "tt0119654",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8941543046,
       "audio_languages": [
         "en",
@@ -21919,6 +24127,8 @@ window.PLEX_DATA = {
         "Rip Torn"
       ],
       "imdb_id": "tt0120912",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5343157844,
       "audio_languages": [
         "en",
@@ -21939,6 +24149,8 @@ window.PLEX_DATA = {
         "Kumail Nanjiani"
       ],
       "imdb_id": "tt2283336",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7132060048,
       "audio_languages": [
         "en",
@@ -21959,6 +24171,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt1409024",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8162045224,
       "audio_languages": [
         "en",
@@ -21979,6 +24193,8 @@ window.PLEX_DATA = {
         "Charlize Theron"
       ],
       "imdb_id": "tt0203019",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5050304567,
       "audio_languages": [
         "en",
@@ -21999,6 +24215,8 @@ window.PLEX_DATA = {
         "Rosemarie DeWitt"
       ],
       "imdb_id": "tt3179568",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8172048606,
       "audio_languages": [
         "en",
@@ -22019,6 +24237,8 @@ window.PLEX_DATA = {
         "Glenn Plummer"
       ],
       "imdb_id": "tt0107554",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4818056072,
       "audio_languages": [
         "en",
@@ -22039,6 +24259,8 @@ window.PLEX_DATA = {
         "Miko Hughes"
       ],
       "imdb_id": "tt0120749",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7208564249,
       "audio_languages": [
         "en",
@@ -22059,6 +24281,8 @@ window.PLEX_DATA = {
         "Kali Reis"
       ],
       "imdb_id": "tt31050594",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 7107085464,
       "audio_languages": [
         "en",
@@ -22079,6 +24303,8 @@ window.PLEX_DATA = {
         "Paul Newman"
       ],
       "imdb_id": "tt0139462",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6703236941,
       "audio_languages": [
         "en",
@@ -22099,6 +24325,8 @@ window.PLEX_DATA = {
         "C.B. Seay"
       ],
       "imdb_id": "tt0089591",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 3865789975,
       "audio_languages": [
         "hu"
@@ -22118,6 +24346,8 @@ window.PLEX_DATA = {
         "Woody Harrelson"
       ],
       "imdb_id": "tt6924650",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 10467275518,
       "audio_languages": [
         "en",
@@ -22138,6 +24368,8 @@ window.PLEX_DATA = {
         "Caspar Jennings"
       ],
       "imdb_id": "tt6495056",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3345217003,
       "audio_languages": [
         "en",
@@ -22158,6 +24390,8 @@ window.PLEX_DATA = {
         "Anna Kendrick"
       ],
       "imdb_id": "tt2823054",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5240637388,
       "audio_languages": [
         "en",
@@ -22178,6 +24412,8 @@ window.PLEX_DATA = {
         "Iko Uwais"
       ],
       "imdb_id": "tt4560436",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5605449931,
       "audio_languages": [
         "en",
@@ -22198,6 +24434,8 @@ window.PLEX_DATA = {
         "Bashir Salahuddin"
       ],
       "imdb_id": "tt8310486",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 3250146442,
       "audio_languages": [
         "en",
@@ -22218,6 +24456,8 @@ window.PLEX_DATA = {
         "Giancarlo Giannini"
       ],
       "imdb_id": "tt0119675",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7969530242,
       "audio_languages": [
         "en",
@@ -22238,6 +24478,8 @@ window.PLEX_DATA = {
         "Gaven E. Lucas"
       ],
       "imdb_id": "tt0239641",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 4817314272,
       "audio_languages": [
         "en",
@@ -22258,6 +24500,8 @@ window.PLEX_DATA = {
         "Rebecca Mader"
       ],
       "imdb_id": "tt0330634",
+      "imdb_score": 4.2,
+      "resolution": 1080,
       "size_bytes": 6081859095,
       "audio_languages": [
         "en",
@@ -22278,6 +24522,8 @@ window.PLEX_DATA = {
         "LL Cool J"
       ],
       "imdb_id": "tt0297284",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5638476345,
       "audio_languages": [
         "en",
@@ -22298,6 +24544,8 @@ window.PLEX_DATA = {
         "Jeff Goldblum"
       ],
       "imdb_id": "tt0425253",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6137338003,
       "audio_languages": [
         "en",
@@ -22318,6 +24566,8 @@ window.PLEX_DATA = {
         "Michael Keaton"
       ],
       "imdb_id": "tt2293640",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6277185292,
       "audio_languages": [
         "en",
@@ -22338,6 +24588,8 @@ window.PLEX_DATA = {
         "Alan Arkin"
       ],
       "imdb_id": "tt5113044",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6535708649,
       "audio_languages": [
         "en",
@@ -22358,6 +24610,8 @@ window.PLEX_DATA = {
         "Colin Farrell"
       ],
       "imdb_id": "tt0181689",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 13016699019,
       "audio_languages": [
         "en",
@@ -22378,6 +24632,8 @@ window.PLEX_DATA = {
         "Armie Hammer"
       ],
       "imdb_id": "tt1667353",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5177784845,
       "audio_languages": [
         "en",
@@ -22398,6 +24654,8 @@ window.PLEX_DATA = {
         "Jessie Buckley"
       ],
       "imdb_id": "tt9148706",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5590068081,
       "audio_languages": [
         "en",
@@ -22418,6 +24676,8 @@ window.PLEX_DATA = {
         "Heather Burns"
       ],
       "imdb_id": "tt0212346",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7252365278,
       "audio_languages": [
         "en",
@@ -22438,6 +24698,8 @@ window.PLEX_DATA = {
         "Enrique Murciano"
       ],
       "imdb_id": "tt0385307",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 6375991160,
       "audio_languages": [
         "en",
@@ -22458,6 +24720,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt1935859",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9479646394,
       "audio_languages": [
         "en",
@@ -22478,6 +24742,8 @@ window.PLEX_DATA = {
         "Emmanuelle Béart"
       ],
       "imdb_id": "tt0117060",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 29661128905,
       "audio_languages": [
         "en",
@@ -22498,6 +24764,8 @@ window.PLEX_DATA = {
         "Ving Rhames"
       ],
       "imdb_id": "tt9603212",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 38078619967,
       "audio_languages": [
         "en",
@@ -22518,6 +24786,8 @@ window.PLEX_DATA = {
         "Ving Rhames"
       ],
       "imdb_id": "tt4912910",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 36043808013,
       "audio_languages": [
         "en",
@@ -22538,6 +24808,8 @@ window.PLEX_DATA = {
         "Simon Pegg"
       ],
       "imdb_id": "tt1229238",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 32359251776,
       "audio_languages": [
         "en",
@@ -22558,6 +24830,8 @@ window.PLEX_DATA = {
         "Simon Pegg"
       ],
       "imdb_id": "tt2381249",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 29530805836,
       "audio_languages": [
         "en",
@@ -22578,6 +24852,8 @@ window.PLEX_DATA = {
         "Ving Rhames"
       ],
       "imdb_id": "tt9603208",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 41632168606,
       "audio_languages": [
         "en",
@@ -22599,6 +24875,8 @@ window.PLEX_DATA = {
         "Thandiwe Newton"
       ],
       "imdb_id": "tt0120755",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 33908708981,
       "audio_languages": [
         "en",
@@ -22619,6 +24897,8 @@ window.PLEX_DATA = {
         "Ving Rhames"
       ],
       "imdb_id": "tt0317919",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 34529594217,
       "audio_languages": [
         "en",
@@ -22639,6 +24919,8 @@ window.PLEX_DATA = {
         "Sienna Miller"
       ],
       "imdb_id": "tt2349144",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8128201755,
       "audio_languages": [
         "en",
@@ -22659,6 +24941,8 @@ window.PLEX_DATA = {
         "Rachel House"
       ],
       "imdb_id": "tt3521164",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7016623121,
       "audio_languages": [
         "en",
@@ -22679,6 +24963,8 @@ window.PLEX_DATA = {
         "Hualālai Chung"
       ],
       "imdb_id": "tt13622970",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3817038971,
       "audio_languages": [
         "en",
@@ -22699,6 +24985,8 @@ window.PLEX_DATA = {
         "Kevin Costner"
       ],
       "imdb_id": "tt4209788",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7509260624,
       "audio_languages": [
         "en",
@@ -22719,6 +25007,8 @@ window.PLEX_DATA = {
         "Anne Winters"
       ],
       "imdb_id": "tt5462326",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5036680801,
       "audio_languages": [
         "en",
@@ -22739,6 +25029,8 @@ window.PLEX_DATA = {
         "Ron Perlman"
       ],
       "imdb_id": "tt6475714",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 5600372994,
       "audio_languages": [
         "en",
@@ -22759,6 +25051,8 @@ window.PLEX_DATA = {
         "Steve Buscemi"
       ],
       "imdb_id": "tt1453405",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6235946942,
       "audio_languages": [
         "en",
@@ -22779,6 +25073,8 @@ window.PLEX_DATA = {
         "Hugh Laurie"
       ],
       "imdb_id": "tt0892782",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4600129700,
       "audio_languages": [
         "en",
@@ -22799,6 +25095,8 @@ window.PLEX_DATA = {
         "Mary Gibbs"
       ],
       "imdb_id": "tt0198781",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 4561359036,
       "audio_languages": [
         "en",
@@ -22819,6 +25117,8 @@ window.PLEX_DATA = {
         "Eric Idle"
       ],
       "imdb_id": "tt0071853",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 7681295750,
       "audio_languages": [
         "en",
@@ -22838,6 +25138,8 @@ window.PLEX_DATA = {
         "Terry Gilliam"
       ],
       "imdb_id": "tt0066765",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4394514229,
       "audio_languages": [
         "en",
@@ -22857,6 +25159,8 @@ window.PLEX_DATA = {
         "Terry Gilliam"
       ],
       "imdb_id": "tt0079470",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 4693614788,
       "audio_languages": [
         "en",
@@ -22877,6 +25181,8 @@ window.PLEX_DATA = {
         "John Cleese"
       ],
       "imdb_id": "tt0085959",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7613848102,
       "audio_languages": [
         "en",
@@ -22897,6 +25203,8 @@ window.PLEX_DATA = {
         "Dominique McElligott"
       ],
       "imdb_id": "tt1182345",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 5059098397,
       "audio_languages": [
         "en",
@@ -22917,6 +25225,8 @@ window.PLEX_DATA = {
         "Jake Gyllenhaal"
       ],
       "imdb_id": "tt0179098",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4170320153,
       "audio_languages": [
         "en",
@@ -22937,6 +25247,8 @@ window.PLEX_DATA = {
         "Michael Lonsdale"
       ],
       "imdb_id": "tt0079574",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3279143673,
       "audio_languages": [
         "en",
@@ -22957,6 +25269,8 @@ window.PLEX_DATA = {
         "Bruce Willis"
       ],
       "imdb_id": "tt1748122",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8394189475,
       "audio_languages": [
         "en",
@@ -22977,6 +25291,8 @@ window.PLEX_DATA = {
         "Adria Arjona"
       ],
       "imdb_id": "tt5108870",
+      "imdb_score": 5.1,
+      "resolution": 1080,
       "size_bytes": 22357647957,
       "audio_languages": [
         "en",
@@ -22997,6 +25313,8 @@ window.PLEX_DATA = {
         "Hugo Weaving"
       ],
       "imdb_id": "tt1571234",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7009688424,
       "audio_languages": [
         "en",
@@ -23017,6 +25335,8 @@ window.PLEX_DATA = {
         "Bridgette Wilson-Sampras"
       ],
       "imdb_id": "tt0113855",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4688211810,
       "audio_languages": [
         "en",
@@ -23037,6 +25357,8 @@ window.PLEX_DATA = {
         "Mehcad Brooks"
       ],
       "imdb_id": "tt0293429",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7099731452,
       "audio_languages": [
         "en",
@@ -23057,6 +25379,8 @@ window.PLEX_DATA = {
         "James Remar"
       ],
       "imdb_id": "tt0119707",
+      "imdb_score": 3.6,
+      "resolution": 720,
       "size_bytes": 4217648283,
       "audio_languages": [
         "en",
@@ -23077,6 +25401,8 @@ window.PLEX_DATA = {
         "Kate Hudson"
       ],
       "imdb_id": "tt4824302",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8489150362,
       "audio_languages": [
         "en",
@@ -23097,6 +25423,8 @@ window.PLEX_DATA = {
         "Raúl Castillo"
       ],
       "imdb_id": "tt13029044",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 2182309435,
       "audio_languages": [
         "en",
@@ -23117,6 +25445,8 @@ window.PLEX_DATA = {
         "Vince Vaughn"
       ],
       "imdb_id": "tt0356910",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 11875951814,
       "audio_languages": [
         "en",
@@ -23137,6 +25467,8 @@ window.PLEX_DATA = {
         "Dane Cook"
       ],
       "imdb_id": "tt0780571",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7378229574,
       "audio_languages": [
         "en"
@@ -23156,6 +25488,8 @@ window.PLEX_DATA = {
         "John Turturro"
       ],
       "imdb_id": "tt0280590",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5008768621,
       "audio_languages": [
         "en",
@@ -23176,6 +25510,8 @@ window.PLEX_DATA = {
         "Lisa Jakub"
       ],
       "imdb_id": "tt0107614",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 10103947670,
       "audio_languages": [
         "en",
@@ -23196,6 +25532,8 @@ window.PLEX_DATA = {
         "Kate Beckinsale"
       ],
       "imdb_id": "tt0107616",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7471228410,
       "audio_languages": [
         "en",
@@ -23216,6 +25554,8 @@ window.PLEX_DATA = {
         "Tiffany Boone"
       ],
       "imdb_id": "tt13186482",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4494982250,
       "audio_languages": [
         "en",
@@ -23236,6 +25576,8 @@ window.PLEX_DATA = {
         "BD Wong"
       ],
       "imdb_id": "tt0120762",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 3221145581,
       "audio_languages": [
         "en",
@@ -23256,6 +25598,8 @@ window.PLEX_DATA = {
         "Gong Li"
       ],
       "imdb_id": "tt4566758",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6500662020,
       "audio_languages": [
         "en",
@@ -23276,6 +25620,8 @@ window.PLEX_DATA = {
         "Mark Moseley"
       ],
       "imdb_id": "tt0279967",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 3755052996,
       "audio_languages": [
         "en",
@@ -23296,6 +25642,8 @@ window.PLEX_DATA = {
         "Justin Theroux"
       ],
       "imdb_id": "tt0166924",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 9361227334,
       "audio_languages": [
         "en",
@@ -23316,6 +25664,8 @@ window.PLEX_DATA = {
         "Harris Yulin"
       ],
       "imdb_id": "tt0117108",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8202403052,
       "audio_languages": [
         "en",
@@ -23336,6 +25686,8 @@ window.PLEX_DATA = {
         "Ryan Gosling"
       ],
       "imdb_id": "tt0264935",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 11716501580,
       "audio_languages": [
         "en",
@@ -23356,6 +25708,8 @@ window.PLEX_DATA = {
         "Luke Evans"
       ],
       "imdb_id": "tt1618434",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 3949705649,
       "audio_languages": [
         "en",
@@ -23376,6 +25730,8 @@ window.PLEX_DATA = {
         "Mark Strong"
       ],
       "imdb_id": "tt15255288",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 2569272143,
       "audio_languages": [
         "en",
@@ -23396,6 +25752,8 @@ window.PLEX_DATA = {
         "Martin Balsam"
       ],
       "imdb_id": "tt0071877",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 9378319932,
       "audio_languages": [
         "en",
@@ -23416,6 +25774,8 @@ window.PLEX_DATA = {
         "Michelle Pfeiffer"
       ],
       "imdb_id": "tt3402236",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6118050705,
       "audio_languages": [
         "en",
@@ -23436,6 +25796,8 @@ window.PLEX_DATA = {
         "Justin Theroux"
       ],
       "imdb_id": "tt1464763",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 3587107581,
       "audio_languages": [
         "en"
@@ -23455,6 +25817,8 @@ window.PLEX_DATA = {
         "Jason Biggs"
       ],
       "imdb_id": "tt1046163",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 8532525793,
       "audio_languages": [
         "en",
@@ -23475,6 +25839,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0119738",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4693825039,
       "audio_languages": [
         "hu"
@@ -23494,6 +25860,8 @@ window.PLEX_DATA = {
         "Lainie Kazan"
       ],
       "imdb_id": "tt0259446",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5013324277,
       "audio_languages": [
         "en",
@@ -23514,6 +25882,8 @@ window.PLEX_DATA = {
         "Elena Kampouris"
       ],
       "imdb_id": "tt3760922",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 3996799513,
       "audio_languages": [
         "en",
@@ -23534,6 +25904,8 @@ window.PLEX_DATA = {
         "Louis Mandylor"
       ],
       "imdb_id": "tt21103300",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 6450953334,
       "audio_languages": [
         "en",
@@ -23554,6 +25926,8 @@ window.PLEX_DATA = {
         "David Strathairn"
       ],
       "imdb_id": "tt0765120",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4553667867,
       "audio_languages": [
         "en",
@@ -23574,6 +25948,8 @@ window.PLEX_DATA = {
         "Andy Richter"
       ],
       "imdb_id": "tt0270980",
+      "imdb_score": 4.7,
+      "resolution": 720,
       "size_bytes": 4695165202,
       "audio_languages": [
         "en",
@@ -23594,6 +25970,8 @@ window.PLEX_DATA = {
         "Ralph Macchio"
       ],
       "imdb_id": "tt0104952",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7429181142,
       "audio_languages": [
         "en",
@@ -23614,6 +25992,8 @@ window.PLEX_DATA = {
         "Dan Aykroyd"
       ],
       "imdb_id": "tt0102492",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 11830478666,
       "audio_languages": [
         "en",
@@ -23634,6 +26014,8 @@ window.PLEX_DATA = {
         "Dan Aykroyd"
       ],
       "imdb_id": "tt0110613",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 3119911930,
       "audio_languages": [
         "en",
@@ -23654,6 +26036,8 @@ window.PLEX_DATA = {
         "Jean Martin"
       ],
       "imdb_id": "tt0070215",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 5579096907,
       "audio_languages": [
         "en",
@@ -23675,6 +26059,8 @@ window.PLEX_DATA = {
         "Justin Bartha"
       ],
       "imdb_id": "tt0368891",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6597686677,
       "audio_languages": [
         "en",
@@ -23695,6 +26081,8 @@ window.PLEX_DATA = {
         "Justin Bartha"
       ],
       "imdb_id": "tt0465234",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6349272917,
       "audio_languages": [
         "en",
@@ -23715,6 +26103,8 @@ window.PLEX_DATA = {
         "Robert Downey Jr."
       ],
       "imdb_id": "tt0110632",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 10081639233,
       "audio_languages": [
         "en",
@@ -23735,6 +26125,8 @@ window.PLEX_DATA = {
         "Tom Ohmer"
       ],
       "imdb_id": "tt14537248",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3125358316,
       "audio_languages": [
         "en"
@@ -23753,6 +26145,8 @@ window.PLEX_DATA = {
         "Rose Byrne"
       ],
       "imdb_id": "tt2004420",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7820448505,
       "audio_languages": [
         "en",
@@ -23772,6 +26166,8 @@ window.PLEX_DATA = {
         "Rose Byrne"
       ],
       "imdb_id": "tt4438848",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5390182372,
       "audio_languages": [
         "en",
@@ -23792,6 +26188,8 @@ window.PLEX_DATA = {
         "Natasha Richardson"
       ],
       "imdb_id": "tt0110638",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3656743957,
       "audio_languages": [
         "en",
@@ -23812,6 +26210,8 @@ window.PLEX_DATA = {
         "Molly Shannon"
       ],
       "imdb_id": "tt0151738",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5258564704,
       "audio_languages": [
         "en",
@@ -23832,6 +26232,8 @@ window.PLEX_DATA = {
         "Andrew Garfield"
       ],
       "imdb_id": "tt1334260",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 4992671673,
       "audio_languages": [
         "en",
@@ -23852,6 +26254,8 @@ window.PLEX_DATA = {
         "Max von Sydow"
       ],
       "imdb_id": "tt0086006",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8691635696,
       "audio_languages": [
         "en",
@@ -23872,6 +26276,8 @@ window.PLEX_DATA = {
         "Chan Sing"
       ],
       "imdb_id": "tt0075439",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5338153434,
       "audio_languages": [
         "en",
@@ -23893,6 +26299,8 @@ window.PLEX_DATA = {
         "Michelle Pfeiffer"
       ],
       "imdb_id": "tt1598822",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5731622424,
       "audio_languages": [
         "en",
@@ -23913,6 +26321,8 @@ window.PLEX_DATA = {
         "Bradley Cooper"
       ],
       "imdb_id": "tt0808399",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4974916942,
       "audio_languages": [
         "en",
@@ -23933,6 +26343,8 @@ window.PLEX_DATA = {
         "Jessica Biel"
       ],
       "imdb_id": "tt0435705",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 9480771300,
       "audio_languages": [
         "en",
@@ -23953,6 +26365,8 @@ window.PLEX_DATA = {
         "Dick Van Dyke"
       ],
       "imdb_id": "tt0477347",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4373012163,
       "audio_languages": [
         "en",
@@ -23973,6 +26387,8 @@ window.PLEX_DATA = {
         "Owen Wilson"
       ],
       "imdb_id": "tt1078912",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6008594047,
       "audio_languages": [
         "en",
@@ -23993,6 +26409,8 @@ window.PLEX_DATA = {
         "Owen Wilson"
       ],
       "imdb_id": "tt2692250",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6078994026,
       "audio_languages": [
         "en",
@@ -24013,6 +26431,8 @@ window.PLEX_DATA = {
         "Kelli Maroney"
       ],
       "imdb_id": "tt0087799",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 9460901252,
       "audio_languages": [
         "en",
@@ -24033,6 +26453,8 @@ window.PLEX_DATA = {
         "Marilyn Eastman"
       ],
       "imdb_id": "tt0063350",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 4689585551,
       "audio_languages": [
         "en",
@@ -24053,6 +26475,8 @@ window.PLEX_DATA = {
         "Gerard Butler"
       ],
       "imdb_id": "tt0410377",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6717979396,
       "audio_languages": [
         "en",
@@ -24073,6 +26497,8 @@ window.PLEX_DATA = {
         "Tom Arnold"
       ],
       "imdb_id": "tt0113986",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5138136576,
       "audio_languages": [
         "en",
@@ -24093,6 +26519,8 @@ window.PLEX_DATA = {
         "Powers Boothe"
       ],
       "imdb_id": "tt0113987",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8811655378,
       "audio_languages": [
         "en",
@@ -24113,6 +26541,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt0477348",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 5279500340,
       "audio_languages": [
         "en",
@@ -24133,6 +26563,8 @@ window.PLEX_DATA = {
         "Laura Benanti"
       ],
       "imdb_id": "tt15671028",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5657150384,
       "audio_languages": [
         "en",
@@ -24153,6 +26585,8 @@ window.PLEX_DATA = {
         "Abigail Breslin"
       ],
       "imdb_id": "tt0481141",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4996769214,
       "audio_languages": [
         "en",
@@ -24173,6 +26607,8 @@ window.PLEX_DATA = {
         "Kevin Kline"
       ],
       "imdb_id": "tt1411238",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7019587882,
       "audio_languages": [
         "hu"
@@ -24192,6 +26628,8 @@ window.PLEX_DATA = {
         "Rami Malek"
       ],
       "imdb_id": "tt2382320",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 11140233436,
       "audio_languages": [
         "en",
@@ -24212,6 +26650,8 @@ window.PLEX_DATA = {
         "Sean Young"
       ],
       "imdb_id": "tt0093640",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7203031886,
       "audio_languages": [
         "en",
@@ -24232,6 +26672,8 @@ window.PLEX_DATA = {
         "Ray Winstone"
       ],
       "imdb_id": "tt1959490",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 11670856916,
       "audio_languages": [
         "en",
@@ -24252,6 +26694,8 @@ window.PLEX_DATA = {
         "Connie Nielsen"
       ],
       "imdb_id": "tt7888964",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 15927175956,
       "audio_languages": [
         "en",
@@ -24272,6 +26716,8 @@ window.PLEX_DATA = {
         "John Ortiz"
       ],
       "imdb_id": "tt28996126",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 10908015173,
       "audio_languages": [
         "en",
@@ -24292,6 +26738,8 @@ window.PLEX_DATA = {
         "Scoot McNairy"
       ],
       "imdb_id": "tt2024469",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 9477602279,
       "audio_languages": [
         "en",
@@ -24312,6 +26760,8 @@ window.PLEX_DATA = {
         "Brandon Perea"
       ],
       "imdb_id": "tt10954984",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6400013699,
       "audio_languages": [
         "en",
@@ -24331,6 +26781,8 @@ window.PLEX_DATA = {
         "Woody Harrelson"
       ],
       "imdb_id": "tt0395972",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 5101596274,
       "audio_languages": [
         "en",
@@ -24351,6 +26803,8 @@ window.PLEX_DATA = {
         "Bill Skarsgård"
       ],
       "imdb_id": "tt5040012",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9136326388,
       "audio_languages": [
         "en",
@@ -24371,6 +26825,8 @@ window.PLEX_DATA = {
         "Angela Bassett"
       ],
       "imdb_id": "tt1073241",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 4690989136,
       "audio_languages": [
         "hu"
@@ -24390,6 +26846,8 @@ window.PLEX_DATA = {
         "Gina McKee"
       ],
       "imdb_id": "tt0125439",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4506420959,
       "audio_languages": [
         "en",
@@ -24410,6 +26868,8 @@ window.PLEX_DATA = {
         "Isla Fisher"
       ],
       "imdb_id": "tt1670345",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 17689838182,
       "audio_languages": [
         "en",
@@ -24430,6 +26890,8 @@ window.PLEX_DATA = {
         "Woody Harrelson"
       ],
       "imdb_id": "tt3110958",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 21068286486,
       "audio_languages": [
         "en",
@@ -24450,6 +26912,8 @@ window.PLEX_DATA = {
         "Ariana Greenblatt"
       ],
       "imdb_id": "tt4712810",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 29084765832,
       "audio_languages": [
         "en",
@@ -24470,6 +26934,8 @@ window.PLEX_DATA = {
         "Michael Shannon"
       ],
       "imdb_id": "tt29567915",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 10039718491,
       "audio_languages": [
         "en",
@@ -24490,6 +26956,8 @@ window.PLEX_DATA = {
         "Olga Kurylenko"
       ],
       "imdb_id": "tt1483013",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 9992501240,
       "audio_languages": [
         "en",
@@ -24510,6 +26978,8 @@ window.PLEX_DATA = {
         "Anne Hathaway"
       ],
       "imdb_id": "tt5164214",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7250414659,
       "audio_languages": [
         "en",
@@ -24530,6 +27000,8 @@ window.PLEX_DATA = {
         "Andy Garcia"
       ],
       "imdb_id": "tt0240772",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7623955647,
       "audio_languages": [
         "en",
@@ -24550,6 +27022,8 @@ window.PLEX_DATA = {
         "Al Pacino"
       ],
       "imdb_id": "tt0496806",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4689705661,
       "audio_languages": [
         "hu"
@@ -24569,6 +27043,8 @@ window.PLEX_DATA = {
         "Brad Pitt"
       ],
       "imdb_id": "tt0349903",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7464778291,
       "audio_languages": [
         "en",
@@ -24589,6 +27065,8 @@ window.PLEX_DATA = {
         "Louis Jourdan"
       ],
       "imdb_id": "tt0086034",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6726028536,
       "audio_languages": [
         "en",
@@ -24609,6 +27087,8 @@ window.PLEX_DATA = {
         "Luciano Catenacci"
       ],
       "imdb_id": "tt0078058",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 4725731586,
       "audio_languages": [
         "hu"
@@ -24628,6 +27108,8 @@ window.PLEX_DATA = {
         "Ralph Fiennes"
       ],
       "imdb_id": "tt5431890",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9416057071,
       "audio_languages": [
         "en",
@@ -24648,6 +27130,8 @@ window.PLEX_DATA = {
         "Marie Versini"
       ],
       "imdb_id": "tt0061198",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 12071325425,
       "audio_languages": [
         "de",
@@ -24668,6 +27152,8 @@ window.PLEX_DATA = {
         "Vince Vaughn"
       ],
       "imdb_id": "tt0302886",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 11663984347,
       "audio_languages": [
         "en",
@@ -24688,6 +27174,8 @@ window.PLEX_DATA = {
         "Daliah Lavi"
       ],
       "imdb_id": "tt0057380",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6409122152,
       "audio_languages": [
         "de",
@@ -24708,6 +27196,8 @@ window.PLEX_DATA = {
         "Finley Jacobsen"
       ],
       "imdb_id": "tt2302755",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 17518861253,
       "audio_languages": [
         "en",
@@ -24728,6 +27218,8 @@ window.PLEX_DATA = {
         "Telly Savalas"
       ],
       "imdb_id": "tt0064757",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5906407718,
       "audio_languages": [
         "hu"
@@ -24747,6 +27239,8 @@ window.PLEX_DATA = {
         "Elizabeth McGovern"
       ],
       "imdb_id": "tt0087843",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 13251721814,
       "audio_languages": [
         "en",
@@ -24767,6 +27261,8 @@ window.PLEX_DATA = {
         "Jason Robards"
       ],
       "imdb_id": "tt0064116",
+      "imdb_score": 8.5,
+      "resolution": 720,
       "size_bytes": 8785265351,
       "audio_languages": [
         "en",
@@ -24787,6 +27283,8 @@ window.PLEX_DATA = {
         "Chase Infiniti"
       ],
       "imdb_id": "tt30144839",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 16727993983,
       "audio_languages": [
         "en",
@@ -24807,6 +27305,8 @@ window.PLEX_DATA = {
         "Tom Mison"
       ],
       "imdb_id": "tt1563738",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5710923561,
       "audio_languages": [
         "en",
@@ -24827,6 +27327,8 @@ window.PLEX_DATA = {
         "Mae Whitman"
       ],
       "imdb_id": "tt0117247",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7160938889,
       "audio_languages": [
         "en",
@@ -24847,6 +27349,8 @@ window.PLEX_DATA = {
         "Bonnie Hunt"
       ],
       "imdb_id": "tt0110737",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3653639390,
       "audio_languages": [
         "en",
@@ -24867,6 +27371,8 @@ window.PLEX_DATA = {
         "Michael Gambon"
       ],
       "imdb_id": "tt0316356",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 15317162445,
       "audio_languages": [
         "en",
@@ -24887,6 +27393,8 @@ window.PLEX_DATA = {
         "Matt Damon"
       ],
       "imdb_id": "tt15398776",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 11474110851,
       "audio_languages": [
         "en",
@@ -24907,6 +27415,8 @@ window.PLEX_DATA = {
         "Thomas Jane"
       ],
       "imdb_id": "tt0218922",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7190418058,
       "audio_languages": [
         "en",
@@ -24927,6 +27437,8 @@ window.PLEX_DATA = {
         "Penelope Ann Miller"
       ],
       "imdb_id": "tt0102609",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4645512210,
       "audio_languages": [
         "en",
@@ -24947,6 +27459,8 @@ window.PLEX_DATA = {
         "Billy Bob Thornton"
       ],
       "imdb_id": "tt1018765",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7330341781,
       "audio_languages": [
         "en",
@@ -24967,6 +27481,8 @@ window.PLEX_DATA = {
         "Zooey Deschanel"
       ],
       "imdb_id": "tt1637706",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3354969253,
       "audio_languages": [
         "en",
@@ -24987,6 +27503,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0114069",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5055467554,
       "audio_languages": [
         "en",
@@ -25007,6 +27525,8 @@ window.PLEX_DATA = {
         "Frances Sternhagen"
       ],
       "imdb_id": "tt0082869",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6941249037,
       "audio_languages": [
         "en",
@@ -25027,6 +27547,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt1623205",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6532039036,
       "audio_languages": [
         "en",
@@ -25047,6 +27569,8 @@ window.PLEX_DATA = {
         "Idris Elba"
       ],
       "imdb_id": "tt1663662",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 17861072983,
       "audio_languages": [
         "en",
@@ -25067,6 +27591,8 @@ window.PLEX_DATA = {
         "Cailee Spaeny"
       ],
       "imdb_id": "tt2557478",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 28114895573,
       "audio_languages": [
         "en",
@@ -25087,6 +27613,8 @@ window.PLEX_DATA = {
         "Anthony Mackie"
       ],
       "imdb_id": "tt1980209",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8300504931,
       "audio_languages": [
         "en",
@@ -25107,6 +27635,8 @@ window.PLEX_DATA = {
         "Cam Gigandet"
       ],
       "imdb_id": "tt1188729",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7365847782,
       "audio_languages": [
         "en",
@@ -25127,6 +27657,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt7469828",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8257921144,
       "audio_languages": [
         "en",
@@ -25147,6 +27679,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt4429194",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4870242695,
       "audio_languages": [
         "en",
@@ -25167,6 +27701,8 @@ window.PLEX_DATA = {
         "Michael Chiklis"
       ],
       "imdb_id": "tt1904996",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5516448365,
       "audio_languages": [
         "en",
@@ -25187,6 +27723,8 @@ window.PLEX_DATA = {
         "Tom Sizemore"
       ],
       "imdb_id": "tt0105104",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4217810683,
       "audio_languages": [
         "en",
@@ -25207,6 +27745,8 @@ window.PLEX_DATA = {
         "Andre Braugher"
       ],
       "imdb_id": "tt0449487",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4685873926,
       "audio_languages": [
         "en",
@@ -25227,6 +27767,8 @@ window.PLEX_DATA = {
         "Michael Sheen"
       ],
       "imdb_id": "tt1355644",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7201509582,
       "audio_languages": [
         "en",
@@ -25247,6 +27789,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt0218505",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 3470096098,
       "audio_languages": [
         "en",
@@ -25267,6 +27811,8 @@ window.PLEX_DATA = {
         "Thora Birch"
       ],
       "imdb_id": "tt0105112",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4831410764,
       "audio_languages": [
         "en",
@@ -25287,6 +27833,8 @@ window.PLEX_DATA = {
         "J.K. Simmons"
       ],
       "imdb_id": "tt4572514",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9882450701,
       "audio_languages": [
         "en",
@@ -25307,6 +27855,8 @@ window.PLEX_DATA = {
         "Jayma Mays"
       ],
       "imdb_id": "tt1114740",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 4734960416,
       "audio_languages": [
         "hu"
@@ -25326,6 +27876,8 @@ window.PLEX_DATA = {
         "Neal McDonough"
       ],
       "imdb_id": "tt3450650",
+      "imdb_score": 4.5,
+      "resolution": 720,
       "size_bytes": 5755440036,
       "audio_languages": [
         "en",
@@ -25346,6 +27898,8 @@ window.PLEX_DATA = {
         "Veronica Ferres"
       ],
       "imdb_id": "tt3733778",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 6398935699,
       "audio_languages": [
         "en",
@@ -25366,6 +27920,8 @@ window.PLEX_DATA = {
         "Maria Bello"
       ],
       "imdb_id": "tt0120784",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5030926836,
       "audio_languages": [
         "en",
@@ -25386,6 +27942,8 @@ window.PLEX_DATA = {
         "Rebecca Ferguson"
       ],
       "imdb_id": "tt15574124",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 5365373528,
       "audio_languages": [
         "en",
@@ -25406,6 +27964,8 @@ window.PLEX_DATA = {
         "Josh Hartnett"
       ],
       "imdb_id": "tt0213149",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 29753913913,
       "audio_languages": [
         "en",
@@ -25426,6 +27986,8 @@ window.PLEX_DATA = {
         "Tandi Wright"
       ],
       "imdb_id": "tt18925334",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6678974348,
       "audio_languages": [
         "en",
@@ -25446,6 +28008,8 @@ window.PLEX_DATA = {
         "Christopher Knights"
       ],
       "imdb_id": "tt1911658",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5261346783,
       "audio_languages": [
         "en",
@@ -25466,6 +28030,8 @@ window.PLEX_DATA = {
         "Olivia Wilde"
       ],
       "imdb_id": "tt1716777",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7470922454,
       "audio_languages": [
         "en",
@@ -25486,6 +28052,8 @@ window.PLEX_DATA = {
         "Alexandra Daddario"
       ],
       "imdb_id": "tt0814255",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4695579303,
       "audio_languages": [],
       "has_subtitles": true
@@ -25503,6 +28071,8 @@ window.PLEX_DATA = {
         "Alexandra Daddario"
       ],
       "imdb_id": "tt1854564",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7699821328,
       "audio_languages": [
         "hu"
@@ -25522,6 +28092,8 @@ window.PLEX_DATA = {
         "Rachel Hurd-Wood"
       ],
       "imdb_id": "tt0396171",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 9111690863,
       "audio_languages": [
         "en",
@@ -25542,6 +28114,8 @@ window.PLEX_DATA = {
         "Jenny Laroche"
       ],
       "imdb_id": "tt10195320",
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 4752202023,
       "audio_languages": [
         "en",
@@ -25562,6 +28136,8 @@ window.PLEX_DATA = {
         "Kathy Bates"
       ],
       "imdb_id": "tt1138489",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 15630423464,
       "audio_languages": [
         "en",
@@ -25582,6 +28158,8 @@ window.PLEX_DATA = {
         "Denise Crosby"
       ],
       "imdb_id": "tt0098084",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 9024412308,
       "audio_languages": [
         "en",
@@ -25602,6 +28180,8 @@ window.PLEX_DATA = {
         "John Lithgow"
       ],
       "imdb_id": "tt0837563",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5908008389,
       "audio_languages": [
         "en",
@@ -25622,6 +28202,8 @@ window.PLEX_DATA = {
         "Clancy Brown"
       ],
       "imdb_id": "tt0105128",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 6002896297,
       "audio_languages": [
         "en",
@@ -25642,6 +28224,8 @@ window.PLEX_DATA = {
         "Jack Mulhern"
       ],
       "imdb_id": "tt14145436",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 2607224470,
       "audio_languages": [
         "en"
@@ -25661,6 +28245,8 @@ window.PLEX_DATA = {
         "Rachel Hurd-Wood"
       ],
       "imdb_id": "tt0316396",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8523603897,
       "audio_languages": [
         "en",
@@ -25681,6 +28267,8 @@ window.PLEX_DATA = {
         "Lance Henriksen"
       ],
       "imdb_id": "tt1922685",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 7443882171,
       "audio_languages": [
         "en"
@@ -25700,6 +28288,8 @@ window.PLEX_DATA = {
         "Forest Whitaker"
       ],
       "imdb_id": "tt0117333",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7762191747,
       "audio_languages": [
         "en",
@@ -25719,6 +28309,8 @@ window.PLEX_DATA = {
         "Jason Robards"
       ],
       "imdb_id": "tt0107818",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 11415435029,
       "audio_languages": [
         "en",
@@ -25739,6 +28331,8 @@ window.PLEX_DATA = {
         "John Christian Graas"
       ],
       "imdb_id": "tt0107819",
+      "imdb_score": 4.5,
+      "resolution": 1080,
       "size_bytes": 10705360346,
       "audio_languages": [
         "en",
@@ -25759,6 +28353,8 @@ window.PLEX_DATA = {
         "Kevin Bacon"
       ],
       "imdb_id": "tt0119896",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4826705745,
       "audio_languages": [
         "en"
@@ -25778,6 +28374,8 @@ window.PLEX_DATA = {
         "Alfre Woodard"
       ],
       "imdb_id": "tt1057512",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 6778216062,
       "audio_languages": [
         "en",
@@ -25796,6 +28394,8 @@ window.PLEX_DATA = {
         "Terence Hill"
       ],
       "imdb_id": "tt10026686",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 1135592403,
       "audio_languages": [],
       "has_subtitles": false
@@ -25813,6 +28413,8 @@ window.PLEX_DATA = {
         "Adam Arkin"
       ],
       "imdb_id": "tt11003218",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 5403430746,
       "audio_languages": [
         "en",
@@ -25833,6 +28435,8 @@ window.PLEX_DATA = {
         "Joey Slotnick"
       ],
       "imdb_id": "tt0168122",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 6227936545,
       "audio_languages": [
         "en",
@@ -25853,6 +28457,8 @@ window.PLEX_DATA = {
         "Orlando Bloom"
       ],
       "imdb_id": "tt0449088",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 17939761663,
       "audio_languages": [
         "en",
@@ -25873,6 +28479,8 @@ window.PLEX_DATA = {
         "Keira Knightley"
       ],
       "imdb_id": "tt0383574",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 14315890216,
       "audio_languages": [
         "en",
@@ -25893,6 +28501,8 @@ window.PLEX_DATA = {
         "Geoffrey Rush"
       ],
       "imdb_id": "tt1790809",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 14114461055,
       "audio_languages": [
         "en",
@@ -25913,6 +28523,8 @@ window.PLEX_DATA = {
         "Geoffrey Rush"
       ],
       "imdb_id": "tt1298650",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 12485459349,
       "audio_languages": [
         "en",
@@ -25933,6 +28545,8 @@ window.PLEX_DATA = {
         "Orlando Bloom"
       ],
       "imdb_id": "tt0325980",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 17060774611,
       "audio_languages": [
         "en",
@@ -25953,6 +28567,8 @@ window.PLEX_DATA = {
         "Cole Hauser"
       ],
       "imdb_id": "tt0134847",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 25854422344,
       "audio_languages": [
         "en",
@@ -25973,6 +28589,8 @@ window.PLEX_DATA = {
         "Banks Pierce"
       ],
       "imdb_id": "tt31425731",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 3186890671,
       "audio_languages": [
         "en",
@@ -25993,6 +28611,8 @@ window.PLEX_DATA = {
         "Sean Connery"
       ],
       "imdb_id": "tt0145734",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 5218468322,
       "audio_languages": [
         "en",
@@ -26013,6 +28633,8 @@ window.PLEX_DATA = {
         "Topher Grace"
       ],
       "imdb_id": "tt2139555",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5218357687,
       "audio_languages": [
         "en",
@@ -26033,6 +28655,8 @@ window.PLEX_DATA = {
         "Katheryn Winnick"
       ],
       "imdb_id": "tt4139588",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5075744732,
       "audio_languages": [
         "en"
@@ -26052,6 +28676,8 @@ window.PLEX_DATA = {
         "G.W. Bailey"
       ],
       "imdb_id": "tt0087928",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 15259819035,
       "audio_languages": [
         "en",
@@ -26072,6 +28698,8 @@ window.PLEX_DATA = {
         "David Graf"
       ],
       "imdb_id": "tt0089822",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 13130731089,
       "audio_languages": [
         "en",
@@ -26092,6 +28720,8 @@ window.PLEX_DATA = {
         "David Graf"
       ],
       "imdb_id": "tt0091777",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 6326855119,
       "audio_languages": [],
       "has_subtitles": true
@@ -26109,6 +28739,8 @@ window.PLEX_DATA = {
         "Michael Winslow"
       ],
       "imdb_id": "tt0093756",
+      "imdb_score": 5.0,
+      "resolution": 1080,
       "size_bytes": 18766843896,
       "audio_languages": [
         "en",
@@ -26129,6 +28761,8 @@ window.PLEX_DATA = {
         "Michael Winslow"
       ],
       "imdb_id": "tt0095882",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 7304929723,
       "audio_languages": [
         "en",
@@ -26149,6 +28783,8 @@ window.PLEX_DATA = {
         "Michael Winslow"
       ],
       "imdb_id": "tt0098105",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 3633651136,
       "audio_languages": [
         "en",
@@ -26169,6 +28805,8 @@ window.PLEX_DATA = {
         "David Graf"
       ],
       "imdb_id": "tt0110857",
+      "imdb_score": 3.5,
+      "resolution": 720,
       "size_bytes": 3632083415,
       "audio_languages": [
         "en",
@@ -26189,6 +28827,8 @@ window.PLEX_DATA = {
         "Beatrice Straight"
       ],
       "imdb_id": "tt0084516",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 10971125969,
       "audio_languages": [
         "en",
@@ -26209,6 +28849,8 @@ window.PLEX_DATA = {
         "Saxon Sharbino"
       ],
       "imdb_id": "tt1029360",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 4093527554,
       "audio_languages": [
         "en",
@@ -26229,6 +28871,8 @@ window.PLEX_DATA = {
         "Heather O'Rourke"
       ],
       "imdb_id": "tt0091778",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4691503938,
       "audio_languages": [
         "en",
@@ -26249,6 +28893,8 @@ window.PLEX_DATA = {
         "Heather O'Rourke"
       ],
       "imdb_id": "tt0095889",
+      "imdb_score": 4.7,
+      "resolution": 1080,
       "size_bytes": 7318649952,
       "audio_languages": [
         "en",
@@ -26269,6 +28915,8 @@ window.PLEX_DATA = {
         "Adewale Akinnuoye-Agbaje"
       ],
       "imdb_id": "tt1921064",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 6982914401,
       "audio_languages": [
         "en",
@@ -26289,6 +28937,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt14230458",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 9841064021,
       "audio_languages": [
         "en"
@@ -26308,6 +28958,8 @@ window.PLEX_DATA = {
         "Margit Carstensen"
       ],
       "imdb_id": "tt0082933",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4863329428,
       "audio_languages": [
         "en",
@@ -26328,6 +28980,8 @@ window.PLEX_DATA = {
         "Jennifer Jason Leigh"
       ],
       "imdb_id": "tt5918982",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6521636513,
       "audio_languages": [
         "en",
@@ -26348,6 +29002,8 @@ window.PLEX_DATA = {
         "Stockard Channing"
       ],
       "imdb_id": "tt0120791",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7069731294,
       "audio_languages": [
         "en",
@@ -26368,6 +29024,8 @@ window.PLEX_DATA = {
         "Kevin Peter Hall"
       ],
       "imdb_id": "tt0093773",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 23512662390,
       "audio_languages": [
         "en",
@@ -26388,6 +29046,8 @@ window.PLEX_DATA = {
         "Rubén Blades"
       ],
       "imdb_id": "tt0100403",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 22923568034,
       "audio_languages": [
         "en",
@@ -26408,6 +29068,8 @@ window.PLEX_DATA = {
         "Ravi Narayan"
       ],
       "imdb_id": "tt31227572",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 31808789059,
       "audio_languages": [
         "en",
@@ -26428,6 +29090,8 @@ window.PLEX_DATA = {
         "Alice Braga"
       ],
       "imdb_id": "tt1424381",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 12035993803,
       "audio_languages": [
         "en",
@@ -26448,6 +29112,8 @@ window.PLEX_DATA = {
         "Courtney Taylor Burness"
       ],
       "imdb_id": "tt0477071",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4758718955,
       "audio_languages": [
         "en",
@@ -26468,6 +29134,8 @@ window.PLEX_DATA = {
         "Iris Apatow"
       ],
       "imdb_id": "tt26678938",
+      "imdb_score": 5.8,
+      "resolution": 576,
       "size_bytes": 3255157319,
       "audio_languages": [
         "en",
@@ -26488,6 +29156,8 @@ window.PLEX_DATA = {
         "Ralph Bellamy"
       ],
       "imdb_id": "tt0100405",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 16695736921,
       "audio_languages": [
         "en",
@@ -26508,6 +29178,8 @@ window.PLEX_DATA = {
         "Michelle Thrush"
       ],
       "imdb_id": "tt11866324",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 9878408412,
       "audio_languages": [
         "en",
@@ -26528,6 +29200,8 @@ window.PLEX_DATA = {
         "Brenda Blethyn"
       ],
       "imdb_id": "tt0414387",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 7175371230,
       "audio_languages": [
         "en",
@@ -26548,6 +29222,8 @@ window.PLEX_DATA = {
         "Jack Huston"
       ],
       "imdb_id": "tt1374989",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5319738379,
       "audio_languages": [
         "en",
@@ -26568,6 +29244,8 @@ window.PLEX_DATA = {
         "Lily Collins"
       ],
       "imdb_id": "tt0822847",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5346620055,
       "audio_languages": [
         "en",
@@ -26588,6 +29266,8 @@ window.PLEX_DATA = {
         "Edward Norton"
       ],
       "imdb_id": "tt0117381",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8738518450,
       "audio_languages": [
         "en",
@@ -26608,6 +29288,8 @@ window.PLEX_DATA = {
         "Ben Kingsley"
       ],
       "imdb_id": "tt0473075",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8540320379,
       "audio_languages": [
         "en",
@@ -26628,6 +29310,8 @@ window.PLEX_DATA = {
         "Malcolm McDowell"
       ],
       "imdb_id": "tt0272790",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7107083905,
       "audio_languages": [
         "en",
@@ -26648,6 +29332,8 @@ window.PLEX_DATA = {
         "Robert Loggia"
       ],
       "imdb_id": "tt0089841",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 14269910984,
       "audio_languages": [
         "en",
@@ -26668,6 +29354,8 @@ window.PLEX_DATA = {
         "Charlize Theron"
       ],
       "imdb_id": "tt1446714",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 31347930506,
       "audio_languages": [
         "en",
@@ -26688,6 +29376,8 @@ window.PLEX_DATA = {
         "Philip Seymour Hoffman"
       ],
       "imdb_id": "tt0272338",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7024171203,
       "audio_languages": [
         "en",
@@ -26708,6 +29398,8 @@ window.PLEX_DATA = {
         "Julie Benz"
       ],
       "imdb_id": "tt0450314",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 11165463642,
       "audio_languages": [
         "en",
@@ -26728,6 +29420,8 @@ window.PLEX_DATA = {
         "Camilla Belle"
       ],
       "imdb_id": "tt0465580",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6240355007,
       "audio_languages": [
         "en",
@@ -26748,6 +29442,8 @@ window.PLEX_DATA = {
         "Laura Drasbæk"
       ],
       "imdb_id": "tt0117407",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7907303974,
       "audio_languages": [
         "da",
@@ -26769,6 +29465,8 @@ window.PLEX_DATA = {
         "Anne Sørensen"
       ],
       "imdb_id": "tt0396184",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4692169664,
       "audio_languages": [
         "da"
@@ -26788,6 +29486,8 @@ window.PLEX_DATA = {
         "Slavko Labović"
       ],
       "imdb_id": "tt0425379",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 3869168562,
       "audio_languages": [
         "da"
@@ -26807,6 +29507,8 @@ window.PLEX_DATA = {
         "Zach Galifianakis"
       ],
       "imdb_id": "tt0448694",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4696096356,
       "audio_languages": [
         "en",
@@ -26827,6 +29529,8 @@ window.PLEX_DATA = {
         "Harvey Guillén"
       ],
       "imdb_id": "tt3915174",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 6516975987,
       "audio_languages": [
         "en",
@@ -26847,6 +29551,8 @@ window.PLEX_DATA = {
         "Mathieu Amalric"
       ],
       "imdb_id": "tt0830515",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7377899091,
       "audio_languages": [
         "en",
@@ -26867,6 +29573,8 @@ window.PLEX_DATA = {
         "Jay Hernandez"
       ],
       "imdb_id": "tt1082868",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 7216486365,
       "audio_languages": [
         "en",
@@ -26887,6 +29595,8 @@ window.PLEX_DATA = {
         "Bre Blair"
       ],
       "imdb_id": "tt1699231",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 3174824629,
       "audio_languages": [
         "en",
@@ -26907,6 +29617,8 @@ window.PLEX_DATA = {
         "Kevin Bacon"
       ],
       "imdb_id": "tt0790736",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6869863565,
       "audio_languages": [
         "en",
@@ -26927,6 +29639,8 @@ window.PLEX_DATA = {
         "Richard Brake"
       ],
       "imdb_id": "tt21094994",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 5266702565,
       "audio_languages": [
         "en"
@@ -26946,6 +29660,8 @@ window.PLEX_DATA = {
         "Alexander Ludwig"
       ],
       "imdb_id": "tt1075417",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4402136512,
       "audio_languages": [],
       "has_subtitles": true
@@ -26963,6 +29679,8 @@ window.PLEX_DATA = {
         "Bill Irwin"
       ],
       "imdb_id": "tt1084950",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 12166042652,
       "audio_languages": [
         "en",
@@ -26983,6 +29701,8 @@ window.PLEX_DATA = {
         "Paul Freeman"
       ],
       "imdb_id": "tt0082971",
+      "imdb_score": 8.4,
+      "resolution": 720,
       "size_bytes": 8634273283,
       "audio_languages": [
         "en",
@@ -27002,6 +29722,8 @@ window.PLEX_DATA = {
         "Valeria Golino"
       ],
       "imdb_id": "tt0095953",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 10126151790,
       "audio_languages": [
         "en",
@@ -27022,6 +29744,8 @@ window.PLEX_DATA = {
         "Gal Gadot"
       ],
       "imdb_id": "tt5848272",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5480196825,
       "audio_languages": [
         "en",
@@ -27042,6 +29766,8 @@ window.PLEX_DATA = {
         "Malin Åkerman"
       ],
       "imdb_id": "tt2231461",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 16225886234,
       "audio_languages": [
         "en",
@@ -27062,6 +29788,8 @@ window.PLEX_DATA = {
         "Harald Leipnitz"
       ],
       "imdb_id": "tt0059958",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 10944076211,
       "audio_languages": [
         "de",
@@ -27083,6 +29811,8 @@ window.PLEX_DATA = {
         "Gary Sinise"
       ],
       "imdb_id": "tt0117438",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6338780389,
       "audio_languages": [
         "en",
@@ -27103,6 +29833,8 @@ window.PLEX_DATA = {
         "Lou Romano"
       ],
       "imdb_id": "tt0382932",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 5340174833,
       "audio_languages": [
         "en",
@@ -27123,6 +29855,8 @@ window.PLEX_DATA = {
         "Sam Wanamaker"
       ],
       "imdb_id": "tt0091828",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6827153068,
       "audio_languages": [
         "en",
@@ -27143,6 +29877,8 @@ window.PLEX_DATA = {
         "Barbara Crampton"
       ],
       "imdb_id": "tt0089885",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7423740184,
       "audio_languages": [
         "en",
@@ -27163,6 +29899,8 @@ window.PLEX_DATA = {
         "Adam Brody"
       ],
       "imdb_id": "tt7798634",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6064182996,
       "audio_languages": [
         "en",
@@ -27183,6 +29921,8 @@ window.PLEX_DATA = {
         "Ben Mendelsohn"
       ],
       "imdb_id": "tt1677720",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7856574758,
       "audio_languages": [
         "en",
@@ -27203,6 +29943,8 @@ window.PLEX_DATA = {
         "Janeane Garofalo"
       ],
       "imdb_id": "tt0110950",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7745601343,
       "audio_languages": [
         "en",
@@ -27223,6 +29965,8 @@ window.PLEX_DATA = {
         "Ed Skrein"
       ],
       "imdb_id": "tt14998742",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6596380831,
       "audio_languages": [
         "en",
@@ -27243,6 +29987,8 @@ window.PLEX_DATA = {
         "Ed Skrein"
       ],
       "imdb_id": "tt23137904",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 3807164860,
       "audio_languages": [
         "en",
@@ -27263,6 +30009,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt1245526",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7035095199,
       "audio_languages": [
         "en",
@@ -27283,6 +30031,8 @@ window.PLEX_DATA = {
         "Mary-Louise Parker"
       ],
       "imdb_id": "tt1821694",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 9658733836,
       "audio_languages": [
         "en",
@@ -27303,6 +30053,8 @@ window.PLEX_DATA = {
         "Ralph Fiennes"
       ],
       "imdb_id": "tt0289765",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 40718693411,
       "audio_languages": [
         "en",
@@ -27323,6 +30075,8 @@ window.PLEX_DATA = {
         "Brian Cox"
       ],
       "imdb_id": "tt0421239",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4938502966,
       "audio_languages": [
         "en",
@@ -27343,6 +30097,8 @@ window.PLEX_DATA = {
         "Peter Boyle"
       ],
       "imdb_id": "tt0095963",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 11517977366,
       "audio_languages": [
         "en",
@@ -27363,6 +30119,8 @@ window.PLEX_DATA = {
         "Robert De Niro"
       ],
       "imdb_id": "tt1748179",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4795801916,
       "audio_languages": [
         "en",
@@ -27383,6 +30141,8 @@ window.PLEX_DATA = {
         "Gal Gadot"
       ],
       "imdb_id": "tt7991608",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 14442328185,
       "audio_languages": [
         "en",
@@ -27403,6 +30163,8 @@ window.PLEX_DATA = {
         "Lucy Liu"
       ],
       "imdb_id": "tt14948432",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 12921038750,
       "audio_languages": [
         "en",
@@ -27423,6 +30185,8 @@ window.PLEX_DATA = {
         "Benjamin Bratt"
       ],
       "imdb_id": "tt0199753",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4846924017,
       "audio_languages": [
         "en",
@@ -27443,6 +30207,8 @@ window.PLEX_DATA = {
         "Billy Burke"
       ],
       "imdb_id": "tt1486185",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6282221386,
       "audio_languages": [
         "en",
@@ -27463,6 +30229,8 @@ window.PLEX_DATA = {
         "Izabella Scorupco"
       ],
       "imdb_id": "tt0253556",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4649804897,
       "audio_languages": [
         "en",
@@ -27483,6 +30251,8 @@ window.PLEX_DATA = {
         "Gary Sinise"
       ],
       "imdb_id": "tt0184858",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 7240329266,
       "audio_languages": [
         "en",
@@ -27502,6 +30272,8 @@ window.PLEX_DATA = {
         "Ron Livingston"
       ],
       "imdb_id": "tt0425395",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 4251981552,
       "audio_languages": [
         "en",
@@ -27522,6 +30294,8 @@ window.PLEX_DATA = {
         "Wood Harris"
       ],
       "imdb_id": "tt0210945",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 8694371258,
       "audio_languages": [
         "en",
@@ -27542,6 +30316,8 @@ window.PLEX_DATA = {
         "James Remar"
       ],
       "imdb_id": "tt0110971",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5913728169,
       "audio_languages": [
         "en",
@@ -27562,6 +30338,8 @@ window.PLEX_DATA = {
         "Thomas Middleditch"
       ],
       "imdb_id": "tt4154916",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5379453231,
       "audio_languages": [
         "en",
@@ -27582,6 +30360,8 @@ window.PLEX_DATA = {
         "Alice Braga"
       ],
       "imdb_id": "tt1053424",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7202990031,
       "audio_languages": [
         "en",
@@ -27602,6 +30382,8 @@ window.PLEX_DATA = {
         "Jennifer Connelly"
       ],
       "imdb_id": "tt0180093",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 9565825223,
       "audio_languages": [
         "en",
@@ -27622,6 +30404,8 @@ window.PLEX_DATA = {
         "Jack Champion"
       ],
       "imdb_id": "tt6906292",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5869373448,
       "audio_languages": [
         "en",
@@ -27642,6 +30426,8 @@ window.PLEX_DATA = {
         "Kim Richards"
       ],
       "imdb_id": "tt0078158",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4827883124,
       "audio_languages": [
         "en",
@@ -27662,6 +30448,8 @@ window.PLEX_DATA = {
         "Carroll O'Connor"
       ],
       "imdb_id": "tt0122459",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6030577096,
       "audio_languages": [
         "en",
@@ -27682,6 +30470,8 @@ window.PLEX_DATA = {
         "Andrea Moor"
       ],
       "imdb_id": "tt2221648",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 4893020033,
       "audio_languages": [
         "en",
@@ -27702,6 +30492,8 @@ window.PLEX_DATA = {
         "Nick Nolte"
       ],
       "imdb_id": "tt2948790",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 4723129435,
       "audio_languages": [
         "en",
@@ -27722,6 +30514,8 @@ window.PLEX_DATA = {
         "Evie Templeton"
       ],
       "imdb_id": "tt22868010",
+      "imdb_score": 4.0,
+      "resolution": 1080,
       "size_bytes": 6202707127,
       "audio_languages": [
         "en"
@@ -27741,6 +30535,8 @@ window.PLEX_DATA = {
         "Lisa Pelikan"
       ],
       "imdb_id": "tt0102782",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 3841813297,
       "audio_languages": [
         "de",
@@ -27762,6 +30558,8 @@ window.PLEX_DATA = {
         "Madeleine Stowe"
       ],
       "imdb_id": "tt0100485",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8751695169,
       "audio_languages": [
         "en",
@@ -27782,6 +30580,8 @@ window.PLEX_DATA = {
         "Kathy Bates"
       ],
       "imdb_id": "tt0959337",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4698026319,
       "audio_languages": [],
       "has_subtitles": true
@@ -27799,6 +30599,8 @@ window.PLEX_DATA = {
         "Matt Nable"
       ],
       "imdb_id": "tt1411250",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 15775837647,
       "audio_languages": [
         "en",
@@ -27819,6 +30621,8 @@ window.PLEX_DATA = {
         "John Leguizamo"
       ],
       "imdb_id": "tt1408253",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6644673736,
       "audio_languages": [
         "en",
@@ -27839,6 +30643,8 @@ window.PLEX_DATA = {
         "Olivia Munn"
       ],
       "imdb_id": "tt2869728",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 4776905784,
       "audio_languages": [
         "en",
@@ -27859,6 +30665,8 @@ window.PLEX_DATA = {
         "Lars Brygmann"
       ],
       "imdb_id": "tt11655202",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 5563947284,
       "audio_languages": [
         "da",
@@ -27880,6 +30688,8 @@ window.PLEX_DATA = {
         "50 Cent"
       ],
       "imdb_id": "tt1034331",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4964002421,
       "audio_languages": [
         "en",
@@ -27900,6 +30710,8 @@ window.PLEX_DATA = {
         "Johnny Galecki"
       ],
       "imdb_id": "tt0498381",
+      "imdb_score": 4.5,
+      "resolution": 720,
       "size_bytes": 7147381652,
       "audio_languages": [
         "en",
@@ -27920,6 +30732,8 @@ window.PLEX_DATA = {
         "Leslie Mann"
       ],
       "imdb_id": "tt1436562",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4513879729,
       "audio_languages": [
         "en",
@@ -27940,6 +30754,8 @@ window.PLEX_DATA = {
         "Will.i.am"
       ],
       "imdb_id": "tt2357291",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5793451354,
       "audio_languages": [
         "en",
@@ -27960,6 +30776,8 @@ window.PLEX_DATA = {
         "Tia Carrere"
       ],
       "imdb_id": "tt0107969",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4696138649,
       "audio_languages": [
         "en",
@@ -27980,6 +30798,8 @@ window.PLEX_DATA = {
         "Joe Pantoliano"
       ],
       "imdb_id": "tt0086200",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4753412214,
       "audio_languages": [
         "en",
@@ -28000,6 +30820,8 @@ window.PLEX_DATA = {
         "Billy Magnussen"
       ],
       "imdb_id": "tt3359350",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 9312545914,
       "audio_languages": [
         "en",
@@ -28020,6 +30842,8 @@ window.PLEX_DATA = {
         "Zach McGowan"
       ],
       "imdb_id": "tt8000908",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 9387600604,
       "audio_languages": [
         "en"
@@ -28039,6 +30863,8 @@ window.PLEX_DATA = {
         "Max von Sydow"
       ],
       "imdb_id": "tt0955308",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8524000620,
       "audio_languages": [
         "en",
@@ -28059,6 +30885,8 @@ window.PLEX_DATA = {
         "Ben Mendelsohn"
       ],
       "imdb_id": "tt4532826",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7659259134,
       "audio_languages": [
         "en",
@@ -28079,6 +30907,8 @@ window.PLEX_DATA = {
         "Roger Rees"
       ],
       "imdb_id": "tt0107977",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6228688270,
       "audio_languages": [
         "en",
@@ -28099,6 +30929,8 @@ window.PLEX_DATA = {
         "Mary Elizabeth Mastrantonio"
       ],
       "imdb_id": "tt0102798",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 11405151481,
       "audio_languages": [
         "en",
@@ -28119,6 +30951,8 @@ window.PLEX_DATA = {
         "Ian Hart"
       ],
       "imdb_id": "tt0117496",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4096855513,
       "audio_languages": [
         "en",
@@ -28139,6 +30973,8 @@ window.PLEX_DATA = {
         "Burt Young"
       ],
       "imdb_id": "tt0075148",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 11511782066,
       "audio_languages": [
         "en",
@@ -28159,6 +30995,8 @@ window.PLEX_DATA = {
         "Antonio Tarver"
       ],
       "imdb_id": "tt0479143",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5018448263,
       "audio_languages": [
         "en",
@@ -28179,6 +31017,8 @@ window.PLEX_DATA = {
         "Burt Young"
       ],
       "imdb_id": "tt0079817",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9328511973,
       "audio_languages": [
         "en",
@@ -28199,6 +31039,8 @@ window.PLEX_DATA = {
         "Burt Young"
       ],
       "imdb_id": "tt0084602",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7163252032,
       "audio_languages": [
         "en",
@@ -28219,6 +31061,8 @@ window.PLEX_DATA = {
         "Carl Weathers"
       ],
       "imdb_id": "tt0089927",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6367465215,
       "audio_languages": [
         "en",
@@ -28239,6 +31083,8 @@ window.PLEX_DATA = {
         "Burt Young"
       ],
       "imdb_id": "tt0100507",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7169507992,
       "audio_languages": [
         "en",
@@ -28259,6 +31105,8 @@ window.PLEX_DATA = {
         "Alan Tudyk"
       ],
       "imdb_id": "tt3748528",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 21283938515,
       "audio_languages": [
         "en",
@@ -28278,6 +31126,8 @@ window.PLEX_DATA = {
         "Christopher Mintz-Plasse"
       ],
       "imdb_id": "tt0430922",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4980389086,
       "audio_languages": [
         "en",
@@ -28298,6 +31148,8 @@ window.PLEX_DATA = {
         "Kate Winslet"
       ],
       "imdb_id": "tt0368222",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6547663588,
       "audio_languages": [
         "en",
@@ -28318,6 +31170,8 @@ window.PLEX_DATA = {
         "Danny DeVito"
       ],
       "imdb_id": "tt0088011",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4873573437,
       "audio_languages": [
         "en"
@@ -28337,6 +31191,8 @@ window.PLEX_DATA = {
         "Natascha McElhone"
       ],
       "imdb_id": "tt0122690",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7254562383,
       "audio_languages": [
         "en",
@@ -28357,6 +31213,8 @@ window.PLEX_DATA = {
         "Dwight Yoakam"
       ],
       "imdb_id": "tt0111021",
+      "imdb_score": 6.3,
+      "resolution": null,
       "size_bytes": 1160626176,
       "audio_languages": [],
       "has_subtitles": true
@@ -28374,6 +31232,8 @@ window.PLEX_DATA = {
         "John Turturro"
       ],
       "imdb_id": "tt0128442",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6495615688,
       "audio_languages": [
         "en",
@@ -28394,6 +31254,8 @@ window.PLEX_DATA = {
         "Shirley MacLaine"
       ],
       "imdb_id": "tt0398375",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5926264975,
       "audio_languages": [
         "en",
@@ -28414,6 +31276,8 @@ window.PLEX_DATA = {
         "Ed Harris"
       ],
       "imdb_id": "tt2199571",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8274307350,
       "audio_languages": [
         "en",
@@ -28434,6 +31298,8 @@ window.PLEX_DATA = {
         "Joan Cusack"
       ],
       "imdb_id": "tt0163187",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 8924458064,
       "audio_languages": [
         "en",
@@ -28454,6 +31320,8 @@ window.PLEX_DATA = {
         "Judge Reinhold"
       ],
       "imdb_id": "tt0091877",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6023467488,
       "audio_languages": [
         "en",
@@ -28474,6 +31342,8 @@ window.PLEX_DATA = {
         "Vera Farmiga"
       ],
       "imdb_id": "tt1599348",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 12369657551,
       "audio_languages": [
         "en",
@@ -28494,6 +31364,8 @@ window.PLEX_DATA = {
         "Jake Johnson"
       ],
       "imdb_id": "tt1862079",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 3761836804,
       "audio_languages": [
         "en",
@@ -28514,6 +31386,8 @@ window.PLEX_DATA = {
         "Chiwetel Ejiofor"
       ],
       "imdb_id": "tt0944835",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4888505760,
       "audio_languages": [
         "en",
@@ -28534,6 +31408,8 @@ window.PLEX_DATA = {
         "Carla Gugino"
       ],
       "imdb_id": "tt2126355",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8281474081,
       "audio_languages": [
         "en",
@@ -28553,6 +31429,8 @@ window.PLEX_DATA = {
         "James Rebhorn"
       ],
       "imdb_id": "tt0105323",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 9188880729,
       "audio_languages": [
         "en",
@@ -28573,6 +31451,8 @@ window.PLEX_DATA = {
         "Ralph Fiennes"
       ],
       "imdb_id": "tt0108052",
+      "imdb_score": 9.0,
+      "resolution": 720,
       "size_bytes": 15328919025,
       "audio_languages": [
         "en",
@@ -28593,6 +31473,8 @@ window.PLEX_DATA = {
         "Courteney Cox"
       ],
       "imdb_id": "tt0117571",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7180815895,
       "audio_languages": [
         "en",
@@ -28613,6 +31495,8 @@ window.PLEX_DATA = {
         "Mason Gooding"
       ],
       "imdb_id": "tt11245972",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7677194300,
       "audio_languages": [
         "en",
@@ -28633,6 +31517,8 @@ window.PLEX_DATA = {
         "David Arquette"
       ],
       "imdb_id": "tt0120082",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8915377839,
       "audio_languages": [
         "en",
@@ -28653,6 +31539,8 @@ window.PLEX_DATA = {
         "Courteney Cox"
       ],
       "imdb_id": "tt0134084",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8913396507,
       "audio_languages": [
         "en",
@@ -28673,6 +31561,8 @@ window.PLEX_DATA = {
         "Courteney Cox"
       ],
       "imdb_id": "tt1262416",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6218984819,
       "audio_languages": [
         "en",
@@ -28693,6 +31583,8 @@ window.PLEX_DATA = {
         "Jasmin Savoy Brown"
       ],
       "imdb_id": "tt17663992",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7820947649,
       "audio_languages": [
         "en",
@@ -28713,6 +31605,8 @@ window.PLEX_DATA = {
         "Ulrich Thomsen"
       ],
       "imdb_id": "tt0479997",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6860065460,
       "audio_languages": [
         "en",
@@ -28733,6 +31627,8 @@ window.PLEX_DATA = {
         "Jeremy Davies"
       ],
       "imdb_id": "tt0274812",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 5015967152,
       "audio_languages": [
         "en",
@@ -28753,6 +31649,8 @@ window.PLEX_DATA = {
         "Billy Boyd"
       ],
       "imdb_id": "tt0387575",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 7869326393,
       "audio_languages": [
         "en",
@@ -28773,6 +31671,8 @@ window.PLEX_DATA = {
         "Connie Britton"
       ],
       "imdb_id": "tt1307068",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4618710324,
       "audio_languages": [
         "en",
@@ -28793,6 +31693,8 @@ window.PLEX_DATA = {
         "Natalie Martinez"
       ],
       "imdb_id": "tt2140379",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8467782358,
       "audio_languages": [
         "en",
@@ -28813,6 +31715,8 @@ window.PLEX_DATA = {
         "Edyll Ismail"
       ],
       "imdb_id": "tt8036976",
+      "imdb_score": 6.9,
+      "resolution": 576,
       "size_bytes": 4664152998,
       "audio_languages": [
         "en",
@@ -28833,6 +31737,8 @@ window.PLEX_DATA = {
         "Alan Rickman"
       ],
       "imdb_id": "tt0114388",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6301719282,
       "audio_languages": [
         "en",
@@ -28853,6 +31759,8 @@ window.PLEX_DATA = {
         "Jeremy Piven"
       ],
       "imdb_id": "tt0240890",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5465804464,
       "audio_languages": [
         "en",
@@ -28873,6 +31781,8 @@ window.PLEX_DATA = {
         "Gina Torres"
       ],
       "imdb_id": "tt0379786",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 7385579887,
       "audio_languages": [
         "en",
@@ -28893,6 +31803,8 @@ window.PLEX_DATA = {
         "Jason Clarke"
       ],
       "imdb_id": "tt6476140",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7226885717,
       "audio_languages": [
         "en",
@@ -28913,6 +31825,8 @@ window.PLEX_DATA = {
         "Ricki Lake"
       ],
       "imdb_id": "tt0111127",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7596966058,
       "audio_languages": [
         "en",
@@ -28933,6 +31847,8 @@ window.PLEX_DATA = {
         "Justin Long"
       ],
       "imdb_id": "tt1133993",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 4976695983,
       "audio_languages": [
         "en",
@@ -28953,6 +31869,8 @@ window.PLEX_DATA = {
         "Vincent Pastore"
       ],
       "imdb_id": "tt0261289",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 3976191128,
       "audio_languages": [
         "en",
@@ -28973,6 +31891,8 @@ window.PLEX_DATA = {
         "Gwyneth Paltrow"
       ],
       "imdb_id": "tt0114369",
+      "imdb_score": 8.6,
+      "resolution": 720,
       "size_bytes": 8788785811,
       "audio_languages": [
         "en",
@@ -28993,6 +31913,8 @@ window.PLEX_DATA = {
         "Woody Harrelson"
       ],
       "imdb_id": "tt0814314",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7495155348,
       "audio_languages": [
         "en",
@@ -29013,6 +31935,8 @@ window.PLEX_DATA = {
         "David Thewlis"
       ],
       "imdb_id": "tt0120102",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7694368926,
       "audio_languages": [
         "en",
@@ -29033,6 +31957,8 @@ window.PLEX_DATA = {
         "Ben Barnes"
       ],
       "imdb_id": "tt1121096",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 8480564613,
       "audio_languages": [
         "en",
@@ -29053,6 +31979,8 @@ window.PLEX_DATA = {
         "Kristin Davis"
       ],
       "imdb_id": "tt1000774",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7540403587,
       "audio_languages": [
         "hu"
@@ -29072,6 +32000,8 @@ window.PLEX_DATA = {
         "Kristin Davis"
       ],
       "imdb_id": "tt1261945",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 11486151001,
       "audio_languages": [
         "en",
@@ -29092,6 +32022,8 @@ window.PLEX_DATA = {
         "Rob Corddry"
       ],
       "imdb_id": "tt1956620",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 5068549575,
       "audio_languages": [
         "en",
@@ -29112,6 +32044,8 @@ window.PLEX_DATA = {
         "Jeffrey Wright"
       ],
       "imdb_id": "tt0162650",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4834079413,
       "audio_languages": [
         "en",
@@ -29132,6 +32066,8 @@ window.PLEX_DATA = {
         "Regina Hall"
       ],
       "imdb_id": "tt4463894",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7531867807,
       "audio_languages": [
         "en",
@@ -29152,6 +32088,8 @@ window.PLEX_DATA = {
         "Awkwafina"
       ],
       "imdb_id": "tt9376612",
+      "imdb_score": 7.3,
+      "resolution": 2160,
       "size_bytes": 28208608068,
       "audio_languages": [
         "en",
@@ -29172,6 +32110,8 @@ window.PLEX_DATA = {
         "Renée Zellweger"
       ],
       "imdb_id": "tt0307453",
+      "imdb_score": 6.0,
+      "resolution": null,
       "size_bytes": 1132242934,
       "audio_languages": [
         "hu"
@@ -29191,6 +32131,8 @@ window.PLEX_DATA = {
         "Asher Angel"
       ],
       "imdb_id": "tt0448115",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 20854240836,
       "audio_languages": [
         "en",
@@ -29211,6 +32153,8 @@ window.PLEX_DATA = {
         "Jack Dylan Grazer"
       ],
       "imdb_id": "tt10151854",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 13597818579,
       "audio_languages": [
         "en",
@@ -29231,6 +32175,8 @@ window.PLEX_DATA = {
         "Marisa Tomei"
       ],
       "imdb_id": "tt6689014",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 16051013609,
       "audio_languages": [
         "en",
@@ -29251,6 +32197,8 @@ window.PLEX_DATA = {
         "Paul Walker"
       ],
       "imdb_id": "tt0160862",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5696378346,
       "audio_languages": [
         "en",
@@ -29271,6 +32219,8 @@ window.PLEX_DATA = {
         "Alec Baldwin"
       ],
       "imdb_id": "tt0096094",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 3834911878,
       "audio_languages": [
         "en",
@@ -29291,6 +32241,8 @@ window.PLEX_DATA = {
         "T.J. Miller"
       ],
       "imdb_id": "tt0815236",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7357291943,
       "audio_languages": [
         "en",
@@ -29311,6 +32263,8 @@ window.PLEX_DATA = {
         "Edward Burns"
       ],
       "imdb_id": "tt0117628",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5232993612,
       "audio_languages": [
         "en",
@@ -29331,6 +32285,8 @@ window.PLEX_DATA = {
         "Michael Shaeffer"
       ],
       "imdb_id": "tt32357218",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 5607176163,
       "audio_languages": [
         "en"
@@ -29350,6 +32306,8 @@ window.PLEX_DATA = {
         "Rachel McAdams"
       ],
       "imdb_id": "tt0988045",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8987544997,
       "audio_languages": [
         "en",
@@ -29370,6 +32328,8 @@ window.PLEX_DATA = {
         "Noomi Rapace"
       ],
       "imdb_id": "tt1515091",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 6367974557,
       "audio_languages": [
         "en",
@@ -29390,6 +32350,8 @@ window.PLEX_DATA = {
         "Danny Glover"
       ],
       "imdb_id": "tt0822854",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7930209998,
       "audio_languages": [
         "en",
@@ -29403,6 +32365,8 @@ window.PLEX_DATA = {
       "genres": [],
       "actors": [],
       "imdb_id": null,
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 5549915090,
       "audio_languages": [
         "en",
@@ -29423,6 +32387,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0126029",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 4577529733,
       "audio_languages": [
         "en",
@@ -29443,6 +32409,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0298148",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 4610988509,
       "audio_languages": [
         "en",
@@ -29463,6 +32431,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0892791",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4563367681,
       "audio_languages": [
         "en",
@@ -29483,6 +32453,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0413267",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4610522138,
       "audio_languages": [
         "en",
@@ -29503,6 +32475,8 @@ window.PLEX_DATA = {
         "Ben Kingsley"
       ],
       "imdb_id": "tt1130884",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 9001894782,
       "audio_languages": [
         "en",
@@ -29523,6 +32497,8 @@ window.PLEX_DATA = {
         "Pasha D. Lychnikoff"
       ],
       "imdb_id": "tt6494418",
+      "imdb_score": 4.3,
+      "resolution": 720,
       "size_bytes": 4784204835,
       "audio_languages": [
         "en",
@@ -29543,6 +32519,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt3397884",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 5748355677,
       "audio_languages": [
         "en",
@@ -29563,6 +32541,8 @@ window.PLEX_DATA = {
         "Catherine Zeta-Jones"
       ],
       "imdb_id": "tt2053463",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4226300532,
       "audio_languages": [
         "en",
@@ -29583,6 +32563,8 @@ window.PLEX_DATA = {
         "Rory Culkin"
       ],
       "imdb_id": "tt0286106",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4379699428,
       "audio_languages": [
         "en",
@@ -29603,6 +32585,8 @@ window.PLEX_DATA = {
         "Liam Neeson"
       ],
       "imdb_id": "tt0490215",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8006707561,
       "audio_languages": [
         "en",
@@ -29623,6 +32607,8 @@ window.PLEX_DATA = {
         "Jodelle Ferland"
       ],
       "imdb_id": "tt0384537",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 10354310024,
       "audio_languages": [
         "en",
@@ -29643,6 +32629,8 @@ window.PLEX_DATA = {
         "Radha Mitchell"
       ],
       "imdb_id": "tt0938330",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 4519312077,
       "audio_languages": [
         "en",
@@ -29663,6 +32651,8 @@ window.PLEX_DATA = {
         "Roman Griffin Davis"
       ],
       "imdb_id": "tt11628854",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4654430897,
       "audio_languages": [
         "en",
@@ -29683,6 +32673,8 @@ window.PLEX_DATA = {
         "Alfred Molina"
       ],
       "imdb_id": "tt0494834",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 7917524026,
       "audio_languages": [
         "en",
@@ -29702,6 +32694,8 @@ window.PLEX_DATA = {
         "Tovah Feldshuh"
       ],
       "imdb_id": "tt0090021",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4838028844,
       "audio_languages": [
         "en",
@@ -29722,6 +32716,8 @@ window.PLEX_DATA = {
         "Robert De Niro"
       ],
       "imdb_id": "tt1045658",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 10423775741,
       "audio_languages": [
         "en",
@@ -29742,6 +32738,8 @@ window.PLEX_DATA = {
         "Danny Glover"
       ],
       "imdb_id": "tt0090022",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4866913645,
       "audio_languages": [
         "en",
@@ -29762,6 +32760,8 @@ window.PLEX_DATA = {
         "Sally Ming Zeo Ni"
       ],
       "imdb_id": "tt0327546",
+      "imdb_score": 6.3,
+      "resolution": null,
       "size_bytes": 736139264,
       "audio_languages": [],
       "has_subtitles": true
@@ -29779,6 +32779,8 @@ window.PLEX_DATA = {
         "Luke Macfarlane"
       ],
       "imdb_id": "tt14315756",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 2395747451,
       "audio_languages": [
         "en",
@@ -29799,6 +32801,8 @@ window.PLEX_DATA = {
         "Miles Caton"
       ],
       "imdb_id": "tt31193180",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4139711318,
       "audio_languages": [
         "en",
@@ -29819,6 +32823,8 @@ window.PLEX_DATA = {
         "Jack Doolan"
       ],
       "imdb_id": "tt14846026",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6423843461,
       "audio_languages": [
         "en",
@@ -29839,6 +32845,8 @@ window.PLEX_DATA = {
         "David Schwimmer"
       ],
       "imdb_id": "tt0120828",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 6799275744,
       "audio_languages": [
         "en",
@@ -29859,6 +32867,8 @@ window.PLEX_DATA = {
         "Javier Bardem"
       ],
       "imdb_id": "tt1074638",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8533440010,
       "audio_languages": [
         "en",
@@ -29879,6 +32889,8 @@ window.PLEX_DATA = {
         "Chin Han"
       ],
       "imdb_id": "tt5758778",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6731797806,
       "audio_languages": [
         "en",
@@ -29899,6 +32911,8 @@ window.PLEX_DATA = {
         "Dustin Hoffman"
       ],
       "imdb_id": "tt0117665",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7280960157,
       "audio_languages": [
         "en",
@@ -29919,6 +32933,8 @@ window.PLEX_DATA = {
         "Kevin Anderson"
       ],
       "imdb_id": "tt0102945",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4694454233,
       "audio_languages": [
         "hu"
@@ -29938,6 +32954,8 @@ window.PLEX_DATA = {
         "Ross Malinger"
       ],
       "imdb_id": "tt0108160",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7593737576,
       "audio_languages": [
         "en",
@@ -29958,6 +32976,8 @@ window.PLEX_DATA = {
         "Jane Lynch"
       ],
       "imdb_id": "tt0368975",
+      "imdb_score": 5.3,
+      "resolution": null,
       "size_bytes": 961708750,
       "audio_languages": [
         "hu"
@@ -29977,6 +32997,8 @@ window.PLEX_DATA = {
         "Miranda Richardson"
       ],
       "imdb_id": "tt0162661",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8682775147,
       "audio_languages": [
         "en",
@@ -29997,6 +33019,8 @@ window.PLEX_DATA = {
         "Harold Pinter"
       ],
       "imdb_id": "tt0857265",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4694585372,
       "audio_languages": [
         "en",
@@ -30017,6 +33041,8 @@ window.PLEX_DATA = {
         "John Lynch"
       ],
       "imdb_id": "tt0120148",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9284688437,
       "audio_languages": [
         "en",
@@ -30037,6 +33063,8 @@ window.PLEX_DATA = {
         "Emily Beecham"
       ],
       "imdb_id": "tt12616480",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5784625752,
       "audio_languages": [
         "en",
@@ -30057,6 +33085,8 @@ window.PLEX_DATA = {
         "Michelle Fairley"
       ],
       "imdb_id": "tt27196021",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6035374088,
       "audio_languages": [
         "en"
@@ -30076,6 +33106,8 @@ window.PLEX_DATA = {
         "Michael Angarano"
       ],
       "imdb_id": "tt0453548",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4842609589,
       "audio_languages": [
         "en",
@@ -30096,6 +33128,8 @@ window.PLEX_DATA = {
         "Charlize Theron"
       ],
       "imdb_id": "tt1735898",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8661218941,
       "audio_languages": [
         "en",
@@ -30116,6 +33150,8 @@ window.PLEX_DATA = {
         "Melissa Leo"
       ],
       "imdb_id": "tt3774114",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7428912626,
       "audio_languages": [
         "en",
@@ -30136,6 +33172,8 @@ window.PLEX_DATA = {
         "Anthony LaPaglia"
       ],
       "imdb_id": "tt0108174",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7508975293,
       "audio_languages": [
         "en",
@@ -30156,6 +33194,8 @@ window.PLEX_DATA = {
         "Abbie Cornish"
       ],
       "imdb_id": "tt1291570",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5201749747,
       "audio_languages": [
         "en",
@@ -30176,6 +33216,8 @@ window.PLEX_DATA = {
         "Viola Davis"
       ],
       "imdb_id": "tt0307479",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5059872450,
       "audio_languages": [
         "en",
@@ -30196,6 +33238,8 @@ window.PLEX_DATA = {
         "Enzo Cannavale"
       ],
       "imdb_id": "tt0073726",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4226459203,
       "audio_languages": [
         "de",
@@ -30216,6 +33260,8 @@ window.PLEX_DATA = {
         "Danny DeVito"
       ],
       "imdb_id": "tt1294213",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 8479396575,
       "audio_languages": [
         "en",
@@ -30236,6 +33282,8 @@ window.PLEX_DATA = {
         "Woody Harrelson"
       ],
       "imdb_id": "tt3778644",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7889190229,
       "audio_languages": [
         "en",
@@ -30256,6 +33304,8 @@ window.PLEX_DATA = {
         "Alice Krige"
       ],
       "imdb_id": "tt0970452",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 2414907940,
       "audio_languages": [
         "en",
@@ -30276,6 +33326,8 @@ window.PLEX_DATA = {
         "Hugh Jackman"
       ],
       "imdb_id": "tt0244970",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 3420950994,
       "audio_languages": [
         "en",
@@ -30296,6 +33348,8 @@ window.PLEX_DATA = {
         "Keanu Reeves"
       ],
       "imdb_id": "tt0337741",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5063963381,
       "audio_languages": [
         "en",
@@ -30316,6 +33370,8 @@ window.PLEX_DATA = {
         "Traylor Howard"
       ],
       "imdb_id": "tt0362165",
+      "imdb_score": 2.3,
+      "resolution": 720,
       "size_bytes": 5022537551,
       "audio_languages": [
         "en",
@@ -30336,6 +33392,8 @@ window.PLEX_DATA = {
         "Tika Sumpter"
       ],
       "imdb_id": "tt3794354",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5861565253,
       "audio_languages": [
         "en",
@@ -30356,6 +33414,8 @@ window.PLEX_DATA = {
         "Tika Sumpter"
       ],
       "imdb_id": "tt12412888",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8226683902,
       "audio_languages": [
         "en",
@@ -30376,6 +33436,8 @@ window.PLEX_DATA = {
         "Keanu Reeves"
       ],
       "imdb_id": "tt18259086",
+      "imdb_score": 6.9,
+      "resolution": 576,
       "size_bytes": 3959211266,
       "audio_languages": [
         "en",
@@ -30396,6 +33458,8 @@ window.PLEX_DATA = {
         "Peter MacNicol"
       ],
       "imdb_id": "tt0084707",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 15546604810,
       "audio_languages": [
         "en",
@@ -30416,6 +33480,8 @@ window.PLEX_DATA = {
         "Mary Kay Bergman"
       ],
       "imdb_id": "tt0158983",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 3442224666,
       "audio_languages": [
         "en",
@@ -30436,6 +33502,8 @@ window.PLEX_DATA = {
         "Liv Tyler"
       ],
       "imdb_id": "tt2369317",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 3282517729,
       "audio_languages": [
         "en",
@@ -30456,6 +33524,8 @@ window.PLEX_DATA = {
         "Thierry Lhermitte"
       ],
       "imdb_id": "tt0102667",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 8334740837,
       "audio_languages": [
         "de",
@@ -30480,6 +33550,8 @@ window.PLEX_DATA = {
         "Michael Madsen"
       ],
       "imdb_id": "tt0114508",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5013296693,
       "audio_languages": [
         "en",
@@ -30500,6 +33572,8 @@ window.PLEX_DATA = {
         "Marg Helgenberger"
       ],
       "imdb_id": "tt0120841",
+      "imdb_score": 4.5,
+      "resolution": 720,
       "size_bytes": 5006290947,
       "audio_languages": [
         "en",
@@ -30520,6 +33594,8 @@ window.PLEX_DATA = {
         "Sunny Mabrey"
       ],
       "imdb_id": "tt0410650",
+      "imdb_score": 4.2,
+      "resolution": 720,
       "size_bytes": 5061247711,
       "audio_languages": [
         "en",
@@ -30540,6 +33616,8 @@ window.PLEX_DATA = {
         "Dominic Keating"
       ],
       "imdb_id": "tt0844894",
+      "imdb_score": 3.9,
+      "resolution": 720,
       "size_bytes": 4828499594,
       "audio_languages": [
         "en",
@@ -30560,6 +33638,8 @@ window.PLEX_DATA = {
         "Gonzalo Menendez"
       ],
       "imdb_id": "tt2106651",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 11718518270,
       "audio_languages": [
         "en"
@@ -30579,6 +33659,8 @@ window.PLEX_DATA = {
         "Léa Seydoux"
       ],
       "imdb_id": "tt2379713",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 9928840014,
       "audio_languages": [
         "en",
@@ -30599,6 +33681,8 @@ window.PLEX_DATA = {
         "Sandra Bullock"
       ],
       "imdb_id": "tt0111257",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7314130513,
       "audio_languages": [
         "en",
@@ -30619,6 +33703,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt0120179",
+      "imdb_score": 4.0,
+      "resolution": 720,
       "size_bytes": 10307664463,
       "audio_languages": [
         "en",
@@ -30639,6 +33725,8 @@ window.PLEX_DATA = {
         "Alan Arkin"
       ],
       "imdb_id": "tt8629748",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 2907890723,
       "audio_languages": [
         "en"
@@ -30658,6 +33746,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt0120184",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5146089632,
       "audio_languages": [
         "en",
@@ -30678,6 +33768,8 @@ window.PLEX_DATA = {
         "Kirsten Dunst"
       ],
       "imdb_id": "tt0145487",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 28669363855,
       "audio_languages": [
         "en",
@@ -30698,6 +33790,8 @@ window.PLEX_DATA = {
         "James Franco"
       ],
       "imdb_id": "tt0316654",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 24579749585,
       "audio_languages": [
         "en",
@@ -30718,6 +33812,8 @@ window.PLEX_DATA = {
         "James Franco"
       ],
       "imdb_id": "tt0413300",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 20774626266,
       "audio_languages": [
         "en",
@@ -30738,6 +33834,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt6320628",
+      "imdb_score": 7.3,
+      "resolution": 2160,
       "size_bytes": 24712935785,
       "audio_languages": [
         "en",
@@ -30758,6 +33856,8 @@ window.PLEX_DATA = {
         "Robert Downey Jr."
       ],
       "imdb_id": "tt2250912",
+      "imdb_score": 7.4,
+      "resolution": 2160,
       "size_bytes": 36396561162,
       "audio_languages": [
         "en",
@@ -30778,6 +33878,8 @@ window.PLEX_DATA = {
         "Benedict Cumberbatch"
       ],
       "imdb_id": "tt10872600",
+      "imdb_score": 8.1,
+      "resolution": 2160,
       "size_bytes": 24722257392,
       "audio_languages": [
         "en",
@@ -30798,6 +33900,8 @@ window.PLEX_DATA = {
         "Eugene Levy"
       ],
       "imdb_id": "tt0088161",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 9543072008,
       "audio_languages": [
         "en",
@@ -30818,6 +33922,8 @@ window.PLEX_DATA = {
         "Nunu Roca"
       ],
       "imdb_id": "tt8505818",
+      "imdb_score": null,
+      "resolution": 1080,
       "size_bytes": 12438291325,
       "audio_languages": [
         "en",
@@ -30838,6 +33944,8 @@ window.PLEX_DATA = {
         "Margarita Levieva"
       ],
       "imdb_id": "tt1186370",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6068163387,
       "audio_languages": [
         "en",
@@ -30858,6 +33966,8 @@ window.PLEX_DATA = {
         "Jason Statham"
       ],
       "imdb_id": "tt3079380",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7355938402,
       "audio_languages": [
         "en",
@@ -30878,6 +33988,8 @@ window.PLEX_DATA = {
         "Leonard Nimoy"
       ],
       "imdb_id": "tt0796366",
+      "imdb_score": 7.9,
+      "resolution": 1080,
       "size_bytes": 22278237721,
       "audio_languages": [
         "en",
@@ -30898,6 +34010,8 @@ window.PLEX_DATA = {
         "Karl Urban"
       ],
       "imdb_id": "tt2660888",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 17820590777,
       "audio_languages": [
         "en",
@@ -30918,6 +34032,8 @@ window.PLEX_DATA = {
         "Ricardo Montalban"
       ],
       "imdb_id": "tt0084726",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 11558362150,
       "audio_languages": [
         "en",
@@ -30938,6 +34054,8 @@ window.PLEX_DATA = {
         "James Doohan"
       ],
       "imdb_id": "tt0088170",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 17622717569,
       "audio_languages": [
         "en",
@@ -30958,6 +34076,8 @@ window.PLEX_DATA = {
         "Zoe Saldaña"
       ],
       "imdb_id": "tt1408101",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 19551359974,
       "audio_languages": [
         "en",
@@ -30978,6 +34098,8 @@ window.PLEX_DATA = {
         "DeForest Kelley"
       ],
       "imdb_id": "tt0092007",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 21276142868,
       "audio_languages": [
         "en",
@@ -30998,6 +34120,8 @@ window.PLEX_DATA = {
         "DeForest Kelley"
       ],
       "imdb_id": "tt0098382",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 12767128630,
       "audio_languages": [
         "en",
@@ -31018,6 +34142,8 @@ window.PLEX_DATA = {
         "DeForest Kelley"
       ],
       "imdb_id": "tt0102975",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 22132611072,
       "audio_languages": [
         "en",
@@ -31038,6 +34164,8 @@ window.PLEX_DATA = {
         "Brent Spiner"
       ],
       "imdb_id": "tt0117731",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 13683897730,
       "audio_languages": [
         "en",
@@ -31058,6 +34186,8 @@ window.PLEX_DATA = {
         "Brent Spiner"
       ],
       "imdb_id": "tt0111280",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 13527842688,
       "audio_languages": [
         "en",
@@ -31078,6 +34208,8 @@ window.PLEX_DATA = {
         "Michael Dorn"
       ],
       "imdb_id": "tt0120844",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 10836038088,
       "audio_languages": [
         "en",
@@ -31098,6 +34230,8 @@ window.PLEX_DATA = {
         "Brent Spiner"
       ],
       "imdb_id": "tt0253754",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 12299877862,
       "audio_languages": [
         "en",
@@ -31118,6 +34252,8 @@ window.PLEX_DATA = {
         "Sam Richardson"
       ],
       "imdb_id": "tt9603060",
+      "imdb_score": 3.8,
+      "resolution": 576,
       "size_bytes": 3441125279,
       "audio_languages": [
         "en",
@@ -31138,6 +34274,8 @@ window.PLEX_DATA = {
         "DeForest Kelley"
       ],
       "imdb_id": "tt0079945",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 21158774311,
       "audio_languages": [
         "en",
@@ -31158,6 +34296,8 @@ window.PLEX_DATA = {
         "Natalie Portman"
       ],
       "imdb_id": "tt0120915",
+      "imdb_score": 6.5,
+      "resolution": 2160,
       "size_bytes": 31499107668,
       "audio_languages": [
         "en",
@@ -31178,6 +34318,8 @@ window.PLEX_DATA = {
         "Natalie Portman"
       ],
       "imdb_id": "tt0121765",
+      "imdb_score": 6.6,
+      "resolution": 2160,
       "size_bytes": 22699830259,
       "audio_languages": [
         "en",
@@ -31198,6 +34340,8 @@ window.PLEX_DATA = {
         "Natalie Portman"
       ],
       "imdb_id": "tt0121766",
+      "imdb_score": 7.7,
+      "resolution": 2160,
       "size_bytes": 39687078700,
       "audio_languages": [
         "en",
@@ -31218,6 +34362,8 @@ window.PLEX_DATA = {
         "Carrie Fisher"
       ],
       "imdb_id": "tt0076759",
+      "imdb_score": 8.6,
+      "resolution": 2160,
       "size_bytes": 32854105624,
       "audio_languages": [
         "en",
@@ -31238,6 +34384,8 @@ window.PLEX_DATA = {
         "Carrie Fisher"
       ],
       "imdb_id": "tt0080684",
+      "imdb_score": 8.7,
+      "resolution": 2160,
       "size_bytes": 33963406078,
       "audio_languages": [
         "en",
@@ -31258,6 +34406,8 @@ window.PLEX_DATA = {
         "Carrie Fisher"
       ],
       "imdb_id": "tt0086190",
+      "imdb_score": 8.3,
+      "resolution": 2160,
       "size_bytes": 35461133068,
       "audio_languages": [
         "en",
@@ -31278,6 +34428,8 @@ window.PLEX_DATA = {
         "Adam Driver"
       ],
       "imdb_id": "tt2527336",
+      "imdb_score": 6.8,
+      "resolution": 2160,
       "size_bytes": 36143238893,
       "audio_languages": [
         "en",
@@ -31296,6 +34448,8 @@ window.PLEX_DATA = {
         "Marc Thompson"
       ],
       "imdb_id": "tt29895037",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 37021752297,
       "audio_languages": [
         "en",
@@ -31316,6 +34470,8 @@ window.PLEX_DATA = {
         "Daisy Ridley"
       ],
       "imdb_id": "tt2527338",
+      "imdb_score": 6.3,
+      "resolution": 2160,
       "size_bytes": 40638967326,
       "audio_languages": [
         "en",
@@ -31336,6 +34492,8 @@ window.PLEX_DATA = {
         "Michelle Pfeiffer"
       ],
       "imdb_id": "tt0486655",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 7470003676,
       "audio_languages": [
         "en",
@@ -31356,6 +34514,8 @@ window.PLEX_DATA = {
         "Jaye Davidson"
       ],
       "imdb_id": "tt0111282",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6487318281,
       "audio_languages": [
         "en",
@@ -31376,6 +34536,8 @@ window.PLEX_DATA = {
         "Amanda Tapping"
       ],
       "imdb_id": "tt1483803",
+      "imdb_score": 8.0,
+      "resolution": 576,
       "size_bytes": 1385313506,
       "audio_languages": [],
       "has_subtitles": true
@@ -31393,6 +34555,8 @@ window.PLEX_DATA = {
         "Christopher Judge"
       ],
       "imdb_id": "tt0929629",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 12387370962,
       "audio_languages": [
         "en",
@@ -31413,6 +34577,8 @@ window.PLEX_DATA = {
         "Christopher Judge"
       ],
       "imdb_id": "tt0942903",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 13945407473,
       "audio_languages": [
         "en",
@@ -31433,6 +34599,8 @@ window.PLEX_DATA = {
         "Charles Martin Smith"
       ],
       "imdb_id": "tt0088172",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4845475232,
       "audio_languages": [
         "en",
@@ -31453,6 +34621,8 @@ window.PLEX_DATA = {
         "Denise Richards"
       ],
       "imdb_id": "tt0120201",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 20954568019,
       "audio_languages": [
         "en",
@@ -31473,6 +34643,8 @@ window.PLEX_DATA = {
         "Lawrence Monoson"
       ],
       "imdb_id": "tt0367093",
+      "imdb_score": 3.6,
+      "resolution": 1080,
       "size_bytes": 16049360998,
       "audio_languages": [
         "en",
@@ -31493,6 +34665,8 @@ window.PLEX_DATA = {
         "Stephen Hogan"
       ],
       "imdb_id": "tt0844760",
+      "imdb_score": 4.4,
+      "resolution": 1080,
       "size_bytes": 9035045532,
       "audio_languages": [
         "en",
@@ -31513,6 +34687,8 @@ window.PLEX_DATA = {
         "Rachel McAdams"
       ],
       "imdb_id": "tt0473705",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7751692386,
       "audio_languages": [
         "en",
@@ -31533,6 +34709,8 @@ window.PLEX_DATA = {
         "Ed Harris"
       ],
       "imdb_id": "tt0120686",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6228635483,
       "audio_languages": [
         "en",
@@ -31552,6 +34730,8 @@ window.PLEX_DATA = {
         "Jay Lycurgo"
       ],
       "imdb_id": "tt32985279",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 2574926677,
       "audio_languages": [
         "en",
@@ -31572,6 +34752,8 @@ window.PLEX_DATA = {
         "Seth Rogen"
       ],
       "imdb_id": "tt2080374",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8760853143,
       "audio_languages": [
         "en",
@@ -31592,6 +34774,8 @@ window.PLEX_DATA = {
         "Jonathan Pryce"
       ],
       "imdb_id": "tt0145531",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8789994229,
       "audio_languages": [
         "en",
@@ -31611,6 +34795,8 @@ window.PLEX_DATA = {
         "Shane McRae"
       ],
       "imdb_id": "tt3316960",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 7478722704,
       "audio_languages": [
         "en",
@@ -31630,6 +34816,8 @@ window.PLEX_DATA = {
         "Steve Howey"
       ],
       "imdb_id": "tt1116186",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 5488916122,
       "audio_languages": [
         "en",
@@ -31650,6 +34838,8 @@ window.PLEX_DATA = {
         "Tia Carrere"
       ],
       "imdb_id": "tt0348124",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 2151680404,
       "audio_languages": [
         "en",
@@ -31670,6 +34860,8 @@ window.PLEX_DATA = {
         "David Thewlis"
       ],
       "imdb_id": "tt1772264",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6824502778,
       "audio_languages": [
         "en",
@@ -31690,6 +34882,8 @@ window.PLEX_DATA = {
         "Gary Busey"
       ],
       "imdb_id": "tt0078326",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 4001334487,
       "audio_languages": [
         "en",
@@ -31710,6 +34904,8 @@ window.PLEX_DATA = {
         "Juliette Lewis"
       ],
       "imdb_id": "tt0114558",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 9075007535,
       "audio_languages": [
         "en",
@@ -31730,6 +34926,8 @@ window.PLEX_DATA = {
         "Hugh Laurie"
       ],
       "imdb_id": "tt0164912",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4837413161,
       "audio_languages": [
         "en",
@@ -31750,6 +34948,8 @@ window.PLEX_DATA = {
         "Hugh Laurie"
       ],
       "imdb_id": "tt0243585",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 3620023265,
       "audio_languages": [
         "en",
@@ -31770,6 +34970,8 @@ window.PLEX_DATA = {
         "Hugh Laurie"
       ],
       "imdb_id": "tt0472602",
+      "imdb_score": 4.3,
+      "resolution": 720,
       "size_bytes": 2652283631,
       "audio_languages": [
         "en",
@@ -31790,6 +34992,8 @@ window.PLEX_DATA = {
         "Madeline Zima"
       ],
       "imdb_id": "tt24871974",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5525132123,
       "audio_languages": [
         "en",
@@ -31810,6 +35014,8 @@ window.PLEX_DATA = {
         "Maggie Grace"
       ],
       "imdb_id": "tt0428579",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 4787583029,
       "audio_languages": [
         "en",
@@ -31830,6 +35036,8 @@ window.PLEX_DATA = {
         "Noah Jupe"
       ],
       "imdb_id": "tt0491175",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5036108651,
       "audio_languages": [
         "en",
@@ -31850,6 +35058,8 @@ window.PLEX_DATA = {
         "Margot Robbie"
       ],
       "imdb_id": "tt1386697",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 17581501913,
       "audio_languages": [
         "en",
@@ -31870,6 +35080,8 @@ window.PLEX_DATA = {
         "Chris Evans"
       ],
       "imdb_id": "tt0448134",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6024017501,
       "audio_languages": [
         "en",
@@ -31890,6 +35102,8 @@ window.PLEX_DATA = {
         "Riley Griffiths"
       ],
       "imdb_id": "tt1650062",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 9064416603,
       "audio_languages": [
         "en",
@@ -31910,6 +35124,8 @@ window.PLEX_DATA = {
         "Daniel Diemer"
       ],
       "imdb_id": "tt10559102",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 5447064103,
       "audio_languages": [
         "en",
@@ -31930,6 +35146,8 @@ window.PLEX_DATA = {
         "Gene Hackman"
       ],
       "imdb_id": "tt0078346",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 6748826142,
       "audio_languages": [
         "en",
@@ -31950,6 +35168,8 @@ window.PLEX_DATA = {
         "Nicholas Hoult"
       ],
       "imdb_id": "tt5950044",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 9619302547,
       "audio_languages": [
         "en",
@@ -31970,6 +35190,8 @@ window.PLEX_DATA = {
         "Terence Stamp"
       ],
       "imdb_id": "tt0081573",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7295386265,
       "audio_languages": [
         "en",
@@ -31990,6 +35212,8 @@ window.PLEX_DATA = {
         "Annette O'Toole"
       ],
       "imdb_id": "tt0086393",
+      "imdb_score": 5.0,
+      "resolution": 1080,
       "size_bytes": 9828121377,
       "audio_languages": [
         "hu"
@@ -32009,6 +35233,8 @@ window.PLEX_DATA = {
         "Gene Hackman"
       ],
       "imdb_id": "tt0094074",
+      "imdb_score": 3.8,
+      "resolution": 720,
       "size_bytes": 4402977046,
       "audio_languages": [
         "hu"
@@ -32028,6 +35254,8 @@ window.PLEX_DATA = {
         "Kevin Spacey"
       ],
       "imdb_id": "tt0348150",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 13696884304,
       "audio_languages": [
         "en",
@@ -32048,6 +35276,8 @@ window.PLEX_DATA = {
         "Rosamund Pike"
       ],
       "imdb_id": "tt0986263",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4445699488,
       "audio_languages": [
         "en",
@@ -32068,6 +35298,8 @@ window.PLEX_DATA = {
         "Patrick Dempsey"
       ],
       "imdb_id": "tt0256415",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8322687674,
       "audio_languages": [
         "en",
@@ -32088,6 +35320,8 @@ window.PLEX_DATA = {
         "Jason Isaacs"
       ],
       "imdb_id": "tt0230838",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 10834880895,
       "audio_languages": [
         "en",
@@ -32108,6 +35342,8 @@ window.PLEX_DATA = {
         "Ewen Bremner"
       ],
       "imdb_id": "tt2763304",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7336600547,
       "audio_languages": [
         "en",
@@ -32128,6 +35364,8 @@ window.PLEX_DATA = {
         "Famke Janssen"
       ],
       "imdb_id": "tt0936501",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 13762339865,
       "audio_languages": [
         "en",
@@ -32148,6 +35386,8 @@ window.PLEX_DATA = {
         "Famke Janssen"
       ],
       "imdb_id": "tt1397280",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 14825519205,
       "audio_languages": [
         "en",
@@ -32168,6 +35408,8 @@ window.PLEX_DATA = {
         "Maggie Grace"
       ],
       "imdb_id": "tt2446042",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 19301553954,
       "audio_languages": [
         "en",
@@ -32188,6 +35430,8 @@ window.PLEX_DATA = {
         "Idris Elba"
       ],
       "imdb_id": "tt1135084",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6946428516,
       "audio_languages": [
         "en",
@@ -32208,6 +35452,8 @@ window.PLEX_DATA = {
         "Donna Murphy"
       ],
       "imdb_id": "tt0398286",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 5173778899,
       "audio_languages": [
         "en",
@@ -32228,6 +35474,8 @@ window.PLEX_DATA = {
         "Eden Espinosa"
       ],
       "imdb_id": "tt5533228",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 1722611349,
       "audio_languages": [
         "en",
@@ -32248,6 +35496,8 @@ window.PLEX_DATA = {
         "Teri Hatcher"
       ],
       "imdb_id": "tt0098439",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7595863982,
       "audio_languages": [
         "en",
@@ -32268,6 +35518,8 @@ window.PLEX_DATA = {
         "Glenn Close"
       ],
       "imdb_id": "tt0120855",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 3568952898,
       "audio_languages": [
         "en",
@@ -32288,6 +35540,8 @@ window.PLEX_DATA = {
         "Brad Garrett"
       ],
       "imdb_id": "tt0437503",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 3205791020,
       "audio_languages": [
         "en",
@@ -32308,6 +35562,8 @@ window.PLEX_DATA = {
         "Marion Cotillard"
       ],
       "imdb_id": "tt0152930",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7822100104,
       "audio_languages": [
         "fr",
@@ -32328,6 +35584,8 @@ window.PLEX_DATA = {
         "Marion Cotillard"
       ],
       "imdb_id": "tt0183869",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6188980900,
       "audio_languages": [
         "fr",
@@ -32348,6 +35606,8 @@ window.PLEX_DATA = {
         "Bernard Farcy"
       ],
       "imdb_id": "tt0295721",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 7020741713,
       "audio_languages": [
         "fr",
@@ -32368,6 +35628,8 @@ window.PLEX_DATA = {
         "Bernard Farcy"
       ],
       "imdb_id": "tt0804540",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4463088848,
       "audio_languages": [
         "fr",
@@ -32388,6 +35650,8 @@ window.PLEX_DATA = {
         "Bernard Farcy"
       ],
       "imdb_id": "tt7238392",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 6080807238,
       "audio_languages": [
         "fr",
@@ -32408,6 +35672,8 @@ window.PLEX_DATA = {
         "Seth MacFarlane"
       ],
       "imdb_id": "tt1637725",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 15135364450,
       "audio_languages": [
         "en",
@@ -32428,6 +35694,8 @@ window.PLEX_DATA = {
         "Amanda Seyfried"
       ],
       "imdb_id": "tt2637276",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 9506120245,
       "audio_languages": [
         "en",
@@ -32448,6 +35716,8 @@ window.PLEX_DATA = {
         "Elizabeth Debicki"
       ],
       "imdb_id": "tt6723592",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 10453194718,
       "audio_languages": [
         "hu"
@@ -32467,6 +35737,8 @@ window.PLEX_DATA = {
         "Kurt Russell"
       ],
       "imdb_id": "tt0096244",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6075252792,
       "audio_languages": [
         "en",
@@ -32487,6 +35759,8 @@ window.PLEX_DATA = {
         "Dexter Fletcher"
       ],
       "imdb_id": "tt4463816",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6587896764,
       "audio_languages": [
         "en",
@@ -32507,6 +35781,8 @@ window.PLEX_DATA = {
         "Edward Furlong"
       ],
       "imdb_id": "tt0103064",
+      "imdb_score": 8.6,
+      "resolution": 1080,
       "size_bytes": 29686115159,
       "audio_languages": [
         "en",
@@ -32527,6 +35803,8 @@ window.PLEX_DATA = {
         "Claire Danes"
       ],
       "imdb_id": "tt0181852",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 24012267046,
       "audio_languages": [
         "en",
@@ -32547,6 +35825,8 @@ window.PLEX_DATA = {
         "Arnold Schwarzenegger"
       ],
       "imdb_id": "tt1340138",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 28455968818,
       "audio_languages": [
         "en",
@@ -32567,6 +35847,8 @@ window.PLEX_DATA = {
         "Moon Bloodgood"
       ],
       "imdb_id": "tt0438488",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 16754953752,
       "audio_languages": [
         "en",
@@ -32587,6 +35869,8 @@ window.PLEX_DATA = {
         "Mackenzie Davis"
       ],
       "imdb_id": "tt6450804",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 33182030510,
       "audio_languages": [
         "en",
@@ -32607,6 +35891,8 @@ window.PLEX_DATA = {
         "Rossie Harris"
       ],
       "imdb_id": "tt0086429",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4469050870,
       "audio_languages": [
         "en"
@@ -32626,6 +35912,8 @@ window.PLEX_DATA = {
         "Liv Tyler"
       ],
       "imdb_id": "tt0117887",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5962105279,
       "audio_languages": [
         "en",
@@ -32646,6 +35934,8 @@ window.PLEX_DATA = {
         "Leighton Meester"
       ],
       "imdb_id": "tt1232200",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5834467300,
       "audio_languages": [
         "en",
@@ -32666,6 +35956,8 @@ window.PLEX_DATA = {
         "Dennis Storhøi"
       ],
       "imdb_id": "tt0120657",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 10039531460,
       "audio_languages": [
         "en",
@@ -32686,6 +35978,8 @@ window.PLEX_DATA = {
         "Paul Rudd"
       ],
       "imdb_id": "tt0405422",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7397333186,
       "audio_languages": [
         "hu"
@@ -32705,6 +35999,8 @@ window.PLEX_DATA = {
         "James Daly"
       ],
       "imdb_id": "tt0064300",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8366075541,
       "audio_languages": [
         "de",
@@ -32725,6 +36021,8 @@ window.PLEX_DATA = {
         "Ron Livingston"
       ],
       "imdb_id": "tt2304933",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 4463638677,
       "audio_languages": [
         "en",
@@ -32745,6 +36043,8 @@ window.PLEX_DATA = {
         "Tony Goldwyn"
       ],
       "imdb_id": "tt0216216",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 8300472943,
       "audio_languages": [
         "en",
@@ -32765,6 +36065,8 @@ window.PLEX_DATA = {
         "J.K. Simmons"
       ],
       "imdb_id": "tt2140479",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9948157129,
       "audio_languages": [
         "en",
@@ -32785,6 +36087,8 @@ window.PLEX_DATA = {
         "Cynthia Addai-Robinson"
       ],
       "imdb_id": "tt7068946",
+      "imdb_score": 6.6,
+      "resolution": 576,
       "size_bytes": 5033874093,
       "audio_languages": [
         "en",
@@ -32805,6 +36109,8 @@ window.PLEX_DATA = {
         "Bernie Coulson"
       ],
       "imdb_id": "tt0094608",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 3739438407,
       "audio_languages": [
         "en",
@@ -32825,6 +36131,8 @@ window.PLEX_DATA = {
         "Mark Ruffalo"
       ],
       "imdb_id": "tt2463208",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6771864436,
       "audio_languages": [
         "en",
@@ -32845,6 +36153,8 @@ window.PLEX_DATA = {
         "John Slattery"
       ],
       "imdb_id": "tt1385826",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7285787763,
       "audio_languages": [
         "en",
@@ -32865,6 +36175,8 @@ window.PLEX_DATA = {
         "Jason Clarke"
       ],
       "imdb_id": "tt5977276",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7339593018,
       "audio_languages": [
         "en",
@@ -32885,6 +36197,8 @@ window.PLEX_DATA = {
         "Harrison Ford"
       ],
       "imdb_id": "tt1655441",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5960093882,
       "audio_languages": [
         "en",
@@ -32905,6 +36219,8 @@ window.PLEX_DATA = {
         "Danny Sapani"
       ],
       "imdb_id": "tt0899043",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4686924481,
       "audio_languages": [
         "en",
@@ -32925,6 +36241,8 @@ window.PLEX_DATA = {
         "Rhys Ifans"
       ],
       "imdb_id": "tt0948470",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 11388251271,
       "audio_languages": [
         "en",
@@ -32945,6 +36263,8 @@ window.PLEX_DATA = {
         "Jamie Foxx"
       ],
       "imdb_id": "tt1872181",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 20164091951,
       "audio_languages": [
         "en",
@@ -32965,6 +36285,8 @@ window.PLEX_DATA = {
         "Martin Sheen"
       ],
       "imdb_id": "tt0112346",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 10823549325,
       "audio_languages": [
         "en",
@@ -32985,6 +36307,8 @@ window.PLEX_DATA = {
         "Danny McBride"
       ],
       "imdb_id": "tt1985949",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5806896241,
       "audio_languages": [
         "en",
@@ -33005,6 +36329,8 @@ window.PLEX_DATA = {
         "Danny McBride"
       ],
       "imdb_id": "tt6095472",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5463503476,
       "audio_languages": [
         "en",
@@ -33025,6 +36351,8 @@ window.PLEX_DATA = {
         "Mark Ruffalo"
       ],
       "imdb_id": "tt0848228",
+      "imdb_score": 8.0,
+      "resolution": 2160,
       "size_bytes": 28609447417,
       "audio_languages": [
         "en",
@@ -33045,6 +36373,8 @@ window.PLEX_DATA = {
         "Kate Beckinsale"
       ],
       "imdb_id": "tt0338751",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 12716568738,
       "audio_languages": [
         "en",
@@ -33065,6 +36395,8 @@ window.PLEX_DATA = {
         "Michaela Watkins"
       ],
       "imdb_id": "tt1212436",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 5945971317,
       "audio_languages": [
         "en",
@@ -33085,6 +36417,8 @@ window.PLEX_DATA = {
         "Stephen Campbell Moore"
       ],
       "imdb_id": "tt0200465",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7085366120,
       "audio_languages": [
         "en",
@@ -33105,6 +36439,8 @@ window.PLEX_DATA = {
         "Jeffrey Wright"
       ],
       "imdb_id": "tt1877830",
+      "imdb_score": 7.8,
+      "resolution": 1080,
       "size_bytes": 18777538563,
       "audio_languages": [
         "en",
@@ -33125,6 +36461,8 @@ window.PLEX_DATA = {
         "James Tien Chun"
       ],
       "imdb_id": "tt0067824",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4830206713,
       "audio_languages": [
         "hu",
@@ -33145,6 +36483,8 @@ window.PLEX_DATA = {
         "Jeff Goldblum"
       ],
       "imdb_id": "tt0085244",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9268696037,
       "audio_languages": [
         "en",
@@ -33165,6 +36505,8 @@ window.PLEX_DATA = {
         "Peter Facinelli"
       ],
       "imdb_id": "tt0189584",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5402967174,
       "audio_languages": [
         "en",
@@ -33185,6 +36527,8 @@ window.PLEX_DATA = {
         "Ryan Gosling"
       ],
       "imdb_id": "tt1596363",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 10350652928,
       "audio_languages": [
         "en",
@@ -33205,6 +36549,8 @@ window.PLEX_DATA = {
         "Aja Naomi King"
       ],
       "imdb_id": "tt4196450",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7285642456,
       "audio_languages": [
         "en",
@@ -33225,6 +36571,8 @@ window.PLEX_DATA = {
         "Leo McKern"
       ],
       "imdb_id": "tt0080453",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 12052520818,
       "audio_languages": [
         "en",
@@ -33245,6 +36593,8 @@ window.PLEX_DATA = {
         "Safia Oakley-Green"
       ],
       "imdb_id": "tt14181714",
+      "imdb_score": 5.8,
+      "resolution": 576,
       "size_bytes": 3712000357,
       "audio_languages": [
         "en",
@@ -33265,6 +36615,8 @@ window.PLEX_DATA = {
         "Gary Kemp"
       ],
       "imdb_id": "tt0103855",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8506665571,
       "audio_languages": [],
       "has_subtitles": true
@@ -33282,6 +36634,8 @@ window.PLEX_DATA = {
         "Queen Latifah"
       ],
       "imdb_id": "tt0145681",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9305798660,
       "audio_languages": [
         "en",
@@ -33302,6 +36656,8 @@ window.PLEX_DATA = {
         "Mila Kunis"
       ],
       "imdb_id": "tt1037705",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 14079256393,
       "audio_languages": [
         "en",
@@ -33321,6 +36677,8 @@ window.PLEX_DATA = {
         "Peter Dinklage"
       ],
       "imdb_id": "tt2702724",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5598483574,
       "audio_languages": [
         "en",
@@ -33341,6 +36699,8 @@ window.PLEX_DATA = {
         "Daniel Day-Lewis"
       ],
       "imdb_id": "tt0086993",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6840290337,
       "audio_languages": [
         "en",
@@ -33361,6 +36721,8 @@ window.PLEX_DATA = {
         "Jason Sudeikis"
       ],
       "imdb_id": "tt1038919",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 7016992751,
       "audio_languages": [
         "en",
@@ -33381,6 +36743,8 @@ window.PLEX_DATA = {
         "Chris Cooper"
       ],
       "imdb_id": "tt0258463",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 8507931615,
       "audio_languages": [
         "en",
@@ -33401,6 +36765,8 @@ window.PLEX_DATA = {
         "Edward Norton"
       ],
       "imdb_id": "tt1194173",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 10814701977,
       "audio_languages": [
         "en",
@@ -33421,6 +36787,8 @@ window.PLEX_DATA = {
         "Brian Cox"
       ],
       "imdb_id": "tt0372183",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8512667899,
       "audio_languages": [
         "en",
@@ -33441,6 +36809,8 @@ window.PLEX_DATA = {
         "David Strathairn"
       ],
       "imdb_id": "tt0440963",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8510922637,
       "audio_languages": [
         "en",
@@ -33461,6 +36831,8 @@ window.PLEX_DATA = {
         "Frank Langella"
       ],
       "imdb_id": "tt0362478",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6530980598,
       "audio_languages": [
         "en",
@@ -33481,6 +36853,8 @@ window.PLEX_DATA = {
         "Joey Lauren Adams"
       ],
       "imdb_id": "tt0452594",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6525897795,
       "audio_languages": [
         "en",
@@ -33501,6 +36875,8 @@ window.PLEX_DATA = {
         "Guy Pearce"
       ],
       "imdb_id": "tt8999762",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 16680316654,
       "audio_languages": [
         "en",
@@ -33521,6 +36897,8 @@ window.PLEX_DATA = {
         "Sean Hayes"
       ],
       "imdb_id": "tt0825232",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4500896379,
       "audio_languages": [
         "hu"
@@ -33540,6 +36918,8 @@ window.PLEX_DATA = {
         "David Oyelowo"
       ],
       "imdb_id": "tt1327773",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 9701986952,
       "audio_languages": [
         "en",
@@ -33560,6 +36940,8 @@ window.PLEX_DATA = {
         "Melora Walters"
       ],
       "imdb_id": "tt0289879",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8161140060,
       "audio_languages": [
         "en",
@@ -33580,6 +36962,8 @@ window.PLEX_DATA = {
         "Dustin Milligan"
       ],
       "imdb_id": "tt0457297",
+      "imdb_score": 4.5,
+      "resolution": 720,
       "size_bytes": 4602884577,
       "audio_languages": [
         "en",
@@ -33600,6 +36984,8 @@ window.PLEX_DATA = {
         "Chris Carmack"
       ],
       "imdb_id": "tt1234541",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4983413777,
       "audio_languages": [
         "en",
@@ -33620,6 +37006,8 @@ window.PLEX_DATA = {
         "Leslie Mann"
       ],
       "imdb_id": "tt1488555",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6773254044,
       "audio_languages": [
         "en",
@@ -33640,6 +37028,8 @@ window.PLEX_DATA = {
         "Skandar Keynes"
       ],
       "imdb_id": "tt0499448",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 5952528498,
       "audio_languages": [],
       "has_subtitles": true
@@ -33657,6 +37047,8 @@ window.PLEX_DATA = {
         "Skandar Keynes"
       ],
       "imdb_id": "tt0363771",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6091881990,
       "audio_languages": [],
       "has_subtitles": true
@@ -33674,6 +37066,8 @@ window.PLEX_DATA = {
         "Ben Barnes"
       ],
       "imdb_id": "tt0980970",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8373655303,
       "audio_languages": [
         "en",
@@ -33694,6 +37088,8 @@ window.PLEX_DATA = {
         "Thandiwe Newton"
       ],
       "imdb_id": "tt0296572",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 26118328960,
       "audio_languages": [
         "en",
@@ -33714,6 +37110,8 @@ window.PLEX_DATA = {
         "Michael Caine"
       ],
       "imdb_id": "tt0124315",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 8389522251,
       "audio_languages": [
         "en",
@@ -33734,6 +37132,8 @@ window.PLEX_DATA = {
         "Bill Paxton"
       ],
       "imdb_id": "tt1160996",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 5006830268,
       "audio_languages": [
         "en",
@@ -33754,6 +37154,8 @@ window.PLEX_DATA = {
         "Mary Elizabeth Mastrantonio"
       ],
       "imdb_id": "tt0090863",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 8705917136,
       "audio_languages": [
         "en",
@@ -33774,6 +37176,8 @@ window.PLEX_DATA = {
         "Sam Neill"
       ],
       "imdb_id": "tt1590193",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5376643225,
       "audio_languages": [
         "en",
@@ -33793,6 +37197,8 @@ window.PLEX_DATA = {
         "Chris Cooper"
       ],
       "imdb_id": "tt1172991",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5696311054,
       "audio_languages": [
         "en",
@@ -33813,6 +37219,8 @@ window.PLEX_DATA = {
         "Ryan Marsini"
       ],
       "imdb_id": "tt0128137",
+      "imdb_score": 6.0,
+      "resolution": null,
       "size_bytes": 1416994715,
       "audio_languages": [
         "hu"
@@ -33832,6 +37240,8 @@ window.PLEX_DATA = {
         "Lili Taylor"
       ],
       "imdb_id": "tt1457767",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6575022953,
       "audio_languages": [
         "en",
@@ -33852,6 +37262,8 @@ window.PLEX_DATA = {
         "Madison Wolfe"
       ],
       "imdb_id": "tt3065204",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8579797193,
       "audio_languages": [
         "en",
@@ -33872,6 +37284,8 @@ window.PLEX_DATA = {
         "Mia Tomlinson"
       ],
       "imdb_id": "tt22898462",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6749367085,
       "audio_languages": [
         "en",
@@ -33892,6 +37306,8 @@ window.PLEX_DATA = {
         "Sterling Jerins"
       ],
       "imdb_id": "tt7069210",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6471306837,
       "audio_languages": [
         "en",
@@ -33912,6 +37328,8 @@ window.PLEX_DATA = {
         "Danny Huston"
       ],
       "imdb_id": "tt0387131",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9080988968,
       "audio_languages": [
         "en",
@@ -33932,6 +37350,8 @@ window.PLEX_DATA = {
         "Alice Krige"
       ],
       "imdb_id": "tt0445946",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5013850584,
       "audio_languages": [
         "en",
@@ -33952,6 +37372,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt2193215",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5754486371,
       "audio_languages": [
         "en",
@@ -33972,6 +37394,8 @@ window.PLEX_DATA = {
         "Rachel Brosnahan"
       ],
       "imdb_id": "tt8368512",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4103632754,
       "audio_languages": [
         "en",
@@ -33992,6 +37416,8 @@ window.PLEX_DATA = {
         "Neve Campbell"
       ],
       "imdb_id": "tt0115963",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4859351830,
       "audio_languages": [
         "en",
@@ -34012,6 +37438,8 @@ window.PLEX_DATA = {
         "Gideon Adlon"
       ],
       "imdb_id": "tt4685762",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 4189723708,
       "audio_languages": [
         "en",
@@ -34032,6 +37460,8 @@ window.PLEX_DATA = {
         "Gemma Chan"
       ],
       "imdb_id": "tt11858890",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8945506262,
       "audio_languages": [
         "en",
@@ -34052,6 +37482,8 @@ window.PLEX_DATA = {
         "Ryan Reynolds"
       ],
       "imdb_id": "tt0481499",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 5347811516,
       "audio_languages": [
         "en",
@@ -34072,6 +37504,8 @@ window.PLEX_DATA = {
         "Ryan Reynolds"
       ],
       "imdb_id": "tt2850386",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4452189057,
       "audio_languages": [
         "en",
@@ -34092,6 +37526,8 @@ window.PLEX_DATA = {
         "Ernie Hudson"
       ],
       "imdb_id": "tt0109506",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 3893263212,
       "audio_languages": [
         "en",
@@ -34112,6 +37548,8 @@ window.PLEX_DATA = {
         "Iggy Pop"
       ],
       "imdb_id": "tt0115986",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 5384406024,
       "audio_languages": [
         "en",
@@ -34132,6 +37570,8 @@ window.PLEX_DATA = {
         "Jodi Lyn O'Keefe"
       ],
       "imdb_id": "tt0132910",
+      "imdb_score": 4.9,
+      "resolution": 720,
       "size_bytes": 5035978313,
       "audio_languages": [
         "en",
@@ -34152,6 +37592,8 @@ window.PLEX_DATA = {
         "Nicholas Hoult"
       ],
       "imdb_id": "tt2140507",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4691531423,
       "audio_languages": [
         "en"
@@ -34171,6 +37613,8 @@ window.PLEX_DATA = {
         "Ian McKellen"
       ],
       "imdb_id": "tt0382625",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 34771482658,
       "audio_languages": [
         "hu"
@@ -34190,6 +37634,8 @@ window.PLEX_DATA = {
         "Aaron Eckhart"
       ],
       "imdb_id": "tt0468569",
+      "imdb_score": 9.1,
+      "resolution": 1080,
       "size_bytes": 19254677465,
       "audio_languages": [
         "en",
@@ -34210,6 +37656,8 @@ window.PLEX_DATA = {
         "Tom Hardy"
       ],
       "imdb_id": "tt1345836",
+      "imdb_score": 8.4,
+      "resolution": 1080,
       "size_bytes": 18695321544,
       "audio_languages": [
         "en",
@@ -34230,6 +37678,8 @@ window.PLEX_DATA = {
         "Tom Taylor"
       ],
       "imdb_id": "tt1648190",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5857071715,
       "audio_languages": [
         "en",
@@ -34250,6 +37700,8 @@ window.PLEX_DATA = {
         "Patrick Gibson"
       ],
       "imdb_id": "tt4073790",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5695983469,
       "audio_languages": [
         "en",
@@ -34270,6 +37722,8 @@ window.PLEX_DATA = {
         "Steve Guttenberg"
       ],
       "imdb_id": "tt0085404",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8863456269,
       "audio_languages": [
         "en",
@@ -34290,6 +37744,8 @@ window.PLEX_DATA = {
         "Emmy Rossum"
       ],
       "imdb_id": "tt0319262",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7378964466,
       "audio_languages": [
         "en",
@@ -34310,6 +37766,8 @@ window.PLEX_DATA = {
         "Jack Nicholson"
       ],
       "imdb_id": "tt0407887",
+      "imdb_score": 8.5,
+      "resolution": 720,
       "size_bytes": 9262630988,
       "audio_languages": [
         "en",
@@ -34330,6 +37788,8 @@ window.PLEX_DATA = {
         "Sophie Hardy"
       ],
       "imdb_id": "tt0059915",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 5367020172,
       "audio_languages": [
         "de",
@@ -34350,6 +37810,8 @@ window.PLEX_DATA = {
         "Emily Blunt"
       ],
       "imdb_id": "tt0458352",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7330455785,
       "audio_languages": [
         "en",
@@ -34370,6 +37832,8 @@ window.PLEX_DATA = {
         "Charlize Theron"
       ],
       "imdb_id": "tt0118971",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6134382698,
       "audio_languages": [
         "en",
@@ -34390,6 +37854,8 @@ window.PLEX_DATA = {
         "Margaret Colin"
       ],
       "imdb_id": "tt0118972",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5828461208,
       "audio_languages": [
         "en",
@@ -34410,6 +37876,8 @@ window.PLEX_DATA = {
         "Winona Ryder"
       ],
       "imdb_id": "tt1578275",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 4689270312,
       "audio_languages": [
         "en",
@@ -34430,6 +37898,8 @@ window.PLEX_DATA = {
         "Miles Teller"
       ],
       "imdb_id": "tt3410834",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4692606910,
       "audio_languages": [
         "en"
@@ -34449,6 +37919,8 @@ window.PLEX_DATA = {
         "Miles Teller"
       ],
       "imdb_id": "tt2908446",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 5954655301,
       "audio_languages": [
         "en",
@@ -34469,6 +37941,8 @@ window.PLEX_DATA = {
         "Paula Patton"
       ],
       "imdb_id": "tt4769836",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 8390530642,
       "audio_languages": [
         "en"
@@ -34488,6 +37962,8 @@ window.PLEX_DATA = {
         "Charlotte Rampling"
       ],
       "imdb_id": "tt0864761",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 5053902307,
       "audio_languages": [
         "en",
@@ -34508,6 +37984,8 @@ window.PLEX_DATA = {
         "Jamie Bell"
       ],
       "imdb_id": "tt1034389",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7045840652,
       "audio_languages": [
         "en",
@@ -34528,6 +38006,8 @@ window.PLEX_DATA = {
         "Robert Duvall"
       ],
       "imdb_id": "tt0074452",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 8109183444,
       "audio_languages": [
         "en",
@@ -34548,6 +38028,8 @@ window.PLEX_DATA = {
         "Elle Macpherson"
       ],
       "imdb_id": "tt0119051",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8584051470,
       "audio_languages": [
         "en",
@@ -34568,6 +38050,8 @@ window.PLEX_DATA = {
         "Matthew Rhys"
       ],
       "imdb_id": "tt0819714",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7402375950,
       "audio_languages": [
         "en",
@@ -34588,6 +38072,8 @@ window.PLEX_DATA = {
         "Chloë Grace Moretz"
       ],
       "imdb_id": "tt0455944",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 17584790904,
       "audio_languages": [
         "en",
@@ -34608,6 +38094,8 @@ window.PLEX_DATA = {
         "Ashton Sanders"
       ],
       "imdb_id": "tt3766354",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 16648497664,
       "audio_languages": [
         "en",
@@ -34628,6 +38116,8 @@ window.PLEX_DATA = {
         "Eugenio Mastrandrea"
       ],
       "imdb_id": "tt17024450",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 8830722385,
       "audio_languages": [
         "en",
@@ -34648,6 +38138,8 @@ window.PLEX_DATA = {
         "Jason Miller"
       ],
       "imdb_id": "tt0070047",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 8847319397,
       "audio_languages": [
         "en",
@@ -34668,6 +38160,8 @@ window.PLEX_DATA = {
         "Brad Dourif"
       ],
       "imdb_id": "tt0099528",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6901645304,
       "audio_languages": [
         "en",
@@ -34688,6 +38182,8 @@ window.PLEX_DATA = {
         "Olivia O'Neill"
       ],
       "imdb_id": "tt12921446",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 7474714910,
       "audio_languages": [
         "en",
@@ -34708,6 +38204,8 @@ window.PLEX_DATA = {
         "Jet Li"
       ],
       "imdb_id": "tt1320253",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7043522732,
       "audio_languages": [
         "en",
@@ -34728,6 +38226,8 @@ window.PLEX_DATA = {
         "Jet Li"
       ],
       "imdb_id": "tt1764651",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 9133867800,
       "audio_languages": [
         "en",
@@ -34748,6 +38248,8 @@ window.PLEX_DATA = {
         "Harrison Ford"
       ],
       "imdb_id": "tt2333784",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 10764636737,
       "audio_languages": [
         "en",
@@ -34768,6 +38270,8 @@ window.PLEX_DATA = {
         "Jordana Brewster"
       ],
       "imdb_id": "tt0133751",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4988247987,
       "audio_languages": [
         "en",
@@ -34788,6 +38292,8 @@ window.PLEX_DATA = {
         "Aaron Taylor-Johnson"
       ],
       "imdb_id": "tt1684562",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6575836403,
       "audio_languages": [
         "en",
@@ -34808,6 +38314,8 @@ window.PLEX_DATA = {
         "Tommy Lee Jones"
       ],
       "imdb_id": "tt2404311",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 10075567132,
       "audio_languages": [
         "en",
@@ -34828,6 +38336,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt2097331",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5005622011,
       "audio_languages": [
         "en",
@@ -34848,6 +38358,8 @@ window.PLEX_DATA = {
         "Don Cheadle"
       ],
       "imdb_id": "tt0218967",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7374468211,
       "audio_languages": [
         "en",
@@ -34868,6 +38380,8 @@ window.PLEX_DATA = {
         "Maggie Q"
       ],
       "imdb_id": "tt16431870",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 3149205145,
       "audio_languages": [
         "en"
@@ -34887,6 +38401,8 @@ window.PLEX_DATA = {
         "Kit Harington"
       ],
       "imdb_id": "tt34276058",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 8431200469,
       "audio_languages": [
         "en"
@@ -34906,6 +38422,8 @@ window.PLEX_DATA = {
         "Ebon Moss-Bachrach"
       ],
       "imdb_id": "tt10676052",
+      "imdb_score": 6.8,
+      "resolution": 2160,
       "size_bytes": 12973866059,
       "audio_languages": [
         "en",
@@ -34926,6 +38444,8 @@ window.PLEX_DATA = {
         "Michelle Rodriguez"
       ],
       "imdb_id": "tt0232500",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 15986966665,
       "audio_languages": [
         "en",
@@ -34946,6 +38466,8 @@ window.PLEX_DATA = {
         "Sung Kang"
       ],
       "imdb_id": "tt0463985",
+      "imdb_score": 6.1,
+      "resolution": 1080,
       "size_bytes": 21336194052,
       "audio_languages": [
         "en",
@@ -34966,6 +38488,8 @@ window.PLEX_DATA = {
         "Dwayne Johnson"
       ],
       "imdb_id": "tt4630562",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 33246755187,
       "audio_languages": [
         "en",
@@ -34986,6 +38510,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt5083738",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 8329726038,
       "audio_languages": [
         "en",
@@ -35006,6 +38532,8 @@ window.PLEX_DATA = {
         "Gary Oldman"
       ],
       "imdb_id": "tt0119116",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8641077636,
       "audio_languages": [
         "en",
@@ -35026,6 +38554,8 @@ window.PLEX_DATA = {
         "Anthony Mackie"
       ],
       "imdb_id": "tt1837703",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 9714579248,
       "audio_languages": [
         "en",
@@ -35046,6 +38576,8 @@ window.PLEX_DATA = {
         "Don Gordon"
       ],
       "imdb_id": "tt0082377",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5669949686,
       "audio_languages": [
         "en",
@@ -35066,6 +38598,8 @@ window.PLEX_DATA = {
         "Katharine Ross"
       ],
       "imdb_id": "tt0080736",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4680509829,
       "audio_languages": [
         "en"
@@ -35085,6 +38619,8 @@ window.PLEX_DATA = {
         "Jim Caviezel"
       ],
       "imdb_id": "tt0364343",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 3247901101,
       "audio_languages": [
         "en",
@@ -35105,6 +38641,8 @@ window.PLEX_DATA = {
         "Gene Hackman"
       ],
       "imdb_id": "tt0106918",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 9658889768,
       "audio_languages": [
         "en",
@@ -35124,6 +38662,8 @@ window.PLEX_DATA = {
         "Sonia Braga"
       ],
       "imdb_id": "tt5672290",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4359351605,
       "audio_languages": [
         "en",
@@ -35144,6 +38684,8 @@ window.PLEX_DATA = {
         "Joivan Wade"
       ],
       "imdb_id": "tt6133466",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 5627014933,
       "audio_languages": [
         "en",
@@ -35163,6 +38705,8 @@ window.PLEX_DATA = {
         "Diane Keaton"
       ],
       "imdb_id": "tt0116313",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3611823369,
       "audio_languages": [
         "en",
@@ -35183,6 +38727,8 @@ window.PLEX_DATA = {
         "Michael Keaton"
       ],
       "imdb_id": "tt0439572",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 25526620755,
       "audio_languages": [
         "en",
@@ -35203,6 +38749,8 @@ window.PLEX_DATA = {
         "Rick Moranis"
       ],
       "imdb_id": "tt0109813",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 4955758599,
       "audio_languages": [
         "en",
@@ -35223,6 +38771,8 @@ window.PLEX_DATA = {
         "John Getz"
       ],
       "imdb_id": "tt0091064",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4944647832,
       "audio_languages": [
         "en",
@@ -35243,6 +38793,8 @@ window.PLEX_DATA = {
         "Lee Richardson"
       ],
       "imdb_id": "tt0097368",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 5429348376,
       "audio_languages": [
         "en",
@@ -35263,6 +38815,8 @@ window.PLEX_DATA = {
         "Michael Angarano"
       ],
       "imdb_id": "tt0865556",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4159963474,
       "audio_languages": [
         "en",
@@ -35283,6 +38837,8 @@ window.PLEX_DATA = {
         "Willow Beuoy"
       ],
       "imdb_id": "tt10327252",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 4798228109,
       "audio_languages": [
         "en",
@@ -35303,6 +38859,8 @@ window.PLEX_DATA = {
         "Ellen Burstyn"
       ],
       "imdb_id": "tt0414993",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7495794464,
       "audio_languages": [
         "en",
@@ -35323,6 +38881,8 @@ window.PLEX_DATA = {
         "John Cusack"
       ],
       "imdb_id": "tt2005374",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4217499618,
       "audio_languages": [
         "en",
@@ -35343,6 +38903,8 @@ window.PLEX_DATA = {
         "Joe Pantoliano"
       ],
       "imdb_id": "tt0106977",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 10284529502,
       "audio_languages": [
         "en",
@@ -35363,6 +38925,8 @@ window.PLEX_DATA = {
         "Deborah Kara Unger"
       ],
       "imdb_id": "tt0119174",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6229140280,
       "audio_languages": [
         "en",
@@ -35383,6 +38947,8 @@ window.PLEX_DATA = {
         "James Cromwell"
       ],
       "imdb_id": "tt0144214",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 9072938088,
       "audio_languages": [
         "en",
@@ -35403,6 +38969,8 @@ window.PLEX_DATA = {
         "Keanu Reeves"
       ],
       "imdb_id": "tt0219699",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8039175265,
       "audio_languages": [
         "en",
@@ -35423,6 +38991,8 @@ window.PLEX_DATA = {
         "Timothy Olyphant"
       ],
       "imdb_id": "tt0265208",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7242214044,
       "audio_languages": [
         "en",
@@ -35443,6 +39013,8 @@ window.PLEX_DATA = {
         "Brenton Thwaites"
       ],
       "imdb_id": "tt0435651",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6281702653,
       "audio_languages": [
         "en",
@@ -35463,6 +39035,8 @@ window.PLEX_DATA = {
         "Charlotte Lewis"
       ],
       "imdb_id": "tt0091129",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 8078521392,
       "audio_languages": [
         "en",
@@ -35483,6 +39057,8 @@ window.PLEX_DATA = {
         "Jake Gyllenhaal"
       ],
       "imdb_id": "tt0279113",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 7328268205,
       "audio_languages": [
         "en",
@@ -35503,6 +39079,8 @@ window.PLEX_DATA = {
         "Penélope Cruz"
       ],
       "imdb_id": "tt0484111",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 3171567508,
       "audio_languages": [
         "en",
@@ -35523,6 +39101,8 @@ window.PLEX_DATA = {
         "Robert De Niro"
       ],
       "imdb_id": "tt0343737",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 10051516929,
       "audio_languages": [
         "en",
@@ -35543,6 +39123,8 @@ window.PLEX_DATA = {
         "Lee Van Cleef"
       ],
       "imdb_id": "tt0060196",
+      "imdb_score": 8.8,
+      "resolution": 720,
       "size_bytes": 8206616076,
       "audio_languages": [
         "en",
@@ -35563,6 +39145,8 @@ window.PLEX_DATA = {
         "Jeff Cohen"
       ],
       "imdb_id": "tt0089218",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 4696379090,
       "audio_languages": [
         "en",
@@ -35583,6 +39167,8 @@ window.PLEX_DATA = {
         "Ana de Armas"
       ],
       "imdb_id": "tt1649418",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 2845616235,
       "audio_languages": [
         "en",
@@ -35603,6 +39189,8 @@ window.PLEX_DATA = {
         "Lesley-Anne Down"
       ],
       "imdb_id": "tt0079240",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7142571259,
       "audio_languages": [
         "en",
@@ -35623,6 +39211,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt2034800",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 5115876494,
       "audio_languages": [
         "en",
@@ -35643,6 +39233,8 @@ window.PLEX_DATA = {
         "Bonnie Hunt"
       ],
       "imdb_id": "tt0120689",
+      "imdb_score": 8.6,
+      "resolution": 720,
       "size_bytes": 9164582102,
       "audio_languages": [
         "en",
@@ -35663,6 +39255,8 @@ window.PLEX_DATA = {
         "Sela Ward"
       ],
       "imdb_id": "tt0406816",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7328106283,
       "audio_languages": [
         "en",
@@ -35683,6 +39277,8 @@ window.PLEX_DATA = {
         "Karen Gillan"
       ],
       "imdb_id": "tt13623136",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 2578532901,
       "audio_languages": [
         "en",
@@ -35703,6 +39299,8 @@ window.PLEX_DATA = {
         "Aidan Quinn"
       ],
       "imdb_id": "tt0099731",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6021362858,
       "audio_languages": [
         "en",
@@ -35722,6 +39320,8 @@ window.PLEX_DATA = {
         "Zach Galifianakis"
       ],
       "imdb_id": "tt1119646",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 5116338257,
       "audio_languages": [
         "en",
@@ -35741,6 +39341,8 @@ window.PLEX_DATA = {
         "Zach Galifianakis"
       ],
       "imdb_id": "tt1411697",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6821474174,
       "audio_languages": [
         "en",
@@ -35761,6 +39363,8 @@ window.PLEX_DATA = {
         "Zach Galifianakis"
       ],
       "imdb_id": "tt1951261",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 7328963690,
       "audio_languages": [
         "en",
@@ -35781,6 +39385,8 @@ window.PLEX_DATA = {
         "John Leguizamo"
       ],
       "imdb_id": "tt0949731",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 4488023446,
       "audio_languages": [
         "en",
@@ -35801,6 +39407,8 @@ window.PLEX_DATA = {
         "Catherine Zeta-Jones"
       ],
       "imdb_id": "tt0171363",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 7106366136,
       "audio_languages": [
         "en",
@@ -35821,6 +39429,8 @@ window.PLEX_DATA = {
         "Michelle Monaghan"
       ],
       "imdb_id": "tt0408839",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 8856054787,
       "audio_languages": [
         "en",
@@ -35841,6 +39451,8 @@ window.PLEX_DATA = {
         "Demián Bichir"
       ],
       "imdb_id": "tt2404463",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7610407359,
       "audio_languages": [
         "en",
@@ -35860,6 +39472,8 @@ window.PLEX_DATA = {
         "Bryce Dallas Howard"
       ],
       "imdb_id": "tt1454029",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 8457995202,
       "audio_languages": [
         "en",
@@ -35880,6 +39494,8 @@ window.PLEX_DATA = {
         "Kathy Bates"
       ],
       "imdb_id": "tt1860242",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 9579500019,
       "audio_languages": [
         "en"
@@ -35899,6 +39515,8 @@ window.PLEX_DATA = {
         "Jeffrey DeMunn"
       ],
       "imdb_id": "tt0091209",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5594567063,
       "audio_languages": [
         "en",
@@ -35919,6 +39537,8 @@ window.PLEX_DATA = {
         "Jake Busey"
       ],
       "imdb_id": "tt0299988",
+      "imdb_score": 4.3,
+      "resolution": null,
       "size_bytes": 1126592655,
       "audio_languages": [],
       "has_subtitles": true
@@ -35936,6 +39556,8 @@ window.PLEX_DATA = {
         "Gary Oldman"
       ],
       "imdb_id": "tt1959563",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 6320890829,
       "audio_languages": [
         "en",
@@ -35956,6 +39578,8 @@ window.PLEX_DATA = {
         "Richard Armitage"
       ],
       "imdb_id": "tt0903624",
+      "imdb_score": 7.8,
+      "resolution": 2160,
       "size_bytes": 46212819744,
       "audio_languages": [
         "en",
@@ -35976,6 +39600,8 @@ window.PLEX_DATA = {
         "Richard Armitage"
       ],
       "imdb_id": "tt2310332",
+      "imdb_score": 7.4,
+      "resolution": 2160,
       "size_bytes": 39875905252,
       "audio_languages": [
         "en",
@@ -35996,6 +39622,8 @@ window.PLEX_DATA = {
         "Richard Armitage"
       ],
       "imdb_id": "tt1170358",
+      "imdb_score": 7.8,
+      "resolution": 2160,
       "size_bytes": 47782378282,
       "audio_languages": [
         "en",
@@ -36016,6 +39644,8 @@ window.PLEX_DATA = {
         "Keira Knightley"
       ],
       "imdb_id": "tt0242527",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7863657506,
       "audio_languages": [
         "en",
@@ -36036,6 +39666,8 @@ window.PLEX_DATA = {
         "Jude Law"
       ],
       "imdb_id": "tt0457939",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8912807221,
       "audio_languages": [
         "en",
@@ -36056,6 +39688,8 @@ window.PLEX_DATA = {
         "Max Irons"
       ],
       "imdb_id": "tt1517260",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6415033917,
       "audio_languages": [
         "en",
@@ -36076,6 +39710,8 @@ window.PLEX_DATA = {
         "Matthew Lawrence"
       ],
       "imdb_id": "tt0302640",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5246839591,
       "audio_languages": [
         "en",
@@ -36096,6 +39732,8 @@ window.PLEX_DATA = {
         "Emma Stone"
       ],
       "imdb_id": "tt0852713",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4519904400,
       "audio_languages": [
         "en",
@@ -36116,6 +39754,8 @@ window.PLEX_DATA = {
         "Brandon Sklenar"
       ],
       "imdb_id": "tt27543632",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8788124641,
       "audio_languages": [
         "en"
@@ -36135,6 +39775,8 @@ window.PLEX_DATA = {
         "Dylan Baker"
       ],
       "imdb_id": "tt1568343",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 6714291181,
       "audio_languages": [
         "en",
@@ -36155,6 +39797,8 @@ window.PLEX_DATA = {
         "Liam Hemsworth"
       ],
       "imdb_id": "tt1392170",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 13531330306,
       "audio_languages": [
         "en",
@@ -36175,6 +39819,8 @@ window.PLEX_DATA = {
         "Liam Hemsworth"
       ],
       "imdb_id": "tt1951264",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 13369549308,
       "audio_languages": [
         "en",
@@ -36195,6 +39841,8 @@ window.PLEX_DATA = {
         "Liam Hemsworth"
       ],
       "imdb_id": "tt1951265",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8113019420,
       "audio_languages": [
         "en",
@@ -36215,6 +39863,8 @@ window.PLEX_DATA = {
         "Liam Hemsworth"
       ],
       "imdb_id": "tt1951266",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7843021075,
       "audio_languages": [
         "en",
@@ -36235,6 +39885,8 @@ window.PLEX_DATA = {
         "Peter Dinklage"
       ],
       "imdb_id": "tt10545296",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 10642817618,
       "audio_languages": [
         "en",
@@ -36254,6 +39906,8 @@ window.PLEX_DATA = {
         "Annika"
       ],
       "imdb_id": "tt2106476",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 4776144147,
       "audio_languages": [
         "da",
@@ -36274,6 +39928,8 @@ window.PLEX_DATA = {
         "Ethan Suplee"
       ],
       "imdb_id": "tt8244784",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 4324427687,
       "audio_languages": [
         "en",
@@ -36294,6 +39950,8 @@ window.PLEX_DATA = {
         "Scott Glenn"
       ],
       "imdb_id": "tt0099810",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 9518414900,
       "audio_languages": [
         "en",
@@ -36314,6 +39972,8 @@ window.PLEX_DATA = {
         "Emily Blunt"
       ],
       "imdb_id": "tt2381991",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 9451036276,
       "audio_languages": [
         "en",
@@ -36334,6 +39994,8 @@ window.PLEX_DATA = {
         "Alex Sharp"
       ],
       "imdb_id": "tt1298644",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 5423289045,
       "audio_languages": [
         "en",
@@ -36354,6 +40016,8 @@ window.PLEX_DATA = {
         "Piper Laurie"
       ],
       "imdb_id": "tt0054997",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 7235646700,
       "audio_languages": [
         "en",
@@ -36374,6 +40038,8 @@ window.PLEX_DATA = {
         "Aaron Harris"
       ],
       "imdb_id": "tt13634480",
+      "imdb_score": 4.4,
+      "resolution": 1080,
       "size_bytes": 5089622988,
       "audio_languages": [
         "en",
@@ -36394,6 +40060,8 @@ window.PLEX_DATA = {
         "Marcus Thomas"
       ],
       "imdb_id": "tt3758814",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5909474918,
       "audio_languages": [
         "en",
@@ -36413,6 +40081,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0119349",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8761402583,
       "audio_languages": [
         "en",
@@ -36433,6 +40103,8 @@ window.PLEX_DATA = {
         "Ella Rubin"
       ],
       "imdb_id": "tt9466114",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4133831628,
       "audio_languages": [
         "en",
@@ -36453,6 +40125,8 @@ window.PLEX_DATA = {
         "Jessica Biel"
       ],
       "imdb_id": "tt0443543",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4687998151,
       "audio_languages": [
         "en",
@@ -36473,6 +40147,8 @@ window.PLEX_DATA = {
         "Matthew Goode"
       ],
       "imdb_id": "tt2084970",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8074314152,
       "audio_languages": [
         "en",
@@ -36493,6 +40169,8 @@ window.PLEX_DATA = {
         "Ryan Reynolds"
       ],
       "imdb_id": "tt0314786",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 3475493342,
       "audio_languages": [
         "en",
@@ -36513,6 +40191,8 @@ window.PLEX_DATA = {
         "Tim Roth"
       ],
       "imdb_id": "tt0800080",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 29459516112,
       "audio_languages": [
         "en",
@@ -36533,6 +40213,8 @@ window.PLEX_DATA = {
         "Sarah Vowell"
       ],
       "imdb_id": "tt0317705",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 5152102278,
       "audio_languages": [
         "en",
@@ -36553,6 +40235,8 @@ window.PLEX_DATA = {
         "Christopher Plummer"
       ],
       "imdb_id": "tt0140352",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 11331644383,
       "audio_languages": [
         "en",
@@ -36573,6 +40257,8 @@ window.PLEX_DATA = {
         "Rene Russo"
       ],
       "imdb_id": "tt2361509",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9057743571,
       "audio_languages": [
         "en",
@@ -36593,6 +40279,8 @@ window.PLEX_DATA = {
         "Armin Mueller-Stahl"
       ],
       "imdb_id": "tt0963178",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6860770136,
       "audio_languages": [
         "en",
@@ -36613,6 +40301,8 @@ window.PLEX_DATA = {
         "Joe Pesci"
       ],
       "imdb_id": "tt1302006",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 5960528723,
       "audio_languages": [
         "en",
@@ -36633,6 +40323,8 @@ window.PLEX_DATA = {
         "Djimon Hounsou"
       ],
       "imdb_id": "tt0399201",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 11994530668,
       "audio_languages": [
         "en",
@@ -36653,6 +40345,8 @@ window.PLEX_DATA = {
         "Edward Norton"
       ],
       "imdb_id": "tt0317740",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6662046554,
       "audio_languages": [
         "en",
@@ -36673,6 +40367,8 @@ window.PLEX_DATA = {
         "Sidney Poitier"
       ],
       "imdb_id": "tt0119395",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7399472524,
       "audio_languages": [
         "en",
@@ -36693,6 +40389,8 @@ window.PLEX_DATA = {
         "Kris Kristofferson"
       ],
       "imdb_id": "tt0366627",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6437090758,
       "audio_languages": [
         "en",
@@ -36713,6 +40411,8 @@ window.PLEX_DATA = {
         "Danny DeVito"
       ],
       "imdb_id": "tt0089370",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6454014283,
       "audio_languages": [
         "en",
@@ -36733,6 +40433,8 @@ window.PLEX_DATA = {
         "Amber Heard"
       ],
       "imdb_id": "tt1285309",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5641829498,
       "audio_languages": [
         "en",
@@ -36753,6 +40455,8 @@ window.PLEX_DATA = {
         "Vera Farmiga"
       ],
       "imdb_id": "tt1872194",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 9182088461,
       "audio_languages": [
         "en",
@@ -36773,6 +40477,8 @@ window.PLEX_DATA = {
         "Ben Kingsley"
       ],
       "imdb_id": "tt3040964",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8012449694,
       "audio_languages": [
         "en",
@@ -36793,6 +40499,8 @@ window.PLEX_DATA = {
         "Joseph Gordon-Levitt"
       ],
       "imdb_id": "tt0116731",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4584949297,
       "audio_languages": [
         "en",
@@ -36813,6 +40521,8 @@ window.PLEX_DATA = {
         "Elisabeth Shue"
       ],
       "imdb_id": "tt0087538",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9129252254,
       "audio_languages": [
         "en",
@@ -36833,6 +40543,8 @@ window.PLEX_DATA = {
         "Taraji P. Henson"
       ],
       "imdb_id": "tt1155076",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8466061055,
       "audio_languages": [
         "en",
@@ -36853,6 +40565,8 @@ window.PLEX_DATA = {
         "Danny Kamekona"
       ],
       "imdb_id": "tt0091326",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7515837256,
       "audio_languages": [
         "en",
@@ -36873,6 +40587,8 @@ window.PLEX_DATA = {
         "Robyn Lively"
       ],
       "imdb_id": "tt0097647",
+      "imdb_score": 5.4,
+      "resolution": null,
       "size_bytes": 1799854482,
       "audio_languages": [
         "hu"
@@ -36892,6 +40608,8 @@ window.PLEX_DATA = {
         "Sam Worthington"
       ],
       "imdb_id": "tt1121948",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 7949304297,
       "audio_languages": [
         "en"
@@ -36911,6 +40629,8 @@ window.PLEX_DATA = {
         "John Malkovich"
       ],
       "imdb_id": "tt0087553",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 13090642407,
       "audio_languages": [
         "en",
@@ -36931,6 +40651,8 @@ window.PLEX_DATA = {
         "Rhys Ifans"
       ],
       "imdb_id": "tt6856242",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7439243345,
       "audio_languages": [
         "en",
@@ -36951,6 +40673,8 @@ window.PLEX_DATA = {
         "Raymond Pellegrin"
       ],
       "imdb_id": "tt0070534",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5974083696,
       "audio_languages": [
         "hu",
@@ -36971,6 +40695,8 @@ window.PLEX_DATA = {
         "Christopher Plummer"
       ],
       "imdb_id": "tt0410297",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6636898258,
       "audio_languages": [
         "en",
@@ -36991,6 +40717,8 @@ window.PLEX_DATA = {
         "Chelsea Field"
       ],
       "imdb_id": "tt0102266",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7547997354,
       "audio_languages": [
         "en",
@@ -37011,6 +40739,8 @@ window.PLEX_DATA = {
         "Chris Eigeman"
       ],
       "imdb_id": "tt0120728",
+      "imdb_score": 6.7,
+      "resolution": 480,
       "size_bytes": 1467938816,
       "audio_languages": [],
       "has_subtitles": true
@@ -37028,6 +40758,8 @@ window.PLEX_DATA = {
         "Jodie Comer"
       ],
       "imdb_id": "tt4244994",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8484196089,
       "audio_languages": [
         "en",
@@ -37048,6 +40780,8 @@ window.PLEX_DATA = {
         "Jodhi May"
       ],
       "imdb_id": "tt0104691",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 6073708528,
       "audio_languages": [
         "en",
@@ -37068,6 +40802,8 @@ window.PLEX_DATA = {
         "Timothy Spall"
       ],
       "imdb_id": "tt0325710",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 6729153202,
       "audio_languages": [
         "en",
@@ -37088,6 +40824,8 @@ window.PLEX_DATA = {
         "Jaimie Alexander"
       ],
       "imdb_id": "tt1549920",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7281102654,
       "audio_languages": [
         "en",
@@ -37108,6 +40846,8 @@ window.PLEX_DATA = {
         "Sofie Gråbøl"
       ],
       "imdb_id": "tt27817389",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7198985312,
       "audio_languages": [
         "da",
@@ -37128,6 +40868,8 @@ window.PLEX_DATA = {
         "David Dastmalchian"
       ],
       "imdb_id": "tt1001520",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5356349564,
       "audio_languages": [
         "en"
@@ -37147,6 +40889,8 @@ window.PLEX_DATA = {
         "Rose Leslie"
       ],
       "imdb_id": "tt1618442",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 7464237341,
       "audio_languages": [
         "en",
@@ -37167,6 +40911,8 @@ window.PLEX_DATA = {
         "Matt Barr"
       ],
       "imdb_id": "tt4565520",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 5075132787,
       "audio_languages": [
         "en",
@@ -37187,6 +40933,8 @@ window.PLEX_DATA = {
         "Shane West"
       ],
       "imdb_id": "tt0311429",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 6518906896,
       "audio_languages": [
         "en",
@@ -37207,6 +40955,8 @@ window.PLEX_DATA = {
         "Anita Mui Yim-Fong"
       ],
       "imdb_id": "tt0111512",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 5653278186,
       "audio_languages": [
         "en",
@@ -37227,6 +40977,8 @@ window.PLEX_DATA = {
         "Samuel L. Jackson"
       ],
       "imdb_id": "tt0918940",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6079273569,
       "audio_languages": [
         "en",
@@ -37247,6 +40999,8 @@ window.PLEX_DATA = {
         "Nick Offerman"
       ],
       "imdb_id": "tt12908150",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4741039189,
       "audio_languages": [
         "en",
@@ -37267,6 +41021,8 @@ window.PLEX_DATA = {
         "Laura Linney"
       ],
       "imdb_id": "tt0289992",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 10225820454,
       "audio_languages": [
         "en",
@@ -37287,6 +41043,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt2547584",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7350527774,
       "audio_languages": [
         "en",
@@ -37307,6 +41065,8 @@ window.PLEX_DATA = {
         "Valeriia Karaman"
       ],
       "imdb_id": "tt7984734",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 5960341636,
       "audio_languages": [
         "en",
@@ -37327,6 +41087,8 @@ window.PLEX_DATA = {
         "Nathan Lane"
       ],
       "imdb_id": "tt0110357",
+      "imdb_score": 8.5,
+      "resolution": 720,
       "size_bytes": 4696286453,
       "audio_languages": [
         "en",
@@ -37347,6 +41109,8 @@ window.PLEX_DATA = {
         "Donald Glover"
       ],
       "imdb_id": "tt6105098",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7639342096,
       "audio_languages": [
         "en",
@@ -37367,6 +41131,8 @@ window.PLEX_DATA = {
         "Julie Kavner"
       ],
       "imdb_id": "tt0318403",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4696380593,
       "audio_languages": [
         "en",
@@ -37387,6 +41153,8 @@ window.PLEX_DATA = {
         "Jason Marsden"
       ],
       "imdb_id": "tt0120131",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4697382688,
       "audio_languages": [
         "en",
@@ -37407,6 +41175,8 @@ window.PLEX_DATA = {
         "Kate Micucci"
       ],
       "imdb_id": "tt5666304",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 3832604876,
       "audio_languages": [
         "en",
@@ -37427,6 +41197,8 @@ window.PLEX_DATA = {
         "Joe Don Baker"
       ],
       "imdb_id": "tt0093428",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7840359516,
       "audio_languages": [
         "en",
@@ -37447,6 +41219,8 @@ window.PLEX_DATA = {
         "Olivia Colman"
       ],
       "imdb_id": "tt3464902",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8420171520,
       "audio_languages": [
         "en",
@@ -37467,6 +41241,8 @@ window.PLEX_DATA = {
         "Henry Fonda"
       ],
       "imdb_id": "tt0056197",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8628033689,
       "audio_languages": [
         "en",
@@ -37487,6 +41263,8 @@ window.PLEX_DATA = {
         "Viggo Mortensen"
       ],
       "imdb_id": "tt0120737",
+      "imdb_score": 8.9,
+      "resolution": 2160,
       "size_bytes": 46012362797,
       "audio_languages": [
         "en",
@@ -37507,6 +41285,8 @@ window.PLEX_DATA = {
         "Viggo Mortensen"
       ],
       "imdb_id": "tt0167260",
+      "imdb_score": 9.0,
+      "resolution": 2160,
       "size_bytes": 59994322838,
       "audio_languages": [
         "en",
@@ -37527,6 +41307,8 @@ window.PLEX_DATA = {
         "Viggo Mortensen"
       ],
       "imdb_id": "tt0167261",
+      "imdb_score": 8.8,
+      "resolution": 2160,
       "size_bytes": 45601770728,
       "audio_languages": [
         "en",
@@ -37547,6 +41329,8 @@ window.PLEX_DATA = {
         "Nestor Carbonell"
       ],
       "imdb_id": "tt0343996",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 9025967127,
       "audio_languages": [
         "en",
@@ -37567,6 +41351,8 @@ window.PLEX_DATA = {
         "Daniel Radcliffe"
       ],
       "imdb_id": "tt13320622",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6404038389,
       "audio_languages": [
         "en",
@@ -37587,6 +41373,8 @@ window.PLEX_DATA = {
         "Pete Postlethwaite"
       ],
       "imdb_id": "tt0119567",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 32986530504,
       "audio_languages": [
         "en",
@@ -37607,6 +41395,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt0380510",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8382025154,
       "audio_languages": [
         "en",
@@ -37627,6 +41417,8 @@ window.PLEX_DATA = {
         "Madeline Carroll"
       ],
       "imdb_id": "tt1839654",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4605140553,
       "audio_languages": [
         "en",
@@ -37647,6 +41439,8 @@ window.PLEX_DATA = {
         "Ethan Hawke"
       ],
       "imdb_id": "tt2404435",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 9389509729,
       "audio_languages": [
         "en",
@@ -37667,6 +41461,8 @@ window.PLEX_DATA = {
         "William H. Macy"
       ],
       "imdb_id": "tt1107860",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4819285164,
       "audio_languages": [
         "en",
@@ -37687,6 +41483,8 @@ window.PLEX_DATA = {
         "Jeremy Irons"
       ],
       "imdb_id": "tt0120744",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7487028275,
       "audio_languages": [
         "en",
@@ -37707,6 +41505,8 @@ window.PLEX_DATA = {
         "Britt Ekland"
       ],
       "imdb_id": "tt0071807",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7060349139,
       "audio_languages": [
         "en",
@@ -37727,6 +41527,8 @@ window.PLEX_DATA = {
         "Katheryn Winnick"
       ],
       "imdb_id": "tt6902332",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5767494737,
       "audio_languages": [
         "en",
@@ -37747,6 +41549,8 @@ window.PLEX_DATA = {
         "Kristen Wiig"
       ],
       "imdb_id": "tt3659388",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 8630327141,
       "audio_languages": [
         "en",
@@ -37767,6 +41571,8 @@ window.PLEX_DATA = {
         "Iman Vellani"
       ],
       "imdb_id": "tt10676048",
+      "imdb_score": 5.5,
+      "resolution": 2160,
       "size_bytes": 29626869527,
       "audio_languages": [
         "en",
@@ -37787,6 +41593,8 @@ window.PLEX_DATA = {
         "Peter Greene"
       ],
       "imdb_id": "tt0110475",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7096561499,
       "audio_languages": [
         "en",
@@ -37807,6 +41615,8 @@ window.PLEX_DATA = {
         "Carrie-Anne Moss"
       ],
       "imdb_id": "tt0133093",
+      "imdb_score": 8.7,
+      "resolution": 1080,
       "size_bytes": 17264593565,
       "audio_languages": [
         "en",
@@ -37827,6 +41637,8 @@ window.PLEX_DATA = {
         "Carrie-Anne Moss"
       ],
       "imdb_id": "tt0234215",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 23849028421,
       "audio_languages": [
         "en",
@@ -37847,6 +41659,8 @@ window.PLEX_DATA = {
         "Yahya Abdul-Mateen II"
       ],
       "imdb_id": "tt10838180",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 18480877628,
       "audio_languages": [
         "en",
@@ -37867,6 +41681,8 @@ window.PLEX_DATA = {
         "Carrie-Anne Moss"
       ],
       "imdb_id": "tt0242653",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 21142451376,
       "audio_languages": [
         "en",
@@ -37887,6 +41703,8 @@ window.PLEX_DATA = {
         "Thomas Brodie-Sangster"
       ],
       "imdb_id": "tt1790864",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6701782764,
       "audio_languages": [
         "en",
@@ -37907,6 +41725,8 @@ window.PLEX_DATA = {
         "Donald Sutherland"
       ],
       "imdb_id": "tt0472399",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 11602634329,
       "audio_languages": [
         "en",
@@ -37927,6 +41747,8 @@ window.PLEX_DATA = {
         "Rainn Wilson"
       ],
       "imdb_id": "tt4779682",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 7193449019,
       "audio_languages": [
         "en",
@@ -37947,6 +41769,8 @@ window.PLEX_DATA = {
         "Joseph Fiennes"
       ],
       "imdb_id": "tt0379889",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 5139479866,
       "audio_languages": [
         "en",
@@ -37967,6 +41791,8 @@ window.PLEX_DATA = {
         "Faye Dunaway"
       ],
       "imdb_id": "tt0151137",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8305200040,
       "audio_languages": [
         "hu"
@@ -37986,6 +41812,8 @@ window.PLEX_DATA = {
         "Pierce Brosnan"
       ],
       "imdb_id": "tt0117057",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4371123969,
       "audio_languages": [
         "en",
@@ -38006,6 +41834,8 @@ window.PLEX_DATA = {
         "Ray McAnally"
       ],
       "imdb_id": "tt0091530",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 7272842225,
       "audio_languages": [
         "en",
@@ -38026,6 +41856,8 @@ window.PLEX_DATA = {
         "Alexander Godunov"
       ],
       "imdb_id": "tt0091541",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8388094994,
       "audio_languages": [
         "en",
@@ -38046,6 +41878,8 @@ window.PLEX_DATA = {
         "Robert Sheehan"
       ],
       "imdb_id": "tt1538403",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5861496467,
       "audio_languages": [
         "en"
@@ -38065,6 +41899,8 @@ window.PLEX_DATA = {
         "Dermot Mulroney"
       ],
       "imdb_id": "tt2226597",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 5597692162,
       "audio_languages": [
         "en",
@@ -38085,6 +41921,8 @@ window.PLEX_DATA = {
         "John Hannah"
       ],
       "imdb_id": "tt0120616",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 20252638785,
       "audio_languages": [
         "en",
@@ -38105,6 +41943,8 @@ window.PLEX_DATA = {
         "Sofia Boutella"
       ],
       "imdb_id": "tt2345759",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 14704761859,
       "audio_languages": [
         "en",
@@ -38125,6 +41965,8 @@ window.PLEX_DATA = {
         "John Hannah"
       ],
       "imdb_id": "tt0209163",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 20382539038,
       "audio_languages": [
         "en",
@@ -38145,6 +41987,8 @@ window.PLEX_DATA = {
         "John Hannah"
       ],
       "imdb_id": "tt0859163",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 16766624960,
       "audio_languages": [
         "en",
@@ -38165,6 +42009,8 @@ window.PLEX_DATA = {
         "Tony Leung Ka-fai"
       ],
       "imdb_id": "tt0365847",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7616690189,
       "audio_languages": [
         "en",
@@ -38186,6 +42032,8 @@ window.PLEX_DATA = {
         "Paul Walter Hauser"
       ],
       "imdb_id": "tt3402138",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6454929464,
       "audio_languages": [
         "en",
@@ -38206,6 +42054,8 @@ window.PLEX_DATA = {
         "Helmut Qualtinger"
       ],
       "imdb_id": "tt0091605",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 10929509455,
       "audio_languages": [
         "en",
@@ -38226,6 +42076,8 @@ window.PLEX_DATA = {
         "David Morse"
       ],
       "imdb_id": "tt0120768",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7487034186,
       "audio_languages": [
         "en",
@@ -38246,6 +42098,8 @@ window.PLEX_DATA = {
         "Dennis Miller"
       ],
       "imdb_id": "tt0113957",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 8928397695,
       "audio_languages": [
         "en",
@@ -38266,6 +42120,8 @@ window.PLEX_DATA = {
         "Cengiz Bozkurt"
       ],
       "imdb_id": "tt0449077",
+      "imdb_score": 4.6,
+      "resolution": 720,
       "size_bytes": 3181581788,
       "audio_languages": [
         "en",
@@ -38286,6 +42142,8 @@ window.PLEX_DATA = {
         "Gattlin Griffith"
       ],
       "imdb_id": "tt0951335",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 6330824326,
       "audio_languages": [
         "en",
@@ -38306,6 +42164,8 @@ window.PLEX_DATA = {
         "Maisie Williams"
       ],
       "imdb_id": "tt4682266",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 11835792535,
       "audio_languages": [
         "en",
@@ -38326,6 +42186,8 @@ window.PLEX_DATA = {
         "Christopher Plummer"
       ],
       "imdb_id": "tt0402399",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9123195621,
       "audio_languages": [
         "en",
@@ -38346,6 +42208,8 @@ window.PLEX_DATA = {
         "Michael Ironside"
       ],
       "imdb_id": "tt0110657",
+      "imdb_score": 4.6,
+      "resolution": 1080,
       "size_bytes": 8348618925,
       "audio_languages": [
         "en",
@@ -38366,6 +42230,8 @@ window.PLEX_DATA = {
         "Angourie Rice"
       ],
       "imdb_id": "tt3799694",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 8599638366,
       "audio_languages": [
         "en",
@@ -38386,6 +42252,8 @@ window.PLEX_DATA = {
         "Lena Olin"
       ],
       "imdb_id": "tt0142688",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6256823524,
       "audio_languages": [
         "en",
@@ -38406,6 +42274,8 @@ window.PLEX_DATA = {
         "Claes Bang"
       ],
       "imdb_id": "tt11138512",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 9691501463,
       "audio_languages": [
         "en",
@@ -38426,6 +42296,8 @@ window.PLEX_DATA = {
         "Gena Rowlands"
       ],
       "imdb_id": "tt0332280",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 6147885753,
       "audio_languages": [
         "en",
@@ -38446,6 +42318,8 @@ window.PLEX_DATA = {
         "Bonnie Aarons"
       ],
       "imdb_id": "tt5814060",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5361277022,
       "audio_languages": [
         "en",
@@ -38466,6 +42340,8 @@ window.PLEX_DATA = {
         "Jonas Bloquet"
       ],
       "imdb_id": "tt10160976",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6352605512,
       "audio_languages": [
         "en",
@@ -38485,6 +42361,8 @@ window.PLEX_DATA = {
         "John Fiedler"
       ],
       "imdb_id": "tt0063374",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 6251652859,
       "audio_languages": [
         "en",
@@ -38505,6 +42383,8 @@ window.PLEX_DATA = {
         "Richard Riehle"
       ],
       "imdb_id": "tt0120773",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6356716268,
       "audio_languages": [
         "en",
@@ -38525,6 +42405,8 @@ window.PLEX_DATA = {
         "Mischa Barton"
       ],
       "imdb_id": "tt0422861",
+      "imdb_score": 5.5,
+      "resolution": 576,
       "size_bytes": 1035930016,
       "audio_languages": [],
       "has_subtitles": true
@@ -38542,6 +42424,8 @@ window.PLEX_DATA = {
         "Veronica Ngô"
       ],
       "imdb_id": "tt7556122",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7034767257,
       "audio_languages": [
         "en",
@@ -38562,6 +42446,8 @@ window.PLEX_DATA = {
         "Matthias Schoenaerts"
       ],
       "imdb_id": "tt14961624",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 2441044864,
       "audio_languages": [
         "en",
@@ -38582,6 +42468,8 @@ window.PLEX_DATA = {
         "David Warner"
       ],
       "imdb_id": "tt0075005",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 4854726756,
       "audio_languages": [
         "en",
@@ -38601,6 +42489,8 @@ window.PLEX_DATA = {
         "Kate Beckinsale"
       ],
       "imdb_id": "tt0460890",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4694825575,
       "audio_languages": [
         "en",
@@ -38621,6 +42511,8 @@ window.PLEX_DATA = {
         "Eric Bana"
       ],
       "imdb_id": "tt0467200",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7259768374,
       "audio_languages": [
         "en",
@@ -38641,6 +42533,8 @@ window.PLEX_DATA = {
         "Eva Mendes"
       ],
       "imdb_id": "tt1386588",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6429450237,
       "audio_languages": [
         "en",
@@ -38661,6 +42555,8 @@ window.PLEX_DATA = {
         "Kate Upton"
       ],
       "imdb_id": "tt2203939",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7064076283,
       "audio_languages": [
         "en",
@@ -38681,6 +42577,8 @@ window.PLEX_DATA = {
         "Faith Ford"
       ],
       "imdb_id": "tt0395699",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 5021577783,
       "audio_languages": [
         "en",
@@ -38701,6 +42599,8 @@ window.PLEX_DATA = {
         "Natasha Richardson"
       ],
       "imdb_id": "tt0120783",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 10146856354,
       "audio_languages": [
         "en",
@@ -38721,6 +42621,8 @@ window.PLEX_DATA = {
         "Joely Richardson"
       ],
       "imdb_id": "tt0187393",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 11763782526,
       "audio_languages": [
         "en",
@@ -38741,6 +42643,8 @@ window.PLEX_DATA = {
         "Marcel Iureș"
       ],
       "imdb_id": "tt0119874",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7806838787,
       "audio_languages": [
         "en",
@@ -38761,6 +42665,8 @@ window.PLEX_DATA = {
         "Sam Shepard"
       ],
       "imdb_id": "tt0107798",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8518261998,
       "audio_languages": [
         "en",
@@ -38781,6 +42687,8 @@ window.PLEX_DATA = {
         "Eric Christmas"
       ],
       "imdb_id": "tt0087910",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6042241510,
       "audio_languages": [
         "en",
@@ -38801,6 +42709,8 @@ window.PLEX_DATA = {
         "Eva Mendes"
       ],
       "imdb_id": "tt1817273",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9388426823,
       "audio_languages": [
         "en",
@@ -38821,6 +42731,8 @@ window.PLEX_DATA = {
         "Alex Essoe"
       ],
       "imdb_id": "tt13375076",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5246707772,
       "audio_languages": [
         "en",
@@ -38841,6 +42753,8 @@ window.PLEX_DATA = {
         "Larenz Tate"
       ],
       "imdb_id": "tt0119925",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 9055811378,
       "audio_languages": [
         "en",
@@ -38861,6 +42775,8 @@ window.PLEX_DATA = {
         "Sterling K. Brown"
       ],
       "imdb_id": "tt3829266",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 14506965757,
       "audio_languages": [
         "en",
@@ -38881,6 +42797,8 @@ window.PLEX_DATA = {
         "Meg Ryan"
       ],
       "imdb_id": "tt0095897",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7973945092,
       "audio_languages": [
         "en",
@@ -38901,6 +42819,8 @@ window.PLEX_DATA = {
         "Heather Matarazzo"
       ],
       "imdb_id": "tt0247638",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 6032920565,
       "audio_languages": [
         "en",
@@ -38921,6 +42841,8 @@ window.PLEX_DATA = {
         "Héctor Elizondo"
       ],
       "imdb_id": "tt0368933",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6192197712,
       "audio_languages": [
         "en",
@@ -38941,6 +42863,8 @@ window.PLEX_DATA = {
         "Simon Bennebjerg"
       ],
       "imdb_id": "tt20561198",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 6267117435,
       "audio_languages": [
         "da",
@@ -38961,6 +42885,8 @@ window.PLEX_DATA = {
         "Virginia Madsen"
       ],
       "imdb_id": "tt0114194",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 10065757019,
       "audio_languages": [
         "en",
@@ -38981,6 +42907,8 @@ window.PLEX_DATA = {
         "Vincent Spano"
       ],
       "imdb_id": "tt0183678",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 5401891947,
       "audio_languages": [
         "en",
@@ -39001,6 +42929,8 @@ window.PLEX_DATA = {
         "Jennifer Beals"
       ],
       "imdb_id": "tt0118643",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 6500302414,
       "audio_languages": [
         "en",
@@ -39021,6 +42951,8 @@ window.PLEX_DATA = {
         "Tony Todd"
       ],
       "imdb_id": "tt0439771",
+      "imdb_score": 4.4,
+      "resolution": 720,
       "size_bytes": 3754145102,
       "audio_languages": [
         "en",
@@ -39041,6 +42973,8 @@ window.PLEX_DATA = {
         "Kari Wührer"
       ],
       "imdb_id": "tt0365658",
+      "imdb_score": 5.1,
+      "resolution": 720,
       "size_bytes": 4961226877,
       "audio_languages": [
         "en",
@@ -39061,6 +42995,8 @@ window.PLEX_DATA = {
         "Malin Åkerman"
       ],
       "imdb_id": "tt1041829",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 15470324457,
       "audio_languages": [
         "en",
@@ -39081,6 +43017,8 @@ window.PLEX_DATA = {
         "Will Patton"
       ],
       "imdb_id": "tt0330793",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 16326686256,
       "audio_languages": [
         "en",
@@ -39101,6 +43039,8 @@ window.PLEX_DATA = {
         "Max Burkholder"
       ],
       "imdb_id": "tt2184339",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 5448527331,
       "audio_languages": [
         "en",
@@ -39121,6 +43061,8 @@ window.PLEX_DATA = {
         "Zach Gilford"
       ],
       "imdb_id": "tt2975578",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 9001641008,
       "audio_languages": [
         "en",
@@ -39141,6 +43083,8 @@ window.PLEX_DATA = {
         "Mykelti Williamson"
       ],
       "imdb_id": "tt4094724",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 8577412318,
       "audio_languages": [
         "en",
@@ -39161,6 +43105,8 @@ window.PLEX_DATA = {
         "Anzac Wallace"
       ],
       "imdb_id": "tt0089869",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4695781113,
       "audio_languages": [
         "en"
@@ -39180,6 +43126,8 @@ window.PLEX_DATA = {
         "Amy Irving"
       ],
       "imdb_id": "tt0144814",
+      "imdb_score": 4.8,
+      "resolution": 720,
       "size_bytes": 4835251040,
       "audio_languages": [
         "en",
@@ -39200,6 +43148,8 @@ window.PLEX_DATA = {
         "Danny DeVito"
       ],
       "imdb_id": "tt0119978",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 7335526045,
       "audio_languages": [
         "en",
@@ -39220,6 +43170,8 @@ window.PLEX_DATA = {
         "Patrick Bauchau"
       ],
       "imdb_id": "tt0102757",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5161496590,
       "audio_languages": [
         "en",
@@ -39240,6 +43192,8 @@ window.PLEX_DATA = {
         "David Kross"
       ],
       "imdb_id": "tt0976051",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 8521721066,
       "audio_languages": [
         "en",
@@ -39260,6 +43214,8 @@ window.PLEX_DATA = {
         "Art Garfunkel"
       ],
       "imdb_id": "tt1205535",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4515211594,
       "audio_languages": [
         "en",
@@ -39280,6 +43236,8 @@ window.PLEX_DATA = {
         "James Fox"
       ],
       "imdb_id": "tt0107943",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 9892962276,
       "audio_languages": [
         "en",
@@ -39300,6 +43258,8 @@ window.PLEX_DATA = {
         "Jonathan Freeman"
       ],
       "imdb_id": "tt0107952",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 2426582432,
       "audio_languages": [
         "en",
@@ -39320,6 +43280,8 @@ window.PLEX_DATA = {
         "Domhnall Gleeson"
       ],
       "imdb_id": "tt1663202",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 9056345469,
       "audio_languages": [
         "en",
@@ -39340,6 +43302,8 @@ window.PLEX_DATA = {
         "Will Sasso"
       ],
       "imdb_id": "tt2286990",
+      "imdb_score": 6.1,
+      "resolution": null,
       "size_bytes": 902597138,
       "audio_languages": [],
       "has_subtitles": true
@@ -39357,6 +43321,8 @@ window.PLEX_DATA = {
         "David Dorfman"
       ],
       "imdb_id": "tt0298130",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8651876788,
       "audio_languages": [
         "en",
@@ -39377,6 +43343,8 @@ window.PLEX_DATA = {
         "David Dorfman"
       ],
       "imdb_id": "tt0377109",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 7073460598,
       "audio_languages": [
         "en",
@@ -39397,6 +43365,8 @@ window.PLEX_DATA = {
         "Alice Braga"
       ],
       "imdb_id": "tt1161864",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7042941073,
       "audio_languages": [
         "en",
@@ -39417,6 +43387,8 @@ window.PLEX_DATA = {
         "Vernon Davis"
       ],
       "imdb_id": "tt13141250",
+      "imdb_score": 4.3,
+      "resolution": 720,
       "size_bytes": 5308301689,
       "audio_languages": [
         "en",
@@ -39437,6 +43409,8 @@ window.PLEX_DATA = {
         "Charlize Theron"
       ],
       "imdb_id": "tt0898367",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5067206047,
       "audio_languages": [
         "en",
@@ -39457,6 +43431,8 @@ window.PLEX_DATA = {
         "Michael Preston"
       ],
       "imdb_id": "tt0082694",
+      "imdb_score": 7.6,
+      "resolution": 2160,
       "size_bytes": 46024880279,
       "audio_languages": [
         "en",
@@ -39477,6 +43453,8 @@ window.PLEX_DATA = {
         "Ed Harris"
       ],
       "imdb_id": "tt0117500",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 9470755234,
       "audio_languages": [
         "en",
@@ -39497,6 +43475,8 @@ window.PLEX_DATA = {
         "Ben Stiller"
       ],
       "imdb_id": "tt0265666",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 6373601159,
       "audio_languages": [
         "en",
@@ -39517,6 +43497,8 @@ window.PLEX_DATA = {
         "Rosario Dawson"
       ],
       "imdb_id": "tt0327850",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6726175687,
       "audio_languages": [
         "en",
@@ -39537,6 +43519,8 @@ window.PLEX_DATA = {
         "María Conchita Alonso"
       ],
       "imdb_id": "tt0093894",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7774059563,
       "audio_languages": [
         "en",
@@ -39557,6 +43541,8 @@ window.PLEX_DATA = {
         "Lee Pace"
       ],
       "imdb_id": "tt14107334",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 33351017125,
       "audio_languages": [
         "en",
@@ -39577,6 +43563,8 @@ window.PLEX_DATA = {
         "Roy Scheider"
       ],
       "imdb_id": "tt0100530",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 8272265867,
       "audio_languages": [
         "en"
@@ -39596,6 +43584,8 @@ window.PLEX_DATA = {
         "Rade Šerbedžija"
       ],
       "imdb_id": "tt0120053",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6149122081,
       "audio_languages": [
         "en",
@@ -39616,6 +43606,8 @@ window.PLEX_DATA = {
         "Jeffrey Dean Morgan"
       ],
       "imdb_id": "tt2720680",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6908639684,
       "audio_languages": [
         "en",
@@ -39636,6 +43628,8 @@ window.PLEX_DATA = {
         "Michael Clarke Duncan"
       ],
       "imdb_id": "tt0277296",
+      "imdb_score": 5.5,
+      "resolution": 1080,
       "size_bytes": 18214747840,
       "audio_languages": [
         "en",
@@ -39656,6 +43650,8 @@ window.PLEX_DATA = {
         "Karen David"
       ],
       "imdb_id": "tt1104123",
+      "imdb_score": 3.8,
+      "resolution": 720,
       "size_bytes": 9596749079,
       "audio_languages": [
         "en",
@@ -39676,6 +43672,8 @@ window.PLEX_DATA = {
         "Temuera Morrison"
       ],
       "imdb_id": "tt1781896",
+      "imdb_score": 3.7,
+      "resolution": 720,
       "size_bytes": 8538128623,
       "audio_languages": [
         "en",
@@ -39696,6 +43694,8 @@ window.PLEX_DATA = {
         "Barry Bostwick"
       ],
       "imdb_id": "tt3086386",
+      "imdb_score": 4.1,
+      "resolution": 1080,
       "size_bytes": 14904778819,
       "audio_languages": [
         "en",
@@ -39716,6 +43716,8 @@ window.PLEX_DATA = {
         "Pearl Thusi"
       ],
       "imdb_id": "tt7338690",
+      "imdb_score": 4.6,
+      "resolution": 1080,
       "size_bytes": 11384351669,
       "audio_languages": [
         "en",
@@ -39736,6 +43738,8 @@ window.PLEX_DATA = {
         "Jennifer Hudson"
       ],
       "imdb_id": "tt0416212",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 6601290320,
       "audio_languages": [
         "en",
@@ -39756,6 +43760,8 @@ window.PLEX_DATA = {
         "Kevin Hart"
       ],
       "imdb_id": "tt2709768",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4270869389,
       "audio_languages": [
         "en",
@@ -39776,6 +43782,8 @@ window.PLEX_DATA = {
         "Eric Stonestreet"
       ],
       "imdb_id": "tt5113040",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4700069456,
       "audio_languages": [
         "en",
@@ -39796,6 +43804,8 @@ window.PLEX_DATA = {
         "Bob Gunton"
       ],
       "imdb_id": "tt0111161",
+      "imdb_score": 9.3,
+      "resolution": 720,
       "size_bytes": 8484333237,
       "audio_languages": [
         "en",
@@ -39816,6 +43826,8 @@ window.PLEX_DATA = {
         "Cary Guffey"
       ],
       "imdb_id": "tt0079859",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 1396942664,
       "audio_languages": [
         "hu"
@@ -39835,6 +43847,8 @@ window.PLEX_DATA = {
         "Danny Lloyd"
       ],
       "imdb_id": "tt0081505",
+      "imdb_score": 8.4,
+      "resolution": 720,
       "size_bytes": 10801001844,
       "audio_languages": [
         "en",
@@ -39855,6 +43869,8 @@ window.PLEX_DATA = {
         "Bruce Willis"
       ],
       "imdb_id": "tt0133952",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8493586291,
       "audio_languages": [
         "en",
@@ -39875,6 +43891,8 @@ window.PLEX_DATA = {
         "Miranda Otto"
       ],
       "imdb_id": "tt7315484",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 6825742492,
       "audio_languages": [
         "en"
@@ -39894,6 +43912,8 @@ window.PLEX_DATA = {
         "Scott Glenn"
       ],
       "imdb_id": "tt0102926",
+      "imdb_score": 8.6,
+      "resolution": 1080,
       "size_bytes": 34664699823,
       "audio_languages": [
         "en",
@@ -39914,6 +43934,8 @@ window.PLEX_DATA = {
         "Nancy Cartwright"
       ],
       "imdb_id": "tt0462538",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4676950560,
       "audio_languages": [],
       "has_subtitles": true
@@ -39931,6 +43953,8 @@ window.PLEX_DATA = {
         "Armie Hammer"
       ],
       "imdb_id": "tt1285016",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 5507516734,
       "audio_languages": [
         "en",
@@ -39951,6 +43975,8 @@ window.PLEX_DATA = {
         "Alfred Molina"
       ],
       "imdb_id": "tt0963966",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7042595702,
       "audio_languages": [
         "en",
@@ -39971,6 +43997,8 @@ window.PLEX_DATA = {
         "James Woods"
       ],
       "imdb_id": "tt0111255",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6814338012,
       "audio_languages": [
         "en",
@@ -39991,6 +44019,8 @@ window.PLEX_DATA = {
         "Curd Jürgens"
       ],
       "imdb_id": "tt0076752",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 9705341860,
       "audio_languages": [
         "hu"
@@ -40010,6 +44040,8 @@ window.PLEX_DATA = {
         "Bobby Cannavale"
       ],
       "imdb_id": "tt0340377",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 2818271043,
       "audio_languages": [
         "en",
@@ -40030,6 +44062,8 @@ window.PLEX_DATA = {
         "Rob Reiner"
       ],
       "imdb_id": "tt0160916",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5275650770,
       "audio_languages": [
         "en",
@@ -40050,6 +44084,8 @@ window.PLEX_DATA = {
         "John Cena"
       ],
       "imdb_id": "tt6334354",
+      "imdb_score": 7.2,
+      "resolution": 1080,
       "size_bytes": 16245221786,
       "audio_languages": [
         "en",
@@ -40070,6 +44106,8 @@ window.PLEX_DATA = {
         "James Cromwell"
       ],
       "imdb_id": "tt0164184",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7229374426,
       "audio_languages": [
         "en",
@@ -40090,6 +44128,8 @@ window.PLEX_DATA = {
         "Selma Blair"
       ],
       "imdb_id": "tt0253867",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 4777452675,
       "audio_languages": [
         "en",
@@ -40110,6 +44150,8 @@ window.PLEX_DATA = {
         "Patrick Wilson"
       ],
       "imdb_id": "tt0889573",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4684610274,
       "audio_languages": [
         "en",
@@ -40130,6 +44172,8 @@ window.PLEX_DATA = {
         "John Turturro"
       ],
       "imdb_id": "tt1111422",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 10785109276,
       "audio_languages": [
         "en",
@@ -40150,6 +44194,8 @@ window.PLEX_DATA = {
         "Jude Law"
       ],
       "imdb_id": "tt0134119",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 11134203806,
       "audio_languages": [
         "en",
@@ -40170,6 +44216,8 @@ window.PLEX_DATA = {
         "Stanley Tucci"
       ],
       "imdb_id": "tt0362227",
+      "imdb_score": 7.4,
+      "resolution": 720,
       "size_bytes": 15012741170,
       "audio_languages": [
         "en",
@@ -40190,6 +44238,8 @@ window.PLEX_DATA = {
         "Linda Hamilton"
       ],
       "imdb_id": "tt0088247",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 29167185344,
       "audio_languages": [
         "en",
@@ -40210,6 +44260,8 @@ window.PLEX_DATA = {
         "T.K. Carter"
       ],
       "imdb_id": "tt0084787",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 7360976308,
       "audio_languages": [
         "en",
@@ -40230,6 +44282,8 @@ window.PLEX_DATA = {
         "Ulrich Thomsen"
       ],
       "imdb_id": "tt0905372",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8542351167,
       "audio_languages": [
         "en",
@@ -40250,6 +44304,8 @@ window.PLEX_DATA = {
         "Gretchen Mol"
       ],
       "imdb_id": "tt0139809",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 4661810305,
       "audio_languages": [
         "hu"
@@ -40269,6 +44325,8 @@ window.PLEX_DATA = {
         "Denis Leary"
       ],
       "imdb_id": "tt0155267",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7035263323,
       "audio_languages": [
         "en",
@@ -40289,6 +44347,8 @@ window.PLEX_DATA = {
         "Oliver Platt"
       ],
       "imdb_id": "tt0108333",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7153547123,
       "audio_languages": [
         "en",
@@ -40309,6 +44369,8 @@ window.PLEX_DATA = {
         "Bill Hader"
       ],
       "imdb_id": "tt1758795",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 4689535456,
       "audio_languages": [
         "en"
@@ -40328,6 +44390,8 @@ window.PLEX_DATA = {
         "Paul Bettany"
       ],
       "imdb_id": "tt1243957",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6393135497,
       "audio_languages": [
         "en",
@@ -40348,6 +44412,8 @@ window.PLEX_DATA = {
         "Rebecca Hall"
       ],
       "imdb_id": "tt0840361",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6233048816,
       "audio_languages": [
         "en",
@@ -40368,6 +44434,8 @@ window.PLEX_DATA = {
         "François Berléand"
       ],
       "imdb_id": "tt0293662",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4660965944,
       "audio_languages": [
         "hu"
@@ -40387,6 +44455,8 @@ window.PLEX_DATA = {
         "James D'Arcy"
       ],
       "imdb_id": "tt0161010",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 7177716108,
       "audio_languages": [
         "en",
@@ -40407,6 +44477,8 @@ window.PLEX_DATA = {
         "James Cromwell"
       ],
       "imdb_id": "tt1323973",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4067558202,
       "audio_languages": [
         "en",
@@ -40427,6 +44499,8 @@ window.PLEX_DATA = {
         "Jean-Pierre Aumont"
       ],
       "imdb_id": "tt0072012",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 1773710738,
       "audio_languages": [],
       "has_subtitles": true
@@ -40444,6 +44518,8 @@ window.PLEX_DATA = {
         "Juan Minujín"
       ],
       "imdb_id": "tt8404614",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4259945445,
       "audio_languages": [
         "en",
@@ -40464,6 +44540,8 @@ window.PLEX_DATA = {
         "Eric Winter"
       ],
       "imdb_id": "tt1142988",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7571379860,
       "audio_languages": [
         "en",
@@ -40484,6 +44562,8 @@ window.PLEX_DATA = {
         "Vincent D'Onofrio"
       ],
       "imdb_id": "tt11233960",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6815807307,
       "audio_languages": [
         "en",
@@ -40504,6 +44584,8 @@ window.PLEX_DATA = {
         "Robert De Niro"
       ],
       "imdb_id": "tt0094226",
+      "imdb_score": 7.8,
+      "resolution": 720,
       "size_bytes": 6877354982,
       "audio_languages": [
         "en",
@@ -40524,6 +44606,8 @@ window.PLEX_DATA = {
         "Erika Christensen"
       ],
       "imdb_id": "tt0365885",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 5125591870,
       "audio_languages": [
         "en",
@@ -40544,6 +44628,8 @@ window.PLEX_DATA = {
         "Benicio del Toro"
       ],
       "imdb_id": "tt0114814",
+      "imdb_score": 8.5,
+      "resolution": 720,
       "size_bytes": 8036068498,
       "audio_languages": [
         "en",
@@ -40564,6 +44650,8 @@ window.PLEX_DATA = {
         "Karin Dor"
       ],
       "imdb_id": "tt0063818",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7014143281,
       "audio_languages": [
         "de",
@@ -40584,6 +44672,8 @@ window.PLEX_DATA = {
         "Nancy Travis"
       ],
       "imdb_id": "tt0108473",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 11060691447,
       "audio_languages": [
         "en",
@@ -40604,6 +44694,8 @@ window.PLEX_DATA = {
         "James Woods"
       ],
       "imdb_id": "tt0159097",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 6083582858,
       "audio_languages": [
         "en",
@@ -40624,6 +44716,8 @@ window.PLEX_DATA = {
         "Mare Winningham"
       ],
       "imdb_id": "tt0111667",
+      "imdb_score": 6.8,
+      "resolution": null,
       "size_bytes": 1808827592,
       "audio_languages": [
         "hu"
@@ -40636,6 +44730,8 @@ window.PLEX_DATA = {
       "genres": [],
       "actors": [],
       "imdb_id": null,
+      "imdb_score": null,
+      "resolution": 720,
       "size_bytes": 9626077305,
       "audio_languages": [
         "en",
@@ -40656,6 +44752,8 @@ window.PLEX_DATA = {
         "Jonah Hill"
       ],
       "imdb_id": "tt1298649",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 5334470470,
       "audio_languages": [
         "en",
@@ -40676,6 +44774,8 @@ window.PLEX_DATA = {
         "Yılmaz Erdoğan"
       ],
       "imdb_id": "tt3007512",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 8568216965,
       "audio_languages": [
         "en",
@@ -40696,6 +44796,8 @@ window.PLEX_DATA = {
         "Amy Adams"
       ],
       "imdb_id": "tt0372532",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 4463783985,
       "audio_languages": [
         "hu"
@@ -40715,6 +44817,8 @@ window.PLEX_DATA = {
         "Justin Chambers"
       ],
       "imdb_id": "tt0209475",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 4518840758,
       "audio_languages": [
         "en",
@@ -40734,6 +44838,8 @@ window.PLEX_DATA = {
         "Ty Simpkins"
       ],
       "imdb_id": "tt13833688",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4157576224,
       "audio_languages": [
         "en",
@@ -40754,6 +44860,8 @@ window.PLEX_DATA = {
         "Natasha Henstridge"
       ],
       "imdb_id": "tt0190138",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4791517458,
       "audio_languages": [
         "en",
@@ -40774,6 +44882,8 @@ window.PLEX_DATA = {
         "Amanda Peet"
       ],
       "imdb_id": "tt0327247",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 6045189312,
       "audio_languages": [
         "en",
@@ -40794,6 +44904,8 @@ window.PLEX_DATA = {
         "Liam Cunningham"
       ],
       "imdb_id": "tt0460989",
+      "imdb_score": 7.5,
+      "resolution": 1080,
       "size_bytes": 10090520048,
       "audio_languages": [
         "en",
@@ -40814,6 +44926,8 @@ window.PLEX_DATA = {
         "Stanley Tucci"
       ],
       "imdb_id": "tt0805647",
+      "imdb_score": 5.4,
+      "resolution": 1080,
       "size_bytes": 6712307911,
       "audio_languages": [
         "en",
@@ -40834,6 +44948,8 @@ window.PLEX_DATA = {
         "Susan Sarandon"
       ],
       "imdb_id": "tt0094332",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6217685307,
       "audio_languages": [
         "en",
@@ -40854,6 +44970,8 @@ window.PLEX_DATA = {
         "Hank Azaria"
       ],
       "imdb_id": "tt1933667",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6075161695,
       "audio_languages": [
         "en",
@@ -40874,6 +44992,8 @@ window.PLEX_DATA = {
         "Margot Robbie"
       ],
       "imdb_id": "tt0993846",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 14847743418,
       "audio_languages": [
         "en",
@@ -40894,6 +45014,8 @@ window.PLEX_DATA = {
         "Tao Okamoto"
       ],
       "imdb_id": "tt1430132",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 29451910569,
       "audio_languages": [
         "en",
@@ -40914,6 +45036,8 @@ window.PLEX_DATA = {
         "David Ajala"
       ],
       "imdb_id": "tt7130300",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 1964153991,
       "audio_languages": [
         "en",
@@ -40934,6 +45058,8 @@ window.PLEX_DATA = {
         "Robert Carlyle"
       ],
       "imdb_id": "tt0143145",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 7442813085,
       "audio_languages": [
         "en",
@@ -40954,6 +45080,8 @@ window.PLEX_DATA = {
         "Herbert Nordrum"
       ],
       "imdb_id": "tt10370710",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 9660389564,
       "audio_languages": [
         "hu",
@@ -40974,6 +45102,8 @@ window.PLEX_DATA = {
         "Temuera Morrison"
       ],
       "imdb_id": "tt33046197",
+      "imdb_score": 6.4,
+      "resolution": 1080,
       "size_bytes": 9859445865,
       "audio_languages": [
         "en",
@@ -40994,6 +45124,8 @@ window.PLEX_DATA = {
         "Mitch Pileggi"
       ],
       "imdb_id": "tt0120902",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7044958148,
       "audio_languages": [
         "en",
@@ -41014,6 +45146,8 @@ window.PLEX_DATA = {
         "Amanda Peet"
       ],
       "imdb_id": "tt0443701",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 7319385655,
       "audio_languages": [
         "en",
@@ -41034,6 +45168,8 @@ window.PLEX_DATA = {
         "Harvey Keitel"
       ],
       "imdb_id": "tt0103074",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 4693185689,
       "audio_languages": [
         "hu"
@@ -41052,6 +45188,8 @@ window.PLEX_DATA = {
         "Kevin J. O'Connor"
       ],
       "imdb_id": "tt0469494",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 11910454469,
       "audio_languages": [
         "en",
@@ -41072,6 +45210,8 @@ window.PLEX_DATA = {
         "Ben Stiller"
       ],
       "imdb_id": "tt0129387",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8244454346,
       "audio_languages": [
         "en",
@@ -41092,6 +45232,8 @@ window.PLEX_DATA = {
         "Ross Hill"
       ],
       "imdb_id": "tt0095975",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 1409868003,
       "audio_languages": [],
       "has_subtitles": true
@@ -41109,6 +45251,8 @@ window.PLEX_DATA = {
         "Steffen Zacharias"
       ],
       "imdb_id": "tt0067355",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 9433050473,
       "audio_languages": [
         "hu"
@@ -41128,6 +45272,8 @@ window.PLEX_DATA = {
         "Ottaviano Dell'Acqua"
       ],
       "imdb_id": "tt0077864",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5718255315,
       "audio_languages": [
         "it"
@@ -41146,6 +45292,8 @@ window.PLEX_DATA = {
         "Kelli Smith"
       ],
       "imdb_id": "tt1754738",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8011852300,
       "audio_languages": [
         "en",
@@ -41166,6 +45314,8 @@ window.PLEX_DATA = {
         "Michael Jai White"
       ],
       "imdb_id": "tt0147599",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 7245957245,
       "audio_languages": [
         "en",
@@ -41185,6 +45335,8 @@ window.PLEX_DATA = {
         "David Duchovny"
       ],
       "imdb_id": "tt0469623",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 7439211055,
       "audio_languages": [
         "en",
@@ -41205,6 +45357,8 @@ window.PLEX_DATA = {
         "Meagan Good"
       ],
       "imdb_id": "tt1621045",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4397207007,
       "audio_languages": [
         "en",
@@ -41225,6 +45379,8 @@ window.PLEX_DATA = {
         "Jerry Ferrara"
       ],
       "imdb_id": "tt2239832",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4710147748,
       "audio_languages": [
         "en",
@@ -41245,6 +45401,8 @@ window.PLEX_DATA = {
         "Steven Culp"
       ],
       "imdb_id": "tt0146309",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 14092956193,
       "audio_languages": [
         "en",
@@ -41265,6 +45423,8 @@ window.PLEX_DATA = {
         "John Lithgow"
       ],
       "imdb_id": "tt1758830",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7983484566,
       "audio_languages": [
         "en",
@@ -41285,6 +45445,8 @@ window.PLEX_DATA = {
         "Seth Rogen"
       ],
       "imdb_id": "tt1245492",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6042555836,
       "audio_languages": [
         "en",
@@ -41305,6 +45467,8 @@ window.PLEX_DATA = {
         "Tom Hiddleston"
       ],
       "imdb_id": "tt0800369",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 28078485724,
       "audio_languages": [
         "en",
@@ -41325,6 +45489,8 @@ window.PLEX_DATA = {
         "Christian Bale"
       ],
       "imdb_id": "tt10648342",
+      "imdb_score": 6.1,
+      "resolution": 2160,
       "size_bytes": 26592059797,
       "audio_languages": [
         "en",
@@ -41345,6 +45511,8 @@ window.PLEX_DATA = {
         "Tom Hiddleston"
       ],
       "imdb_id": "tt3501632",
+      "imdb_score": 7.9,
+      "resolution": 2160,
       "size_bytes": 22404996169,
       "audio_languages": [
         "en",
@@ -41365,6 +45533,8 @@ window.PLEX_DATA = {
         "Tom Hiddleston"
       ],
       "imdb_id": "tt1981115",
+      "imdb_score": 6.7,
+      "resolution": 2160,
       "size_bytes": 25517071228,
       "audio_languages": [
         "en",
@@ -41385,6 +45555,8 @@ window.PLEX_DATA = {
         "David Brierly"
       ],
       "imdb_id": "tt0090163",
+      "imdb_score": 7.9,
+      "resolution": 480,
       "size_bytes": 1389226266,
       "audio_languages": [
         "en"
@@ -41403,6 +45575,8 @@ window.PLEX_DATA = {
         "Benji Groenewegen"
       ],
       "imdb_id": "tt0138280",
+      "imdb_score": null,
+      "resolution": null,
       "size_bytes": 1149461680,
       "audio_languages": [
         "hu"
@@ -41422,6 +45596,8 @@ window.PLEX_DATA = {
         "Ice Cube"
       ],
       "imdb_id": "tt0120188",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 10469837085,
       "audio_languages": [
         "en",
@@ -41442,6 +45618,8 @@ window.PLEX_DATA = {
         "Kim Greist"
       ],
       "imdb_id": "tt0094142",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5219293628,
       "audio_languages": [
         "en",
@@ -41462,6 +45640,8 @@ window.PLEX_DATA = {
         "Adolfo Celi"
       ],
       "imdb_id": "tt0059800",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 7021801183,
       "audio_languages": [
         "hu"
@@ -41481,6 +45661,8 @@ window.PLEX_DATA = {
         "Julia Louis-Dreyfus"
       ],
       "imdb_id": "tt20969586",
+      "imdb_score": 7.1,
+      "resolution": 2160,
       "size_bytes": 24012448777,
       "audio_languages": [
         "en",
@@ -41501,6 +45683,8 @@ window.PLEX_DATA = {
         "Kaitlyn Dever"
       ],
       "imdb_id": "tt14109724",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7636672939,
       "audio_languages": [
         "en",
@@ -41521,6 +45705,8 @@ window.PLEX_DATA = {
         "Kenny Baker"
       ],
       "imdb_id": "tt0081633",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4863093729,
       "audio_languages": [
         "en",
@@ -41541,6 +45727,8 @@ window.PLEX_DATA = {
         "Don Johnson"
       ],
       "imdb_id": "tt0117918",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8087878758,
       "audio_languages": [
         "en",
@@ -41561,6 +45749,8 @@ window.PLEX_DATA = {
         "Barbara Hershey"
       ],
       "imdb_id": "tt0094155",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 3881648945,
       "audio_languages": [
         "en",
@@ -41581,6 +45771,8 @@ window.PLEX_DATA = {
         "Billy Zane"
       ],
       "imdb_id": "tt0120338",
+      "imdb_score": 8.0,
+      "resolution": 1080,
       "size_bytes": 52175040244,
       "audio_languages": [
         "en",
@@ -41601,6 +45793,8 @@ window.PLEX_DATA = {
         "Penélope Cruz"
       ],
       "imdb_id": "tt1859650",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 8914892779,
       "audio_languages": [
         "en",
@@ -41621,6 +45815,8 @@ window.PLEX_DATA = {
         "Walton Goggins"
       ],
       "imdb_id": "tt1365519",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 24792859754,
       "audio_languages": [
         "en",
@@ -41641,6 +45837,8 @@ window.PLEX_DATA = {
         "Michelle Yeoh"
       ],
       "imdb_id": "tt0120347",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 8677429150,
       "audio_languages": [
         "en",
@@ -41661,6 +45859,8 @@ window.PLEX_DATA = {
         "Val Kilmer"
       ],
       "imdb_id": "tt0092099",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 25042946077,
       "audio_languages": [
         "en",
@@ -41681,6 +45881,8 @@ window.PLEX_DATA = {
         "Miles Teller"
       ],
       "imdb_id": "tt1745960",
+      "imdb_score": 8.2,
+      "resolution": 2160,
       "size_bytes": 33813692095,
       "audio_languages": [
         "en",
@@ -41701,6 +45903,8 @@ window.PLEX_DATA = {
         "Sharon Stone"
       ],
       "imdb_id": "tt0100802",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 5536677283,
       "audio_languages": [
         "en",
@@ -41721,6 +45925,8 @@ window.PLEX_DATA = {
         "Kate Beckinsale"
       ],
       "imdb_id": "tt1386703",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6271301035,
       "audio_languages": [
         "en",
@@ -41741,6 +45947,8 @@ window.PLEX_DATA = {
         "Casey Affleck"
       ],
       "imdb_id": "tt0471042",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 6993728668,
       "audio_languages": [
         "en",
@@ -41761,6 +45969,8 @@ window.PLEX_DATA = {
         "Don Rickles"
       ],
       "imdb_id": "tt0114709",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 4087341634,
       "audio_languages": [
         "en",
@@ -41781,6 +45991,8 @@ window.PLEX_DATA = {
         "Joan Cusack"
       ],
       "imdb_id": "tt0120363",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 4698237038,
       "audio_languages": [],
       "has_subtitles": true
@@ -41798,6 +46010,8 @@ window.PLEX_DATA = {
         "Joan Cusack"
       ],
       "imdb_id": "tt0435761",
+      "imdb_score": 8.3,
+      "resolution": 720,
       "size_bytes": 4419077564,
       "audio_languages": [
         "en",
@@ -41818,6 +46032,8 @@ window.PLEX_DATA = {
         "Annie Potts"
       ],
       "imdb_id": "tt1979376",
+      "imdb_score": 7.6,
+      "resolution": 720,
       "size_bytes": 5083010106,
       "audio_languages": [
         "en",
@@ -41837,6 +46053,8 @@ window.PLEX_DATA = {
         "Ralph Bellamy"
       ],
       "imdb_id": "tt0086465",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6466937625,
       "audio_languages": [
         "en",
@@ -41857,6 +46075,8 @@ window.PLEX_DATA = {
         "Jonny Lee Miller"
       ],
       "imdb_id": "tt0117951",
+      "imdb_score": 8.1,
+      "resolution": 720,
       "size_bytes": 7341292571,
       "audio_languages": [
         "en",
@@ -41877,6 +46097,8 @@ window.PLEX_DATA = {
         "Rosario Dawson"
       ],
       "imdb_id": "tt1924429",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 5399735866,
       "audio_languages": [
         "en",
@@ -41897,6 +46119,8 @@ window.PLEX_DATA = {
         "Paul Bettany"
       ],
       "imdb_id": "tt2209764",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8753552297,
       "audio_languages": [
         "en",
@@ -41917,6 +46141,8 @@ window.PLEX_DATA = {
         "Mark Ryan"
       ],
       "imdb_id": "tt0418279",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 22572996624,
       "audio_languages": [
         "en",
@@ -41937,6 +46163,8 @@ window.PLEX_DATA = {
         "Stanley Tucci"
       ],
       "imdb_id": "tt2109248",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 23272958500,
       "audio_languages": [
         "en",
@@ -41957,6 +46185,8 @@ window.PLEX_DATA = {
         "Peter Cullen"
       ],
       "imdb_id": "tt1399103",
+      "imdb_score": 6.2,
+      "resolution": 1080,
       "size_bytes": 29487219561,
       "audio_languages": [
         "en",
@@ -41977,6 +46207,8 @@ window.PLEX_DATA = {
         "Peter Cullen"
       ],
       "imdb_id": "tt1055369",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 21568033649,
       "audio_languages": [
         "en",
@@ -41997,6 +46229,8 @@ window.PLEX_DATA = {
         "Peter Cullen"
       ],
       "imdb_id": "tt3371366",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 37711847027,
       "audio_languages": [
         "en",
@@ -42017,6 +46251,8 @@ window.PLEX_DATA = {
         "Alessandro Gassmann"
       ],
       "imdb_id": "tt0388482",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4674266355,
       "audio_languages": [
         "en",
@@ -42037,6 +46273,8 @@ window.PLEX_DATA = {
         "François Berléand"
       ],
       "imdb_id": "tt1129442",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7291013856,
       "audio_languages": [
         "en",
@@ -42057,6 +46295,8 @@ window.PLEX_DATA = {
         "Stuart Townsend"
       ],
       "imdb_id": "tt0280380",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7543511796,
       "audio_languages": [
         "en",
@@ -42077,6 +46317,8 @@ window.PLEX_DATA = {
         "Götz George"
       ],
       "imdb_id": "tt0056452",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 3579768689,
       "audio_languages": [
         "hu"
@@ -42096,6 +46338,8 @@ window.PLEX_DATA = {
         "Finn Carter"
       ],
       "imdb_id": "tt0100814",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 5013219644,
       "audio_languages": [
         "en",
@@ -42116,6 +46360,8 @@ window.PLEX_DATA = {
         "Susan Chuang"
       ],
       "imdb_id": "tt0259685",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 13070128817,
       "audio_languages": [
         "en",
@@ -42136,6 +46382,8 @@ window.PLEX_DATA = {
         "Billy Drago"
       ],
       "imdb_id": "tt0334541",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 12815673004,
       "audio_languages": [
         "en",
@@ -42156,6 +46404,8 @@ window.PLEX_DATA = {
         "Pearl Thusi"
       ],
       "imdb_id": "tt4180514",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 5896454757,
       "audio_languages": [
         "en",
@@ -42176,6 +46426,8 @@ window.PLEX_DATA = {
         "Chris Gartin"
       ],
       "imdb_id": "tt0114720",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 5985196426,
       "audio_languages": [
         "en",
@@ -42196,6 +46448,8 @@ window.PLEX_DATA = {
         "Tanya van Graan"
       ],
       "imdb_id": "tt6086082",
+      "imdb_score": 5.0,
+      "resolution": 720,
       "size_bytes": 5781029466,
       "audio_languages": [
         "en",
@@ -42216,6 +46470,8 @@ window.PLEX_DATA = {
         "Caroline Langrishe"
       ],
       "imdb_id": "tt8322060",
+      "imdb_score": 5.4,
+      "resolution": null,
       "size_bytes": 1537244157,
       "audio_languages": [
         "en"
@@ -42235,6 +46491,8 @@ window.PLEX_DATA = {
         "Yanti Somer"
       ],
       "imdb_id": "tt0068154",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 4695941947,
       "audio_languages": [
         "hu",
@@ -42255,6 +46513,8 @@ window.PLEX_DATA = {
         "Anthony Mackie"
       ],
       "imdb_id": "tt1712261",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 10513808183,
       "audio_languages": [
         "en",
@@ -42275,6 +46535,8 @@ window.PLEX_DATA = {
         "David Warner"
       ],
       "imdb_id": "tt0084827",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4693538884,
       "audio_languages": [
         "en",
@@ -42295,6 +46557,8 @@ window.PLEX_DATA = {
         "Evan Peters"
       ],
       "imdb_id": "tt6604188",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8565850061,
       "audio_languages": [
         "en",
@@ -42315,6 +46579,8 @@ window.PLEX_DATA = {
         "Jeff Bridges"
       ],
       "imdb_id": "tt1104001",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8717185631,
       "audio_languages": [
         "en",
@@ -42335,6 +46601,8 @@ window.PLEX_DATA = {
         "Jack Black"
       ],
       "imdb_id": "tt0942385",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8300110400,
       "audio_languages": [
         "en",
@@ -42355,6 +46623,8 @@ window.PLEX_DATA = {
         "Darren Epton"
       ],
       "imdb_id": "tt0105645",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 3705566249,
       "audio_languages": [
         "en",
@@ -42375,6 +46645,8 @@ window.PLEX_DATA = {
         "Boots Southerland"
       ],
       "imdb_id": "tt0109321",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6157730772,
       "audio_languages": [
         "de",
@@ -42396,6 +46668,8 @@ window.PLEX_DATA = {
         "Eric Bana"
       ],
       "imdb_id": "tt0332452",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 8953915138,
       "audio_languages": [
         "en",
@@ -42416,6 +46690,8 @@ window.PLEX_DATA = {
         "Tom Arnold"
       ],
       "imdb_id": "tt0111503",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9897386694,
       "audio_languages": [
         "en",
@@ -42436,6 +46712,8 @@ window.PLEX_DATA = {
         "Dennis Hopper"
       ],
       "imdb_id": "tt0108399",
+      "imdb_score": 7.9,
+      "resolution": 720,
       "size_bytes": 9180890030,
       "audio_languages": [
         "en",
@@ -42456,6 +46734,8 @@ window.PLEX_DATA = {
         "Mädchen Amick"
       ],
       "imdb_id": "tt0105665",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6224340176,
       "audio_languages": [
         "en",
@@ -42476,6 +46756,8 @@ window.PLEX_DATA = {
         "Kelly Preston"
       ],
       "imdb_id": "tt0096320",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 10223635651,
       "audio_languages": [
         "en",
@@ -42496,6 +46778,8 @@ window.PLEX_DATA = {
         "Andy Garcia"
       ],
       "imdb_id": "tt0315297",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 3580395717,
       "audio_languages": [
         "en",
@@ -42516,6 +46800,8 @@ window.PLEX_DATA = {
         "Jami Gertz"
       ],
       "imdb_id": "tt0117998",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 6106647762,
       "audio_languages": [
         "en",
@@ -42536,6 +46822,8 @@ window.PLEX_DATA = {
         "Anthony Ramos"
       ],
       "imdb_id": "tt12584954",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 3648112234,
       "audio_languages": [
         "en",
@@ -42556,6 +46844,8 @@ window.PLEX_DATA = {
         "Yaphet Kotto"
       ],
       "imdb_id": "tt0118002",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 9655141410,
       "audio_languages": [
         "en",
@@ -42576,6 +46866,8 @@ window.PLEX_DATA = {
         "Dana Ivey"
       ],
       "imdb_id": "tt0313737",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8019743728,
       "audio_languages": [
         "en",
@@ -42596,6 +46888,8 @@ window.PLEX_DATA = {
         "Robert Downey Jr."
       ],
       "imdb_id": "tt0120873",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 12247936497,
       "audio_languages": [
         "en",
@@ -42616,6 +46910,8 @@ window.PLEX_DATA = {
         "Robin Wright"
       ],
       "imdb_id": "tt0217869",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 4692238718,
       "audio_languages": [
         "en",
@@ -42636,6 +46932,8 @@ window.PLEX_DATA = {
         "Sophia Ali"
       ],
       "imdb_id": "tt1464335",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 7900597891,
       "audio_languages": [
         "en",
@@ -42656,6 +46954,8 @@ window.PLEX_DATA = {
         "Gaby Hoffmann"
       ],
       "imdb_id": "tt0098554",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 9776462232,
       "audio_languages": [
         "en",
@@ -42676,6 +46976,8 @@ window.PLEX_DATA = {
         "Gary Busey"
       ],
       "imdb_id": "tt0105690",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 10011415194,
       "audio_languages": [
         "en",
@@ -42696,6 +46998,8 @@ window.PLEX_DATA = {
         "Katherine Heigl"
       ],
       "imdb_id": "tt0114781",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 9341168067,
       "audio_languages": [
         "en",
@@ -42716,6 +47020,8 @@ window.PLEX_DATA = {
         "Thomas Jane"
       ],
       "imdb_id": "tt0164212",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 3956811861,
       "audio_languages": [
         "en",
@@ -42736,6 +47042,8 @@ window.PLEX_DATA = {
         "Vincent Riotta"
       ],
       "imdb_id": "tt0328589",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 4273469494,
       "audio_languages": [
         "en",
@@ -42756,6 +47064,8 @@ window.PLEX_DATA = {
         "Mamoudou Athie"
       ],
       "imdb_id": "tt5774060",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 10903854037,
       "audio_languages": [
         "en",
@@ -42776,6 +47086,8 @@ window.PLEX_DATA = {
         "Michael Sheen"
       ],
       "imdb_id": "tt0320691",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 27205302081,
       "audio_languages": [
         "en",
@@ -42796,6 +47108,8 @@ window.PLEX_DATA = {
         "Michael Ealy"
       ],
       "imdb_id": "tt1496025",
+      "imdb_score": 6.3,
+      "resolution": 1080,
       "size_bytes": 18296099352,
       "audio_languages": [
         "en",
@@ -42816,6 +47130,8 @@ window.PLEX_DATA = {
         "Tobias Menzies"
       ],
       "imdb_id": "tt3717252",
+      "imdb_score": 5.8,
+      "resolution": 1080,
       "size_bytes": 19185057063,
       "audio_languages": [
         "en",
@@ -42836,6 +47152,8 @@ window.PLEX_DATA = {
         "Tony Curran"
       ],
       "imdb_id": "tt0401855",
+      "imdb_score": 6.7,
+      "resolution": 1080,
       "size_bytes": 15745276137,
       "audio_languages": [
         "en",
@@ -42856,6 +47174,8 @@ window.PLEX_DATA = {
         "Michael Sheen"
       ],
       "imdb_id": "tt0834001",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 19462801467,
       "audio_languages": [
         "en",
@@ -42876,6 +47196,8 @@ window.PLEX_DATA = {
         "Olivier Martinez"
       ],
       "imdb_id": "tt0250797",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 9544253896,
       "audio_languages": [
         "en",
@@ -42896,6 +47218,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0105695",
+      "imdb_score": 8.2,
+      "resolution": 720,
       "size_bytes": 5943219178,
       "audio_languages": [
         "en",
@@ -42916,6 +47240,8 @@ window.PLEX_DATA = {
         "January Jones"
       ],
       "imdb_id": "tt1401152",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 8981899106,
       "audio_languages": [
         "en",
@@ -42936,6 +47262,8 @@ window.PLEX_DATA = {
         "Rosario Dawson"
       ],
       "imdb_id": "tt0477080",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 11736943565,
       "audio_languages": [
         "en",
@@ -42956,6 +47284,8 @@ window.PLEX_DATA = {
         "Michael Sheen"
       ],
       "imdb_id": "tt0914863",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7041890028,
       "audio_languages": [
         "en",
@@ -42976,6 +47306,8 @@ window.PLEX_DATA = {
         "Harrison Gilbertson"
       ],
       "imdb_id": "tt6499752",
+      "imdb_score": 7.5,
+      "resolution": 720,
       "size_bytes": 6018581457,
       "audio_languages": [
         "en",
@@ -42996,6 +47328,8 @@ window.PLEX_DATA = {
         "Matt Lanter"
       ],
       "imdb_id": "tt2032572",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 8440741472,
       "audio_languages": [
         "en",
@@ -43016,6 +47350,8 @@ window.PLEX_DATA = {
         "Stephen Rea"
       ],
       "imdb_id": "tt0434409",
+      "imdb_score": 8.1,
+      "resolution": 1080,
       "size_bytes": 16374062913,
       "audio_languages": [
         "en",
@@ -43036,6 +47372,8 @@ window.PLEX_DATA = {
         "Frank Whaley"
       ],
       "imdb_id": "tt0452702",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 4049431066,
       "audio_languages": [
         "en",
@@ -43056,6 +47394,8 @@ window.PLEX_DATA = {
         "Gwendoline Yeo"
       ],
       "imdb_id": "tt1204979",
+      "imdb_score": 4.9,
+      "resolution": 1080,
       "size_bytes": 7039331770,
       "audio_languages": [
         "en",
@@ -43076,6 +47416,8 @@ window.PLEX_DATA = {
         "Jennifer Garner"
       ],
       "imdb_id": "tt0817230",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 7327025219,
       "audio_languages": [
         "en",
@@ -43096,6 +47438,8 @@ window.PLEX_DATA = {
         "Clive Owen"
       ],
       "imdb_id": "tt2239822",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 8821726375,
       "audio_languages": [
         "en",
@@ -43116,6 +47460,8 @@ window.PLEX_DATA = {
         "Jamie Sives"
       ],
       "imdb_id": "tt0862467",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 4670478149,
       "audio_languages": [
         "en",
@@ -43136,6 +47482,8 @@ window.PLEX_DATA = {
         "Bill Nighy"
       ],
       "imdb_id": "tt0985699",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8368328677,
       "audio_languages": [
         "en",
@@ -43156,6 +47504,8 @@ window.PLEX_DATA = {
         "Richard Roxburgh"
       ],
       "imdb_id": "tt0338526",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 9892237871,
       "audio_languages": [
         "en",
@@ -43176,6 +47526,8 @@ window.PLEX_DATA = {
         "Cameron Diaz"
       ],
       "imdb_id": "tt0259711",
+      "imdb_score": 6.9,
+      "resolution": 1080,
       "size_bytes": 35351786685,
       "audio_languages": [
         "de",
@@ -43197,6 +47549,8 @@ window.PLEX_DATA = {
         "Riz Ahmed"
       ],
       "imdb_id": "tt1270797",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 27785313798,
       "audio_languages": [
         "en",
@@ -43217,6 +47571,8 @@ window.PLEX_DATA = {
         "Michelle Williams"
       ],
       "imdb_id": "tt7097896",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 22283429631,
       "audio_languages": [
         "en",
@@ -43237,6 +47593,8 @@ window.PLEX_DATA = {
         "Juno Temple"
       ],
       "imdb_id": "tt16366836",
+      "imdb_score": 6.0,
+      "resolution": 1080,
       "size_bytes": 11606946369,
       "audio_languages": [
         "en",
@@ -43257,6 +47615,8 @@ window.PLEX_DATA = {
         "Enrico Colantoni"
       ],
       "imdb_id": "tt2771372",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7376396915,
       "audio_languages": [
         "en",
@@ -43277,6 +47637,8 @@ window.PLEX_DATA = {
         "Jon Favreau"
       ],
       "imdb_id": "tt0124198",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6185623998,
       "audio_languages": [
         "en",
@@ -43297,6 +47659,8 @@ window.PLEX_DATA = {
         "Senan Jennings"
       ],
       "imdb_id": "tt8368406",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 6477625411,
       "audio_languages": [
         "en",
@@ -43317,6 +47681,8 @@ window.PLEX_DATA = {
         "Gaby Hoffmann"
       ],
       "imdb_id": "tt0120461",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6750278115,
       "audio_languages": [
         "en",
@@ -43337,6 +47703,8 @@ window.PLEX_DATA = {
         "Justin Long"
       ],
       "imdb_id": "tt0348333",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 4696775085,
       "audio_languages": [
         "en",
@@ -43356,6 +47724,8 @@ window.PLEX_DATA = {
         "Gillian Jacobs"
       ],
       "imdb_id": "tt2463288",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 6066600285,
       "audio_languages": [
         "en",
@@ -43376,6 +47746,8 @@ window.PLEX_DATA = {
         "Martin Sheen"
       ],
       "imdb_id": "tt0094291",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 10690620226,
       "audio_languages": [
         "en",
@@ -43396,6 +47768,8 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt1027718",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 8537548788,
       "audio_languages": [
         "en",
@@ -43416,6 +47790,8 @@ window.PLEX_DATA = {
         "Morgan Freeman"
       ],
       "imdb_id": "tt0493464",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 7342447505,
       "audio_languages": [
         "en",
@@ -43436,6 +47812,8 @@ window.PLEX_DATA = {
         "John Lone"
       ],
       "imdb_id": "tt0499556",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 7367106234,
       "audio_languages": [
         "en",
@@ -43456,6 +47834,8 @@ window.PLEX_DATA = {
         "Stephan James"
       ],
       "imdb_id": "tt15940132",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 2995147181,
       "audio_languages": [
         "en",
@@ -43476,6 +47856,8 @@ window.PLEX_DATA = {
         "Justin Chatwin"
       ],
       "imdb_id": "tt0407304",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 22706179239,
       "audio_languages": [
         "en",
@@ -43496,6 +47878,8 @@ window.PLEX_DATA = {
         "Clark Gregg"
       ],
       "imdb_id": "tt13186306",
+      "imdb_score": 2.5,
+      "resolution": 2160,
       "size_bytes": 13465106129,
       "audio_languages": [
         "en"
@@ -43515,6 +47899,8 @@ window.PLEX_DATA = {
         "Ben Foster"
       ],
       "imdb_id": "tt0803096",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 6831983238,
       "audio_languages": [
         "en",
@@ -43535,6 +47921,8 @@ window.PLEX_DATA = {
         "Cosmo Jarvis"
       ],
       "imdb_id": "tt31434639",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 4108659308,
       "audio_languages": [
         "en",
@@ -43555,6 +47943,8 @@ window.PLEX_DATA = {
         "John Sharp"
       ],
       "imdb_id": "tt0069697",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6829938022,
       "audio_languages": [
         "en",
@@ -43576,6 +47966,8 @@ window.PLEX_DATA = {
         "Billy Crudup"
       ],
       "imdb_id": "tt0409459",
+      "imdb_score": 7.6,
+      "resolution": 1080,
       "size_bytes": 17922714498,
       "audio_languages": [
         "en",
@@ -43596,6 +47988,8 @@ window.PLEX_DATA = {
         "Peter Krause"
       ],
       "imdb_id": "tt0361309",
+      "imdb_score": 6.2,
+      "resolution": 720,
       "size_bytes": 3377223642,
       "audio_languages": [
         "en",
@@ -43616,6 +48010,8 @@ window.PLEX_DATA = {
         "Emma Roberts"
       ],
       "imdb_id": "tt1723121",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 6926345675,
       "audio_languages": [
         "en",
@@ -43636,6 +48032,8 @@ window.PLEX_DATA = {
         "Christopher Walken"
       ],
       "imdb_id": "tt0396269",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7385302321,
       "audio_languages": [
         "en",
@@ -43656,6 +48054,8 @@ window.PLEX_DATA = {
         "Michael Weston"
       ],
       "imdb_id": "tt0484877",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 4103640056,
       "audio_languages": [
         "hu"
@@ -43675,6 +48075,8 @@ window.PLEX_DATA = {
         "Harriet Sansom Harris"
       ],
       "imdb_id": "tt15318872",
+      "imdb_score": 7.1,
+      "resolution": 1080,
       "size_bytes": 2920216802,
       "audio_languages": [
         "en",
@@ -43695,6 +48097,8 @@ window.PLEX_DATA = {
         "Kelly Preston"
       ],
       "imdb_id": "tt0286788",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 2856415053,
       "audio_languages": [
         "hu"
@@ -43714,6 +48118,8 @@ window.PLEX_DATA = {
         "Annabella Sciorra"
       ],
       "imdb_id": "tt0120889",
+      "imdb_score": 7.0,
+      "resolution": 720,
       "size_bytes": 7879383624,
       "audio_languages": [
         "en",
@@ -43734,6 +48140,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt1536537",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 6827505125,
       "audio_languages": [
         "en",
@@ -43754,6 +48162,8 @@ window.PLEX_DATA = {
         "Rob Corddry"
       ],
       "imdb_id": "tt1033643",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 7000134637,
       "audio_languages": [
         "en",
@@ -43774,6 +48184,8 @@ window.PLEX_DATA = {
         "Diana Scarwid"
       ],
       "imdb_id": "tt0161081",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7414481688,
       "audio_languages": [
         "en",
@@ -43794,6 +48206,8 @@ window.PLEX_DATA = {
         "Josh Brener"
       ],
       "imdb_id": "tt7634968",
+      "imdb_score": 5.4,
+      "resolution": 720,
       "size_bytes": 6413022199,
       "audio_languages": [
         "en",
@@ -43814,6 +48228,8 @@ window.PLEX_DATA = {
         "Anna Kendrick"
       ],
       "imdb_id": "tt1586265",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 4083848992,
       "audio_languages": [
         "en",
@@ -43834,6 +48250,8 @@ window.PLEX_DATA = {
         "Marisa Tomei"
       ],
       "imdb_id": "tt0207201",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7543662655,
       "audio_languages": [
         "en",
@@ -43854,6 +48272,8 @@ window.PLEX_DATA = {
         "Shabana Azmi"
       ],
       "imdb_id": "tt13430858",
+      "imdb_score": 6.3,
+      "resolution": 576,
       "size_bytes": 3398220778,
       "audio_languages": [
         "en",
@@ -43874,6 +48294,8 @@ window.PLEX_DATA = {
         "John Leguizamo"
       ],
       "imdb_id": "tt0161083",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4827710390,
       "audio_languages": [
         "en",
@@ -43894,6 +48316,8 @@ window.PLEX_DATA = {
         "Ari Graynor"
       ],
       "imdb_id": "tt0770703",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 5940436159,
       "audio_languages": [
         "en",
@@ -43914,6 +48338,8 @@ window.PLEX_DATA = {
         "Anjelica Huston"
       ],
       "imdb_id": "tt1185416",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 4950950298,
       "audio_languages": [
         "en",
@@ -43934,6 +48360,8 @@ window.PLEX_DATA = {
         "Adam Driver"
       ],
       "imdb_id": "tt1791682",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 5694424535,
       "audio_languages": [
         "en",
@@ -43954,6 +48382,8 @@ window.PLEX_DATA = {
         "Peter Gallagher"
       ],
       "imdb_id": "tt0114924",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 12604381164,
       "audio_languages": [
         "en",
@@ -43974,6 +48404,8 @@ window.PLEX_DATA = {
         "Maggie Gyllenhaal"
       ],
       "imdb_id": "tt2334879",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6293920544,
       "audio_languages": [
         "en",
@@ -43993,6 +48425,8 @@ window.PLEX_DATA = {
         "Renée Zellweger"
       ],
       "imdb_id": "tt0283139",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 3966633315,
       "audio_languages": [
         "en",
@@ -44013,6 +48447,8 @@ window.PLEX_DATA = {
         "Tom Skerritt"
       ],
       "imdb_id": "tt0365929",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 6034407746,
       "audio_languages": [
         "en",
@@ -44033,6 +48469,8 @@ window.PLEX_DATA = {
         "John Fujioka"
       ],
       "imdb_id": "tt0085327",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 8334183103,
       "audio_languages": [
         "en",
@@ -44053,6 +48491,8 @@ window.PLEX_DATA = {
         "Ferruccio Amendola"
       ],
       "imdb_id": "tt0080530",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 1408938289,
       "audio_languages": [
         "es"
@@ -44072,6 +48512,8 @@ window.PLEX_DATA = {
         "Michelle Yeoh"
       ],
       "imdb_id": "tt1262426",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 9643113293,
       "audio_languages": [
         "en",
@@ -44092,6 +48534,8 @@ window.PLEX_DATA = {
         "Jeff Goldblum"
       ],
       "imdb_id": "tt19847976",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 8783965835,
       "audio_languages": [
         "en",
@@ -44112,6 +48556,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt0100935",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 8718639045,
       "audio_languages": [
         "en",
@@ -44132,6 +48578,8 @@ window.PLEX_DATA = {
         "Dominik Garcia"
       ],
       "imdb_id": "tt2231253",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 6113289599,
       "audio_languages": [
         "en",
@@ -44152,6 +48600,8 @@ window.PLEX_DATA = {
         "Neve Campbell"
       ],
       "imdb_id": "tt0120890",
+      "imdb_score": 6.6,
+      "resolution": 720,
       "size_bytes": 7164081973,
       "audio_languages": [
         "en",
@@ -44172,6 +48622,8 @@ window.PLEX_DATA = {
         "Isaiah Washington"
       ],
       "imdb_id": "tt0365270",
+      "imdb_score": 4.5,
+      "resolution": 1080,
       "size_bytes": 7799833286,
       "audio_languages": [
         "en",
@@ -44192,6 +48644,8 @@ window.PLEX_DATA = {
         "Brad Johnson"
       ],
       "imdb_id": "tt0448179",
+      "imdb_score": 4.5,
+      "resolution": 1080,
       "size_bytes": 6847753444,
       "audio_languages": [],
       "has_subtitles": true
@@ -44209,6 +48663,8 @@ window.PLEX_DATA = {
         "Ashley Parker Angel"
       ],
       "imdb_id": "tt1523372",
+      "imdb_score": 4.4,
+      "resolution": 1080,
       "size_bytes": 7212021789,
       "audio_languages": [
         "en"
@@ -44228,6 +48684,8 @@ window.PLEX_DATA = {
         "Joanne Whalley"
       ],
       "imdb_id": "tt0096446",
+      "imdb_score": 7.2,
+      "resolution": 720,
       "size_bytes": 10136023492,
       "audio_languages": [
         "en",
@@ -44248,6 +48706,8 @@ window.PLEX_DATA = {
         "Gil Birmingham"
       ],
       "imdb_id": "tt5362988",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 8815569053,
       "audio_languages": [
         "en",
@@ -44268,6 +48728,8 @@ window.PLEX_DATA = {
         "Guy Pearce"
       ],
       "imdb_id": "tt0948547",
+      "imdb_score": 5.6,
+      "resolution": 720,
       "size_bytes": 4600755059,
       "audio_languages": [
         "en",
@@ -44288,6 +48750,8 @@ window.PLEX_DATA = {
         "Iazua Larios"
       ],
       "imdb_id": "tt4893452",
+      "imdb_score": 5.9,
+      "resolution": 720,
       "size_bytes": 2295060200,
       "audio_languages": [
         "hu"
@@ -44307,6 +48771,8 @@ window.PLEX_DATA = {
         "Iazua Larios"
       ],
       "imdb_id": "tt6361854",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 2403090178,
       "audio_languages": [
         "hu"
@@ -44326,6 +48792,8 @@ window.PLEX_DATA = {
         "Iazua Larios"
       ],
       "imdb_id": "tt6361832",
+      "imdb_score": 5.3,
+      "resolution": 720,
       "size_bytes": 1844175337,
       "audio_languages": [
         "hu"
@@ -44345,6 +48813,8 @@ window.PLEX_DATA = {
         "Götz George"
       ],
       "imdb_id": "tt0061197",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 12565919648,
       "audio_languages": [
         "de",
@@ -44366,6 +48836,8 @@ window.PLEX_DATA = {
         "Harvey Keitel"
       ],
       "imdb_id": "tt0092226",
+      "imdb_score": 5.6,
+      "resolution": 1080,
       "size_bytes": 3857368763,
       "audio_languages": [
         "en",
@@ -44383,6 +48855,8 @@ window.PLEX_DATA = {
         "Suzanne Mackay"
       ],
       "imdb_id": "tt5628126",
+      "imdb_score": 2.5,
+      "resolution": 720,
       "size_bytes": 5214907854,
       "audio_languages": [
         "en",
@@ -44403,6 +48877,8 @@ window.PLEX_DATA = {
         "Guy Pearce"
       ],
       "imdb_id": "tt0499097",
+      "imdb_score": 5.8,
+      "resolution": 720,
       "size_bytes": 7609905510,
       "audio_languages": [
         "en",
@@ -44423,6 +48899,8 @@ window.PLEX_DATA = {
         "Josef Sommer"
       ],
       "imdb_id": "tt0090329",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 7936858415,
       "audio_languages": [
         "en",
@@ -44442,6 +48920,8 @@ window.PLEX_DATA = {
         "Jessie Buckley"
       ],
       "imdb_id": "tt13669038",
+      "imdb_score": 6.9,
+      "resolution": 720,
       "size_bytes": 4994090800,
       "audio_languages": [
         "en",
@@ -44462,6 +48942,8 @@ window.PLEX_DATA = {
         "Connie Nielsen"
       ],
       "imdb_id": "tt0451279",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 19312057214,
       "audio_languages": [
         "en",
@@ -44482,6 +48964,8 @@ window.PLEX_DATA = {
         "Kristen Wiig"
       ],
       "imdb_id": "tt7126948",
+      "imdb_score": 5.3,
+      "resolution": 1080,
       "size_bytes": 24245650280,
       "audio_languages": [
         "en",
@@ -44502,6 +48986,8 @@ window.PLEX_DATA = {
         "Sigourney Weaver"
       ],
       "imdb_id": "tt0096463",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 9886053060,
       "audio_languages": [
         "en",
@@ -44522,6 +49008,8 @@ window.PLEX_DATA = {
         "Connor Paolo"
       ],
       "imdb_id": "tt0469641",
+      "imdb_score": 6.0,
+      "resolution": 720,
       "size_bytes": 7662064412,
       "audio_languages": [
         "en",
@@ -44542,6 +49030,8 @@ window.PLEX_DATA = {
         "Daniella Kertesz"
       ],
       "imdb_id": "tt0816711",
+      "imdb_score": 7.0,
+      "resolution": 1080,
       "size_bytes": 34403862528,
       "audio_languages": [
         "en",
@@ -44562,6 +49052,8 @@ window.PLEX_DATA = {
         "Rocci Williams"
       ],
       "imdb_id": "tt11083552",
+      "imdb_score": 7.1,
+      "resolution": 720,
       "size_bytes": 6628626637,
       "audio_languages": [
         "en",
@@ -44582,6 +49074,8 @@ window.PLEX_DATA = {
         "Ralph Fiennes"
       ],
       "imdb_id": "tt1646987",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 8081671791,
       "audio_languages": [
         "en",
@@ -44602,6 +49096,8 @@ window.PLEX_DATA = {
         "Jack McBrayer"
       ],
       "imdb_id": "tt1772341",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 5844225366,
       "audio_languages": [
         "en",
@@ -44622,6 +49118,8 @@ window.PLEX_DATA = {
         "Gene Hackman"
       ],
       "imdb_id": "tt0111756",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 8715650957,
       "audio_languages": [
         "en",
@@ -44642,6 +49140,8 @@ window.PLEX_DATA = {
         "Brittany Snow"
       ],
       "imdb_id": "tt13560574",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 7526137179,
       "audio_languages": [
         "en",
@@ -44662,6 +49162,8 @@ window.PLEX_DATA = {
         "Ian McKellen"
       ],
       "imdb_id": "tt0120903",
+      "imdb_score": 7.3,
+      "resolution": 1080,
       "size_bytes": 24602340892,
       "audio_languages": [
         "en",
@@ -44682,6 +49184,8 @@ window.PLEX_DATA = {
         "Danny Huston"
       ],
       "imdb_id": "tt0458525",
+      "imdb_score": 6.5,
+      "resolution": 1080,
       "size_bytes": 31636506243,
       "audio_languages": [
         "en",
@@ -44702,6 +49206,8 @@ window.PLEX_DATA = {
         "Jennifer Lawrence"
       ],
       "imdb_id": "tt3385516",
+      "imdb_score": 6.8,
+      "resolution": 1080,
       "size_bytes": 31391329742,
       "audio_languages": [
         "en",
@@ -44722,6 +49228,8 @@ window.PLEX_DATA = {
         "Nicholas Hoult"
       ],
       "imdb_id": "tt6565702",
+      "imdb_score": 5.7,
+      "resolution": 1080,
       "size_bytes": 25739317676,
       "audio_languages": [
         "en",
@@ -44742,6 +49250,8 @@ window.PLEX_DATA = {
         "Michael Fassbender"
       ],
       "imdb_id": "tt1877832",
+      "imdb_score": 7.9,
+      "resolution": 1080,
       "size_bytes": 33504835379,
       "audio_languages": [
         "en",
@@ -44762,6 +49272,8 @@ window.PLEX_DATA = {
         "Jennifer Lawrence"
       ],
       "imdb_id": "tt1270798",
+      "imdb_score": 7.7,
+      "resolution": 1080,
       "size_bytes": 16820158394,
       "audio_languages": [
         "en",
@@ -44782,6 +49294,8 @@ window.PLEX_DATA = {
         "Ian McKellen"
       ],
       "imdb_id": "tt0376994",
+      "imdb_score": 6.6,
+      "resolution": 1080,
       "size_bytes": 9686159356,
       "audio_languages": [],
       "has_subtitles": true
@@ -44799,6 +49313,8 @@ window.PLEX_DATA = {
         "James Marsden"
       ],
       "imdb_id": "tt0290334",
+      "imdb_score": 7.4,
+      "resolution": 1080,
       "size_bytes": 16823340210,
       "audio_languages": [
         "en",
@@ -44819,6 +49335,8 @@ window.PLEX_DATA = {
         "Kathleen Robertson"
       ],
       "imdb_id": "tt0245573",
+      "imdb_score": 5.9,
+      "resolution": null,
       "size_bytes": 1565380608,
       "audio_languages": [],
       "has_subtitles": true
@@ -44836,6 +49354,8 @@ window.PLEX_DATA = {
         "Marton Csokas"
       ],
       "imdb_id": "tt0295701",
+      "imdb_score": 5.9,
+      "resolution": 1080,
       "size_bytes": 27733543692,
       "audio_languages": [
         "en",
@@ -44856,6 +49376,8 @@ window.PLEX_DATA = {
         "Ruby Rose"
       ],
       "imdb_id": "tt1293847",
+      "imdb_score": 5.2,
+      "resolution": 1080,
       "size_bytes": 23955357694,
       "audio_languages": [
         "en",
@@ -44876,6 +49398,8 @@ window.PLEX_DATA = {
         "Willem Dafoe"
       ],
       "imdb_id": "tt0329774",
+      "imdb_score": 4.5,
+      "resolution": 1080,
       "size_bytes": 21909093197,
       "audio_languages": [
         "en",
@@ -44896,6 +49420,8 @@ window.PLEX_DATA = {
         "Hannah Khalique-Brown"
       ],
       "imdb_id": "tt21154574",
+      "imdb_score": 5.4,
+      "resolution": 576,
       "size_bytes": 2470904665,
       "audio_languages": [
         "en"
@@ -44915,6 +49441,8 @@ window.PLEX_DATA = {
         "Ariane"
       ],
       "imdb_id": "tt0090350",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 10306531616,
       "audio_languages": [
         "en",
@@ -44935,6 +49463,8 @@ window.PLEX_DATA = {
         "Jenna Ortega"
       ],
       "imdb_id": "tt8521876",
+      "imdb_score": 5.7,
+      "resolution": 720,
       "size_bytes": 2676485985,
       "audio_languages": [
         "en",
@@ -44955,6 +49485,8 @@ window.PLEX_DATA = {
         "Mie Hama"
       ],
       "imdb_id": "tt0062512",
+      "imdb_score": 6.8,
+      "resolution": 720,
       "size_bytes": 7142971078,
       "audio_languages": [
         "hu"
@@ -44974,6 +49506,8 @@ window.PLEX_DATA = {
         "Eddie Murphy"
       ],
       "imdb_id": "tt14826022",
+      "imdb_score": 5.5,
+      "resolution": 720,
       "size_bytes": 3641410668,
       "audio_languages": [
         "en",
@@ -44994,6 +49528,8 @@ window.PLEX_DATA = {
         "Greg Kinnear"
       ],
       "imdb_id": "tt0128853",
+      "imdb_score": 6.7,
+      "resolution": 720,
       "size_bytes": 5037644932,
       "audio_languages": [
         "en",
@@ -45014,6 +49550,8 @@ window.PLEX_DATA = {
         "Patrick Wilson"
       ],
       "imdb_id": "tt1625346",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 4661683008,
       "audio_languages": [
         "en",
@@ -45034,6 +49572,8 @@ window.PLEX_DATA = {
         "Marty Feldman"
       ],
       "imdb_id": "tt0072431",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 7183918562,
       "audio_languages": [
         "en",
@@ -45054,6 +49594,8 @@ window.PLEX_DATA = {
         "Rachel Weisz"
       ],
       "imdb_id": "tt3312830",
+      "imdb_score": 7.3,
+      "resolution": 720,
       "size_bytes": 6438763137,
       "audio_languages": [
         "en",
@@ -45074,6 +49616,8 @@ window.PLEX_DATA = {
         "Jean Smart"
       ],
       "imdb_id": "tt0403702",
+      "imdb_score": 6.4,
+      "resolution": 720,
       "size_bytes": 4521499562,
       "audio_languages": [
         "en",
@@ -45094,6 +49638,8 @@ window.PLEX_DATA = {
         "Craig Robinson"
       ],
       "imdb_id": "tt1007028",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 6790828645,
       "audio_languages": [
         "en",
@@ -45114,6 +49660,8 @@ window.PLEX_DATA = {
         "Gal Gadot"
       ],
       "imdb_id": "tt12361974",
+      "imdb_score": 7.9,
+      "resolution": 1080,
       "size_bytes": 36300064431,
       "audio_languages": [
         "en",
@@ -45134,6 +49682,8 @@ window.PLEX_DATA = {
         "Dax Shepard"
       ],
       "imdb_id": "tt0406375",
+      "imdb_score": 6.3,
+      "resolution": 720,
       "size_bytes": 6145789304,
       "audio_languages": [
         "en",
@@ -45154,6 +49704,8 @@ window.PLEX_DATA = {
         "Anthony Edwards"
       ],
       "imdb_id": "tt0443706",
+      "imdb_score": 7.7,
+      "resolution": 720,
       "size_bytes": 7489062379,
       "audio_languages": [
         "en",
@@ -45174,6 +49726,8 @@ window.PLEX_DATA = {
         "Rashida Jones"
       ],
       "imdb_id": "tt6010628",
+      "imdb_score": 6.1,
+      "resolution": 720,
       "size_bytes": 6163315633,
       "audio_languages": [
         "en",
@@ -45194,6 +49748,8 @@ window.PLEX_DATA = {
         "Leslie Bibb"
       ],
       "imdb_id": "tt1222817",
+      "imdb_score": 5.2,
+      "resolution": 720,
       "size_bytes": 4695145079,
       "audio_languages": [
         "en",
@@ -45213,6 +49769,8 @@ window.PLEX_DATA = {
         "Christine Taylor"
       ],
       "imdb_id": "tt0196229",
+      "imdb_score": 6.5,
+      "resolution": 720,
       "size_bytes": 4779199547,
       "audio_languages": [
         "en",
@@ -45233,6 +49791,8 @@ window.PLEX_DATA = {
         "Will Ferrell"
       ],
       "imdb_id": "tt1608290",
+      "imdb_score": 4.7,
+      "resolution": 720,
       "size_bytes": 4758793055,
       "audio_languages": [
         "en",
@@ -45253,6 +49813,8 @@ window.PLEX_DATA = {
         "Idris Elba"
       ],
       "imdb_id": "tt2948356",
+      "imdb_score": 8.0,
+      "resolution": 720,
       "size_bytes": 3880008452,
       "audio_languages": [
         "en",
@@ -45273,6 +49835,8 @@ window.PLEX_DATA = {
         "Ke Huy Quan"
       ],
       "imdb_id": "tt26443597",
+      "imdb_score": 7.4,
+      "resolution": 576,
       "size_bytes": 3136672230,
       "audio_languages": [
         "en"
@@ -45296,12 +49860,14 @@ window.PLEX_DATA = {
         "Barbara Sukowa"
       ],
       "imdb_id": "tt3148266",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 76276066469
+      "size_bytes": 76276066469,
+      "resolution": 720
     },
     {
       "title": "1883",
@@ -45318,12 +49884,14 @@ window.PLEX_DATA = {
         "Faith Hill"
       ],
       "imdb_id": "tt13991232",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 36784748440
+      "size_bytes": 36784748440,
+      "resolution": 720
     },
     {
       "title": "1923",
@@ -45340,12 +49908,14 @@ window.PLEX_DATA = {
         "Brandon Sklenar"
       ],
       "imdb_id": "tt18335752",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 32442458375
+      "size_bytes": 32442458375,
+      "resolution": 720
     },
     {
       "title": "2 Broke Girls",
@@ -45361,12 +49931,14 @@ window.PLEX_DATA = {
         "Garrett Morris"
       ],
       "imdb_id": "tt1845307",
+      "imdb_score": 7.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 111758085880
+      "size_bytes": 111758085880,
+      "resolution": 720
     },
     {
       "title": "3 Body Problem",
@@ -45383,12 +49955,14 @@ window.PLEX_DATA = {
         "Liam Cunningham"
       ],
       "imdb_id": "tt13016388",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 20274442890
+      "size_bytes": 20274442890,
+      "resolution": 1080
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -45405,12 +49979,14 @@ window.PLEX_DATA = {
         "Daniel Ings"
       ],
       "imdb_id": "tt27497448",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 14488257608
+      "size_bytes": 14488257608,
+      "resolution": 1080
     },
     {
       "title": "A mi kis falunk",
@@ -45427,9 +50003,11 @@ window.PLEX_DATA = {
         "Zoltán Schmied"
       ],
       "imdb_id": "tt6445410",
+      "imdb_score": 8.6,
       "audio_languages": [],
       "has_subtitles": false,
-      "size_bytes": 160294645005
+      "size_bytes": 160294645005,
+      "resolution": 720
     },
     {
       "title": "A Teacher",
@@ -45445,12 +50023,14 @@ window.PLEX_DATA = {
         "Ashley Zukerman"
       ],
       "imdb_id": "tt10680614",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 6977437620
+      "size_bytes": 6977437620,
+      "resolution": 720
     },
     {
       "title": "Agatha All Along",
@@ -45467,12 +50047,14 @@ window.PLEX_DATA = {
         "Sasheer Zamata"
       ],
       "imdb_id": "tt15571732",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 9254046034
+      "size_bytes": 9254046034,
+      "resolution": 720
     },
     {
       "title": "Ahsoka",
@@ -45489,12 +50071,14 @@ window.PLEX_DATA = {
         "Ray Stevenson"
       ],
       "imdb_id": "tt13622776",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 16206745890
+      "size_bytes": 16206745890,
+      "resolution": 1080
     },
     {
       "title": "Alias",
@@ -45511,11 +50095,13 @@ window.PLEX_DATA = {
         "Ron Rifkin"
       ],
       "imdb_id": "tt0285333",
+      "imdb_score": 6.8,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 39791566014
+      "size_bytes": 39791566014,
+      "resolution": null
     },
     {
       "title": "Alien: Earth",
@@ -45532,12 +50118,14 @@ window.PLEX_DATA = {
         "Essie Davis"
       ],
       "imdb_id": "tt13623632",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 9116103632
+      "size_bytes": 9116103632,
+      "resolution": 720
     },
     {
       "title": "Almost Human",
@@ -45554,12 +50142,14 @@ window.PLEX_DATA = {
         "Minka Kelly"
       ],
       "imdb_id": "tt2654580",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 23213630963
+      "size_bytes": 23213630963,
+      "resolution": 1080
     },
     {
       "title": "Alphas",
@@ -45576,12 +50166,14 @@ window.PLEX_DATA = {
         "Warren Christie"
       ],
       "imdb_id": "tt1183865",
+      "imdb_score": 6.8,
       "audio_languages": [
         "de",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 47623662987
+      "size_bytes": 47623662987,
+      "resolution": 720
     },
     {
       "title": "Altered Carbon",
@@ -45598,12 +50190,14 @@ window.PLEX_DATA = {
         "Dichen Lachman"
       ],
       "imdb_id": "tt2261227",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 47042021059
+      "size_bytes": 47042021059,
+      "resolution": 720
     },
     {
       "title": "American Housewife",
@@ -45619,11 +50213,13 @@ window.PLEX_DATA = {
         "Meg Donnelly"
       ],
       "imdb_id": "tt5396394",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 17620445725
+      "size_bytes": 17620445725,
+      "resolution": 720
     },
     {
       "title": "Andor",
@@ -45640,12 +50236,14 @@ window.PLEX_DATA = {
         "Stellan Skarsgård"
       ],
       "imdb_id": "tt9253284",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 29642932510
+      "size_bytes": 29642932510,
+      "resolution": 720
     },
     {
       "title": "Andromeda",
@@ -45662,11 +50260,13 @@ window.PLEX_DATA = {
         "Laura Bertram"
       ],
       "imdb_id": "tt0213327",
+      "imdb_score": 7.1,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 155701279441
+      "size_bytes": 155701279441,
+      "resolution": 720
     },
     {
       "title": "Animal Kingdom (2016)",
@@ -45683,11 +50283,13 @@ window.PLEX_DATA = {
         "Ben Robson"
       ],
       "imdb_id": "tt5574490",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 262399858387
+      "size_bytes": 262399858387,
+      "resolution": 1080
     },
     {
       "title": "Anne with an E",
@@ -45704,12 +50306,14 @@ window.PLEX_DATA = {
         "R.H. Thomson"
       ],
       "imdb_id": "tt5421602",
+      "imdb_score": 8.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 37550759788
+      "size_bytes": 37550759788,
+      "resolution": 720
     },
     {
       "title": "Arrow",
@@ -45726,12 +50330,14 @@ window.PLEX_DATA = {
         "Emily Bett Rickards"
       ],
       "imdb_id": "tt2193021",
+      "imdb_score": 6.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 148560265211
+      "size_bytes": 148560265211,
+      "resolution": 1080
     },
     {
       "title": "Azsia Expressz (HU)",
@@ -45748,9 +50354,11 @@ window.PLEX_DATA = {
         "Katinka Cseke"
       ],
       "imdb_id": "tt7675148",
+      "imdb_score": 7.3,
       "audio_languages": [],
       "has_subtitles": false,
-      "size_bytes": 297070686841
+      "size_bytes": 297070686841,
+      "resolution": 720
     },
     {
       "title": "Banshee",
@@ -45767,12 +50375,14 @@ window.PLEX_DATA = {
         "Hoon Lee"
       ],
       "imdb_id": "tt2017109",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 93484126265
+      "size_bytes": 93484126265,
+      "resolution": 720
     },
     {
       "title": "Battlestar Galactica (2003)",
@@ -45789,12 +50399,14 @@ window.PLEX_DATA = {
         "Jamie Bamber"
       ],
       "imdb_id": "tt0407362",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 277477926491
+      "size_bytes": 277477926491,
+      "resolution": 720
     },
     {
       "title": "Batwoman",
@@ -45811,12 +50423,14 @@ window.PLEX_DATA = {
         "Nicole Kang"
       ],
       "imdb_id": "tt8712204",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 57934998552
+      "size_bytes": 57934998552,
+      "resolution": 720
     },
     {
       "title": "Better Call Saul",
@@ -45833,12 +50447,14 @@ window.PLEX_DATA = {
         "Rhea Seehorn"
       ],
       "imdb_id": "tt3032476",
+      "imdb_score": 8.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 19601416931
+      "size_bytes": 19601416931,
+      "resolution": 720
     },
     {
       "title": "Big Little Lies",
@@ -45855,12 +50471,14 @@ window.PLEX_DATA = {
         "Shailene Woodley"
       ],
       "imdb_id": "tt3920596",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 36299933138
+      "size_bytes": 36299933138,
+      "resolution": 720
     },
     {
       "title": "Birds of Prey",
@@ -45877,9 +50495,11 @@ window.PLEX_DATA = {
         "Rachel Skarsten"
       ],
       "imdb_id": "tt0312098",
+      "imdb_score": 6.1,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 4774410240
+      "size_bytes": 4774410240,
+      "resolution": null
     },
     {
       "title": "Black Lightning",
@@ -45896,11 +50516,13 @@ window.PLEX_DATA = {
         "China Anne McClain"
       ],
       "imdb_id": "tt6045840",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 16660760831
+      "size_bytes": 16660760831,
+      "resolution": null
     },
     {
       "title": "Buffy the Vampire Slayer",
@@ -45917,12 +50539,14 @@ window.PLEX_DATA = {
         "Alyson Hannigan"
       ],
       "imdb_id": "tt0118276",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 219245223621
+      "size_bytes": 219245223621,
+      "resolution": 720
     },
     {
       "title": "Californication",
@@ -45939,12 +50563,14 @@ window.PLEX_DATA = {
         "Evan Handler"
       ],
       "imdb_id": "tt0904208",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 139699580462
+      "size_bytes": 139699580462,
+      "resolution": 720
     },
     {
       "title": "Caprica",
@@ -45961,9 +50587,11 @@ window.PLEX_DATA = {
         "Paula Malcomson"
       ],
       "imdb_id": "tt0799862",
+      "imdb_score": 6.9,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 27418625107
+      "size_bytes": 27418625107,
+      "resolution": 720
     },
     {
       "title": "Charmed",
@@ -45980,12 +50608,14 @@ window.PLEX_DATA = {
         "Dorian Gregory"
       ],
       "imdb_id": "tt0158552",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 504558306689
+      "size_bytes": 504558306689,
+      "resolution": 1080
     },
     {
       "title": "Colony",
@@ -46002,12 +50632,14 @@ window.PLEX_DATA = {
         "Tory Kittles"
       ],
       "imdb_id": "tt4209256",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 40879503927
+      "size_bytes": 40879503927,
+      "resolution": 720
     },
     {
       "title": "Columbo",
@@ -46024,12 +50656,14 @@ window.PLEX_DATA = {
         "Bruce Kirby"
       ],
       "imdb_id": "tt1466074",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 355618494136
+      "size_bytes": 355618494136,
+      "resolution": 720
     },
     {
       "title": "Constantine",
@@ -46046,9 +50680,11 @@ window.PLEX_DATA = {
         "Charles Halford"
       ],
       "imdb_id": "tt3489184",
+      "imdb_score": 7.8,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 11160099305
+      "size_bytes": 11160099305,
+      "resolution": 720
     },
     {
       "title": "Constellation",
@@ -46065,11 +50701,13 @@ window.PLEX_DATA = {
         "James D'Arcy"
       ],
       "imdb_id": "tt19395018",
+      "imdb_score": 7.0,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 11632944637
+      "size_bytes": 11632944637,
+      "resolution": 720
     },
     {
       "title": "Continuum",
@@ -46086,12 +50724,14 @@ window.PLEX_DATA = {
         "Victor Webster"
       ],
       "imdb_id": "tt1954347",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 107159752493
+      "size_bytes": 107159752493,
+      "resolution": 720
     },
     {
       "title": "Daredevil: Born Again",
@@ -46108,12 +50748,14 @@ window.PLEX_DATA = {
         "Margarita Levieva"
       ],
       "imdb_id": "tt18923754",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 10512836099
+      "size_bytes": 10512836099,
+      "resolution": 720
     },
     {
       "title": "Dark Matter",
@@ -46130,9 +50772,11 @@ window.PLEX_DATA = {
         "Alex Mallari Jr."
       ],
       "imdb_id": "tt4159076",
+      "imdb_score": 6.8,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 61022657707
+      "size_bytes": 61022657707,
+      "resolution": 1080
     },
     {
       "title": "Dawson's Creek",
@@ -46149,9 +50793,11 @@ window.PLEX_DATA = {
         "Michelle Williams"
       ],
       "imdb_id": "tt0118300",
+      "imdb_score": 7.3,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 54505508864
+      "size_bytes": 54505508864,
+      "resolution": null
     },
     {
       "title": "Defiance",
@@ -46168,12 +50814,14 @@ window.PLEX_DATA = {
         "Stephanie Leonidas"
       ],
       "imdb_id": "tt2189221",
+      "imdb_score": 6.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 77299451159
+      "size_bytes": 77299451159,
+      "resolution": 720
     },
     {
       "title": "Dept. Q",
@@ -46190,12 +50838,14 @@ window.PLEX_DATA = {
         "Jamie Sives"
       ],
       "imdb_id": "tt27995114",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 10884325288
+      "size_bytes": 10884325288,
+      "resolution": 720
     },
     {
       "title": "Desperate Housewives",
@@ -46212,12 +50862,14 @@ window.PLEX_DATA = {
         "Marcia Cross"
       ],
       "imdb_id": "tt0410975",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 266747175601
+      "size_bytes": 266747175601,
+      "resolution": 720
     },
     {
       "title": "Dexter",
@@ -46234,12 +50886,14 @@ window.PLEX_DATA = {
         "David Zayas"
       ],
       "imdb_id": "tt0773262",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 313623326786
+      "size_bytes": 313623326786,
+      "resolution": 720
     },
     {
       "title": "Dexter: New Blood",
@@ -46256,12 +50910,14 @@ window.PLEX_DATA = {
         "Julia Jones"
       ],
       "imdb_id": "tt14164730",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 19969660208
+      "size_bytes": 19969660208,
+      "resolution": 720
     },
     {
       "title": "Dexter: Original Sin",
@@ -46278,12 +50934,14 @@ window.PLEX_DATA = {
         "Molly Brown"
       ],
       "imdb_id": "tt32252772",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 19742768925
+      "size_bytes": 19742768925,
+      "resolution": 720
     },
     {
       "title": "Dexter: Resurrection",
@@ -46300,12 +50958,14 @@ window.PLEX_DATA = {
         "Uma Thurman"
       ],
       "imdb_id": "tt33043892",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 14658111554
+      "size_bytes": 14658111554,
+      "resolution": 576
     },
     {
       "title": "Dollhouse",
@@ -46322,12 +50982,14 @@ window.PLEX_DATA = {
         "Olivia Williams"
       ],
       "imdb_id": "tt1135300",
+      "imdb_score": 7.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 74271895083
+      "size_bytes": 74271895083,
+      "resolution": 720
     },
     {
       "title": "Doom Patrol",
@@ -46344,11 +51006,13 @@ window.PLEX_DATA = {
         "Joivan Wade"
       ],
       "imdb_id": "tt8416494",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 90614826827
+      "size_bytes": 90614826827,
+      "resolution": 720
     },
     {
       "title": "Earth: Final Conflict",
@@ -46365,9 +51029,11 @@ window.PLEX_DATA = {
         "Leni Parker"
       ],
       "imdb_id": "tt0123816",
+      "imdb_score": 6.8,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 46338308096
+      "size_bytes": 46338308096,
+      "resolution": null
     },
     {
       "title": "Echo",
@@ -46384,12 +51050,14 @@ window.PLEX_DATA = {
         "Tantoo Cardinal"
       ],
       "imdb_id": "tt13966962",
+      "imdb_score": 6.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 6641827094
+      "size_bytes": 6641827094,
+      "resolution": 720
     },
     {
       "title": "Eureka",
@@ -46406,12 +51074,14 @@ window.PLEX_DATA = {
         "Joe Morton"
       ],
       "imdb_id": "tt0796264",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 247082302738
+      "size_bytes": 247082302738,
+      "resolution": 720
     },
     {
       "title": "Everybody Loves Raymond",
@@ -46427,9 +51097,11 @@ window.PLEX_DATA = {
         "Brad Garrett"
       ],
       "imdb_id": "tt0115167",
+      "imdb_score": 6.8,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 62220670231
+      "size_bytes": 62220670231,
+      "resolution": 720
     },
     {
       "title": "Falling Skies",
@@ -46446,12 +51118,14 @@ window.PLEX_DATA = {
         "Will Patton"
       ],
       "imdb_id": "tt1462059",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 130550367567
+      "size_bytes": 130550367567,
+      "resolution": 1080
     },
     {
       "title": "Fallout",
@@ -46468,12 +51142,14 @@ window.PLEX_DATA = {
         "Moisés Arias"
       ],
       "imdb_id": "tt12637874",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 31897777954
+      "size_bytes": 31897777954,
+      "resolution": 720
     },
     {
       "title": "Farscape",
@@ -46490,12 +51166,14 @@ window.PLEX_DATA = {
         "Jonathan Hardy"
       ],
       "imdb_id": "tt0187636",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 212082940316
+      "size_bytes": 212082940316,
+      "resolution": 720
     },
     {
       "title": "Fear the Walking Dead",
@@ -46512,12 +51190,14 @@ window.PLEX_DATA = {
         "Danay García"
       ],
       "imdb_id": "tt3743822",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 252813141476
+      "size_bytes": 252813141476,
+      "resolution": 720
     },
     {
       "title": "Firefly",
@@ -46534,12 +51214,14 @@ window.PLEX_DATA = {
         "Alan Tudyk"
       ],
       "imdb_id": "tt0303461",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 52106050191
+      "size_bytes": 52106050191,
+      "resolution": 720
     },
     {
       "title": "For All Mankind",
@@ -46556,11 +51238,13 @@ window.PLEX_DATA = {
         "Cynthy Wu"
       ],
       "imdb_id": "tt7772588",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 69036298514
+      "size_bytes": 69036298514,
+      "resolution": 720
     },
     {
       "title": "Foundation (2021)",
@@ -46577,11 +51261,13 @@ window.PLEX_DATA = {
         "Lou Llobell"
       ],
       "imdb_id": "tt0804484",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 44666763505
+      "size_bytes": 44666763505,
+      "resolution": 720
     },
     {
       "title": "Friends",
@@ -46598,12 +51284,14 @@ window.PLEX_DATA = {
         "Lisa Kudrow"
       ],
       "imdb_id": "tt0108778",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 640480747867
+      "size_bytes": 640480747867,
+      "resolution": 1080
     },
     {
       "title": "Game of Thrones",
@@ -46620,12 +51308,14 @@ window.PLEX_DATA = {
         "Nikolaj Coster-Waldau"
       ],
       "imdb_id": "tt0944947",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 216448264972
+      "size_bytes": 216448264972,
+      "resolution": 720
     },
     {
       "title": "Gen V",
@@ -46642,12 +51332,14 @@ window.PLEX_DATA = {
         "Maddie Phillips"
       ],
       "imdb_id": "tt13159924",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 24511388166
+      "size_bytes": 24511388166,
+      "resolution": 576
     },
     {
       "title": "Georgie & Mandy's First Marriage",
@@ -46664,12 +51356,14 @@ window.PLEX_DATA = {
         "Rachel Bay Jones"
       ],
       "imdb_id": "tt31589662",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 14494163376
+      "size_bytes": 14494163376,
+      "resolution": 720
     },
     {
       "title": "Ghosts (US)",
@@ -46686,12 +51380,14 @@ window.PLEX_DATA = {
         "Brandon Scott Jones"
       ],
       "imdb_id": "tt11379026",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 52888352070
+      "size_bytes": 52888352070,
+      "resolution": 720
     },
     {
       "title": "Gilmore Girls",
@@ -46708,12 +51404,14 @@ window.PLEX_DATA = {
         "Scott Patterson"
       ],
       "imdb_id": "tt0238784",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 215728068855
+      "size_bytes": 215728068855,
+      "resolution": 720
     },
     {
       "title": "Gilmore Girls: A Year in the Life",
@@ -46730,12 +51428,14 @@ window.PLEX_DATA = {
         "Scott Patterson"
       ],
       "imdb_id": "tt5435008",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 13922200829
+      "size_bytes": 13922200829,
+      "resolution": 720
     },
     {
       "title": "Godfather of Harlem",
@@ -46752,11 +51452,13 @@ window.PLEX_DATA = {
         "Antoinette Crowe-Legacy"
       ],
       "imdb_id": "tt8080122",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 63086221702
+      "size_bytes": 63086221702,
+      "resolution": 720
     },
     {
       "title": "Gotham",
@@ -46773,12 +51475,14 @@ window.PLEX_DATA = {
         "David Mazouz"
       ],
       "imdb_id": "tt3749900",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 222257337610
+      "size_bytes": 222257337610,
+      "resolution": 720
     },
     {
       "title": "Gotham Knights",
@@ -46795,12 +51499,14 @@ window.PLEX_DATA = {
         "Navia Robinson"
       ],
       "imdb_id": "tt16418896",
+      "imdb_score": 6.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 12428225947
+      "size_bytes": 12428225947,
+      "resolution": 720
     },
     {
       "title": "Halo",
@@ -46817,12 +51523,14 @@ window.PLEX_DATA = {
         "Shabana Azmi"
       ],
       "imdb_id": "tt2934286",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 36623985191
+      "size_bytes": 36623985191,
+      "resolution": 720
     },
     {
       "title": "Hannibal",
@@ -46839,12 +51547,14 @@ window.PLEX_DATA = {
         "Laurence Fishburne"
       ],
       "imdb_id": "tt2243973",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 83738605626
+      "size_bytes": 83738605626,
+      "resolution": 720
     },
     {
       "title": "Hawkeye (2021)",
@@ -46861,12 +51571,14 @@ window.PLEX_DATA = {
         "Tony Dalton"
       ],
       "imdb_id": "tt10160804",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 8215382888
+      "size_bytes": 8215382888,
+      "resolution": 720
     },
     {
       "title": "Helstrom",
@@ -46883,11 +51595,13 @@ window.PLEX_DATA = {
         "Elizabeth Marvel"
       ],
       "imdb_id": "tt10266874",
+      "imdb_score": 6.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 5115492554
+      "size_bytes": 5115492554,
+      "resolution": 720
     },
     {
       "title": "House",
@@ -46904,12 +51618,14 @@ window.PLEX_DATA = {
         "Omar Epps"
       ],
       "imdb_id": "tt0412142",
+      "imdb_score": 8.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 463087989968
+      "size_bytes": 463087989968,
+      "resolution": 720
     },
     {
       "title": "House of the Dragon",
@@ -46926,12 +51642,14 @@ window.PLEX_DATA = {
         "Steve Toussaint"
       ],
       "imdb_id": "tt11198330",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 55822116867
+      "size_bytes": 55822116867,
+      "resolution": 720
     },
     {
       "title": "Human Target (2010)",
@@ -46948,11 +51666,13 @@ window.PLEX_DATA = {
         "Jackie Earle Haley"
       ],
       "imdb_id": "tt1439741",
+      "imdb_score": 7.2,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 24026674176
+      "size_bytes": 24026674176,
+      "resolution": 720
     },
     {
       "title": "Humans",
@@ -46969,11 +51689,13 @@ window.PLEX_DATA = {
         "Colin Morgan"
       ],
       "imdb_id": "tt4122068",
+      "imdb_score": 7.5,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 60706000916
+      "size_bytes": 60706000916,
+      "resolution": 1080
     },
     {
       "title": "Hung",
@@ -46990,12 +51712,14 @@ window.PLEX_DATA = {
         "Charlie Saxton"
       ],
       "imdb_id": "tt1229413",
+      "imdb_score": 6.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 52839702292
+      "size_bytes": 52839702292,
+      "resolution": 1080
     },
     {
       "title": "I Am Groot",
@@ -47012,12 +51736,14 @@ window.PLEX_DATA = {
         "Terri Douglas"
       ],
       "imdb_id": "tt13623148",
+      "imdb_score": 7.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 1287884592
+      "size_bytes": 1287884592,
+      "resolution": 720
     },
     {
       "title": "Invasion (2021)",
@@ -47034,11 +51760,13 @@ window.PLEX_DATA = {
         "Shamier Anderson"
       ],
       "imdb_id": "tt9737326",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 41186617972
+      "size_bytes": 41186617972,
+      "resolution": 720
     },
     {
       "title": "Ironheart",
@@ -47055,12 +51783,14 @@ window.PLEX_DATA = {
         "Manny Montana"
       ],
       "imdb_id": "tt13623126",
+      "imdb_score": 5.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 7611506736
+      "size_bytes": 7611506736,
+      "resolution": 720
     },
     {
       "title": "iZombie",
@@ -47077,12 +51807,14 @@ window.PLEX_DATA = {
         "Robert Buckley"
       ],
       "imdb_id": "tt3501584",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 137717724404
+      "size_bytes": 137717724404,
+      "resolution": 720
     },
     {
       "title": "Jericho (2006)",
@@ -47099,12 +51831,14 @@ window.PLEX_DATA = {
         "Ashley Scott"
       ],
       "imdb_id": "tt0805663",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 43972938386
+      "size_bytes": 43972938386,
+      "resolution": 720
     },
     {
       "title": "Killjoys",
@@ -47121,11 +51855,13 @@ window.PLEX_DATA = {
         "Luke Macfarlane"
       ],
       "imdb_id": "tt3952222",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 102134194817
+      "size_bytes": 102134194817,
+      "resolution": 720
     },
     {
       "title": "Krypton",
@@ -47142,12 +51878,14 @@ window.PLEX_DATA = {
         "Shaun Sipos"
       ],
       "imdb_id": "tt4276624",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 32345638043
+      "size_bytes": 32345638043,
+      "resolution": 720
     },
     {
       "title": "Kung Fu: The Legend Continues",
@@ -47164,9 +51902,11 @@ window.PLEX_DATA = {
         "Kim Chan"
       ],
       "imdb_id": "tt0103460",
+      "imdb_score": 6.7,
       "audio_languages": [],
       "has_subtitles": false,
-      "size_bytes": 32203433182
+      "size_bytes": 32203433182,
+      "resolution": 480
     },
     {
       "title": "Landman",
@@ -47183,12 +51923,14 @@ window.PLEX_DATA = {
         "Ali Larter"
       ],
       "imdb_id": "tt14186672",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 38426937231
+      "size_bytes": 38426937231,
+      "resolution": 720
     },
     {
       "title": "Legends of Tomorrow",
@@ -47205,12 +51947,14 @@ window.PLEX_DATA = {
         "Dominic Purcell"
       ],
       "imdb_id": "tt4532368",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 246420571694
+      "size_bytes": 246420571694,
+      "resolution": 720
     },
     {
       "title": "Legion",
@@ -47227,12 +51971,14 @@ window.PLEX_DATA = {
         "Aubrey Plaza"
       ],
       "imdb_id": "tt5114356",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 95650699249
+      "size_bytes": 95650699249,
+      "resolution": 1080
     },
     {
       "title": "Lioness",
@@ -47249,12 +51995,14 @@ window.PLEX_DATA = {
         "Dave Annable"
       ],
       "imdb_id": "tt13111078",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 32105430037
+      "size_bytes": 32105430037,
+      "resolution": 720
     },
     {
       "title": "Lois & Clark: The New Adventures of Superman",
@@ -47271,12 +52019,14 @@ window.PLEX_DATA = {
         "Lane Smith"
       ],
       "imdb_id": "tt0106057",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 266132830092
+      "size_bytes": 266132830092,
+      "resolution": 1080
     },
     {
       "title": "Loki",
@@ -47293,12 +52043,14 @@ window.PLEX_DATA = {
         "Wunmi Mosaku"
       ],
       "imdb_id": "tt9140554",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 47237428616
+      "size_bytes": 47237428616,
+      "resolution": 1080
     },
     {
       "title": "Lucifer",
@@ -47315,12 +52067,14 @@ window.PLEX_DATA = {
         "Kevin Alejandro"
       ],
       "imdb_id": "tt4052886",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 250622074937
+      "size_bytes": 250622074937,
+      "resolution": 720
     },
     {
       "title": "MacGyver",
@@ -47337,12 +52091,14 @@ window.PLEX_DATA = {
         "Bruce McGill"
       ],
       "imdb_id": "tt0088559",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 492776798896
+      "size_bytes": 492776798896,
+      "resolution": 1080
     },
     {
       "title": "Madam Secretary",
@@ -47359,9 +52115,11 @@ window.PLEX_DATA = {
         "Željko Ivanek"
       ],
       "imdb_id": "tt3501074",
+      "imdb_score": 7.0,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 177600087434
+      "size_bytes": 177600087434,
+      "resolution": 720
     },
     {
       "title": "Manifest",
@@ -47378,12 +52136,14 @@ window.PLEX_DATA = {
         "J.R. Ramirez"
       ],
       "imdb_id": "tt8421350",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 78661280030
+      "size_bytes": 78661280030,
+      "resolution": 1080
     },
     {
       "title": "Marco Polo",
@@ -47400,11 +52160,13 @@ window.PLEX_DATA = {
         "Joan Chen"
       ],
       "imdb_id": "tt2189461",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 13381438651
+      "size_bytes": 13381438651,
+      "resolution": null
     },
     {
       "title": "Married... with Children",
@@ -47420,12 +52182,14 @@ window.PLEX_DATA = {
         "Christina Applegate"
       ],
       "imdb_id": "tt0092400",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 74855847469
+      "size_bytes": 74855847469,
+      "resolution": 480
     },
     {
       "title": "Marvel Studios: Legends",
@@ -47442,11 +52206,13 @@ window.PLEX_DATA = {
         "Josh Brolin"
       ],
       "imdb_id": "tt13650480",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 9508644015
+      "size_bytes": 9508644015,
+      "resolution": 1080
     },
     {
       "title": "Marvel's Agent Carter",
@@ -47463,12 +52229,14 @@ window.PLEX_DATA = {
         "Enver Gjokaj"
       ],
       "imdb_id": "tt3475734",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 39992192109
+      "size_bytes": 39992192109,
+      "resolution": 720
     },
     {
       "title": "Marvel's Agents of S.H.I.E.L.D.",
@@ -47485,12 +52253,14 @@ window.PLEX_DATA = {
         "Elizabeth Henstridge"
       ],
       "imdb_id": "tt2364582",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 295296251429
+      "size_bytes": 295296251429,
+      "resolution": 1080
     },
     {
       "title": "Marvel's Cloak & Dagger",
@@ -47507,11 +52277,13 @@ window.PLEX_DATA = {
         "Gloria Reuben"
       ],
       "imdb_id": "tt5614844",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 20296157179
+      "size_bytes": 20296157179,
+      "resolution": 720
     },
     {
       "title": "Marvel's Daredevil",
@@ -47528,12 +52300,14 @@ window.PLEX_DATA = {
         "Elden Henson"
       ],
       "imdb_id": "tt3322312",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 137639873916
+      "size_bytes": 137639873916,
+      "resolution": 720
     },
     {
       "title": "Marvel's Inhumans",
@@ -47550,12 +52324,14 @@ window.PLEX_DATA = {
         "Iwan Rheon"
       ],
       "imdb_id": "tt4154858",
+      "imdb_score": 5.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 14501098332
+      "size_bytes": 14501098332,
+      "resolution": 720
     },
     {
       "title": "Marvel's Iron Fist",
@@ -47572,11 +52348,13 @@ window.PLEX_DATA = {
         "Jessica Stroup"
       ],
       "imdb_id": "tt3322310",
+      "imdb_score": 6.5,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 61722157359
+      "size_bytes": 61722157359,
+      "resolution": 1080
     },
     {
       "title": "Marvel's Jessica Jones",
@@ -47593,12 +52371,14 @@ window.PLEX_DATA = {
         "Eka Darville"
       ],
       "imdb_id": "tt2357547",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 147696810226
+      "size_bytes": 147696810226,
+      "resolution": 720
     },
     {
       "title": "Marvel's Luke Cage",
@@ -47615,11 +52395,13 @@ window.PLEX_DATA = {
         "Simone Missick"
       ],
       "imdb_id": "tt3322314",
+      "imdb_score": 6.9,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 43619711192
+      "size_bytes": 43619711192,
+      "resolution": 720
     },
     {
       "title": "Marvel's Runaways",
@@ -47636,12 +52418,14 @@ window.PLEX_DATA = {
         "Virginia Gardner"
       ],
       "imdb_id": "tt1236246",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 50807758697
+      "size_bytes": 50807758697,
+      "resolution": 720
     },
     {
       "title": "Marvel's The Defenders",
@@ -47658,11 +52442,13 @@ window.PLEX_DATA = {
         "Mike Colter"
       ],
       "imdb_id": "tt4230076",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 11134104582
+      "size_bytes": 11134104582,
+      "resolution": 720
     },
     {
       "title": "Marvel's The Punisher",
@@ -47679,12 +52465,14 @@ window.PLEX_DATA = {
         "Amber Rose Revah"
       ],
       "imdb_id": "tt5675620",
+      "imdb_score": 8.1,
       "audio_languages": [
         "de",
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 47791574240
+      "size_bytes": 47791574240,
+      "resolution": 1080
     },
     {
       "title": "Medici",
@@ -47701,9 +52489,11 @@ window.PLEX_DATA = {
         "Alessandra Mastronardi"
       ],
       "imdb_id": "tt5057130",
+      "imdb_score": 7.7,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 26939543821
+      "size_bytes": 26939543821,
+      "resolution": 720
     },
     {
       "title": "Mom",
@@ -47720,12 +52510,14 @@ window.PLEX_DATA = {
         "Anna Faris"
       ],
       "imdb_id": "tt2660806",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 162335204703
+      "size_bytes": 162335204703,
+      "resolution": 1080
     },
     {
       "title": "Monarch: Legacy of Monsters",
@@ -47742,11 +52534,13 @@ window.PLEX_DATA = {
         "Ren Watabe"
       ],
       "imdb_id": "tt17220216",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 12852770399
+      "size_bytes": 12852770399,
+      "resolution": 720
     },
     {
       "title": "Moon Knight",
@@ -47763,12 +52557,14 @@ window.PLEX_DATA = {
         "May Calamawy"
       ],
       "imdb_id": "tt10234724",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 9173950691
+      "size_bytes": 9173950691,
+      "resolution": 720
     },
     {
       "title": "Ms. Marvel",
@@ -47785,12 +52581,14 @@ window.PLEX_DATA = {
         "Yasmeen Fletcher"
       ],
       "imdb_id": "tt10857164",
+      "imdb_score": 6.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 8774735122
+      "size_bytes": 8774735122,
+      "resolution": 720
     },
     {
       "title": "Naomi",
@@ -47807,12 +52605,14 @@ window.PLEX_DATA = {
         "Alexander Wraith"
       ],
       "imdb_id": "tt13624900",
+      "imdb_score": 5.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 20644150822
+      "size_bytes": 20644150822,
+      "resolution": 720
     },
     {
       "title": "Obi-Wan Kenobi",
@@ -47829,12 +52629,14 @@ window.PLEX_DATA = {
         "Moses Ingram"
       ],
       "imdb_id": "tt8466564",
+      "imdb_score": 7.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 7974069877
+      "size_bytes": 7974069877,
+      "resolution": 720
     },
     {
       "title": "Outlander",
@@ -47851,9 +52653,11 @@ window.PLEX_DATA = {
         "Sophie Skelton"
       ],
       "imdb_id": "tt3006802",
+      "imdb_score": 8.2,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 219140563826
+      "size_bytes": 219140563826,
+      "resolution": 720
     },
     {
       "title": "Parenthood (2010)",
@@ -47870,12 +52674,14 @@ window.PLEX_DATA = {
         "Dax Shepard"
       ],
       "imdb_id": "tt1416765",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 149778132407
+      "size_bytes": 149778132407,
+      "resolution": 720
     },
     {
       "title": "Peacemaker",
@@ -47892,12 +52698,14 @@ window.PLEX_DATA = {
         "Freddie Stroma"
       ],
       "imdb_id": "tt13146488",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 24713032748
+      "size_bytes": 24713032748,
+      "resolution": 720
     },
     {
       "title": "Peaky Blinders",
@@ -47914,12 +52722,14 @@ window.PLEX_DATA = {
         "Sophie Rundle"
       ],
       "imdb_id": "tt2442560",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 106353204583
+      "size_bytes": 106353204583,
+      "resolution": 720
     },
     {
       "title": "Pennyworth: The Origin of Batman's Butler",
@@ -47936,11 +52746,13 @@ window.PLEX_DATA = {
         "Emma Paetz"
       ],
       "imdb_id": "tt8425532",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 44976156601
+      "size_bytes": 44976156601,
+      "resolution": 720
     },
     {
       "title": "Powerless",
@@ -47957,11 +52769,13 @@ window.PLEX_DATA = {
         "Danny Pudi"
       ],
       "imdb_id": "tt5083928",
+      "imdb_score": 6.2,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 7581118761
+      "size_bytes": 7581118761,
+      "resolution": 720
     },
     {
       "title": "Preacher",
@@ -47978,12 +52792,14 @@ window.PLEX_DATA = {
         "Joseph Gilgun"
       ],
       "imdb_id": "tt5016504",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 74106336572
+      "size_bytes": 74106336572,
+      "resolution": 720
     },
     {
       "title": "Reacher",
@@ -48000,12 +52816,14 @@ window.PLEX_DATA = {
         "Malcolm Goodwin"
       ],
       "imdb_id": "tt9288030",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 62143110867
+      "size_bytes": 62143110867,
+      "resolution": 720
     },
     {
       "title": "Reign (2013)",
@@ -48022,11 +52840,13 @@ window.PLEX_DATA = {
         "Celina Sinden"
       ],
       "imdb_id": "tt2710394",
+      "imdb_score": 8.1,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 27037414409
+      "size_bytes": 27037414409,
+      "resolution": null
     },
     {
       "title": "Resident Alien",
@@ -48043,11 +52863,13 @@ window.PLEX_DATA = {
         "Corey Reynolds"
       ],
       "imdb_id": "tt8690918",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 69295487184
+      "size_bytes": 69295487184,
+      "resolution": 720
     },
     {
       "title": "Revenge",
@@ -48064,11 +52886,13 @@ window.PLEX_DATA = {
         "Nick Wechsler"
       ],
       "imdb_id": "tt1837642",
+      "imdb_score": 7.6,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 129198374476
+      "size_bytes": 129198374476,
+      "resolution": 720
     },
     {
       "title": "Sanctuary",
@@ -48085,12 +52909,14 @@ window.PLEX_DATA = {
         "Christopher Heyerdahl"
       ],
       "imdb_id": "tt0965394",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 223546869852
+      "size_bytes": 223546869852,
+      "resolution": 1080
     },
     {
       "title": "Secret Invasion",
@@ -48107,12 +52933,14 @@ window.PLEX_DATA = {
         "Kingsley Ben-Adir"
       ],
       "imdb_id": "tt13157618",
+      "imdb_score": 6.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 7629625833
+      "size_bytes": 7629625833,
+      "resolution": 720
     },
     {
       "title": "See",
@@ -48129,11 +52957,13 @@ window.PLEX_DATA = {
         "Hera Hilmar"
       ],
       "imdb_id": "tt7949218",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 36720393549
+      "size_bytes": 36720393549,
+      "resolution": 720
     },
     {
       "title": "Severance",
@@ -48150,11 +52980,13 @@ window.PLEX_DATA = {
         "Tramell Tillman"
       ],
       "imdb_id": "tt11280740",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 27029624138
+      "size_bytes": 27029624138,
+      "resolution": 720
     },
     {
       "title": "Sex and the City",
@@ -48171,9 +53003,11 @@ window.PLEX_DATA = {
         "Cynthia Nixon"
       ],
       "imdb_id": "tt0159206",
+      "imdb_score": 7.4,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 117106872718
+      "size_bytes": 117106872718,
+      "resolution": 720
     },
     {
       "title": "Shadowhunters",
@@ -48190,12 +53024,14 @@ window.PLEX_DATA = {
         "Alberto Rosende"
       ],
       "imdb_id": "tt4145054",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 120386261400
+      "size_bytes": 120386261400,
+      "resolution": 720
     },
     {
       "title": "Shameless (US)",
@@ -48212,12 +53048,14 @@ window.PLEX_DATA = {
         "Ethan Cutkosky"
       ],
       "imdb_id": "tt1586680",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 5365125013
+      "size_bytes": 5365125013,
+      "resolution": null
     },
     {
       "title": "She-Hulk: Attorney at Law",
@@ -48234,12 +53072,14 @@ window.PLEX_DATA = {
         "Jameela Jamil"
       ],
       "imdb_id": "tt10857160",
+      "imdb_score": 6.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 8313083804
+      "size_bytes": 8313083804,
+      "resolution": 720
     },
     {
       "title": "Shrinking",
@@ -48256,11 +53096,13 @@ window.PLEX_DATA = {
         "Jessica Williams"
       ],
       "imdb_id": "tt15677150",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 21719667045
+      "size_bytes": 21719667045,
+      "resolution": 720
     },
     {
       "title": "Shōgun",
@@ -48277,11 +53119,13 @@ window.PLEX_DATA = {
         "Anna Sawai"
       ],
       "imdb_id": "tt2788316",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 15044059454
+      "size_bytes": 15044059454,
+      "resolution": 720
     },
     {
       "title": "Silo",
@@ -48298,11 +53142,13 @@ window.PLEX_DATA = {
         "Harriet Walter"
       ],
       "imdb_id": "tt14688458",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 28470569489
+      "size_bytes": 28470569489,
+      "resolution": 720
     },
     {
       "title": "Sliders",
@@ -48319,12 +53165,14 @@ window.PLEX_DATA = {
         "Kari Wührer"
       ],
       "imdb_id": "tt0112167",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 82793550416
+      "size_bytes": 82793550416,
+      "resolution": 1080
     },
     {
       "title": "Smallville",
@@ -48341,12 +53189,14 @@ window.PLEX_DATA = {
         "Kristin Kreuk"
       ],
       "imdb_id": "tt0279600",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 259076048094
+      "size_bytes": 259076048094,
+      "resolution": 720
     },
     {
       "title": "Squid Game",
@@ -48363,13 +53213,15 @@ window.PLEX_DATA = {
         "Jeon Young-soo"
       ],
       "imdb_id": "tt10919420",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu",
         "ko"
       ],
       "has_subtitles": true,
-      "size_bytes": 35639416340
+      "size_bytes": 35639416340,
+      "resolution": 720
     },
     {
       "title": "Star Trek",
@@ -48386,12 +53238,14 @@ window.PLEX_DATA = {
         "DeForest Kelley"
       ],
       "imdb_id": "tt0060028",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 145849876656
+      "size_bytes": 145849876656,
+      "resolution": 720
     },
     {
       "title": "Star Trek: Deep Space Nine",
@@ -48408,12 +53262,14 @@ window.PLEX_DATA = {
         "Colm Meaney"
       ],
       "imdb_id": "tt0106145",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 137546513031
+      "size_bytes": 137546513031,
+      "resolution": 480
     },
     {
       "title": "Star Trek: Discovery",
@@ -48430,12 +53286,14 @@ window.PLEX_DATA = {
         "Mary Wiseman"
       ],
       "imdb_id": "tt5171438",
+      "imdb_score": 7.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 156776256050
+      "size_bytes": 156776256050,
+      "resolution": 1080
     },
     {
       "title": "Star Trek: Enterprise",
@@ -48452,12 +53310,14 @@ window.PLEX_DATA = {
         "Connor Trinneer"
       ],
       "imdb_id": "tt0244365",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 237851226207
+      "size_bytes": 237851226207,
+      "resolution": 1080
     },
     {
       "title": "Star Trek: Picard",
@@ -48474,11 +53334,13 @@ window.PLEX_DATA = {
         "Jeri Ryan"
       ],
       "imdb_id": "tt8806524",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 125785587019
+      "size_bytes": 125785587019,
+      "resolution": 1080
     },
     {
       "title": "Star Trek: Strange New Worlds",
@@ -48495,12 +53357,14 @@ window.PLEX_DATA = {
         "Jess Bush"
       ],
       "imdb_id": "tt12327578",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 67896065846
+      "size_bytes": 67896065846,
+      "resolution": 1080
     },
     {
       "title": "Star Trek: The Next Generation",
@@ -48517,12 +53381,14 @@ window.PLEX_DATA = {
         "Brent Spiner"
       ],
       "imdb_id": "tt0092455",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 1453471611281
+      "size_bytes": 1453471611281,
+      "resolution": 1080
     },
     {
       "title": "Star Trek: Voyager",
@@ -48539,12 +53405,14 @@ window.PLEX_DATA = {
         "Roxann Dawson"
       ],
       "imdb_id": "tt0112178",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 143025351158
+      "size_bytes": 143025351158,
+      "resolution": 480
     },
     {
       "title": "Stargate Atlantis",
@@ -48561,12 +53429,14 @@ window.PLEX_DATA = {
         "Rachel Luttrell"
       ],
       "imdb_id": "tt0374455",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 240953435142
+      "size_bytes": 240953435142,
+      "resolution": 720
     },
     {
       "title": "Stargate SG-1",
@@ -48583,12 +53453,14 @@ window.PLEX_DATA = {
         "Michael Shanks"
       ],
       "imdb_id": "tt0118480",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 297392313347
+      "size_bytes": 297392313347,
+      "resolution": 720
     },
     {
       "title": "Stargate Universe",
@@ -48605,12 +53477,14 @@ window.PLEX_DATA = {
         "David Blue"
       ],
       "imdb_id": "tt1286039",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 70013650044
+      "size_bytes": 70013650044,
+      "resolution": 720
     },
     {
       "title": "Stargirl",
@@ -48627,12 +53501,14 @@ window.PLEX_DATA = {
         "Anjelika Washington"
       ],
       "imdb_id": "tt8722888",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 37833953175
+      "size_bytes": 37833953175,
+      "resolution": 720
     },
     {
       "title": "Stranger Things",
@@ -48649,12 +53525,14 @@ window.PLEX_DATA = {
         "Millie Bobby Brown"
       ],
       "imdb_id": "tt4574334",
+      "imdb_score": 8.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 125085418731
+      "size_bytes": 125085418731,
+      "resolution": 720
     },
     {
       "title": "Succession",
@@ -48671,12 +53549,14 @@ window.PLEX_DATA = {
         "Sarah Snook"
       ],
       "imdb_id": "tt7660850",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 23666058897
+      "size_bytes": 23666058897,
+      "resolution": 720
     },
     {
       "title": "Suits",
@@ -48693,12 +53573,14 @@ window.PLEX_DATA = {
         "Sarah Rafferty"
       ],
       "imdb_id": "tt1632701",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 30139766544
+      "size_bytes": 30139766544,
+      "resolution": 720
     },
     {
       "title": "Supergirl",
@@ -48715,12 +53597,14 @@ window.PLEX_DATA = {
         "David Harewood"
       ],
       "imdb_id": "tt4016454",
+      "imdb_score": 7.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 213572786548
+      "size_bytes": 213572786548,
+      "resolution": 720
     },
     {
       "title": "Superman & Lois",
@@ -48737,12 +53621,14 @@ window.PLEX_DATA = {
         "Alex Garfin"
       ],
       "imdb_id": "tt11192306",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 56199130910
+      "size_bytes": 56199130910,
+      "resolution": 720
     },
     {
       "title": "Supernatural",
@@ -48759,12 +53645,14 @@ window.PLEX_DATA = {
         "Misha Collins"
       ],
       "imdb_id": "tt0460681",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 747622777751
+      "size_bytes": 747622777751,
+      "resolution": 720
     },
     {
       "title": "Superstore",
@@ -48780,12 +53668,14 @@ window.PLEX_DATA = {
         "Colton Dunn"
       ],
       "imdb_id": "tt4477976",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 89047220235
+      "size_bytes": 89047220235,
+      "resolution": 720
     },
     {
       "title": "Swamp Thing (2019)",
@@ -48802,12 +53692,14 @@ window.PLEX_DATA = {
         "Will Patton"
       ],
       "imdb_id": "tt8362852",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 11405391743
+      "size_bytes": 11405391743,
+      "resolution": 480
     },
     {
       "title": "Szomszedok",
@@ -48824,9 +53716,11 @@ window.PLEX_DATA = {
         "Juci Komlós"
       ],
       "imdb_id": "tt0108950",
+      "imdb_score": 8.5,
       "audio_languages": [],
       "has_subtitles": false,
-      "size_bytes": 176484443990
+      "size_bytes": 176484443990,
+      "resolution": 720
     },
     {
       "title": "Terminator: The Sarah Connor Chronicles",
@@ -48843,12 +53737,14 @@ window.PLEX_DATA = {
         "Summer Glau"
       ],
       "imdb_id": "tt0851851",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 59549860078
+      "size_bytes": 59549860078,
+      "resolution": 720
     },
     {
       "title": "The 100",
@@ -48865,12 +53761,14 @@ window.PLEX_DATA = {
         "Marie Avgeropoulos"
       ],
       "imdb_id": "tt2661044",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 246004723193
+      "size_bytes": 246004723193,
+      "resolution": 720
     },
     {
       "title": "The 4400",
@@ -48887,12 +53785,14 @@ window.PLEX_DATA = {
         "Patrick John Flueger"
       ],
       "imdb_id": "tt0389564",
+      "imdb_score": 7.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 65828604311
+      "size_bytes": 65828604311,
+      "resolution": 720
     },
     {
       "title": "The A-Team",
@@ -48909,12 +53809,14 @@ window.PLEX_DATA = {
         "Mr. T"
       ],
       "imdb_id": "tt0084967",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 191292737242
+      "size_bytes": 191292737242,
+      "resolution": 720
     },
     {
       "title": "The Acolyte",
@@ -48931,12 +53833,14 @@ window.PLEX_DATA = {
         "Joonas Suotamo"
       ],
       "imdb_id": "tt12262202",
+      "imdb_score": 5.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 8510100526
+      "size_bytes": 8510100526,
+      "resolution": 720
     },
     {
       "title": "The Big Bang Theory",
@@ -48953,12 +53857,14 @@ window.PLEX_DATA = {
         "Kaley Cuoco"
       ],
       "imdb_id": "tt0898266",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 305081719366
+      "size_bytes": 305081719366,
+      "resolution": 720
     },
     {
       "title": "The Big C",
@@ -48975,9 +53881,11 @@ window.PLEX_DATA = {
         "Oliver Platt"
       ],
       "imdb_id": "tt1515193",
+      "imdb_score": 7.3,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 8928029103
+      "size_bytes": 8928029103,
+      "resolution": null
     },
     {
       "title": "The Book of Boba Fett",
@@ -48994,12 +53902,14 @@ window.PLEX_DATA = {
         "Frank Trigg"
       ],
       "imdb_id": "tt13668894",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 9927716707
+      "size_bytes": 9927716707,
+      "resolution": 720
     },
     {
       "title": "The Borgias",
@@ -49016,12 +53926,14 @@ window.PLEX_DATA = {
         "Holliday Grainger"
       ],
       "imdb_id": "tt1582457",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 308456917995
+      "size_bytes": 308456917995,
+      "resolution": 1080
     },
     {
       "title": "The Expanse",
@@ -49038,11 +53950,13 @@ window.PLEX_DATA = {
         "Wes Chatham"
       ],
       "imdb_id": "tt3230854",
+      "imdb_score": 8.1,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 149409891198
+      "size_bytes": 149409891198,
+      "resolution": 720
     },
     {
       "title": "The Falcon and The Winter Soldier",
@@ -49059,12 +53973,14 @@ window.PLEX_DATA = {
         "Wyatt Russell"
       ],
       "imdb_id": "tt9208876",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 10181723633
+      "size_bytes": 10181723633,
+      "resolution": 720
     },
     {
       "title": "The Flash (2014)",
@@ -49081,12 +53997,14 @@ window.PLEX_DATA = {
         "Candice Patton"
       ],
       "imdb_id": "tt3107288",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 144958574455
+      "size_bytes": 144958574455,
+      "resolution": 720
     },
     {
       "title": "The Flintstones",
@@ -49103,12 +54021,14 @@ window.PLEX_DATA = {
         "Jean Vander Pyl"
       ],
       "imdb_id": "tt0053502",
+      "imdb_score": 7.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 73337701961
+      "size_bytes": 73337701961,
+      "resolution": 1080
     },
     {
       "title": "The Gifted",
@@ -49125,12 +54045,14 @@ window.PLEX_DATA = {
         "Natalie Alyn Lind"
       ],
       "imdb_id": "tt4396630",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 90760028703
+      "size_bytes": 90760028703,
+      "resolution": 1080
     },
     {
       "title": "The Girlfriend Experience",
@@ -49146,11 +54068,13 @@ window.PLEX_DATA = {
         "Carmen Ejogo"
       ],
       "imdb_id": "tt3846642",
+      "imdb_score": 7.0,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 9717009785
+      "size_bytes": 9717009785,
+      "resolution": 720
     },
     {
       "title": "The Handmaid's Tale",
@@ -49167,12 +54091,14 @@ window.PLEX_DATA = {
         "Ann Dowd"
       ],
       "imdb_id": "tt5834204",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 114813923473
+      "size_bytes": 114813923473,
+      "resolution": 720
     },
     {
       "title": "The Last Kingdom",
@@ -49189,11 +54115,13 @@ window.PLEX_DATA = {
         "Arnas Fedaravičius"
       ],
       "imdb_id": "tt4179452",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 104066574216
+      "size_bytes": 104066574216,
+      "resolution": 1080
     },
     {
       "title": "The Last of Us",
@@ -49210,12 +54138,14 @@ window.PLEX_DATA = {
         "Gabriel Luna"
       ],
       "imdb_id": "tt3581920",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 32270450757
+      "size_bytes": 32270450757,
+      "resolution": 720
     },
     {
       "title": "The Last Ship",
@@ -49232,12 +54162,14 @@ window.PLEX_DATA = {
         "Charles Parnell"
       ],
       "imdb_id": "tt2402207",
+      "imdb_score": 6.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 160808986809
+      "size_bytes": 160808986809,
+      "resolution": 1080
     },
     {
       "title": "The Lord of the Rings: The Rings of Power",
@@ -49254,12 +54186,14 @@ window.PLEX_DATA = {
         "Robert Aramayo"
       ],
       "imdb_id": "tt7631058",
+      "imdb_score": 7.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 39609963635
+      "size_bytes": 39609963635,
+      "resolution": 720
     },
     {
       "title": "The Madison",
@@ -49276,11 +54210,13 @@ window.PLEX_DATA = {
         "Beau Garrett"
       ],
       "imdb_id": "tt33204276",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 21535187597
+      "size_bytes": 21535187597,
+      "resolution": 1080
     },
     {
       "title": "The Mandalorian",
@@ -49297,12 +54233,14 @@ window.PLEX_DATA = {
         "Chris Bartlett"
       ],
       "imdb_id": "tt8111088",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 54462723820
+      "size_bytes": 54462723820,
+      "resolution": 1080
     },
     {
       "title": "The Office (US)",
@@ -49318,11 +54256,13 @@ window.PLEX_DATA = {
         "Jenna Fischer"
       ],
       "imdb_id": "tt0386676",
+      "imdb_score": 8.6,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 962746620
+      "size_bytes": 962746620,
+      "resolution": null
     },
     {
       "title": "The Orville",
@@ -49339,12 +54279,14 @@ window.PLEX_DATA = {
         "Penny Johnson Jerald"
       ],
       "imdb_id": "tt5691552",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 65554412035
+      "size_bytes": 65554412035,
+      "resolution": 720
     },
     {
       "title": "The Penguin",
@@ -49361,12 +54303,14 @@ window.PLEX_DATA = {
         "Rhenzy Feliz"
       ],
       "imdb_id": "tt15435876",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 15411945897
+      "size_bytes": 15411945897,
+      "resolution": 720
     },
     {
       "title": "The Peripheral",
@@ -49383,12 +54327,14 @@ window.PLEX_DATA = {
         "Jack Reynor"
       ],
       "imdb_id": "tt8291284",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 16849280108
+      "size_bytes": 16849280108,
+      "resolution": 720
     },
     {
       "title": "The Pretender",
@@ -49405,9 +54351,11 @@ window.PLEX_DATA = {
         "Patrick Bauchau"
       ],
       "imdb_id": "tt0115320",
+      "imdb_score": 7.3,
       "audio_languages": [],
       "has_subtitles": true,
-      "size_bytes": 32576581632
+      "size_bytes": 32576581632,
+      "resolution": 480
     },
     {
       "title": "The Rookie",
@@ -49424,12 +54372,14 @@ window.PLEX_DATA = {
         "Eric Winter"
       ],
       "imdb_id": "tt7587890",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 205080100245
+      "size_bytes": 205080100245,
+      "resolution": 720
     },
     {
       "title": "The Sandman",
@@ -49446,12 +54396,14 @@ window.PLEX_DATA = {
         "Patton Oswalt"
       ],
       "imdb_id": "tt1751634",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 21206302180
+      "size_bytes": 21206302180,
+      "resolution": 720
     },
     {
       "title": "The Spanish Princess",
@@ -49468,12 +54420,14 @@ window.PLEX_DATA = {
         "Laura Carmichael"
       ],
       "imdb_id": "tt8417308",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 37873045276
+      "size_bytes": 37873045276,
+      "resolution": 720
     },
     {
       "title": "The Tudors",
@@ -49490,12 +54444,14 @@ window.PLEX_DATA = {
         "Anthony Brophy"
       ],
       "imdb_id": "tt0758790",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 428249918081
+      "size_bytes": 428249918081,
+      "resolution": 1080
     },
     {
       "title": "The Umbrella Academy",
@@ -49512,12 +54468,14 @@ window.PLEX_DATA = {
         "Tom Hopper"
       ],
       "imdb_id": "tt1312171",
+      "imdb_score": 8.5,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 50053720449
+      "size_bytes": 50053720449,
+      "resolution": 720
     },
     {
       "title": "The Walking Dead",
@@ -49534,12 +54492,14 @@ window.PLEX_DATA = {
         "Lauren Cohan"
       ],
       "imdb_id": "tt1520211",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 508627957178
+      "size_bytes": 508627957178,
+      "resolution": 1080
     },
     {
       "title": "The Walking Dead: Daryl Dixon",
@@ -49556,12 +54516,14 @@ window.PLEX_DATA = {
         "Romain Levi"
       ],
       "imdb_id": "tt13062500",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 46761714742
+      "size_bytes": 46761714742,
+      "resolution": 720
     },
     {
       "title": "The Walking Dead: Dead City",
@@ -49578,12 +54540,14 @@ window.PLEX_DATA = {
         "Željko Ivanek"
       ],
       "imdb_id": "tt18546730",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 23296902063
+      "size_bytes": 23296902063,
+      "resolution": 720
     },
     {
       "title": "The Walking Dead: Origins",
@@ -49599,11 +54563,13 @@ window.PLEX_DATA = {
         "Jeffrey Dean Morgan"
       ],
       "imdb_id": "tt15130518",
+      "imdb_score": 7.8,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 8440801415
+      "size_bytes": 8440801415,
+      "resolution": 720
     },
     {
       "title": "The Walking Dead: The Ones Who Live",
@@ -49620,12 +54586,14 @@ window.PLEX_DATA = {
         "Pollyanna McIntosh"
       ],
       "imdb_id": "tt9859436",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 11952434118
+      "size_bytes": 11952434118,
+      "resolution": 720
     },
     {
       "title": "The Witcher",
@@ -49642,12 +54610,14 @@ window.PLEX_DATA = {
         "Eamon Farren"
       ],
       "imdb_id": "tt5180504",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 59278020209
+      "size_bytes": 59278020209,
+      "resolution": 720
     },
     {
       "title": "The X-Files",
@@ -49664,12 +54634,14 @@ window.PLEX_DATA = {
         "Mitch Pileggi"
       ],
       "imdb_id": "tt0106179",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 496521452947
+      "size_bytes": 496521452947,
+      "resolution": 720
     },
     {
       "title": "Timeless (2016)",
@@ -49686,11 +54658,13 @@ window.PLEX_DATA = {
         "Malcolm Barrett"
       ],
       "imdb_id": "tt5511582",
+      "imdb_score": 7.2,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 41540030409
+      "size_bytes": 41540030409,
+      "resolution": 720
     },
     {
       "title": "Titans (2018)",
@@ -49707,12 +54681,14 @@ window.PLEX_DATA = {
         "Ryan Potter"
       ],
       "imdb_id": "tt1043813",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 83252627355
+      "size_bytes": 83252627355,
+      "resolution": 1080
     },
     {
       "title": "Tom Clancy's Jack Ryan",
@@ -49729,12 +54705,14 @@ window.PLEX_DATA = {
         "Michael Kelly"
       ],
       "imdb_id": "tt5057054",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 67511689658
+      "size_bytes": 67511689658,
+      "resolution": 720
     },
     {
       "title": "Travelers (2016)",
@@ -49751,12 +54729,14 @@ window.PLEX_DATA = {
         "Nesta Cooper"
       ],
       "imdb_id": "tt5651844",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 65856107534
+      "size_bytes": 65856107534,
+      "resolution": 1080
     },
     {
       "title": "Tulsa King",
@@ -49773,12 +54753,14 @@ window.PLEX_DATA = {
         "Jay Will"
       ],
       "imdb_id": "tt16358384",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 37229405022
+      "size_bytes": 37229405022,
+      "resolution": 720
     },
     {
       "title": "Twin Peaks",
@@ -49795,12 +54777,14 @@ window.PLEX_DATA = {
         "Richard Beymer"
       ],
       "imdb_id": "tt0098936",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 145833935270
+      "size_bytes": 145833935270,
+      "resolution": 720
     },
     {
       "title": "Under the Dome",
@@ -49817,12 +54801,14 @@ window.PLEX_DATA = {
         "Alexander Koch"
       ],
       "imdb_id": "tt1553656",
+      "imdb_score": 7.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 67187606643
+      "size_bytes": 67187606643,
+      "resolution": 720
     },
     {
       "title": "V (2009)",
@@ -49839,12 +54825,14 @@ window.PLEX_DATA = {
         "Morris Chestnut"
       ],
       "imdb_id": "tt1307824",
+      "imdb_score": 6.8,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 32866391882
+      "size_bytes": 32866391882,
+      "resolution": 720
     },
     {
       "title": "Versailles",
@@ -49861,12 +54849,14 @@ window.PLEX_DATA = {
         "Tygh Runyan"
       ],
       "imdb_id": "tt3830558",
+      "imdb_score": 7.7,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 49238412678
+      "size_bytes": 49238412678,
+      "resolution": 1080
     },
     {
       "title": "Vikings: Valhalla",
@@ -49883,12 +54873,14 @@ window.PLEX_DATA = {
         "Leo Suter"
       ],
       "imdb_id": "tt11311302",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 31585651528
+      "size_bytes": 31585651528,
+      "resolution": 720
     },
     {
       "title": "WandaVision",
@@ -49905,12 +54897,14 @@ window.PLEX_DATA = {
         "Kathryn Hahn"
       ],
       "imdb_id": "tt9140560",
+      "imdb_score": 8.2,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 10771162736
+      "size_bytes": 10771162736,
+      "resolution": 720
     },
     {
       "title": "Watchmen",
@@ -49927,12 +54921,14 @@ window.PLEX_DATA = {
         "Jeremy Irons"
       ],
       "imdb_id": "tt7049682",
+      "imdb_score": 7.6,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 20120856695
+      "size_bytes": 20120856695,
+      "resolution": 720
     },
     {
       "title": "Wednesday",
@@ -49949,12 +54945,14 @@ window.PLEX_DATA = {
         "Hunter Doohan"
       ],
       "imdb_id": "tt13443470",
+      "imdb_score": 8.4,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 22338691493
+      "size_bytes": 22338691493,
+      "resolution": 720
     },
     {
       "title": "What If…?",
@@ -49971,12 +54969,14 @@ window.PLEX_DATA = {
         "Matthew Wood"
       ],
       "imdb_id": "tt10168312",
+      "imdb_score": 8.1,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 24168576260
+      "size_bytes": 24168576260,
+      "resolution": 720
     },
     {
       "title": "Will & Grace",
@@ -49993,11 +54993,13 @@ window.PLEX_DATA = {
         "Sean Hayes"
       ],
       "imdb_id": "tt0157246",
+      "imdb_score": 6.8,
       "audio_languages": [
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 45010539703
+      "size_bytes": 45010539703,
+      "resolution": 480
     },
     {
       "title": "Workin' Moms",
@@ -50014,11 +55016,13 @@ window.PLEX_DATA = {
         "Juno Rinaldi"
       ],
       "imdb_id": "tt6143796",
+      "imdb_score": 7.5,
       "audio_languages": [
         "en"
       ],
       "has_subtitles": true,
-      "size_bytes": 36488713067
+      "size_bytes": 36488713067,
+      "resolution": 720
     },
     {
       "title": "Yellowstone (2018)",
@@ -50035,12 +55039,14 @@ window.PLEX_DATA = {
         "Wes Bentley"
       ],
       "imdb_id": "tt4236770",
+      "imdb_score": 8.3,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 99870089741
+      "size_bytes": 99870089741,
+      "resolution": 720
     },
     {
       "title": "Yellowstone: One-Fifty",
@@ -50055,12 +55061,14 @@ window.PLEX_DATA = {
         "Kevin Costner"
       ],
       "imdb_id": "tt18360602",
+      "imdb_score": 7.9,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 6367837106
+      "size_bytes": 6367837106,
+      "resolution": 720
     },
     {
       "title": "Young Sheldon",
@@ -50077,12 +55085,14 @@ window.PLEX_DATA = {
         "Lance Barber"
       ],
       "imdb_id": "tt6226232",
+      "imdb_score": 8.0,
       "audio_languages": [
         "en",
         "hu"
       ],
       "has_subtitles": true,
-      "size_bytes": 102630500511
+      "size_bytes": 102630500511,
+      "resolution": 720
     }
   ]
 };

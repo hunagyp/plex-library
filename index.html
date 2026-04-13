@@ -252,6 +252,20 @@
     }
     .page-info { color: var(--text-muted); font-size: 0.82rem; padding: 0 4px; }
 
+    /* ── Quality badges ── */
+    .badge {
+      display: inline-block;
+      border-radius: 3px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 2px 6px;
+    }
+    .badge-4k   { background: #6b3fa0; color: #e8d5ff; }
+    .badge-1080 { background: #1a5c9a; color: #c8e4ff; }
+    .badge-720  { background: #1a6b4a; color: #c0f0d8; }
+    .badge-sd   { background: #555;    color: #ccc;    }
+
     /* ── Stats banner ── */
     .stats-banner {
       margin-bottom: 20px;
@@ -313,6 +327,8 @@
             <th class="sortable" data-col="actors" data-type="string">Actors <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="has_subtitles" data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="imdb_score" data-type="number">Score <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="resolution" data-type="number">Quality <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
             <th>IMDb</th>
           </tr>
@@ -357,6 +373,8 @@
             <th class="sortable" data-col="actors"  data-type="string">Actors <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="has_subtitles"   data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="imdb_score" data-type="number">Score <span class="sort-icon">⇅</span></th>
+            <th class="sortable" data-col="resolution" data-type="number">Quality <span class="sort-icon">⇅</span></th>
             <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
             <th>IMDb</th>
           </tr>
@@ -376,6 +394,21 @@
   };
 
   // ── Helpers ───────────────────────────────────────────────────────────────
+  function formatResolution(res) {
+    if (!res) return '<span style="color:var(--text-muted)">—</span>';
+    if (res >= 2160) return '<span class="badge badge-4k">4K</span>';
+    if (res >= 1080) return '<span class="badge badge-1080">1080p</span>';
+    if (res >= 720)  return '<span class="badge badge-720">720p</span>';
+    return '<span class="badge badge-sd">' + res + 'p</span>';
+  }
+
+  function formatScore(score) {
+    if (score === null || score === undefined) return '<span style="color:var(--text-muted)">—</span>';
+    const s = score.toFixed(1);
+    const color = score >= 7.5 ? '#6abf69' : score >= 6 ? '#e5a00d' : '#e06060';
+    return `<span style="color:${color};font-weight:600">★ ${s}</span>`;
+  }
+
   function formatSize(bytes) {
     if (!bytes) return '—';
     if (bytes >= 1e12) return (bytes / 1e12).toFixed(1) + ' TB';
@@ -496,6 +529,8 @@
       <td class="actors">${escHtml((m.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
       <td class="langs">${formatLangs(m.audio_languages)}</td>
       <td>${subs}</td>
+      <td class="num">${formatScore(m.imdb_score)}</td>
+      <td>${formatResolution(m.resolution)}</td>
       <td class="num">${formatSize(m.size_bytes)}</td>
       <td>${formatImdb(m.imdb_id)}</td>
     </tr>`;
@@ -514,6 +549,8 @@
       <td class="actors">${escHtml((s.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
       <td class="langs">${formatLangs(s.audio_languages)}</td>
       <td>${subs}</td>
+      <td class="num">${formatScore(s.imdb_score)}</td>
+      <td>${formatResolution(s.resolution)}</td>
       <td class="num">${formatSize(s.size_bytes)}</td>
       <td>${formatImdb(s.imdb_id)}</td>
     </tr>`;
