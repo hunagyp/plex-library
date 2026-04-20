@@ -20,6 +20,9 @@
       --accent-dim:#c4880b;
       --link:      #6ba3d6;
       --row-hover: #323232;
+      --chip-bg:   #2f2f2f;
+      --chip-on:   #e5a00d;
+      --chip-on-fg:#111;
     }
 
     body {
@@ -75,18 +78,98 @@
       border-bottom-color: var(--accent);
     }
 
-    /* ── Main content ── */
+    /* ── Main ── */
     main { padding: 24px 28px; max-width: 1600px; margin: 0 auto; }
-
     .panel { display: none; }
     .panel.active { display: block; }
+
+    /* ── Stats tiles ── */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .stat-tile {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .stat-tile .stat-value {
+      color: var(--accent);
+      font-size: 1.7rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      font-variant-numeric: tabular-nums;
+    }
+    .stat-tile .stat-label {
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    /* ── Quick filters ── */
+    .quickfilter-block {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      margin-bottom: 14px;
+    }
+    .qf-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 4px 0; }
+    .qf-row + .qf-row { border-top: 1px dashed var(--border); margin-top: 2px; padding-top: 8px; }
+    .qf-label {
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      min-width: 84px;
+    }
+    .chip {
+      background: var(--chip-bg);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.8rem;
+      padding: 3px 10px;
+      user-select: none;
+      transition: background 0.12s, border-color 0.12s, color 0.12s;
+    }
+    .chip:hover { border-color: var(--accent-dim); }
+    .chip.active {
+      background: var(--chip-on);
+      border-color: var(--chip-on);
+      color: var(--chip-on-fg);
+      font-weight: 600;
+    }
+    .chip .chip-count { opacity: 0.6; font-size: 0.72rem; margin-left: 4px; }
+    .chip.active .chip-count { opacity: 0.75; }
+    .qf-clear {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      margin-left: auto;
+    }
+    .qf-clear:hover { color: var(--text); border-color: var(--accent-dim); }
+    .qf-clear:disabled { opacity: 0.4; cursor: default; }
 
     /* ── Controls bar ── */
     .controls {
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 16px;
+      margin-bottom: 14px;
       flex-wrap: wrap;
     }
     .search-wrap {
@@ -120,8 +203,9 @@
     .controls-right {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       margin-left: auto;
+      flex-wrap: wrap;
     }
     .count-badge {
       color: var(--text-muted);
@@ -136,25 +220,74 @@
       gap: 6px;
       white-space: nowrap;
     }
-    select {
+    select, .columns-btn {
       background: var(--surface2);
       border: 1px solid var(--border);
       border-radius: 4px;
       color: var(--text);
       font-size: 0.85rem;
-      padding: 4px 8px;
+      padding: 4px 10px;
       cursor: pointer;
     }
-    select:focus { outline: 1px solid var(--accent); }
+    select:focus, .columns-btn:focus { outline: 1px solid var(--accent); }
+
+    /* ── Columns menu ── */
+    .columns-wrap { position: relative; }
+    .columns-panel {
+      display: none;
+      position: absolute;
+      right: 0;
+      top: calc(100% + 4px);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+      min-width: 200px;
+      padding: 10px 12px;
+      z-index: 20;
+    }
+    .columns-panel.open { display: block; }
+    .columns-panel .col-title {
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .columns-panel label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 4px 2px;
+      font-size: 0.86rem;
+      cursor: pointer;
+      user-select: none;
+    }
+    .columns-panel label:hover { color: var(--accent); }
+    .columns-panel input[type="checkbox"] { accent-color: var(--accent); }
+    .columns-panel .col-actions {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      gap: 6px;
+    }
+    .columns-panel .col-actions button {
+      flex: 1;
+      background: var(--surface3);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.76rem;
+      padding: 4px 6px;
+    }
+    .columns-panel .col-actions button:hover { border-color: var(--accent-dim); color: var(--accent); }
 
     /* ── Table ── */
     .table-wrap { overflow-x: auto; border-radius: 8px; border: 1px solid var(--border); }
-
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      min-width: 700px;
-    }
+    table { border-collapse: collapse; width: 100%; min-width: 700px; }
     thead { background: var(--surface3); position: sticky; top: 0; z-index: 1; }
     th {
       color: var(--text-muted);
@@ -186,8 +319,9 @@
       line-height: 1.4;
     }
     td.num { text-align: right; font-variant-numeric: tabular-nums; }
-    td.title { font-weight: 500; color: #fff; min-width: 180px; }
-    td.genres, td.actors { color: var(--text-muted); font-size: 0.82rem; max-width: 220px; }
+    td.title-cell { font-weight: 500; color: #fff; min-width: 180px; cursor: help; }
+    td.title-hu { color: #d5c4a1; min-width: 160px; cursor: help; }
+    td.genres, td.actors, td.directors { color: var(--text-muted); font-size: 0.82rem; max-width: 220px; }
     td.langs  { font-size: 0.82rem; }
     td.subs-yes { color: #6abf69; font-weight: 600; }
     td.subs-no  { color: var(--text-muted); }
@@ -205,7 +339,24 @@
     }
     a.imdb-link:hover { background: #e0b015; }
 
-    /* ── Empty / error ── */
+    a.trailer-link {
+      background: #c00;
+      border-radius: 3px;
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 2px 6px;
+      text-decoration: none;
+      white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+    a.trailer-link:hover { background: #a00; }
+    a.trailer-link.search-fallback { background: #555; }
+    a.trailer-link.search-fallback:hover { background: #666; }
+
     .empty-row td {
       text-align: center;
       color: var(--text-muted);
@@ -266,18 +417,25 @@
     .badge-720  { background: #1a6b4a; color: #c0f0d8; }
     .badge-sd   { background: #555;    color: #ccc;    }
 
-    /* ── Stats banner ── */
-    .stats-banner {
-      margin-bottom: 20px;
-      border-radius: 8px;
-      overflow: hidden;
-      border: 1px solid var(--border);
+    /* ── Summary tooltip ── */
+    #summary-tooltip {
+      position: fixed;
+      display: none;
+      background: #1b1b1b;
+      border: 1px solid var(--accent-dim);
+      border-radius: 6px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+      color: var(--text);
+      font-size: 0.82rem;
+      line-height: 1.45;
+      max-width: 380px;
+      padding: 10px 12px;
+      pointer-events: none;
+      z-index: 9999;
     }
-    .stats-banner img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
+    #summary-tooltip.visible { display: block; }
+    #summary-tooltip .tt-title { color: var(--accent); font-weight: 700; margin-bottom: 4px; }
+    #summary-tooltip .tt-empty { color: var(--text-muted); font-style: italic; }
   </style>
 </head>
 <body>
@@ -295,11 +453,13 @@
 <main>
   <div id="error-banner"></div>
 
+  <!-- Stats tiles (shared across tabs) -->
+  <div class="stats-grid" id="stats-grid"></div>
+
   <!-- Movies panel -->
   <div id="panel-movies" class="panel active">
-    <div class="stats-banner">
-      <img src="plex-stats.png" alt="Plex stats" />
-    </div>
+    <div class="quickfilter-block" id="qf-movies"></div>
+
     <div class="controls">
       <div class="search-wrap">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -315,24 +475,16 @@
             <option value="100">100</option>
           </select>
         </label>
+        <div class="columns-wrap">
+          <button class="columns-btn" onclick="toggleColumnsMenu('movies', event)">Columns ▾</button>
+          <div class="columns-panel" id="columns-panel-movies"></div>
+        </div>
       </div>
     </div>
+
     <div class="table-wrap">
       <table id="table-movies">
-        <thead>
-          <tr>
-            <th class="sortable" data-col="title" data-type="string">Name <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="year"  data-type="number">Year <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="genres" data-type="string">Genre(s) <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="actors" data-type="string">Actors <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="has_subtitles" data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="imdb_score" data-type="number">Score <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="resolution" data-type="number">Quality <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
-            <th>IMDb</th>
-          </tr>
-        </thead>
+        <thead><tr id="thead-movies"></tr></thead>
         <tbody id="tbody-movies"></tbody>
       </table>
     </div>
@@ -341,9 +493,8 @@
 
   <!-- Shows panel -->
   <div id="panel-shows" class="panel">
-    <div class="stats-banner">
-      <img src="plex-stats.png" alt="Plex stats" />
-    </div>
+    <div class="quickfilter-block" id="qf-shows"></div>
+
     <div class="controls">
       <div class="search-wrap">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -359,26 +510,16 @@
             <option value="100">100</option>
           </select>
         </label>
+        <div class="columns-wrap">
+          <button class="columns-btn" onclick="toggleColumnsMenu('shows', event)">Columns ▾</button>
+          <div class="columns-panel" id="columns-panel-shows"></div>
+        </div>
       </div>
     </div>
+
     <div class="table-wrap">
       <table id="table-shows">
-        <thead>
-          <tr>
-            <th class="sortable" data-col="title"   data-type="string">Name <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="year"    data-type="number">Year <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="seasons" data-type="number">Seasons <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="episodes" data-type="number">Episodes <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="genres"  data-type="string">Genre(s) <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="actors"  data-type="string">Actors <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="audio_languages" data-type="string">Languages <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="has_subtitles"   data-type="bool">Subtitles <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="imdb_score" data-type="number">Score <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="resolution" data-type="number">Quality <span class="sort-icon">⇅</span></th>
-            <th class="sortable" data-col="size_bytes" data-type="number">Size <span class="sort-icon">⇅</span></th>
-            <th>IMDb</th>
-          </tr>
-        </thead>
+        <thead><tr id="thead-shows"></tr></thead>
         <tbody id="tbody-shows"></tbody>
       </table>
     </div>
@@ -386,24 +527,30 @@
   </div>
 </main>
 
-<script>
-  // ── State ────────────────────────────────────────────────────────────────
-  const state = {
-    movies: { data: [], filtered: [], sortCol: null, sortDir: 'asc', page: 1, pageSize: 25 },
-    shows:  { data: [], filtered: [], sortCol: null, sortDir: 'asc', page: 1, pageSize: 25 },
-  };
+<div id="summary-tooltip"></div>
 
-  // ── Helpers ───────────────────────────────────────────────────────────────
+<script>
+  // ── Utility formatters ──────────────────────────────────────────────────
+  const DASH = '<span style="color:var(--text-muted)">—</span>';
+
+  function escHtml(str) {
+    return String(str ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
   function formatResolution(res) {
-    if (!res) return '<span style="color:var(--text-muted)">—</span>';
+    if (!res) return DASH;
     if (res >= 2160) return '<span class="badge badge-4k">4K</span>';
     if (res >= 1080) return '<span class="badge badge-1080">1080p</span>';
     if (res >= 720)  return '<span class="badge badge-720">720p</span>';
-    return '<span class="badge badge-sd">' + res + 'p</span>';
+    return `<span class="badge badge-sd">${res}p</span>`;
   }
 
   function formatScore(score) {
-    if (score === null || score === undefined) return '<span style="color:var(--text-muted)">—</span>';
+    if (score === null || score === undefined) return DASH;
     const s = score.toFixed(1);
     const color = score >= 7.5 ? '#6abf69' : score >= 6 ? '#e5a00d' : '#e06060';
     return `<span style="color:${color};font-weight:600">★ ${s}</span>`;
@@ -417,33 +564,304 @@
     return (bytes / 1e3).toFixed(1) + ' KB';
   }
 
+  function formatDuration(ms) {
+    if (!ms) return DASH;
+    const mins = Math.round(ms / 60000);
+    const h = Math.floor(mins / 60);
+    const m = mins % 60;
+    return `${h}:${String(m).padStart(2, '0')}`;
+  }
+
+  function formatTotalHours(msTotal) {
+    if (!msTotal) return '0h';
+    const hours = Math.round(msTotal / 3600000);
+    if (hours >= 1000) return `${(hours / 1000).toFixed(1)}k h`;
+    return `${hours} h`;
+  }
+
   function formatLangs(arr) {
-    if (!arr || arr.length === 0) return '<span style="color:var(--text-muted)">—</span>';
+    if (!arr || arr.length === 0) return DASH;
     return arr.join(', ');
   }
 
   function formatImdb(id) {
-    if (!id) return '<span style="color:var(--text-muted)">—</span>';
-    return `<a class="imdb-link" href="https://www.imdb.com/title/${id}/" target="_blank" rel="noopener">IMDb</a>`;
+    if (!id) return DASH;
+    return `<a class="imdb-link" href="https://www.imdb.com/title/${escHtml(id)}/" target="_blank" rel="noopener">IMDb</a>`;
   }
 
-  function escHtml(str) {
-    return String(str ?? '')
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
+  function formatTrailer(item) {
+    if (item.trailer_youtube_key) {
+      const url = `https://www.youtube.com/watch?v=${encodeURIComponent(item.trailer_youtube_key)}`;
+      return `<a class="trailer-link" href="${url}" target="_blank" rel="noopener">▶ Trailer</a>`;
+    }
+    // Fallback: YouTube search
+    const query = encodeURIComponent(`${item.title || ''} ${item.year || ''} trailer`.trim());
+    const url = `https://www.youtube.com/results?search_query=${query}`;
+    return `<a class="trailer-link search-fallback" href="${url}" target="_blank" rel="noopener" title="No trailer found — search YouTube">▶ Search</a>`;
   }
 
-  // Convert any field value to a searchable string
-  function fieldToString(val) {
-    if (val === null || val === undefined) return '';
-    if (Array.isArray(val)) return val.join(' ');
-    if (typeof val === 'boolean') return val ? 'yes' : 'no';
-    return String(val);
+  function formatSubs(v) {
+    return v ? '<span class="subs-yes">Yes</span>' : '<span class="subs-no">No</span>';
   }
 
-  // Sortable value for a field
+  function formatList(arr) {
+    return (arr && arr.length) ? escHtml(arr.join(', ')) : DASH;
+  }
+
+  function debounce(fn, delay) {
+    let t;
+    return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), delay); };
+  }
+
+  // ── Column definitions ─────────────────────────────────────────────────
+  // id, label, type (string/number/bool), sortable, default visible, cellClass, render
+  const COLUMNS = {
+    movies: [
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary', render: m => escHtml(m.title || '') },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary', render: m => m.title_hu ? escHtml(m.title_hu) : DASH },
+      { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => m.year ?? '—' },
+      { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: m => formatList(m.genres) },
+      { id: 'directors',   label: 'Director',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'directors',  render: m => formatList(m.directors) },
+      { id: 'actors',      label: 'Actors',    type: 'string', sortable: true,  defaultOn: true,  cellClass: 'actors',     render: m => formatList(m.actors) },
+      { id: 'audio_languages', label: 'Languages', type: 'string', sortable: true, defaultOn: true, cellClass: 'langs',    render: m => formatLangs(m.audio_languages) },
+      { id: 'has_subtitles', label: 'Subtitles', type: 'bool', sortable: true,  defaultOn: true,  render: m => formatSubs(m.has_subtitles) },
+      { id: 'duration_ms', label: 'Playtime',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatDuration(m.duration_ms) },
+      { id: 'imdb_score',  label: 'Score',     type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatScore(m.imdb_score) },
+      { id: 'resolution',  label: 'Quality',   type: 'number', sortable: true,  defaultOn: true,  render: m => formatResolution(m.resolution) },
+      { id: 'size_bytes',  label: 'Size',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatSize(m.size_bytes) },
+      { id: 'trailer',     label: 'Trailer',   type: 'string', sortable: false, defaultOn: true,  render: m => formatTrailer(m) },
+      { id: 'imdb_id',     label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  render: m => formatImdb(m.imdb_id) },
+    ],
+    shows: [
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary', render: s => escHtml(s.title || '') },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary', render: s => s.title_hu ? escHtml(s.title_hu) : DASH },
+      { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.year ?? '—' },
+      { id: 'seasons',     label: 'Seasons',   type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.seasons ?? '—' },
+      { id: 'episodes',    label: 'Episodes',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.episodes ?? '—' },
+      { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: s => formatList(s.genres) },
+      { id: 'actors',      label: 'Actors',    type: 'string', sortable: true,  defaultOn: true,  cellClass: 'actors',     render: s => formatList(s.actors) },
+      { id: 'audio_languages', label: 'Languages', type: 'string', sortable: true, defaultOn: true, cellClass: 'langs',    render: s => formatLangs(s.audio_languages) },
+      { id: 'has_subtitles', label: 'Subtitles', type: 'bool', sortable: true,  defaultOn: true,  render: s => formatSubs(s.has_subtitles) },
+      { id: 'duration_ms', label: 'Playtime',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatDuration(s.duration_ms) },
+      { id: 'imdb_score',  label: 'Score',     type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatScore(s.imdb_score) },
+      { id: 'resolution',  label: 'Quality',   type: 'number', sortable: true,  defaultOn: true,  render: s => formatResolution(s.resolution) },
+      { id: 'size_bytes',  label: 'Size',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatSize(s.size_bytes) },
+      { id: 'trailer',     label: 'Trailer',   type: 'string', sortable: false, defaultOn: true,  render: s => formatTrailer(s) },
+      { id: 'imdb_id',     label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  render: s => formatImdb(s.imdb_id) },
+    ],
+  };
+
+  // ── State ──────────────────────────────────────────────────────────────
+  const state = {
+    movies: { data: [], filtered: [], sortCol: null, sortDir: 'asc', sortType: null, page: 1, pageSize: 25,
+              filters: { genres: new Set(), actors: new Set(), directors: new Set() }, visible: new Set() },
+    shows:  { data: [], filtered: [], sortCol: null, sortDir: 'asc', sortType: null, page: 1, pageSize: 25,
+              filters: { genres: new Set(), actors: new Set(), directors: new Set() }, visible: new Set() },
+  };
+
+  // ── localStorage helpers ──────────────────────────────────────────────
+  const LS_KEY = 'plexLibrary:v1';
+  function loadPrefs() {
+    try { return JSON.parse(localStorage.getItem(LS_KEY) || '{}'); } catch { return {}; }
+  }
+  function savePrefs(p) {
+    try { localStorage.setItem(LS_KEY, JSON.stringify(p)); } catch {}
+  }
+
+  function getVisibleCols(tab) {
+    const prefs = loadPrefs();
+    const saved = prefs.columns?.[tab];
+    if (Array.isArray(saved)) return new Set(saved);
+    return new Set(COLUMNS[tab].filter(c => c.defaultOn).map(c => c.id));
+  }
+  function persistVisibleCols(tab) {
+    const prefs = loadPrefs();
+    prefs.columns = prefs.columns || {};
+    prefs.columns[tab] = [...state[tab].visible];
+    savePrefs(prefs);
+  }
+
+  // ── Tab switching ─────────────────────────────────────────────────────
+  function switchTab(tab) {
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
+    document.getElementById(`panel-${tab}`).classList.add('active');
+    document.getElementById(`tab-${tab}`).classList.add('active');
+  }
+
+  // ── Stats tiles ───────────────────────────────────────────────────────
+  function renderStats(data) {
+    const movies = data.movies || [];
+    const shows  = data.shows  || [];
+    const movieMs = movies.reduce((a, m) => a + (m.duration_ms || 0), 0);
+    const showMs  = shows .reduce((a, s) => a + (s.duration_ms || 0), 0);
+    const movieBytes = movies.reduce((a, m) => a + (m.size_bytes || 0), 0);
+    const showBytes  = shows .reduce((a, s) => a + (s.size_bytes || 0), 0);
+    const episodes = shows.reduce((a, s) => a + (s.episodes || 0), 0);
+
+    const tiles = [
+      { label: 'Movies',       value: movies.length.toLocaleString() },
+      { label: 'TV Shows',     value: shows.length.toLocaleString() },
+      { label: 'TV Episodes',  value: episodes.toLocaleString() },
+      { label: 'Total Playtime', value: formatTotalHours(movieMs + showMs) },
+      { label: 'Total Size',   value: formatSize(movieBytes + showBytes) },
+    ];
+    document.getElementById('stats-grid').innerHTML = tiles.map(t =>
+      `<div class="stat-tile"><div class="stat-value">${t.value}</div><div class="stat-label">${t.label}</div></div>`
+    ).join('');
+  }
+
+  // ── Quick filters ─────────────────────────────────────────────────────
+  function countOccurrences(items, field) {
+    const map = new Map();
+    for (const it of items) {
+      const vals = it[field];
+      if (!Array.isArray(vals)) continue;
+      for (const v of vals) {
+        if (!v) continue;
+        map.set(v, (map.get(v) || 0) + 1);
+      }
+    }
+    return [...map.entries()].sort((a, b) => b[1] - a[1]);
+  }
+
+  function renderQuickFilters(tab) {
+    const s = state[tab];
+    const container = document.getElementById(`qf-${tab}`);
+    const hasData = s.data.length > 0;
+    if (!hasData) { container.innerHTML = ''; return; }
+
+    const topGenres    = countOccurrences(s.data, 'genres').slice(0, 10);
+    const topActors    = countOccurrences(s.data, 'actors').slice(0, 5);
+    const topDirectors = countOccurrences(s.data, 'directors').slice(0, 5);
+
+    const anyActive = s.filters.genres.size + s.filters.actors.size + s.filters.directors.size > 0;
+
+    function chipRow(label, key, entries) {
+      if (!entries.length) return '';
+      const chips = entries.map(([val, count]) => {
+        const active = s.filters[key].has(val) ? 'active' : '';
+        return `<button class="chip ${active}" data-key="${key}" data-val="${escHtml(val)}">${escHtml(val)}<span class="chip-count">${count}</span></button>`;
+      }).join('');
+      return `<div class="qf-row"><span class="qf-label">${label}</span>${chips}</div>`;
+    }
+
+    const clearBtn = `<button class="qf-clear" onclick="clearQuickFilters('${tab}')" ${anyActive ? '' : 'disabled'}>Clear filters</button>`;
+
+    container.innerHTML =
+      chipRow(`Top 10 Genres`,    'genres',    topGenres) +
+      chipRow(`Top 5 Actors`,     'actors',    topActors) +
+      chipRow(`Top 5 Directors`,  'directors', topDirectors) +
+      `<div class="qf-row" style="border-top:1px dashed var(--border);padding-top:8px;">${clearBtn}</div>`;
+
+    container.querySelectorAll('.chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.dataset.key;
+        const val = btn.dataset.val;
+        const set = s.filters[key];
+        set.has(val) ? set.delete(val) : set.add(val);
+        s.page = 1;
+        render(tab);
+      });
+    });
+  }
+
+  function clearQuickFilters(tab) {
+    const f = state[tab].filters;
+    f.genres.clear(); f.actors.clear(); f.directors.clear();
+    state[tab].page = 1;
+    render(tab);
+  }
+
+  // ── Columns menu ──────────────────────────────────────────────────────
+  function renderColumnsMenu(tab) {
+    const panel = document.getElementById(`columns-panel-${tab}`);
+    const visible = state[tab].visible;
+    const html = [
+      '<div class="col-title">Show columns</div>',
+      ...COLUMNS[tab].map(c =>
+        `<label><input type="checkbox" data-col="${c.id}" ${visible.has(c.id) ? 'checked' : ''}> ${escHtml(c.label)}</label>`
+      ),
+      `<div class="col-actions">
+         <button onclick="resetColumns('${tab}')">Reset</button>
+         <button onclick="showAllColumns('${tab}')">All</button>
+       </div>`
+    ].join('');
+    panel.innerHTML = html;
+    panel.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+      cb.addEventListener('change', () => {
+        const id = cb.dataset.col;
+        if (cb.checked) state[tab].visible.add(id); else state[tab].visible.delete(id);
+        // keep at least one column
+        if (state[tab].visible.size === 0) {
+          state[tab].visible.add(id);
+          cb.checked = true;
+        }
+        persistVisibleCols(tab);
+        renderHeader(tab);
+        render(tab);
+      });
+    });
+  }
+
+  function toggleColumnsMenu(tab, evt) {
+    evt.stopPropagation();
+    const panel = document.getElementById(`columns-panel-${tab}`);
+    const isOpen = panel.classList.contains('open');
+    document.querySelectorAll('.columns-panel').forEach(p => p.classList.remove('open'));
+    if (!isOpen) panel.classList.add('open');
+  }
+
+  function resetColumns(tab) {
+    state[tab].visible = new Set(COLUMNS[tab].filter(c => c.defaultOn).map(c => c.id));
+    persistVisibleCols(tab);
+    renderColumnsMenu(tab);
+    renderHeader(tab);
+    render(tab);
+  }
+  function showAllColumns(tab) {
+    state[tab].visible = new Set(COLUMNS[tab].map(c => c.id));
+    persistVisibleCols(tab);
+    renderColumnsMenu(tab);
+    renderHeader(tab);
+    render(tab);
+  }
+
+  document.addEventListener('click', () => {
+    document.querySelectorAll('.columns-panel.open').forEach(p => p.classList.remove('open'));
+  });
+
+  // ── Header / sort ─────────────────────────────────────────────────────
+  function renderHeader(tab) {
+    const s = state[tab];
+    const tr = document.getElementById(`thead-${tab}`);
+    const cols = COLUMNS[tab].filter(c => s.visible.has(c.id));
+    tr.innerHTML = cols.map(c => {
+      const sortClass = c.sortable ? 'sortable' : '';
+      const activeClass = s.sortCol === c.id ? 'sort-active' : '';
+      const icon = !c.sortable ? '' :
+        `<span class="sort-icon">${s.sortCol === c.id ? (s.sortDir === 'asc' ? '▲' : '▼') : '⇅'}</span>`;
+      return `<th class="${sortClass} ${activeClass}" data-col="${c.id}" data-type="${c.type}">${escHtml(c.label)} ${icon}</th>`;
+    }).join('');
+    tr.querySelectorAll('th.sortable').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        const type = th.dataset.type;
+        if (s.sortCol === col) {
+          s.sortDir = s.sortDir === 'asc' ? 'desc' : 'asc';
+        } else {
+          s.sortCol = col;
+          s.sortType = type;
+          s.sortDir = 'asc';
+        }
+        s.page = 1;
+        renderHeader(tab);
+        render(tab);
+      });
+    });
+  }
+
+  // ── Sort / search ─────────────────────────────────────────────────────
   function sortValue(item, col, type) {
     const val = item[col];
     if (type === 'number') return val ?? -Infinity;
@@ -452,38 +870,50 @@
     return String(val ?? '').toLowerCase();
   }
 
-  function debounce(fn, delay) {
-    let t;
-    return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), delay); };
+  function fieldToString(val) {
+    if (val === null || val === undefined) return '';
+    if (Array.isArray(val)) return val.join(' ');
+    if (typeof val === 'boolean') return val ? 'yes' : 'no';
+    return String(val);
   }
 
-  // ── Tab switching ─────────────────────────────────────────────────────────
-  function switchTab(tab) {
-    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('nav.tabs button').forEach(b => b.classList.remove('active'));
-    document.getElementById(`panel-${tab}`).classList.add('active');
-    document.getElementById(`tab-${tab}`).classList.add('active');
+  function itemMatchesSearch(item, query) {
+    if (!query) return true;
+    // Stringify top-level fields except summary (too long) and internal ids
+    const skip = new Set(['summary', 'trailer_youtube_key']);
+    for (const [k, v] of Object.entries(item)) {
+      if (skip.has(k)) continue;
+      if (fieldToString(v).toLowerCase().includes(query)) return true;
+    }
+    // Also match summary (searchable, just not in primary fields loop for perf)
+    if (item.summary && item.summary.toLowerCase().includes(query)) return true;
+    return false;
   }
 
-  // ── Core render ───────────────────────────────────────────────────────────
+  function itemMatchesFilters(item, filters) {
+    if (filters.genres.size > 0) {
+      if (!(item.genres || []).some(g => filters.genres.has(g))) return false;
+    }
+    if (filters.actors.size > 0) {
+      if (!(item.actors || []).some(a => filters.actors.has(a))) return false;
+    }
+    if (filters.directors.size > 0) {
+      if (!(item.directors || []).some(d => filters.directors.has(d))) return false;
+    }
+    return true;
+  }
+
+  // ── Core render ───────────────────────────────────────────────────────
   function render(tab) {
     const s = state[tab];
     const query = document.getElementById(`search-${tab}`).value.trim().toLowerCase();
 
-    // 1. Filter
-    if (query) {
-      s.filtered = s.data.filter(item =>
-        Object.values(item).some(v => fieldToString(v).toLowerCase().includes(query))
-      );
-    } else {
-      s.filtered = s.data;
-    }
+    s.filtered = s.data.filter(item => itemMatchesFilters(item, s.filters) && itemMatchesSearch(item, query));
 
-    // 2. Sort
     if (s.sortCol) {
-      const col  = s.sortCol;
+      const col = s.sortCol;
       const type = s.sortType;
-      const dir  = s.sortDir === 'asc' ? 1 : -1;
+      const dir = s.sortDir === 'asc' ? 1 : -1;
       s.filtered = [...s.filtered].sort((a, b) => {
         const av = sortValue(a, col, type);
         const bv = sortValue(b, col, type);
@@ -492,94 +922,56 @@
       });
     }
 
-    // 3. Clamp page
     const totalPages = Math.max(1, Math.ceil(s.filtered.length / s.pageSize));
     if (s.page > totalPages) s.page = totalPages;
 
-    // 4. Slice
     const start = (s.page - 1) * s.pageSize;
-    const rows  = s.filtered.slice(start, start + s.pageSize);
+    const rows = s.filtered.slice(start, start + s.pageSize);
 
-    // 5. Count badge
     const total = s.data.length;
     const shown = s.filtered.length;
+    const anyFilterOrSearch = query || s.filters.genres.size || s.filters.actors.size || s.filters.directors.size;
     document.getElementById(`count-${tab}`).textContent =
-      query ? `${shown} of ${total} results` : `${total} total`;
+      anyFilterOrSearch ? `${shown} of ${total} results` : `${total} total`;
 
-    // 6. Render rows
+    const cols = COLUMNS[tab].filter(c => s.visible.has(c.id));
     const tbody = document.getElementById(`tbody-${tab}`);
     if (rows.length === 0) {
-      tbody.innerHTML = `<tr class="empty-row"><td colspan="20">No results found.</td></tr>`;
+      tbody.innerHTML = `<tr class="empty-row"><td colspan="${cols.length || 1}">No results found.</td></tr>`;
     } else {
-      tbody.innerHTML = tab === 'movies' ? rows.map(rowMovie).join('') : rows.map(rowShow).join('');
+      tbody.innerHTML = rows.map((item, idx) => {
+        const realIdx = s.data.indexOf(item);
+        return '<tr>' + cols.map(c => {
+          const cls = c.cellClass || '';
+          const hoverAttr = c.hover === 'summary' ? `data-hover="summary" data-idx="${realIdx}" data-tab="${tab}"` : '';
+          return `<td class="${cls}" ${hoverAttr}>${c.render(item)}</td>`;
+        }).join('') + '</tr>';
+      }).join('');
     }
 
-    // 7. Pagination
     renderPagination(tab, totalPages);
+    renderQuickFilters(tab); // refresh to reflect active chip states
   }
 
-  function rowMovie(m) {
-    const subs = m.has_subtitles
-      ? '<span class="subs-yes">Yes</span>'
-      : '<span class="subs-no">No</span>';
-    return `<tr>
-      <td class="title">${escHtml(m.title)}</td>
-      <td class="num">${m.year ?? '—'}</td>
-      <td class="genres">${escHtml((m.genres || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
-      <td class="actors">${escHtml((m.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
-      <td class="langs">${formatLangs(m.audio_languages)}</td>
-      <td>${subs}</td>
-      <td class="num">${formatScore(m.imdb_score)}</td>
-      <td>${formatResolution(m.resolution)}</td>
-      <td class="num">${formatSize(m.size_bytes)}</td>
-      <td>${formatImdb(m.imdb_id)}</td>
-    </tr>`;
-  }
-
-  function rowShow(s) {
-    const subs = s.has_subtitles
-      ? '<span class="subs-yes">Yes</span>'
-      : '<span class="subs-no">No</span>';
-    return `<tr>
-      <td class="title">${escHtml(s.title)}</td>
-      <td class="num">${s.year ?? '—'}</td>
-      <td class="num">${s.seasons ?? '—'}</td>
-      <td class="num">${s.episodes ?? '—'}</td>
-      <td class="genres">${escHtml((s.genres || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
-      <td class="actors">${escHtml((s.actors || []).join(', ')) || '<span style="color:var(--text-muted)">—</span>'}</td>
-      <td class="langs">${formatLangs(s.audio_languages)}</td>
-      <td>${subs}</td>
-      <td class="num">${formatScore(s.imdb_score)}</td>
-      <td>${formatResolution(s.resolution)}</td>
-      <td class="num">${formatSize(s.size_bytes)}</td>
-      <td>${formatImdb(s.imdb_id)}</td>
-    </tr>`;
-  }
-
-  // ── Pagination ────────────────────────────────────────────────────────────
+  // ── Pagination ────────────────────────────────────────────────────────
   function renderPagination(tab, totalPages) {
-    const s   = state[tab];
-    const el  = document.getElementById(`pagination-${tab}`);
+    const s = state[tab];
+    const el = document.getElementById(`pagination-${tab}`);
     if (totalPages <= 1) { el.innerHTML = ''; return; }
 
     const btns = [];
-
-    // Prev
     btns.push(`<button ${s.page === 1 ? 'disabled' : ''} onclick="goPage('${tab}',${s.page - 1})">&#8249; Prev</button>`);
 
-    // Page numbers — show window around current page
-    const window = 2;
-    let lo = Math.max(1, s.page - window);
-    let hi = Math.min(totalPages, s.page + window);
-    if (lo > 1)          btns.push(`<button onclick="goPage('${tab}',1)">1</button>${lo > 2 ? '<span class="page-info">…</span>' : ''}`);
+    const win = 2;
+    let lo = Math.max(1, s.page - win);
+    let hi = Math.min(totalPages, s.page + win);
+    if (lo > 1) btns.push(`<button onclick="goPage('${tab}',1)">1</button>${lo > 2 ? '<span class="page-info">…</span>' : ''}`);
     for (let i = lo; i <= hi; i++) {
       btns.push(`<button class="${i === s.page ? 'current' : ''}" onclick="goPage('${tab}',${i})">${i}</button>`);
     }
     if (hi < totalPages) btns.push(`${hi < totalPages - 1 ? '<span class="page-info">…</span>' : ''}<button onclick="goPage('${tab}',${totalPages})">${totalPages}</button>`);
 
-    // Next
     btns.push(`<button ${s.page === totalPages ? 'disabled' : ''} onclick="goPage('${tab}',${s.page + 1})">Next &#8250;</button>`);
-
     el.innerHTML = btns.join('');
   }
 
@@ -589,36 +981,50 @@
     document.getElementById(`panel-${tab}`).scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
-  // ── Sort ──────────────────────────────────────────────────────────────────
-  function setupSort(tab) {
-    const table = document.getElementById(`table-${tab}`);
-    table.querySelectorAll('th.sortable').forEach(th => {
-      th.addEventListener('click', () => {
-        const col  = th.dataset.col;
-        const type = th.dataset.type;
-        const s    = state[tab];
-        if (s.sortCol === col) {
-          s.sortDir = s.sortDir === 'asc' ? 'desc' : 'asc';
-        } else {
-          s.sortCol  = col;
-          s.sortType = type;
-          s.sortDir  = 'asc';
-        }
-        // Update header indicators
-        table.querySelectorAll('th.sortable').forEach(h => {
-          h.classList.remove('sort-active');
-          h.querySelector('.sort-icon').textContent = '⇅';
-        });
-        th.classList.add('sort-active');
-        th.querySelector('.sort-icon').textContent = s.sortDir === 'asc' ? '▲' : '▼';
-
-        s.page = 1;
-        render(tab);
-      });
-    });
+  // ── Summary hover tooltip ─────────────────────────────────────────────
+  const tooltip = document.getElementById('summary-tooltip');
+  function showTooltip(item) {
+    const summary = (item.summary || '').trim();
+    const title = item.title_hu ? `${item.title} / ${item.title_hu}` : item.title;
+    tooltip.innerHTML = `<div class="tt-title">${escHtml(title || '')}</div>` +
+      (summary ? escHtml(summary) : '<span class="tt-empty">No description available.</span>');
+    tooltip.classList.add('visible');
+  }
+  function hideTooltip() { tooltip.classList.remove('visible'); }
+  function positionTooltip(e) {
+    const pad = 14;
+    const vw = window.innerWidth, vh = window.innerHeight;
+    const rect = tooltip.getBoundingClientRect();
+    let x = e.clientX + pad;
+    let y = e.clientY + pad;
+    if (x + rect.width > vw - 10) x = e.clientX - rect.width - pad;
+    if (y + rect.height > vh - 10) y = e.clientY - rect.height - pad;
+    tooltip.style.left = Math.max(4, x) + 'px';
+    tooltip.style.top  = Math.max(4, y) + 'px';
   }
 
-  // ── Init ──────────────────────────────────────────────────────────────────
+  document.addEventListener('mouseover', (e) => {
+    const td = e.target.closest('td[data-hover="summary"]');
+    if (!td) return;
+    const tab = td.dataset.tab;
+    const idx = parseInt(td.dataset.idx, 10);
+    const item = state[tab]?.data?.[idx];
+    if (!item) return;
+    showTooltip(item);
+    positionTooltip(e);
+  });
+  document.addEventListener('mousemove', (e) => {
+    if (!tooltip.classList.contains('visible')) return;
+    positionTooltip(e);
+  });
+  document.addEventListener('mouseout', (e) => {
+    const td = e.target.closest('td[data-hover="summary"]');
+    if (td && !td.contains(e.relatedTarget)) hideTooltip();
+  });
+  // Clear tooltip on scroll / tab switch
+  window.addEventListener('scroll', hideTooltip, true);
+
+  // ── Init ──────────────────────────────────────────────────────────────
   function showError(msg) {
     const el = document.getElementById('error-banner');
     el.style.display = 'block';
@@ -626,37 +1032,34 @@
   }
 
   function init(data) {
-    // Last updated
     if (data.generated_at) {
       const d = new Date(data.generated_at);
       document.getElementById('last-updated').textContent =
         'Last updated: ' + d.toLocaleString(undefined, { dateStyle: 'medium', timeStyle: 'short' });
     }
 
-    // Populate state
-    state.movies.data     = data.movies || [];
-    state.movies.filtered = state.movies.data;
-    state.shows.data      = data.shows  || [];
-    state.shows.filtered  = state.shows.data;
+    state.movies.data = data.movies || [];
+    state.shows.data  = data.shows  || [];
+    state.movies.visible = getVisibleCols('movies');
+    state.shows.visible  = getVisibleCols('shows');
 
-    // Wire up search
+    renderStats(data);
+
     ['movies', 'shows'].forEach(tab => {
       document.getElementById(`search-${tab}`).addEventListener(
-        'input', debounce(() => { state[tab].page = 1; render(tab); }, 300)
+        'input', debounce(() => { state[tab].page = 1; render(tab); }, 250)
       );
       document.getElementById(`pagesize-${tab}`).addEventListener('change', e => {
         state[tab].pageSize = parseInt(e.target.value, 10);
         state[tab].page = 1;
         render(tab);
       });
-      setupSort(tab);
+      renderColumnsMenu(tab);
+      renderHeader(tab);
       render(tab);
     });
   }
 
-  // ── Bootstrap ─────────────────────────────────────────────────────────────
-  // data.js is loaded via <script src> in <head>, setting window.PLEX_DATA.
-  // This works with file://, local HTTP servers, and GitHub Pages alike.
   if (window.PLEX_DATA) {
     init(window.PLEX_DATA);
   } else {

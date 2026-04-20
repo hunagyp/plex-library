@@ -1,0 +1,14 @@
+# Secrets (contains Plex + TMDB tokens) — never commit
+fetch_plex_data.py
+
+# Build artifacts / regenerable
+tmdb_cache.json
+
+# Legacy snapshot, superseded by data.js
+data.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
