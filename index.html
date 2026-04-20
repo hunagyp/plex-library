@@ -339,6 +339,20 @@
     }
     a.imdb-link:hover { background: #e0b015; }
 
+    a.port-link {
+      background: #2196a7;
+      border-radius: 3px;
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      padding: 2px 5px;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    a.port-link:hover { background: #1a7a88; }
+    .title-icon { margin-left: 6px; vertical-align: middle; }
+
     a.trailer-link {
       background: #c00;
       border-radius: 3px;
@@ -572,6 +586,25 @@
     return `${h}:${String(m).padStart(2, '0')}`;
   }
 
+  function formatDurationMinutes(ms) {
+    if (!ms) return DASH;
+    return String(Math.round(ms / 60000));
+  }
+
+  function titleWithImdbIcon(item) {
+    const title = escHtml(item.title || '');
+    if (!item.imdb_id) return title;
+    const href = `https://www.imdb.com/title/${encodeURIComponent(item.imdb_id)}/`;
+    return `${title} <a class="imdb-link title-icon" href="${href}" target="_blank" rel="noopener" title="Open on IMDb">IMDb</a>`;
+  }
+
+  function titleHuWithPortIcon(item) {
+    if (!item.title_hu) return DASH;
+    const titleHu = escHtml(item.title_hu);
+    const href = `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
+    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="Open port.hu search">port.hu</a>`;
+  }
+
   function formatTotalHours(msTotal) {
     if (!msTotal) return '0h';
     const hours = Math.round(msTotal / 3600000);
@@ -617,37 +650,33 @@
   // id, label, type (string/number/bool), sortable, default visible, cellClass, render
   const COLUMNS = {
     movies: [
-      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary', render: m => escHtml(m.title || '') },
-      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary', render: m => m.title_hu ? escHtml(m.title_hu) : DASH },
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: m => titleWithImdbIcon(m) },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: m => titleHuWithPortIcon(m) },
       { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => m.year ?? '—' },
       { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: m => formatList(m.genres) },
       { id: 'directors',   label: 'Director',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'directors',  render: m => formatList(m.directors) },
       { id: 'actors',      label: 'Actors',    type: 'string', sortable: true,  defaultOn: true,  cellClass: 'actors',     render: m => formatList(m.actors) },
       { id: 'audio_languages', label: 'Languages', type: 'string', sortable: true, defaultOn: true, cellClass: 'langs',    render: m => formatLangs(m.audio_languages) },
       { id: 'has_subtitles', label: 'Subtitles', type: 'bool', sortable: true,  defaultOn: true,  render: m => formatSubs(m.has_subtitles) },
-      { id: 'duration_ms', label: 'Playtime',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatDuration(m.duration_ms) },
+      { id: 'duration_ms', label: 'Playtime (min)', type: 'number', sortable: true, defaultOn: true, cellClass: 'num',     render: m => formatDurationMinutes(m.duration_ms) },
       { id: 'imdb_score',  label: 'Score',     type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatScore(m.imdb_score) },
       { id: 'resolution',  label: 'Quality',   type: 'number', sortable: true,  defaultOn: true,  render: m => formatResolution(m.resolution) },
       { id: 'size_bytes',  label: 'Size',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatSize(m.size_bytes) },
       { id: 'trailer',     label: 'Trailer',   type: 'string', sortable: false, defaultOn: true,  render: m => formatTrailer(m) },
-      { id: 'imdb_id',     label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  render: m => formatImdb(m.imdb_id) },
     ],
     shows: [
-      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary', render: s => escHtml(s.title || '') },
-      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary', render: s => s.title_hu ? escHtml(s.title_hu) : DASH },
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: s => titleWithImdbIcon(s) },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: s => titleHuWithPortIcon(s) },
       { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.year ?? '—' },
-      { id: 'seasons',     label: 'Seasons',   type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.seasons ?? '—' },
-      { id: 'episodes',    label: 'Episodes',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.episodes ?? '—' },
+      { id: 'seasons',     label: 'Seasons',   type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.seasons ? `${s.seasons}${s.episodes ? ' (' + s.episodes + ')' : ''}` : '—' },
       { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: s => formatList(s.genres) },
       { id: 'actors',      label: 'Actors',    type: 'string', sortable: true,  defaultOn: true,  cellClass: 'actors',     render: s => formatList(s.actors) },
       { id: 'audio_languages', label: 'Languages', type: 'string', sortable: true, defaultOn: true, cellClass: 'langs',    render: s => formatLangs(s.audio_languages) },
       { id: 'has_subtitles', label: 'Subtitles', type: 'bool', sortable: true,  defaultOn: true,  render: s => formatSubs(s.has_subtitles) },
-      { id: 'duration_ms', label: 'Playtime',  type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatDuration(s.duration_ms) },
       { id: 'imdb_score',  label: 'Score',     type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatScore(s.imdb_score) },
       { id: 'resolution',  label: 'Quality',   type: 'number', sortable: true,  defaultOn: true,  render: s => formatResolution(s.resolution) },
       { id: 'size_bytes',  label: 'Size',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => formatSize(s.size_bytes) },
       { id: 'trailer',     label: 'Trailer',   type: 'string', sortable: false, defaultOn: true,  render: s => formatTrailer(s) },
-      { id: 'imdb_id',     label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  render: s => formatImdb(s.imdb_id) },
     ],
   };
 
@@ -943,7 +972,7 @@
         const realIdx = s.data.indexOf(item);
         return '<tr>' + cols.map(c => {
           const cls = c.cellClass || '';
-          const hoverAttr = c.hover === 'summary' ? `data-hover="summary" data-idx="${realIdx}" data-tab="${tab}"` : '';
+          const hoverAttr = c.hover ? `data-hover="${c.hover}" data-idx="${realIdx}" data-tab="${tab}"` : '';
           return `<td class="${cls}" ${hoverAttr}>${c.render(item)}</td>`;
         }).join('') + '</tr>';
       }).join('');
@@ -983,11 +1012,19 @@
 
   // ── Summary hover tooltip ─────────────────────────────────────────────
   const tooltip = document.getElementById('summary-tooltip');
-  function showTooltip(item) {
-    const summary = (item.summary || '').trim();
-    const title = item.title_hu ? `${item.title} / ${item.title_hu}` : item.title;
-    tooltip.innerHTML = `<div class="tt-title">${escHtml(title || '')}</div>` +
-      (summary ? escHtml(summary) : '<span class="tt-empty">No description available.</span>');
+  function showTooltip(item, lang) {
+    let summary, title, emptyMsg;
+    if (lang === 'hu') {
+      summary = (item.summary_hu || '').trim();
+      title   = item.title_hu || item.title || '';
+      emptyMsg = 'Nincs elérhető leírás.';
+    } else {
+      summary = (item.summary || '').trim();
+      title   = item.title || '';
+      emptyMsg = 'No description available.';
+    }
+    tooltip.innerHTML = `<div class="tt-title">${escHtml(title)}</div>` +
+      (summary ? escHtml(summary) : `<span class="tt-empty">${emptyMsg}</span>`);
     tooltip.classList.add('visible');
   }
   function hideTooltip() { tooltip.classList.remove('visible'); }
@@ -1004,13 +1041,14 @@
   }
 
   document.addEventListener('mouseover', (e) => {
-    const td = e.target.closest('td[data-hover="summary"]');
+    const td = e.target.closest('td[data-hover^="summary"]');
     if (!td) return;
     const tab = td.dataset.tab;
     const idx = parseInt(td.dataset.idx, 10);
     const item = state[tab]?.data?.[idx];
     if (!item) return;
-    showTooltip(item);
+    const lang = td.dataset.hover === 'summary_hu' ? 'hu' : 'en';
+    showTooltip(item, lang);
     positionTooltip(e);
   });
   document.addEventListener('mousemove', (e) => {
@@ -1018,7 +1056,7 @@
     positionTooltip(e);
   });
   document.addEventListener('mouseout', (e) => {
-    const td = e.target.closest('td[data-hover="summary"]');
+    const td = e.target.closest('td[data-hover^="summary"]');
     if (td && !td.contains(e.relatedTarget)) hideTooltip();
   });
   // Clear tooltip on scroll / tab switch
