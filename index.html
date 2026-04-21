@@ -339,19 +339,19 @@
     }
     a.imdb-link:hover { background: #e0b015; }
 
-    a.port-link {
-      background: #2196a7;
-      border-radius: 3px;
-      color: #fff;
-      font-size: 0.72rem;
-      font-weight: 700;
-      letter-spacing: 0.04em;
-      padding: 2px 5px;
-      text-decoration: none;
-      white-space: nowrap;
+    td.col-imdb, th[data-col="imdb_link"] { width: 58px; padding-left: 10px; padding-right: 10px; }
+    td.col-playtime, th[data-col="duration_ms"] { width: 52px; }
+
+    /* ── Footer ── */
+    .site-footer {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      padding: 20px 28px 30px;
+      text-align: center;
     }
-    a.port-link:hover { background: #1a7a88; }
-    .title-icon { margin-left: 6px; vertical-align: middle; }
+    .site-footer a { color: var(--link); text-decoration: none; }
+    .site-footer a:hover { color: var(--accent); text-decoration: underline; }
+    .site-footer .sep { margin: 0 8px; opacity: 0.6; }
 
     a.trailer-link {
       background: #c00;
@@ -551,6 +551,12 @@
   </div>
 </main>
 
+<footer class="site-footer">
+  <a href="release-notes.html">Release notes</a>
+  <span class="sep">·</span>
+  <a href="https://github.com/hunagyp/plex-library" target="_blank" rel="noopener">github.com/hunagyp/plex-library</a>
+</footer>
+
 <div id="summary-tooltip"></div>
 
 <script>
@@ -601,18 +607,10 @@
     return String(Math.round(ms / 60000));
   }
 
-  function titleWithImdbIcon(item) {
-    const title = escHtml(item.title || '');
-    if (!item.imdb_id) return title;
+  function imdbLinkCell(item) {
+    if (!item.imdb_id) return DASH;
     const href = `https://www.imdb.com/title/${encodeURIComponent(item.imdb_id)}/`;
-    return `${title} <a class="imdb-link title-icon" href="${href}" target="_blank" rel="noopener" title="Open on IMDb">IMDb</a>`;
-  }
-
-  function titleHuWithPortIcon(item) {
-    if (!item.title_hu) return DASH;
-    const titleHu = escHtml(item.title_hu);
-    const href = `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
-    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="Search on port.hu">port.hu</a>`;
+    return `<a class="imdb-link" href="${href}" target="_blank" rel="noopener" title="Open on IMDb">IMDb</a>`;
   }
 
   function formatTotalHours(msTotal) {
@@ -625,11 +623,6 @@
   function formatLangs(arr) {
     if (!arr || arr.length === 0) return DASH;
     return arr.join(', ');
-  }
-
-  function formatImdb(id) {
-    if (!id) return DASH;
-    return `<a class="imdb-link" href="https://www.imdb.com/title/${escHtml(id)}/" target="_blank" rel="noopener">IMDb</a>`;
   }
 
   function formatTrailer(item) {
@@ -660,23 +653,25 @@
   // id, label, type (string/number/bool), sortable, default visible, cellClass, render
   const COLUMNS = {
     movies: [
-      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: m => titleWithImdbIcon(m) },
-      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: m => titleHuWithPortIcon(m) },
+      { id: 'imdb_link',   label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  cellClass: 'col-imdb',   render: m => imdbLinkCell(m) },
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: m => escHtml(m.title || '') },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: m => m.title_hu ? escHtml(m.title_hu) : DASH },
       { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => m.year ?? '—' },
       { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: m => formatList(m.genres) },
       { id: 'directors',   label: 'Director',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'directors',  render: m => formatList(m.directors) },
       { id: 'actors',      label: 'Actors',    type: 'string', sortable: true,  defaultOn: true,  cellClass: 'actors',     render: m => formatList(m.actors) },
       { id: 'audio_languages', label: 'Languages', type: 'string', sortable: true, defaultOn: true, cellClass: 'langs',    render: m => formatLangs(m.audio_languages) },
       { id: 'has_subtitles', label: 'Subtitles', type: 'bool', sortable: true,  defaultOn: true,  render: m => formatSubs(m.has_subtitles) },
-      { id: 'duration_ms', label: 'Playtime (min)', type: 'number', sortable: true, defaultOn: true, cellClass: 'num',     render: m => formatDurationMinutes(m.duration_ms) },
+      { id: 'duration_ms', label: 'min',       type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num col-playtime', render: m => formatDurationMinutes(m.duration_ms) },
       { id: 'imdb_score',  label: 'Score',     type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatScore(m.imdb_score) },
       { id: 'resolution',  label: 'Quality',   type: 'number', sortable: true,  defaultOn: true,  render: m => formatResolution(m.resolution) },
       { id: 'size_bytes',  label: 'Size',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: m => formatSize(m.size_bytes) },
       { id: 'trailer',     label: 'Trailer',   type: 'string', sortable: false, defaultOn: true,  render: m => formatTrailer(m) },
     ],
     shows: [
-      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: s => titleWithImdbIcon(s) },
-      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: s => titleHuWithPortIcon(s) },
+      { id: 'imdb_link',   label: 'IMDb',      type: 'string', sortable: false, defaultOn: true,  cellClass: 'col-imdb',   render: s => imdbLinkCell(s) },
+      { id: 'title',       label: 'Name',      type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-cell', hover: 'summary_en', render: s => escHtml(s.title || '') },
+      { id: 'title_hu',    label: 'Name (HU)', type: 'string', sortable: true,  defaultOn: true,  cellClass: 'title-hu',   hover: 'summary_hu', render: s => s.title_hu ? escHtml(s.title_hu) : DASH },
       { id: 'year',        label: 'Year',      type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.year ?? '—' },
       { id: 'seasons',     label: 'Seasons',   type: 'number', sortable: true,  defaultOn: true,  cellClass: 'num',        render: s => s.seasons ? `${s.seasons}${s.episodes ? ' (' + s.episodes + ')' : ''}` : '—' },
       { id: 'genres',      label: 'Genre(s)',  type: 'string', sortable: true,  defaultOn: true,  cellClass: 'genres',     render: s => formatList(s.genres) },
@@ -699,7 +694,7 @@
   };
 
   // ── localStorage helpers ──────────────────────────────────────────────
-  const LS_KEY = 'plexLibrary:v1';
+  const LS_KEY = 'plexLibrary:v2';  // bumped v2 when imdb_link column added + port_hu_url dropped
   function loadPrefs() {
     try { return JSON.parse(localStorage.getItem(LS_KEY) || '{}'); } catch { return {}; }
   }
@@ -770,9 +765,9 @@
     const hasData = s.data.length > 0;
     if (!hasData) { container.innerHTML = ''; return; }
 
-    const topGenres    = countOccurrences(s.data, 'genres').slice(0, 10);
-    const topActors    = countOccurrences(s.data, 'actors').slice(0, 5);
-    const topDirectors = countOccurrences(s.data, 'directors').slice(0, 5);
+    const topGenres    = countOccurrences(s.data, 'genres').slice(0, 15);
+    const topActors    = countOccurrences(s.data, 'actors').slice(0, 15);
+    const topDirectors = countOccurrences(s.data, 'directors').slice(0, 10);
 
     const anyActive = s.filters.genres.size + s.filters.actors.size + s.filters.directors.size > 0;
 
@@ -788,9 +783,9 @@
     const clearBtn = `<button class="qf-clear" onclick="clearQuickFilters('${tab}')" ${anyActive ? '' : 'disabled'}>Clear filters</button>`;
 
     container.innerHTML =
-      chipRow(`Top 10 Genres`,    'genres',    topGenres) +
-      chipRow(`Top 5 Actors`,     'actors',    topActors) +
-      chipRow(`Top 5 Directors`,  'directors', topDirectors) +
+      chipRow(`Top 15 Genres`,    'genres',    topGenres) +
+      chipRow(`Top 15 Actors`,    'actors',    topActors) +
+      chipRow(`Top 10 Directors`, 'directors', topDirectors) +
       `<div class="qf-row" style="border-top:1px dashed var(--border);padding-top:8px;">${clearBtn}</div>`;
 
     container.querySelectorAll('.chip').forEach(btn => {
@@ -1025,7 +1020,8 @@
   function showTooltip(item, lang) {
     let summary, title, emptyMsg, poster;
     if (lang === 'hu') {
-      summary = (item.summary_hu || '').trim();
+      // Fall back to English when Hungarian data is missing.
+      summary = ((item.summary_hu || item.summary) || '').trim();
       title   = item.title_hu || item.title || '';
       emptyMsg = 'Nincs elérhető leírás.';
       poster  = item.poster_hu || item.poster_en || null;
