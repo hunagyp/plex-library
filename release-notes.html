@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Release Notes — Plex Library</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #1a1a1a;
+      --surface:   #242424;
+      --surface2:  #2a2a2a;
+      --surface3:  #313131;
+      --border:    #3a3a3a;
+      --text:      #e0e0e0;
+      --text-muted:#888;
+      --accent:    #e5a00d;
+      --link:      #6ba3d6;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+      line-height: 1.55;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--accent);
+      padding: 18px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.04em;
+    }
+    header h1 span { color: var(--text); font-weight: 300; }
+    header a.back {
+      color: var(--link);
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    header a.back:hover { color: var(--accent); }
+
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 28px 24px 40px;
+    }
+
+    h2.page-title {
+      font-size: 1.25rem;
+      color: var(--accent);
+      margin-bottom: 18px;
+    }
+
+    .subtle {
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      margin-bottom: 24px;
+    }
+    .subtle a { color: var(--link); text-decoration: none; }
+    .subtle a:hover { color: var(--accent); }
+
+    .loading, .empty, .error {
+      color: var(--text-muted);
+      font-style: italic;
+      padding: 40px 0;
+      text-align: center;
+    }
+    .error { color: #e06060; }
+
+    .release {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--accent);
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin-bottom: 14px;
+    }
+    .release-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+    .release-tag {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.02em;
+    }
+    .release-date {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .release-subject {
+      color: var(--text);
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    .release-body {
+      color: var(--text);
+      white-space: pre-wrap;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 0.9rem;
+      line-height: 1.55;
+      background: var(--surface2);
+      border-radius: 4px;
+      padding: 10px 12px;
+      margin-top: 6px;
+      overflow-x: auto;
+    }
+    .release-footer {
+      margin-top: 10px;
+      font-size: 0.82rem;
+    }
+    .release-footer a {
+      color: var(--link);
+      text-decoration: none;
+    }
+    .release-footer a:hover { color: var(--accent); text-decoration: underline; }
+
+    .site-footer {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      padding: 14px 28px 30px;
+      text-align: center;
+    }
+    .site-footer a { color: var(--link); text-decoration: none; }
+    .site-footer a:hover { color: var(--accent); text-decoration: underline; }
+    .site-footer .sep { margin: 0 8px; opacity: 0.6; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Plex <span>Library</span></h1>
+  <a class="back" href="index.html">&larr; Back to library</a>
+</header>
+
+<main>
+  <h2 class="page-title">Release notes</h2>
+  <p class="subtle">
+    Live-loaded from the
+    <a href="https://github.com/hunagyp/plex-library/tags" target="_blank" rel="noopener">git tags</a>
+    on the project repository. Each entry shows the tag and the commit that produced it.
+  </p>
+
+  <div id="content">
+    <div class="loading">Loading releases from GitHub…</div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <a href="index.html">Library</a>
+  <span class="sep">·</span>
+  <a href="https://github.com/hunagyp/plex-library" target="_blank" rel="noopener">github.com/hunagyp/plex-library</a>
+</footer>
+
+<script>
+  const REPO = 'hunagyp/plex-library';
+  const API_BASE = 'https://api.github.com/repos/' + REPO;
+
+  function escHtml(str) {
+    return String(str ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return iso;
+    return d.toISOString().slice(0, 10) + ' ' + d.toISOString().slice(11, 16) + 'Z';
+  }
+
+  // Natural sort keys so v1.10 > v1.2 rather than lexicographic.
+  function tagSortKey(name) {
+    return name.split(/[\.\-]/).map(p => {
+      const n = parseInt(p, 10);
+      return isNaN(n) ? p : n;
+    });
+  }
+  function cmpTags(a, b) {
+    const ka = tagSortKey(a.name);
+    const kb = tagSortKey(b.name);
+    for (let i = 0; i < Math.max(ka.length, kb.length); i++) {
+      const xa = ka[i], xb = kb[i];
+      if (xa === undefined) return -1;
+      if (xb === undefined) return 1;
+      if (typeof xa === 'number' && typeof xb === 'number') {
+        if (xa !== xb) return xa - xb;
+      } else {
+        const sa = String(xa), sb = String(xb);
+        if (sa !== sb) return sa < sb ? -1 : 1;
+      }
+    }
+    return 0;
+  }
+
+  async function fetchJson(url) {
+    const r = await fetch(url, { headers: { 'Accept': 'application/vnd.github+json' } });
+    if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + r.statusText);
+    return r.json();
+  }
+
+  function renderRelease(tag, commit) {
+    const msg = (commit.commit && commit.commit.message) || '';
+    const [subject, ...bodyLines] = msg.split('\n');
+    const body = bodyLines.join('\n').trim();
+    const dateIso = commit.commit && commit.commit.author && commit.commit.author.date;
+    const sha = commit.sha ? commit.sha.slice(0, 7) : '';
+    const commitUrl = commit.html_url || `https://github.com/${REPO}/commit/${commit.sha || ''}`;
+    const compareUrl = `https://github.com/${REPO}/releases/tag/${encodeURIComponent(tag.name)}`;
+
+    return (
+      `<article class="release">
+        <div class="release-head">
+          <span class="release-tag">${escHtml(tag.name)}</span>
+          <span class="release-date">${escHtml(formatDate(dateIso))}</span>
+        </div>
+        <div class="release-subject">${escHtml(subject)}</div>
+        ${body ? `<pre class="release-body">${escHtml(body)}</pre>` : ''}
+        <div class="release-footer">
+          <a href="${escHtml(commitUrl)}" target="_blank" rel="noopener">commit ${escHtml(sha)}</a>
+          <span style="margin: 0 6px; opacity: 0.6;">·</span>
+          <a href="${escHtml(compareUrl)}" target="_blank" rel="noopener">tag on GitHub</a>
+        </div>
+      </article>`
+    );
+  }
+
+  async function load() {
+    const container = document.getElementById('content');
+    try {
+      const tags = await fetchJson(API_BASE + '/tags?per_page=100');
+      if (!Array.isArray(tags) || tags.length === 0) {
+        container.innerHTML = '<div class="empty">No tags found on the repository.</div>';
+        return;
+      }
+      tags.sort(cmpTags);
+      tags.reverse(); // newest first
+
+      const commits = await Promise.all(tags.map(t =>
+        fetchJson(API_BASE + '/commits/' + t.commit.sha).catch(e => ({ error: e.message, sha: t.commit.sha }))
+      ));
+
+      const html = tags.map((t, i) => {
+        const c = commits[i];
+        if (c && c.error) {
+          return `<article class="release">
+            <div class="release-head">
+              <span class="release-tag">${escHtml(t.name)}</span>
+            </div>
+            <div class="subtle">Couldn't load commit: ${escHtml(c.error)}</div>
+          </article>`;
+        }
+        return renderRelease(t, c);
+      }).join('');
+
+      container.innerHTML = html;
+    } catch (e) {
+      container.innerHTML = `<div class="error">Failed to load releases: ${escHtml(e.message)}. GitHub API may be rate-limited; try again later.</div>`;
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>
