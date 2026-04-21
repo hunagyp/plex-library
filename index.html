@@ -611,11 +611,8 @@
   function titleHuWithPortIcon(item) {
     if (!item.title_hu) return DASH;
     const titleHu = escHtml(item.title_hu);
-    const href = item.port_hu_url
-      ? item.port_hu_url
-      : `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
-    const titleAttr = item.port_hu_url ? 'Open port.hu page' : 'Search on port.hu';
-    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="${titleAttr}">port.hu</a>`;
+    const href = `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
+    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="Search on port.hu">port.hu</a>`;
   }
 
   function formatTotalHours(msTotal) {
@@ -1028,10 +1025,10 @@
   function showTooltip(item, lang) {
     let summary, title, emptyMsg, poster;
     if (lang === 'hu') {
-      summary = ((item.summary_hu_port || item.summary_hu) || '').trim();
+      summary = (item.summary_hu || '').trim();
       title   = item.title_hu || item.title || '';
       emptyMsg = 'Nincs elérhető leírás.';
-      poster  = item.poster_hu || null;
+      poster  = item.poster_hu || item.poster_en || null;
     } else {
       summary = (item.summary || '').trim();
       title   = item.title || '';
