@@ -442,12 +442,22 @@
       color: var(--text);
       font-size: 0.82rem;
       line-height: 1.45;
-      max-width: 380px;
+      max-width: 460px;
       padding: 10px 12px;
       pointer-events: none;
       z-index: 9999;
     }
     #summary-tooltip.visible { display: block; }
+    #summary-tooltip .tt-layout { display: flex; gap: 10px; align-items: flex-start; }
+    #summary-tooltip .tt-poster {
+      width: 90px;
+      max-height: 135px;
+      object-fit: cover;
+      border-radius: 3px;
+      flex-shrink: 0;
+      background: #000;
+    }
+    #summary-tooltip .tt-text { flex: 1; min-width: 0; }
     #summary-tooltip .tt-title { color: var(--accent); font-weight: 700; margin-bottom: 4px; }
     #summary-tooltip .tt-empty { color: var(--text-muted); font-style: italic; }
   </style>
@@ -601,8 +611,11 @@
   function titleHuWithPortIcon(item) {
     if (!item.title_hu) return DASH;
     const titleHu = escHtml(item.title_hu);
-    const href = `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
-    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="Open port.hu search">port.hu</a>`;
+    const href = item.port_hu_url
+      ? item.port_hu_url
+      : `https://port.hu/kereso?q=${encodeURIComponent(item.title_hu)}`;
+    const titleAttr = item.port_hu_url ? 'Open port.hu page' : 'Search on port.hu';
+    return `${titleHu} <a class="port-link title-icon" href="${href}" target="_blank" rel="noopener" title="${titleAttr}">port.hu</a>`;
   }
 
   function formatTotalHours(msTotal) {
@@ -1013,18 +1026,26 @@
   // ── Summary hover tooltip ─────────────────────────────────────────────
   const tooltip = document.getElementById('summary-tooltip');
   function showTooltip(item, lang) {
-    let summary, title, emptyMsg;
+    let summary, title, emptyMsg, poster;
     if (lang === 'hu') {
-      summary = (item.summary_hu || '').trim();
+      summary = ((item.summary_hu_port || item.summary_hu) || '').trim();
       title   = item.title_hu || item.title || '';
       emptyMsg = 'Nincs elérhető leírás.';
+      poster  = item.poster_hu || null;
     } else {
       summary = (item.summary || '').trim();
       title   = item.title || '';
       emptyMsg = 'No description available.';
+      poster  = item.poster_en || null;
     }
-    tooltip.innerHTML = `<div class="tt-title">${escHtml(title)}</div>` +
-      (summary ? escHtml(summary) : `<span class="tt-empty">${emptyMsg}</span>`);
+    const body = summary ? escHtml(summary) : `<span class="tt-empty">${emptyMsg}</span>`;
+    const posterHtml = poster
+      ? `<img class="tt-poster" src="${escHtml(poster)}" alt="" onerror="this.style.display='none'" />`
+      : '';
+    tooltip.innerHTML =
+      `<div class="tt-layout">${posterHtml}<div class="tt-text">` +
+      `<div class="tt-title">${escHtml(title)}</div>${body}` +
+      `</div></div>`;
     tooltip.classList.add('visible');
   }
   function hideTooltip() { tooltip.classList.remove('visible'); }
