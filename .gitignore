@@ -4,6 +4,9 @@ fetch_plex_data.py
 # Build artifacts / regenerable
 tmdb_cache.json
 
+# Local operator script (systemd timer runs it) — not part of the site
+update_and_push.sh
+
 # Legacy snapshot, superseded by data.js
 data.json
 
